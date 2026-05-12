@@ -3,10 +3,10 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<meta name="description" content="Vaelith Labs Intelligent Systems — Inteligência Artificial que simplifica sua vida."/>
+<meta name="description" content="VAEX — Inteligência adaptativa para produtividade e tomada de decisão profissional. Vaelith Labs."/>
 <meta name="theme-color" content="#050505"/>
-<meta property="og:title" content="Vaelith Labs — Intelligent Systems"/>
-<meta property="og:description" content="Construindo o futuro com inteligência artificial, automação e sistemas que trabalham para você."/>
+<meta property="og:title" content="Vaelith Labs — A IA que entende como você trabalha"/>
+<meta property="og:description" content="O VAEX aprende sua rotina, processos e contexto profissional para automatizar tarefas, analisar informações e auxiliar decisões inteligentes."/>
 <title>Vaelith Labs — Intelligent Systems</title>
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
 <style>
@@ -68,6 +68,7 @@ nav.scrolled {
 }
 
 .logo-link { display: flex; align-items: center; gap: 14px; text-decoration: none; }
+.logo-img { width: 34px; height: 34px; object-fit: contain; }
 .logo-text { display: flex; flex-direction: column; gap: 1px; }
 .logo-name { font-family: var(--font); font-size: 16px; font-weight: 600; color: var(--white); letter-spacing: 0.3px; }
 .logo-sub  { font-family: var(--mono); font-size: 9px; letter-spacing: 2.5px; color: var(--w45); text-transform: uppercase; }
@@ -84,18 +85,6 @@ nav.scrolled {
   transition: all .2s;
 }
 .nav-cta:hover { background: var(--acc); }
-
-/* ══ LOGO SVG ══
-   Análise do logo original:
-   - "V" externo: duas diagonais largas do topo até a ponta
-   - Barra horizontal no topo fechando o V
-   - Linha vertical no centro do topo descendo até o triângulo interno
-   - Triângulo interno: espelho menor do V, com base horizontal
-   Tudo com traços espessos e uniformes, cantos retos
-*/
-.logo-svg-nav  { width: 34px; height: 28px; }
-.logo-svg-hero { width: 110px; height: 92px; }
-.logo-svg-foot { width: 28px; height: 23px; }
 
 /* ══ HERO ══ */
 .hero {
@@ -142,6 +131,7 @@ nav.scrolled {
   margin-bottom: 48px;
   opacity: 0; animation: fadeUp .7s .2s ease forwards;
 }
+.hero-logo { width: 110px; height: 110px; object-fit: contain; }
 
 .hero-h {
   font-family: var(--font);
@@ -155,7 +145,7 @@ nav.scrolled {
 .hero-p {
   font-family: var(--body); font-size: 17px; font-weight: 300;
   color: var(--w70); line-height: 1.75;
-  max-width: 500px; margin: 0 auto 48px;
+  max-width: 540px; margin: 0 auto 48px;
   opacity: 0; animation: fadeUp .7s .5s ease forwards;
 }
 
@@ -198,23 +188,31 @@ section { padding: 110px 52px; position: relative; }
 .sec-h { font-family: var(--font); font-size: clamp(30px, 3.8vw, 48px); font-weight: 700; letter-spacing: -1px; line-height: 1.1; color: var(--white); margin-bottom: 16px; }
 .sec-p { font-family: var(--body); font-size: 16px; font-weight: 300; color: var(--w70); line-height: 1.8; max-width: 540px; }
 
-/* ══ MANIFESTO ══ */
-.manifesto {
+/* ══ PROBLEMA ══ */
+.problema {
   background: var(--bg2);
   border-top: 1px solid var(--bdr);
   border-bottom: 1px solid var(--bdr);
   padding: 110px 52px;
 }
-.mani-wrap { max-width: 840px; margin: 0 auto; }
-.mani-quote {
+.prob-wrap { max-width: 840px; margin: 0 auto; }
+.prob-quote {
   font-family: var(--font); font-size: clamp(22px, 3.2vw, 40px);
   font-weight: 600; line-height: 1.35; letter-spacing: -0.5px;
   color: var(--white); margin-bottom: 48px;
   padding-left: 32px; border-left: 2px solid var(--acc);
 }
-.mani-quote span { color: var(--acc); }
-.mani-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 44px; }
-.mani-p { font-family: var(--body); font-size: 15px; font-weight: 300; color: var(--w70); line-height: 1.9; }
+.prob-quote span { color: var(--acc); }
+.prob-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 44px; }
+.prob-p { font-family: var(--body); font-size: 15px; font-weight: 300; color: var(--w70); line-height: 1.9; }
+
+/* ══ COMO FUNCIONA ══ */
+.how-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--bdr); border: 1px solid var(--bdr); margin-top: 60px; }
+.how-step { background: var(--bg); padding: 40px 32px; transition: background .25s; }
+.how-step:hover { background: var(--bg3); }
+.how-num { font-family: var(--mono); font-size: 32px; font-weight: 500; color: var(--acc); margin-bottom: 18px; display: block; line-height: 1; }
+.how-title { font-family: var(--font); font-size: 18px; font-weight: 600; color: var(--white); margin-bottom: 12px; letter-spacing: -0.2px; }
+.how-desc { font-family: var(--body); font-size: 13px; font-weight: 300; color: var(--w70); line-height: 1.75; }
 
 /* ══ VAEX ══ */
 .vaex-wrap { display: grid; grid-template-columns: 1fr 1fr; gap: 88px; align-items: center; }
@@ -273,22 +271,34 @@ section { padding: 110px 52px; position: relative; }
 .cdots span:nth-child(3) { animation-delay: .4s; }
 @keyframes dotBounce { 0%,80%,100%{transform:scale(.4);opacity:.3} 40%{transform:scale(1);opacity:1} }
 
-/* ══ PILARES / ÁREAS ══ */
-.areas-sec { background: var(--bg2); border-top: 1px solid var(--bdr); border-bottom: 1px solid var(--bdr); }
+/* ══ DIFERENCIAL ══ */
+.diff-wrap { display: grid; grid-template-columns: 1fr 1fr; gap: 88px; align-items: start; }
+.diff-text { font-family: var(--body); font-size: 15px; font-weight: 300; color: var(--w70); line-height: 1.9; margin-bottom: 22px; }
+.diff-highlight { background: var(--bg2); border: 1px solid var(--bdr); padding: 32px; }
+.diff-highlight-title { font-family: var(--font); font-size: 20px; font-weight: 700; color: var(--white); margin-bottom: 16px; }
+.diff-list { list-style: none; display: flex; flex-direction: column; gap: 12px; }
+.diff-list li { font-family: var(--body); font-size: 14px; font-weight: 300; color: var(--w70); display: flex; align-items: flex-start; gap: 12px; line-height: 1.6; }
+.diff-list li::before { content: ''; width: 20px; height: 1px; background: var(--acc); flex-shrink: 0; margin-top: 10px; }
 
-.areas-grid {
-  display: grid; grid-template-columns: repeat(3, 1fr);
-  gap: 1px; background: var(--bdr);
-  border: 1px solid var(--bdr);
-  margin-top: 60px;
-}
-.area-card { background: var(--bg2); padding: 38px 34px; transition: background .25s; }
-.area-card:hover { background: var(--bg3); }
-.area-num { font-family: var(--mono); font-size: 10px; letter-spacing: 2px; color: var(--acc); margin-bottom: 16px; display: block; }
-.area-title { font-family: var(--font); font-size: 18px; font-weight: 600; color: var(--white); margin-bottom: 10px; letter-spacing: -0.2px; }
-.area-desc { font-family: var(--body); font-size: 13px; font-weight: 300; color: var(--w70); line-height: 1.75; }
-.area-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 18px; }
-.area-tag { font-family: var(--mono); font-size: 10px; letter-spacing: .5px; padding: 3px 9px; background: var(--w06); color: var(--w45); border: 1px solid var(--bdr); }
+/* ══ CASOS REAIS ══ */
+.cases-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--bdr); border: 1px solid var(--bdr); margin-top: 60px; }
+.case-card { background: var(--bg); padding: 38px 34px; transition: background .25s; }
+.case-card:hover { background: var(--bg3); }
+.case-icon { font-family: var(--mono); font-size: 10px; letter-spacing: 2px; color: var(--acc); margin-bottom: 16px; display: block; text-transform: uppercase; }
+.case-title { font-family: var(--font); font-size: 18px; font-weight: 600; color: var(--white); margin-bottom: 10px; letter-spacing: -0.2px; }
+.case-desc { font-family: var(--body); font-size: 13px; font-weight: 300; color: var(--w70); line-height: 1.75; }
+
+/* ══ EXEMPLO VISUAL ══ */
+.example-sec { background: var(--bg2); border-top: 1px solid var(--bdr); border-bottom: 1px solid var(--bdr); }
+.example-wrap { display: grid; grid-template-columns: 1fr 1fr; gap: 88px; align-items: center; }
+.example-label { font-family: var(--mono); font-size: 10px; letter-spacing: 2px; color: var(--acc); text-transform: uppercase; margin-bottom: 16px; display: block; }
+.example-title { font-family: var(--font); font-size: clamp(24px, 3vw, 36px); font-weight: 700; color: var(--white); margin-bottom: 16px; letter-spacing: -0.5px; }
+.example-problem { font-family: var(--body); font-size: 15px; font-weight: 300; color: var(--w70); line-height: 1.8; margin-bottom: 24px; }
+.example-result { background: var(--bg3); border: 1px solid var(--bdr); padding: 24px; }
+.example-result-title { font-family: var(--mono); font-size: 10px; letter-spacing: 2px; color: var(--acc); text-transform: uppercase; margin-bottom: 14px; }
+.example-result-list { list-style: none; display: flex; flex-direction: column; gap: 8px; }
+.example-result-list li { font-family: var(--body); font-size: 13px; font-weight: 300; color: var(--w70); display: flex; align-items: center; gap: 10px; }
+.example-result-list li::before { content: ''; width: 14px; height: 1px; background: var(--acc); flex-shrink: 0; }
 
 /* ══ ECOSSISTEMA ══ */
 .eco-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-top: 60px; }
@@ -307,6 +317,12 @@ section { padding: 110px 52px; position: relative; }
 .eco-card.featured .eco-name { color: var(--acc); }
 .eco-role { font-family: var(--mono); font-size: 9px; letter-spacing: 1.5px; color: var(--w45); text-transform: uppercase; margin-bottom: 14px; }
 .eco-desc { font-family: var(--body); font-size: 13px; font-weight: 300; color: var(--w70); line-height: 1.7; }
+
+/* ══ VISAO ══ */
+.visao-sec { background: var(--bg2); border-top: 1px solid var(--bdr); border-bottom: 1px solid var(--bdr); }
+.visao-wrap { max-width: 700px; margin: 0 auto; text-align: center; }
+.visao-h { font-family: var(--font); font-size: clamp(28px, 3.5vw, 44px); font-weight: 700; letter-spacing: -1px; line-height: 1.15; color: var(--white); margin-bottom: 24px; }
+.visao-p { font-family: var(--body); font-size: 16px; font-weight: 300; color: var(--w70); line-height: 1.8; margin-bottom: 16px; }
 
 /* ══ WAITLIST ══ */
 .wl-sec { text-align: center; }
@@ -345,13 +361,14 @@ footer {
   border-top: 1px solid var(--bdr);
   padding: 52px;
   display: grid; grid-template-columns: 1fr auto;
-  align-items: end; gap: 40px; flex-wrap: wrap;
+  align-items: end; gap: 40px;
 }
 .foot-brand { display: flex; align-items: center; gap: 13px; margin-bottom: 12px; }
+.foot-logo { width: 28px; height: 28px; object-fit: contain; }
 .foot-brand-name { font-family: var(--font); font-size: 15px; font-weight: 600; color: var(--white); }
-.foot-tag { font-family: var(--body); font-size: 13px; font-weight: 300; color: var(--w45); line-height: 1.6; max-width: 280px; margin-bottom: 12px; }
+.foot-tag { font-family: var(--body); font-size: 13px; font-weight: 300; color: var(--w45); line-height: 1.6; max-width: 320px; margin-bottom: 12px; }
 .foot-inpi { font-family: var(--mono); font-size: 9px; letter-spacing: 1.5px; color: var(--acc); text-transform: uppercase; display: flex; align-items: center; gap: 6px; }
-.foot-inpi::before { content: '✓'; }
+.foot-inpi::before { content: ''; width: 5px; height: 5px; border-radius: 50%; background: var(--acc); }
 
 .foot-right { display: flex; flex-direction: column; align-items: flex-end; gap: 16px; }
 .foot-links { display: flex; gap: 24px; list-style: none; flex-wrap: wrap; justify-content: flex-end; }
@@ -371,11 +388,12 @@ footer {
   nav { padding: 18px 24px; }
   nav.scrolled { padding: 14px 24px; }
   .nav-links { display: none; }
-  section, .manifesto { padding: 80px 24px; }
-  .vaex-wrap, .sobre-wrap { grid-template-columns: 1fr; gap: 52px; }
-  .areas-grid { grid-template-columns: 1fr; }
+  section, .problema, .example-sec, .visao-sec { padding: 80px 24px; }
+  .vaex-wrap, .sobre-wrap, .diff-wrap, .example-wrap { grid-template-columns: 1fr; gap: 52px; }
+  .how-grid { grid-template-columns: repeat(2, 1fr); }
+  .cases-grid { grid-template-columns: 1fr; }
   .eco-grid { grid-template-columns: repeat(2, 1fr); }
-  .mani-grid { grid-template-columns: 1fr; gap: 24px; }
+  .prob-grid { grid-template-columns: 1fr; gap: 24px; }
   .hero { padding: 140px 24px 80px; }
   footer { grid-template-columns: 1fr; padding: 40px 24px; }
   .foot-right { align-items: flex-start; }
@@ -383,6 +401,7 @@ footer {
 }
 @media (max-width: 600px) {
   .eco-grid { grid-template-columns: 1fr; }
+  .how-grid { grid-template-columns: 1fr; }
   .hero-h { font-size: 36px; }
 }
 </style>
@@ -392,23 +411,7 @@ footer {
 <!-- ══ NAV ══ -->
 <nav id="nav">
   <a href="#" class="logo-link">
-    <!-- LOGO VAELITH: triângulo V externo + triângulo interno menor + linha central vertical -->
-    <svg class="logo-svg-nav" viewBox="0 0 160 134" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <!-- Barra horizontal topo -->
-      <line x1="0" y1="9" x2="160" y2="9" stroke="#f5f2ec" stroke-width="18" stroke-linecap="square"/>
-      <!-- Diagonal esquerda do V externo -->
-      <line x1="0" y1="9" x2="80" y2="130" stroke="#f5f2ec" stroke-width="18" stroke-linecap="square"/>
-      <!-- Diagonal direita do V externo -->
-      <line x1="160" y1="9" x2="80" y2="130" stroke="#f5f2ec" stroke-width="18" stroke-linecap="square"/>
-      <!-- Linha vertical central (topo → base do triângulo interno) -->
-      <line x1="80" y1="9" x2="80" y2="54" stroke="#f5f2ec" stroke-width="18" stroke-linecap="square"/>
-      <!-- Barra horizontal triângulo interno -->
-      <line x1="34" y1="54" x2="126" y2="54" stroke="#f5f2ec" stroke-width="15" stroke-linecap="square"/>
-      <!-- Diagonal esquerda triângulo interno -->
-      <line x1="34" y1="54" x2="80" y2="120" stroke="#f5f2ec" stroke-width="15" stroke-linecap="square"/>
-      <!-- Diagonal direita triângulo interno -->
-      <line x1="126" y1="54" x2="80" y2="120" stroke="#f5f2ec" stroke-width="15" stroke-linecap="square"/>
-    </svg>
+    <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029611254/BOtWnGobYsFKQRZx.png" alt="Vaelith Labs" class="logo-img"/>
     <div class="logo-text">
       <span class="logo-name">Vaelith Labs</span>
       <span class="logo-sub">Intelligent Systems</span>
@@ -416,8 +419,8 @@ footer {
   </a>
   <ul class="nav-links">
     <li><a href="#vaex">VAEX</a></li>
-    <li><a href="#areas">Soluções</a></li>
-    <li><a href="#eco">Ecossistema</a></li>
+    <li><a href="#como">Como Funciona</a></li>
+    <li><a href="#casos">Aplicações</a></li>
     <li><a href="#sobre">Sobre</a></li>
   </ul>
   <a href="#waitlist" class="nav-cta">Lista de espera</a>
@@ -429,24 +432,15 @@ footer {
   <div class="hero-content">
     <div class="hero-badge"><div class="badge-dot"></div>Vaelith Labs · 2026</div>
 
-    <!-- Logo grande no hero -->
     <div class="hero-mark">
-      <svg class="logo-svg-hero" viewBox="0 0 160 134" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <line x1="0" y1="9" x2="160" y2="9" stroke="#f5f2ec" stroke-width="18" stroke-linecap="square"/>
-        <line x1="0" y1="9" x2="80" y2="130" stroke="#f5f2ec" stroke-width="18" stroke-linecap="square"/>
-        <line x1="160" y1="9" x2="80" y2="130" stroke="#f5f2ec" stroke-width="18" stroke-linecap="square"/>
-        <line x1="80" y1="9" x2="80" y2="54" stroke="#f5f2ec" stroke-width="18" stroke-linecap="square"/>
-        <line x1="34" y1="54" x2="126" y2="54" stroke="#f5f2ec" stroke-width="15" stroke-linecap="square"/>
-        <line x1="34" y1="54" x2="80" y2="120" stroke="#f5f2ec" stroke-width="15" stroke-linecap="square"/>
-        <line x1="126" y1="54" x2="80" y2="120" stroke="#f5f2ec" stroke-width="15" stroke-linecap="square"/>
-      </svg>
+      <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029611254/BOtWnGobYsFKQRZx.png" alt="Vaelith Labs" class="hero-logo"/>
     </div>
 
-    <h1 class="hero-h">Inteligência artificial<br/>que <em>trabalha por você.</em></h1>
-    <p class="hero-p">Construímos sistemas de IA que simplificam vidas. Assistentes pessoais, automação inteligente e plataformas que evoluem com você.</p>
+    <h1 class="hero-h">A IA que entende como<br/><em>você trabalha.</em></h1>
+    <p class="hero-p">O VAEX aprende sua rotina, processos e contexto profissional para automatizar tarefas, organizar informações e auxiliar decisões inteligentes.</p>
     <div class="hero-btns">
-      <a href="#waitlist" class="btn-fill">Entrar na lista</a>
-      <a href="#vaex" class="btn-outline">Conheça o VAEX →</a>
+      <a href="#waitlist" class="btn-fill">Entrar na lista de espera</a>
+      <a href="#vaex" class="btn-outline">Conhecer o Projeto →</a>
     </div>
   </div>
   <div class="hero-scroll">Rolar para descobrir</div>
@@ -455,33 +449,32 @@ footer {
 <!-- ══ TICKER ══ -->
 <div class="ticker">
   <div class="ticker-track">
-    <span class="ticker-item">Inteligência Artificial</span><span class="ticker-sep"> · </span>
+    <span class="ticker-item">Inteligência Adaptativa</span><span class="ticker-sep"> · </span>
+    <span class="ticker-item">Produtividade Profissional</span><span class="ticker-sep"> · </span>
+    <span class="ticker-item">Tomada de Decisão</span><span class="ticker-sep"> · </span>
+    <span class="ticker-item">Contexto Operacional</span><span class="ticker-sep"> · </span>
     <span class="ticker-item">Automação Inteligente</span><span class="ticker-sep"> · </span>
-    <span class="ticker-item">IA para Engenharia</span><span class="ticker-sep"> · </span>
-    <span class="ticker-item">Interfaces Futuristas</span><span class="ticker-sep"> · </span>
-    <span class="ticker-item">Sistemas OS de IA</span><span class="ticker-sep"> · </span>
-    <span class="ticker-item">Computação em Nuvem</span><span class="ticker-sep"> · </span>
+    <span class="ticker-item">Análise de Documentos</span><span class="ticker-sep"> · </span>
     <span class="ticker-item">Vaelith Labs</span><span class="ticker-sep"> · </span>
-    <span class="ticker-item">Inteligência Artificial</span><span class="ticker-sep"> · </span>
+    <span class="ticker-item">Inteligência Adaptativa</span><span class="ticker-sep"> · </span>
+    <span class="ticker-item">Produtividade Profissional</span><span class="ticker-sep"> · </span>
+    <span class="ticker-item">Tomada de Decisão</span><span class="ticker-sep"> · </span>
+    <span class="ticker-item">Contexto Operacional</span><span class="ticker-sep"> · </span>
     <span class="ticker-item">Automação Inteligente</span><span class="ticker-sep"> · </span>
-    <span class="ticker-item">IA para Engenharia</span><span class="ticker-sep"> · </span>
-    <span class="ticker-item">Interfaces Futuristas</span><span class="ticker-sep"> · </span>
-    <span class="ticker-item">Sistemas OS de IA</span><span class="ticker-sep"> · </span>
-    <span class="ticker-item">Computação em Nuvem</span><span class="ticker-sep"> · </span>
+    <span class="ticker-item">Análise de Documentos</span><span class="ticker-sep"> · </span>
     <span class="ticker-item">Vaelith Labs</span><span class="ticker-sep"> · </span>
   </div>
 </div>
 
-<!-- ══ MANIFESTO ══ -->
-<div class="manifesto rev">
-  <div class="mani-wrap">
-    <p class="mani-quote">
-      O futuro não é só tecnologia.<br/>
-      É tecnologia que <span>entende você,<br/>aprende com você e trabalha por você.</span>
+<!-- ══ O PROBLEMA ══ -->
+<div class="problema rev">
+  <div class="prob-wrap">
+    <p class="prob-quote">
+      Profissionais perdem tempo e produtividade<br/><span>todos os dias.</span>
     </p>
-    <div class="mani-grid">
-      <p class="mani-p">A Vaelith Labs nasceu de uma necessidade real: sistemas inteligentes que realmente fazem diferença. Não ferramentas genéricas — soluções que entendem o contexto, aprendem e evoluem junto com quem as usa.</p>
-      <p class="mani-p">Desenvolvemos tecnologias que conectam inteligência artificial à vida real — de assistentes pessoais que gerenciam sua rotina até sistemas especializados para engenharia, negócios e automação de processos complexos.</p>
+    <div class="prob-grid">
+      <p class="prob-p">Grande parte das operações profissionais ainda depende de organização manual, múltiplos sistemas desconectados, tarefas repetitivas e excesso de informações sem contexto — gerando retrabalho, erros operacionais e dificuldade na tomada de decisão.</p>
+      <p class="prob-p">O VAEX resolve isso transformando informações em decisões inteligentes. O sistema utiliza inteligência adaptativa para compreender contexto, analisar dados, interpretar documentos, identificar padrões e sugerir ações operacionais personalizadas.</p>
     </div>
   </div>
 </div>
@@ -492,14 +485,14 @@ footer {
     <div class="rev">
       <div class="vaex-badge">Em desenvolvimento</div>
       <div class="vaex-name">VAEX</div>
-      <div class="vaex-tagline">Vaelith Advanced Experience</div>
-      <p class="vaex-desc">Mais do que um assistente. Um parceiro inteligente que conhece você, memoriza seu contexto e pensa junto com você 24 horas por dia. Gerencia rotina, prioridades, finanças e resolve problemas como no filme.</p>
+      <div class="vaex-tagline">Inteligência Adaptativa Profissional</div>
+      <p class="vaex-desc">O VAEX é uma inteligência adaptativa criada para profissionais e empresas. O sistema aprende sua rotina, processos, objetivos e documentos — tornando-se capaz de automatizar tarefas, organizar operações e auxiliar decisões com contexto real.</p>
       <ul class="vaex-feats">
-        <li>Memória contextual permanente entre dispositivos</li>
-        <li>Voz neural em português brasileiro</li>
-        <li>Integração com casa, carro e rotina</li>
-        <li>Busca em tempo real — sempre atualizado</li>
-        <li>Parceiro de decisão disponível 24h</li>
+        <li>Perfilamento profissional inteligente</li>
+        <li>Memória contextual persistente</li>
+        <li>Análise de documentos e relatórios</li>
+        <li>Busca em tempo real na internet</li>
+        <li>Inteligência para tomada de decisão</li>
       </ul>
       <a href="#waitlist" class="btn-fill">Acesso antecipado</a>
     </div>
@@ -507,91 +500,141 @@ footer {
       <div class="chat-bar">
         <div class="chat-dot"></div>
         <div class="chat-name">VAEX</div>
-        <div class="chat-status">Online · Sonnet 4</div>
+        <div class="chat-status">Online · Adaptativo</div>
       </div>
       <div class="chat-body">
         <div class="cmsg user">
           <div class="cmsg-who">Você</div>
-          <div class="cbubble">Preciso organizar o dia. Tenho duas obras e reunião às 14h.</div>
+          <div class="cbubble">Estou com atraso na obra da fachada. Preciso reorganizar o cronograma.</div>
         </div>
         <div class="cmsg bot">
           <div class="cmsg-who">VAEX</div>
-          <div class="cbubble">Baseado na sua rotina: manhã focada nas obras com check-list de pendências, almoço 12h, preparação para reunião às 13h30. Estruturo o check-list da Obra 1 agora?</div>
+          <div class="cbubble">Analisei o cronograma e histórico da obra. O atraso impacta 3 etapas seguintes. Sugiro: reorganizar equipes para execução paralela, alterar sequência executiva e priorizar itens críticos. Impacto estimado: redução de 12 dias no prazo final.</div>
         </div>
         <div class="cmsg user">
           <div class="cmsg-who">Você</div>
-          <div class="cbubble">Sim, começa pela Stellantis.</div>
+          <div class="cbubble">Perfeito. Gera o relatório com as sugestões.</div>
         </div>
         <div class="ctyping">
           <div class="cdots"><span></span><span></span><span></span></div>
-          <span>Analisando...</span>
+          <span>Gerando relatório...</span>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- ══ ÁREAS ══ -->
-<section class="areas-sec" id="areas">
+<!-- ══ COMO FUNCIONA ══ -->
+<section id="como">
   <div class="rev">
-    <span class="sec-label">Áreas de atuação</span>
-    <h2 class="sec-h">Soluções que transformam realidades.</h2>
-    <p class="sec-p">A Vaelith Labs atua em 9 verticais estratégicas conectadas pelo fio condutor da inteligência artificial aplicada.</p>
+    <span class="sec-label">Como funciona</span>
+    <h2 class="sec-h">Quatro etapas para inteligência operacional.</h2>
+    <p class="sec-p">O VAEX não é mágico — é um sistema estruturado que aprende, contextualiza e evolui com cada interação.</p>
   </div>
-  <div class="areas-grid">
-    <div class="area-card rev">
-      <span class="area-num">01</span>
-      <div class="area-title">Inteligência Artificial</div>
-      <p class="area-desc">Assistentes pessoais, IA contextual e multimodal, sistemas inteligentes e agentes autônomos que compreendem e agem.</p>
-      <div class="area-tags"><span class="area-tag">Assistentes IA</span><span class="area-tag">Generativa</span><span class="area-tag">Agentes</span></div>
+  <div class="how-grid">
+    <div class="how-step rev">
+      <span class="how-num">01</span>
+      <div class="how-title">Aprendizado Profissional</div>
+      <p class="how-desc">O usuário fornece informações profissionais, rotina, processos, objetivos, documentos e necessidades operacionais.</p>
     </div>
-    <div class="area-card rev d1">
-      <span class="area-num">02</span>
-      <div class="area-title">Desenvolvimento de Software</div>
-      <p class="area-desc">Plataformas SaaS, aplicativos web e mobile, sistemas personalizados e APIs inteligentes de alta performance.</p>
-      <div class="area-tags"><span class="area-tag">SaaS</span><span class="area-tag">Mobile</span><span class="area-tag">APIs</span></div>
+    <div class="how-step rev d1">
+      <span class="how-num">02</span>
+      <div class="how-title">Construção Contextual</div>
+      <p class="how-desc">O VAEX cria um perfil operacional inteligente capaz de compreender padrões, prioridades, histórico e contexto profissional.</p>
     </div>
-    <div class="area-card rev d2">
-      <span class="area-num">03</span>
-      <div class="area-title">Automação Inteligente</div>
-      <p class="area-desc">Fluxos automatizados, IA para produtividade e integrações entre sistemas que eliminam trabalho repetitivo.</p>
-      <div class="area-tags"><span class="area-tag">Fluxos</span><span class="area-tag">Produtividade</span><span class="area-tag">Integrações</span></div>
+    <div class="how-step rev d2">
+      <span class="how-num">03</span>
+      <div class="how-title">Inteligência Operacional</div>
+      <p class="how-desc">O sistema automatiza tarefas, organiza informações, gera insights, sugere ações, auxilia análises e apoia decisões.</p>
     </div>
-    <div class="area-card rev">
-      <span class="area-num">04</span>
-      <div class="area-title">Sistemas OS de IA</div>
-      <p class="area-desc">Interfaces inteligentes, ecossistemas digitais e ambientes personalizados com memória persistente.</p>
-      <div class="area-tags"><span class="area-tag">Dashboards</span><span class="area-tag">Memória IA</span><span class="area-tag">Ecossistemas</span></div>
+    <div class="how-step rev d3">
+      <span class="how-num">04</span>
+      <div class="how-title">Evolução Contínua</div>
+      <p class="how-desc">Quanto mais o sistema é utilizado, mais adaptado, preciso e contextualizado ele se torna para cada profissional.</p>
     </div>
-    <div class="area-card rev d1">
-      <span class="area-num">05</span>
-      <div class="area-title">IA para Engenharia</div>
-      <p class="area-desc">Diferencial estratégico da Vaelith. Fiscalização inteligente, gestão de obras, BIM e relatórios automáticos.</p>
-      <div class="area-tags"><span class="area-tag">Fiscalização</span><span class="area-tag">BIM</span><span class="area-tag">Gestão de Obras</span></div>
+  </div>
+</section>
+
+<!-- ══ DIFERENCIAL ══ -->
+<section id="diferencial">
+  <div class="diff-wrap">
+    <div class="rev">
+      <span class="sec-label">Diferencial</span>
+      <h2 class="sec-h" style="margin-bottom:24px">O diferencial do VAEX é contexto.</h2>
+      <p class="diff-text">Enquanto outras inteligências artificiais apenas respondem comandos genéricos, o VAEX entende o histórico, o ambiente, os documentos, as operações e a forma como cada profissional trabalha.</p>
+      <p class="diff-text">Isso permite recomendações mais inteligentes, contextualizadas e estratégicas — transformando informações em decisões operacionais reais.</p>
     </div>
-    <div class="area-card rev d2">
-      <span class="area-num">06</span>
-      <div class="area-title">Interfaces Futuristas</div>
-      <p class="area-desc">UI/UX futurista, experiências conversacionais, interfaces por voz e sistemas imersivos de interação.</p>
-      <div class="area-tags"><span class="area-tag">UX Futurista</span><span class="area-tag">Voz</span><span class="area-tag">Imersivo</span></div>
+    <div class="diff-highlight rev d1">
+      <div class="diff-highlight-title">O que o VAEX pode analisar</div>
+      <ul class="diff-list">
+        <li>Documentos, relatórios e contratos</li>
+        <li>Cronogramas e operações</li>
+        <li>Históricos e cenários profissionais</li>
+        <li>Imagens e dados visuais</li>
+        <li>Fluxos de trabalho e processos</li>
+      </ul>
     </div>
-    <div class="area-card rev">
-      <span class="area-num">07</span>
-      <div class="area-title">Computação em Nuvem</div>
-      <p class="area-desc">Infraestrutura cloud, plataformas escaláveis e sincronização inteligente entre dispositivos.</p>
-      <div class="area-tags"><span class="area-tag">Cloud</span><span class="area-tag">Escalável</span><span class="area-tag">Cloud AI</span></div>
+  </div>
+</section>
+
+<!-- ══ CASOS REAIS ══ -->
+<section id="casos">
+  <div class="rev">
+    <span class="sec-label">Aplicações reais</span>
+    <h2 class="sec-h">Adaptável para diferentes setores.</h2>
+    <p class="sec-p">O VAEX se adapta ao contexto de cada profissional, entregando inteligência operacional personalizada.</p>
+  </div>
+  <div class="cases-grid">
+    <div class="case-card rev">
+      <span class="case-icon">Engenharia</span>
+      <div class="case-title">Gestão de Obras</div>
+      <p class="case-desc">Analisa cronogramas, documentos técnicos e relatórios para sugerir reorganização de equipes, mitigar atrasos e otimizar a execução.</p>
     </div>
-    <div class="area-card rev d1">
-      <span class="area-num">08</span>
-      <div class="area-title">Tecnologia Empresarial</div>
-      <p class="area-desc">Sistemas corporativos, dashboards gerenciais e IA para tomada de decisão estratégica.</p>
-      <div class="area-tags"><span class="area-tag">Corporativo</span><span class="area-tag">Decisão</span><span class="area-tag">Dashboards</span></div>
+    <div class="case-card rev d1">
+      <span class="case-icon">Empresas</span>
+      <div class="case-title">Operações e Decisão</div>
+      <p class="case-desc">Organiza fluxos de trabalho, tarefas e informações para auxiliar a tomada de decisão estratégica com contexto centralizado.</p>
     </div>
-    <div class="area-card rev d2">
-      <span class="area-num">09</span>
-      <div class="area-title">Pesquisa e Inovação</div>
-      <p class="area-desc">Pesquisa em IA, sistemas cognitivos, inteligência adaptativa e desenvolvimento experimental.</p>
-      <div class="area-tags"><span class="area-tag">Pesquisa IA</span><span class="area-tag">Cognitivo</span><span class="area-tag">Inovação</span></div>
+    <div class="case-card rev d2">
+      <span class="case-icon">Escritórios</span>
+      <div class="case-title">Análise Documental</div>
+      <p class="case-desc">Interpreta documentos, contratos e relatórios para gerar análises contextualizadas e resumos operacionais inteligentes.</p>
+    </div>
+    <div class="case-card rev">
+      <span class="case-icon">Jurídico</span>
+      <div class="case-title">Revisão e Pesquisa</div>
+      <p class="case-desc">Analisa peças processuais, identifica precedentes e organiza argumentações com base em contexto e histórico do caso.</p>
+    </div>
+    <div class="case-card rev d1">
+      <span class="case-icon">Saúde</span>
+      <div class="case-title">Gestão Clínica</div>
+      <p class="case-desc">Organiza prontuários, agenda e protocolos clínicos para otimizar o fluxo de atendimento e a tomada de decisão médica.</p>
+    </div>
+    <div class="case-card rev d2">
+      <span class="case-icon">Consultoria</span>
+      <div class="case-title">Análise Estratégica</div>
+      <p class="case-desc">Processa dados de mercado, relatórios e cenários para gerar insights estratégicos e recomendações personalizadas.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ══ EXEMPLO VISUAL ══ -->
+<section class="example-sec">
+  <div class="example-wrap">
+    <div class="rev">
+      <span class="example-label">Exemplo prático — Engenharia</span>
+      <div class="example-title">Atraso na execução de fachada por incompatibilidade de projeto.</div>
+      <p class="example-problem">O engenheiro informa o problema ao VAEX. O sistema analisa automaticamente o cronograma, histórico da obra, impacto financeiro, documentos técnicos e prioridades operacionais.</p>
+    </div>
+    <div class="example-result rev d1">
+      <div class="example-result-title">Resultado do VAEX</div>
+      <ul class="example-result-list">
+        <li>Reorganização de equipes para execução paralela</li>
+        <li>Alteração da sequência executiva otimizada</li>
+        <li>Plano de mitigação de atraso detalhado</li>
+        <li>Previsão de impacto no prazo final do projeto</li>
+        <li>Relatório técnico gerado automaticamente</li>
+      </ul>
     </div>
   </div>
 </section>
@@ -599,35 +642,45 @@ footer {
 <!-- ══ ECOSSISTEMA ══ -->
 <section id="eco">
   <div class="rev">
-    <span class="sec-label">Ecossistema</span>
-    <h2 class="sec-h">Quatro produtos. Um ecossistema.</h2>
-    <p class="sec-p">Quatro produtos que formam um ambiente integrado de inteligência, automação e produtividade.</p>
+    <span class="sec-label">Ecossistema futuro</span>
+    <h2 class="sec-h">Foco total no VAEX. Ecossistema em construção.</h2>
+    <p class="sec-p">Hoje, toda a energia da Vaelith Labs está concentrada no VAEX. Os demais produtos do ecossistema estão em fase de planejamento.</p>
   </div>
   <div class="eco-grid">
     <div class="eco-card featured rev">
       <div class="eco-status dev">Em desenvolvimento</div>
       <div class="eco-name">VAEX</div>
-      <div class="eco-role">Assistente Pessoal de IA</div>
-      <p class="eco-desc">Seu parceiro inteligente 24h — gerencia rotina, prioridades, finanças e pensa junto com você em cada decisão.</p>
+      <div class="eco-role">Inteligência Adaptativa</div>
+      <p class="eco-desc">Plataforma de inteligência operacional adaptativa para produtividade, automação e tomada de decisão profissional.</p>
     </div>
     <div class="eco-card rev d1">
-      <div class="eco-status soon">Em breve</div>
-      <div class="eco-name">Vaelith OS</div>
-      <div class="eco-role">Sistema Operacional de IA</div>
-      <p class="eco-desc">Ambiente operacional baseado em inteligência artificial. Uma nova forma de interagir com tecnologia.</p>
+      <div class="eco-status soon">Planejado</div>
+      <div class="eco-name">Vaelith Cloud</div>
+      <div class="eco-role">Infraestrutura Contextual</div>
+      <p class="eco-desc">Memória persistente, sincronização entre dispositivos e infraestrutura inteligente de alta performance.</p>
     </div>
     <div class="eco-card rev d2">
-      <div class="eco-status soon">Em breve</div>
-      <div class="eco-name">Vaelith Cloud</div>
-      <div class="eco-role">Infraestrutura Inteligente</div>
-      <p class="eco-desc">Memória persistente, sincronização entre dispositivos e infraestrutura cloud de alta performance.</p>
+      <div class="eco-status soon">Planejado</div>
+      <div class="eco-name">Vaelith Studio</div>
+      <div class="eco-role">Automação e Agentes</div>
+      <p class="eco-desc">Plataforma de criação de agentes inteligentes e automação de processos sem necessidade de código.</p>
     </div>
     <div class="eco-card rev d3">
-      <div class="eco-status soon">Em breve</div>
-      <div class="eco-name">Vaelith Studio</div>
-      <div class="eco-role">Ferramentas Criativas</div>
-      <p class="eco-desc">Plataforma de criação e automação inteligente para construir soluções sem precisar ser desenvolvedor.</p>
+      <div class="eco-status soon">Planejado</div>
+      <div class="eco-name">Vaelith OS</div>
+      <div class="eco-role">Sistema Operacional IA</div>
+      <p class="eco-desc">Ambiente operacional inteligente integrado ao ecossistema Vaelith para uma nova forma de interação.</p>
     </div>
+  </div>
+</section>
+
+<!-- ══ VISÃO FUTURA ══ -->
+<section class="visao-sec">
+  <div class="visao-wrap rev">
+    <span class="sec-label">Visão</span>
+    <h2 class="visao-h">O futuro da produtividade será contextual.</h2>
+    <p class="visao-p">A próxima geração de inteligência artificial não será apenas conversacional. Será capaz de compreender contexto, aprender operações, interpretar ambientes e auxiliar pessoas em tempo real.</p>
+    <p class="visao-p">Esse é o objetivo da Vaelith Labs.</p>
   </div>
 </section>
 
@@ -635,13 +688,13 @@ footer {
 <section class="wl-sec" id="waitlist">
   <div class="wl-wrap rev">
     <span class="sec-label">Lista de espera</span>
-    <h2 class="wl-h">Seja o primeiro<br/>a usar o <span>VAEX.</span></h2>
-    <p class="wl-p">Cadastre seu email para acesso antecipado, atualizações exclusivas e condições especiais de lançamento.</p>
+    <h2 class="wl-h">Entre para a próxima geração<br/>da <span>inteligência adaptativa.</span></h2>
+    <p class="wl-p">Acompanhe o desenvolvimento do VAEX e faça parte dos primeiros usuários da plataforma.</p>
     <div class="wl-form" id="wl-form">
       <input type="email" id="wl-email" placeholder="seu@email.com" onkeydown="if(event.key==='Enter')joinList()"/>
       <button onclick="joinList()">Entrar na lista</button>
     </div>
-    <div class="wl-success" id="wl-ok">✓ Cadastro confirmado — te avisaremos em breve.</div>
+    <div class="wl-success" id="wl-ok">Cadastro confirmado — te avisaremos em breve.</div>
     <p class="wl-count" id="wl-count"></p>
   </div>
 </section>
@@ -651,9 +704,10 @@ footer {
   <div class="sobre-wrap">
     <div class="rev">
       <span class="sec-label">Sobre</span>
-      <h2 class="sec-h" style="margin-bottom:24px">Construindo o futuro com inteligência.</h2>
-      <p class="sobre-p">A Vaelith Labs é uma empresa de tecnologia especializada no desenvolvimento de sistemas inteligentes, automação e interfaces baseadas em IA. Nascemos da necessidade real de ferramentas que realmente funcionam.</p>
-      <p class="sobre-p">Com marca registrada no INPI e foco em inovação aplicada, construímos um ecossistema que une IA avançada, design futurista e soluções práticas para produtividade, engenharia e vida cotidiana.</p>
+      <h2 class="sec-h" style="margin-bottom:24px">Inteligência adaptativa para o futuro da produtividade.</h2>
+      <p class="sobre-p">A Vaelith Labs é uma empresa de tecnologia focada no desenvolvimento de sistemas inteligentes capazes de compreender contexto, aprender operações e auxiliar pessoas e empresas na tomada de decisões.</p>
+      <p class="sobre-p">Estamos construindo um novo modelo de interação entre humanos e inteligência artificial — mais contextual, personalizado e operacional. Nosso objetivo é criar tecnologias que não apenas respondam comandos, mas entendam rotinas, processos e ambientes profissionais para gerar produtividade real.</p>
+      <p class="sobre-p">Hoje, o principal projeto da empresa é o VAEX — uma inteligência adaptativa desenvolvida para automatizar tarefas, organizar operações e transformar informações em decisões inteligentes.</p>
       <div class="founder-card">
         <div class="founder-av">D</div>
         <div>
@@ -665,19 +719,19 @@ footer {
     <div class="valores rev d1">
       <div class="valor">
         <span class="valor-n">01</span>
-        <div><div class="valor-title">Tecnologia que resolve</div><p class="valor-desc">Construímos para problemas reais. Nada genérico — tudo contextualizado e funcional.</p></div>
+        <div><div class="valor-title">Inteligência contextual</div><p class="valor-desc">Desenvolvemos sistemas capazes de compreender contexto, analisar informações e auxiliar decisões profissionais de forma personalizada.</p></div>
       </div>
       <div class="valor">
         <span class="valor-n">02</span>
-        <div><div class="valor-title">IA com propósito</div><p class="valor-desc">Inteligência artificial como ferramenta de empoderamento, não de substituição.</p></div>
+        <div><div class="valor-title">Produtividade operacional</div><p class="valor-desc">Automação inteligente aplicada a processos reais, rotinas profissionais e operações do dia a dia.</p></div>
       </div>
       <div class="valor">
         <span class="valor-n">03</span>
-        <div><div class="valor-title">Design com alma</div><p class="valor-desc">Interfaces que inspiram. Experiências que as pessoas querem usar todos os dias.</p></div>
+        <div><div class="valor-title">Tecnologia adaptativa</div><p class="valor-desc">Cada usuário possui necessidades diferentes. O VAEX aprende padrões, rotinas e objetivos para entregar experiências únicas.</p></div>
       </div>
       <div class="valor">
         <span class="valor-n">04</span>
-        <div><div class="valor-title">Inovação constante</div><p class="valor-desc">Pesquisa, experimentação e evolução contínua. O futuro não espera.</p></div>
+        <div><div class="valor-title">Construção contínua</div><p class="valor-desc">A Vaelith Labs evolui constantemente através de pesquisa, desenvolvimento e aprimoramento de inteligência operacional adaptativa.</p></div>
       </div>
     </div>
   </div>
@@ -687,25 +741,17 @@ footer {
 <footer>
   <div>
     <div class="foot-brand">
-      <svg class="logo-svg-foot" viewBox="0 0 160 134" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <line x1="0" y1="9" x2="160" y2="9" stroke="#f5f2ec" stroke-width="18" stroke-linecap="square"/>
-        <line x1="0" y1="9" x2="80" y2="130" stroke="#f5f2ec" stroke-width="18" stroke-linecap="square"/>
-        <line x1="160" y1="9" x2="80" y2="130" stroke="#f5f2ec" stroke-width="18" stroke-linecap="square"/>
-        <line x1="80" y1="9" x2="80" y2="54" stroke="#f5f2ec" stroke-width="18" stroke-linecap="square"/>
-        <line x1="34" y1="54" x2="126" y2="54" stroke="#f5f2ec" stroke-width="15" stroke-linecap="square"/>
-        <line x1="34" y1="54" x2="80" y2="120" stroke="#f5f2ec" stroke-width="15" stroke-linecap="square"/>
-        <line x1="126" y1="54" x2="80" y2="120" stroke="#f5f2ec" stroke-width="15" stroke-linecap="square"/>
-      </svg>
+      <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029611254/BOtWnGobYsFKQRZx.png" alt="Vaelith Labs" class="foot-logo"/>
       <span class="foot-brand-name">Vaelith Labs</span>
     </div>
-    <p class="foot-tag">Inteligência Artificial que simplifica sua vida. Tecnologia · Produtividade · Inovação.</p>
+    <p class="foot-tag">Inteligência adaptativa para produtividade e tomada de decisão profissional.</p>
     <div class="foot-inpi">Marca registrada INPI · Brasil · 2026</div>
   </div>
   <div class="foot-right">
     <ul class="foot-links">
       <li><a href="#vaex">VAEX</a></li>
-      <li><a href="#areas">Soluções</a></li>
-      <li><a href="#eco">Ecossistema</a></li>
+      <li><a href="#como">Como Funciona</a></li>
+      <li><a href="#casos">Aplicações</a></li>
       <li><a href="#sobre">Sobre</a></li>
       <li><a href="https://instagram.com/vaelithlabs" target="_blank">@vaelithlabs</a></li>
       <li><a href="mailto:contato@vaelithlabs.com.br">Contato</a></li>
