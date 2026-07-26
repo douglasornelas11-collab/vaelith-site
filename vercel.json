@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/login",
+      "destination": "https://vaelith-platform-v5.vercel.app/login",
+      "permanent": false
+    },
+    {
+      "source": "/app",
+      "destination": "https://vaelith-platform-v5.vercel.app/app",
+      "permanent": false
+    }
+  ]
+}
