@@ -1,0 +1,106 @@
+{
+  "passed": 20,
+  "total": 20,
+  "checks": [
+    {
+      "name": "index.html: HTML parse",
+      "ok": true,
+      "detail": "190 tags"
+    },
+    {
+      "name": "index.html: IDs únicos",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html: recursos locais",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "login.html: HTML parse",
+      "ok": true,
+      "detail": "34 tags"
+    },
+    {
+      "name": "login.html: IDs únicos",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "login.html: recursos locais",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "app.html: HTML parse",
+      "ok": true,
+      "detail": "285 tags"
+    },
+    {
+      "name": "app.html: IDs únicos",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "app.html: recursos locais",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Marca definida",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Proposta clara",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Login real",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Módulo Upload",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Módulo Mudança",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Módulo Análise",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Módulo Maquete 3D",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Módulo Revisões",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Módulo Relatório",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "CSS balanceado",
+      "ok": true,
+      "detail": "283 / 283"
+    },
+    {
+      "name": "Responsividade",
+      "ok": true,
+      "detail": "3"
+    }
+  ]
+}
