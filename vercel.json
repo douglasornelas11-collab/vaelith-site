@@ -13,6 +13,10 @@
   ],
   "rewrites": [
     {
+      "source": "/",
+      "destination": "/api/page?type=home"
+    },
+    {
       "source": "/noticias/:slug",
       "destination": "/api/page?type=article&slug=:slug"
     },
