@@ -1,9 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "alias": [
-    "vaelithlabs.com.br",
-    "www.vaelithlabs.com.br"
-  ],
   "redirects": [
     {
       "source": "/login",
