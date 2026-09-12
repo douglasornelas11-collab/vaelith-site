@@ -14,6 +14,7 @@
     {"source":"/noticias/:slug","destination":"/api/page?type=article&slug=:slug"},
     {"source":"/categoria/:slug","destination":"/api/page?type=category&slug=:slug"},
     {"source":"/arquivo","destination":"/api/page?type=archive"},
+    {"source":"/artigos-cientificos","destination":"/api/page?type=research"},
     {"source":"/eventos","destination":"/api/page?type=events"},
     {"source":"/eventos/:slug","destination":"/api/page?type=event&slug=:slug"},
     {"source":"/sobre","destination":"/api/page?type=about"},
