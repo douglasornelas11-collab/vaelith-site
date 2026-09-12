@@ -1,0 +1,113 @@
+/* VAELITH — correções visuais finais para cards, capas e Pesquisa & Ciência */
+
+/* Capas editoriais: aparência de apoio, nunca como manchete dentro da própria imagem */
+img[data-editorial-cover="true"]{
+  object-fit:cover!important;
+  object-position:center!important;
+  background:#202824!important;
+}
+.hero-story img[data-editorial-cover="true"]{
+  aspect-ratio:16/8!important;
+  max-height:430px!important;
+}
+.side-story img[data-editorial-cover="true"],
+.card img[data-editorial-cover="true"]{
+  aspect-ratio:16/9!important;
+}
+.article-hero[data-editorial-cover="true"]{
+  aspect-ratio:16/9!important;
+  max-height:382px!important;
+}
+
+/* Pesquisa & Ciência deve ter o mesmo peso visual das demais editorias */
+.research-ranked-list{width:100%;border-top:1px solid var(--line)}
+.research-ranked-item{
+  display:grid!important;
+  grid-template-columns:52px 156px minmax(0,1fr)!important;
+  gap:16px!important;
+  align-items:center!important;
+  padding:16px 0!important;
+  border-bottom:1px solid var(--line)!important;
+  min-height:0!important;
+}
+.research-ranked-image{
+  display:block!important;
+  width:156px!important;
+  max-width:156px!important;
+  overflow:hidden!important;
+}
+.research-ranked-image img,
+.research-ranked-image .research-thumb,
+.research-ranked-image .cover{
+  display:block!important;
+  width:156px!important;
+  height:88px!important;
+  max-width:156px!important;
+  max-height:88px!important;
+  aspect-ratio:16/9!important;
+  object-fit:cover!important;
+  object-position:center!important;
+  margin:0!important;
+}
+.research-ranked-featured{
+  background:transparent!important;
+  padding:16px 0!important;
+}
+.research-ranked-copy{min-width:0!important}
+.research-ranked-copy h3{
+  font-size:16px!important;
+  line-height:1.28!important;
+  margin:4px 0 6px!important;
+}
+.research-ranked-copy p{
+  font-size:12.5px!important;
+  line-height:1.48!important;
+  margin:0!important;
+  display:-webkit-box!important;
+  -webkit-line-clamp:2!important;
+  -webkit-box-orient:vertical!important;
+  overflow:hidden!important;
+}
+.research-why{
+  margin:9px 0 0!important;
+  padding:8px 0 0!important;
+  border-top:1px solid var(--line)!important;
+  border-bottom:0!important;
+}
+.research-why p{font-size:12px!important;line-height:1.45!important}
+.research-score-badge strong{font-size:26px!important}
+
+/* Proteção contra imagens gigantes em páginas de listagem */
+.list-grid .image,
+.daily-cards .image,
+.editorial-lead .image{
+  width:100%!important;
+  aspect-ratio:16/9!important;
+  height:auto!important;
+  max-height:320px!important;
+  object-fit:cover!important;
+}
+.side-story .thumb{max-height:220px!important}
+
+@media(max-width:720px){
+  .hero-story img[data-editorial-cover="true"]{max-height:250px!important}
+  .research-ranked-item{
+    grid-template-columns:38px 88px minmax(0,1fr)!important;
+    gap:10px!important;
+    padding:12px 0!important;
+    align-items:start!important;
+  }
+  .research-ranked-image,
+  .research-ranked-image img,
+  .research-ranked-image .research-thumb,
+  .research-ranked-image .cover{
+    width:88px!important;
+    max-width:88px!important;
+    height:58px!important;
+    max-height:58px!important;
+  }
+  .research-ranked-copy h3{font-size:13.5px!important;margin-top:0!important}
+  .research-ranked-copy p,.research-why{display:none!important}
+  .research-rank-no{font-size:17px!important}
+  .research-score{font-size:9px!important}
+}
