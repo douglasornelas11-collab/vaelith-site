@@ -51,7 +51,7 @@
     },
     {
       "source": "/buscar",
-      "destination": "/api/page?type=search&q=:q"
+      "destination": "/api/page?type=search"
     },
     {
       "source": "/analises/:slug",
