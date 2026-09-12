@@ -29,6 +29,7 @@
     {"source":"/sobre","destination":"/api/page?type=about"},
     {"source":"/politica-editorial","destination":"/api/page?type=editorial"},
     {"source":"/privacidade","destination":"/api/page?type=privacy"},
+    {"source":"/midia-kit","destination":"/api/page?type=media-kit"},
     {"source":"/autor/douglas-ornelas","destination":"/api/page?type=author"},
     {"source":"/buscar","destination":"/api/page?type=search"},
     {"source":"/analises/:slug","destination":"/api/page?type=article&slug=:slug"}
@@ -46,7 +47,7 @@
         {"key":"Referrer-Policy","value":"strict-origin-when-cross-origin"},
         {"key":"Permissions-Policy","value":"camera=(), microphone=(), geolocation=()"},
         {"key":"Cross-Origin-Opener-Policy","value":"same-origin"},
-        {"key":"Content-Security-Policy","value":"default-src 'self'; img-src 'self' https://images.unsplash.com https://cdn.sanity.io data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; font-src 'self' data:; connect-src 'self'; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests"}
+        {"key":"Content-Security-Policy","value":"default-src 'self'; img-src 'self' https://images.unsplash.com https://cdn.sanity.io data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; font-src 'self' data:; connect-src 'self' https://api.resend.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests"}
       ]
     }
   ]
