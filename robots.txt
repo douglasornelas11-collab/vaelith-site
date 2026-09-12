@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://vaelithlabs.com.br/sitemap.xml
+Sitemap: https://www.vaelithlabs.com.br/sitemap.xml
+Sitemap: https://www.vaelithlabs.com.br/news-sitemap.xml
