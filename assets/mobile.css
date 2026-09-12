@@ -1,0 +1,177 @@
+/* VAELITH — camada responsiva e de usabilidade mobile */
+
+/* Tablets e notebooks compactos */
+@media (max-width: 900px){
+  .container{width:min(100% - 32px,var(--max))}
+  .header-main{height:68px}
+  .hero{padding:34px 0 42px}
+  .hero-grid,.article-grid,.event-grid{grid-template-columns:1fr}
+  .latest-grid,.list-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}
+  .category-strip{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .sidebar,.radar{position:static}
+  .article-grid{gap:34px}
+  .article-body{max-width:none}
+  .side-stack{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}
+  .side-story{border-bottom:0;margin-bottom:0;padding-bottom:0}
+}
+
+/* Celulares */
+@media (max-width: 700px){
+  :root{
+    --fs-xxs:11px;
+    --fs-xs:12px;
+    --fs-sm:14px;
+    --fs-md:16px;
+    --fs-lg:18px;
+    --fs-xl:20px;
+    --fs-2xl:23px;
+    --fs-3xl:28px;
+    --fs-4xl:34px;
+    --fs-5xl:40px;
+  }
+
+  html{scroll-padding-top:72px}
+  body{font-size:16px;line-height:1.62}
+  .container{width:min(100% - 24px,var(--max))}
+
+  /* Cabeçalho compacto e utilizável com o polegar */
+  .topline{display:none}
+  .site-header{backdrop-filter:blur(12px)}
+  .header-main{height:62px;gap:12px}
+  .mark{width:29px;height:29px}
+  .brand{gap:9px}
+  .wordmark-main{font-size:19px;letter-spacing:.08em}
+  .wordmark-labs{font-size:8px;padding:3px 4px}
+  .header-meta{display:none}
+  .menu-btn{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    min-width:48px;
+    min-height:44px;
+    margin-left:auto;
+    border-radius:8px;
+    padding:9px 12px;
+  }
+  .navbar{display:none;border-top:1px solid var(--line);max-height:calc(100vh - 62px);overflow:auto}
+  .site-header.open .navbar{display:block}
+  .site-header.open .navbar .container{
+    height:auto;
+    display:flex;
+    flex-direction:column;
+    align-items:stretch;
+    gap:0;
+    padding:8px 0 16px;
+    white-space:normal;
+  }
+  .site-header.open .navbar a{
+    display:flex;
+    align-items:center;
+    min-height:48px;
+    width:100%;
+    padding:10px 4px;
+    border-bottom:1px solid var(--line);
+    font-size:15px;
+  }
+
+  /* Manchete principal: legível sem dominar a tela */
+  .hero{padding:24px 0 34px}
+  .hero-grid,.latest-grid,.list-grid,.side-stack{grid-template-columns:1fr}
+  .hero-grid{gap:28px;margin-top:14px}
+  .hero-story .cover{aspect-ratio:16/10;border-radius:2px}
+  .hero-story h1{
+    font-size:clamp(30px,8.5vw,38px);
+    line-height:1.10;
+    letter-spacing:-.02em;
+    margin:14px 0 12px;
+  }
+  .hero-story p{font-size:16px;line-height:1.6;margin-bottom:14px}
+  .side-story .thumb{height:auto;aspect-ratio:16/9;margin-bottom:12px}
+  .side-story h2{font-size:21px;line-height:1.23;margin:6px 0 8px}
+
+  /* Últimas notícias */
+  .breaking .container{min-height:48px;gap:12px}
+  .breaking-label{flex:0 0 auto}
+  .breaking-text{font-size:13px}
+
+  /* Seções e cards */
+  .section{padding:42px 0}
+  .section-head{display:block;margin-bottom:22px}
+  .section-head h2{font-size:28px;line-height:1.15}
+  .section-head p{margin-top:9px;font-size:14px}
+  .section-link{display:inline-flex;align-items:center;min-height:44px;margin-top:10px;padding:8px 0}
+  .latest-grid,.list-grid{gap:26px}
+  .card .image{margin-bottom:12px}
+  .card h3{font-size:20px;line-height:1.27;margin:7px 0 8px}
+  .card p{font-size:14px;line-height:1.6}
+  .category-strip{grid-template-columns:1fr}
+  .cat-tile{min-height:auto;padding:20px}
+  .cat-tile h3{font-size:20px;margin:18px 0 6px}
+  .cat-tile p{font-size:13px}
+
+  /* Eventos */
+  .event-row{grid-template-columns:1fr;gap:7px;padding:18px 0}
+  .event-row h3{font-size:20px}
+  .event-row p{font-size:14px}
+  .event-row .place{text-align:left;font-size:12px}
+  .radar{padding:22px}
+  .radar h3{font-size:24px}
+  .editorial-box{padding:24px 20px}
+  .editorial-box h2{font-size:27px}
+
+  /* Página de artigo */
+  .article-shell{padding:28px 0 56px}
+  .breadcrumb{margin-bottom:18px;font-size:12px;overflow-x:auto;white-space:nowrap}
+  .article-header h1{
+    font-size:clamp(30px,8vw,40px);
+    line-height:1.11;
+    letter-spacing:-.02em;
+    margin:10px 0 14px;
+  }
+  .article-dek{font-size:17px;line-height:1.52}
+  .article-info{gap:8px 14px;padding:13px 0;font-size:12px}
+  .article-hero{margin:22px 0 28px;aspect-ratio:16/10}
+  .article-body{font-size:17px;line-height:1.72;max-width:none}
+  .article-body p{margin-bottom:22px}
+  .article-body h2{font-size:23px;line-height:1.25;margin:32px 0 13px}
+  .article-body h3{font-size:20px;margin:26px 0 11px}
+  .article-body img{width:100%;height:auto}
+  .article-body table{display:block;width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .article-body pre,.article-body code{max-width:100%;overflow-x:auto}
+  .insight{margin:30px 0;padding:20px 18px}
+  .source-box{padding:20px;margin-top:32px}
+  .sidebar{margin-top:10px}
+  .sidebar-card h4{font-size:16px}
+
+  /* Páginas de categoria */
+  .page-hero{padding:30px 0 24px}
+  .page-hero h1{font-size:clamp(31px,8vw,39px);line-height:1.08}
+  .page-hero p{font-size:15px}
+
+  /* Rodapé */
+  .footer{padding:34px 0}
+  .footer-grid{grid-template-columns:1fr;gap:26px}
+  .footer p,.footer a{font-size:13px}
+  .footer-bottom{flex-direction:column;gap:8px;font-size:11px}
+}
+
+/* Telefones pequenos */
+@media (max-width: 390px){
+  .container{width:min(100% - 20px,var(--max))}
+  .wordmark-main{font-size:18px}
+  .hero-story h1{font-size:30px}
+  .article-header h1{font-size:30px}
+  .section-head h2{font-size:26px}
+  .card h3,.side-story h2{font-size:19px}
+}
+
+/* Alvos de toque e acessibilidade */
+@media (pointer:coarse){
+  a,button{touch-action:manipulation}
+  .navbar a,.header-meta a,.section-link,.source-link{min-height:44px}
+}
+
+@media (prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+}
