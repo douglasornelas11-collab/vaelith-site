@@ -1,113 +1,97 @@
-/* VAELITH — correções visuais finais para cards, capas e Pesquisa & Ciência */
+/* VAELITH — camada final de estabilidade visual */
 
-/* Capas editoriais: aparência de apoio, nunca como manchete dentro da própria imagem */
-img[data-editorial-cover="true"]{
-  object-fit:cover!important;
-  object-position:center!important;
-  background:#202824!important;
-}
-.hero-story img[data-editorial-cover="true"]{
-  aspect-ratio:16/8!important;
-  max-height:430px!important;
-}
-.side-story img[data-editorial-cover="true"],
-.card img[data-editorial-cover="true"]{
-  aspect-ratio:16/9!important;
-}
-.article-hero[data-editorial-cover="true"]{
-  aspect-ratio:16/9!important;
-  max-height:382px!important;
+/* Imagens: nunca distorcer e nunca crescer além do bloco */
+img[data-editorial-cover="true"]{object-fit:cover!important;object-position:center!important;background:#202824!important}
+.hero-story img[data-editorial-cover="true"]{aspect-ratio:16/9!important;max-height:430px!important}
+.side-story img[data-editorial-cover="true"],.card img[data-editorial-cover="true"]{aspect-ratio:16/9!important}
+.article-hero[data-editorial-cover="true"]{aspect-ratio:16/9!important;max-height:410px!important}
+.list-grid .image,.daily-cards .image,.editorial-lead .image{display:block!important;width:100%!important;max-width:100%!important;aspect-ratio:16/9!important;height:auto!important;max-height:330px!important;object-fit:cover!important;object-position:center!important}
+.side-story .thumb{max-height:220px!important;object-fit:cover!important}
+
+/* Pesquisa & Ciência — artigo do dia */
+.research-day-section .section-head{margin-bottom:22px!important}
+.research-feature{display:grid!important;grid-template-columns:minmax(280px,410px) minmax(0,1fr)!important;gap:30px!important;align-items:start!important;padding:0!important}
+.research-feature-media{display:block!important;width:100%!important;min-width:0!important;overflow:hidden!important;background:#eceeea!important}
+.research-feature-image{display:block!important;width:100%!important;height:auto!important;aspect-ratio:16/9!important;max-height:240px!important;object-fit:cover!important;object-position:center!important;margin:0!important}
+.research-feature-copy{min-width:0!important;padding-top:2px!important}
+.research-feature-copy h2{font-size:24px!important;line-height:1.18!important;letter-spacing:-.015em!important;margin:6px 0 10px!important;color:var(--ink)!important;max-width:760px!important}
+.research-feature-copy h2 a{color:inherit!important}
+.research-feature-dek{font-size:14px!important;line-height:1.55!important;color:var(--muted)!important;margin:0 0 12px!important;max-width:760px!important}
+.research-why{margin:14px 0 0!important;padding:12px 0 0!important;border-top:1px solid var(--line)!important;border-bottom:0!important}
+.research-why strong{display:block!important;font-size:10px!important;line-height:1.2!important;letter-spacing:.12em!important;text-transform:uppercase!important;color:var(--ink)!important;margin-bottom:6px!important}
+.research-why p{font-size:13px!important;line-height:1.55!important;color:var(--muted)!important;margin:0!important;display:block!important;overflow:visible!important;-webkit-line-clamp:unset!important}
+.research-feature-meta{display:flex!important;gap:8px 16px!important;align-items:center!important;flex-wrap:wrap!important;margin-top:14px!important;padding-top:10px!important;border-top:1px solid var(--line)!important;font-size:10.5px!important;color:var(--soft)!important}
+.research-feature-score{font-weight:800!important;color:var(--accent-dark)!important}
+
+/* Pesquisa & Ciência — ranking semanal */
+.research-ranked-list{display:block!important;width:100%!important;border-top:1px solid var(--line)!important}
+.research-ranked-item{display:grid!important;grid-template-columns:56px 190px minmax(0,1fr)!important;gap:18px!important;align-items:center!important;width:100%!important;min-width:0!important;padding:18px 0!important;border-bottom:1px solid var(--line)!important}
+.research-rank-block{display:flex!important;flex-direction:column!important;align-items:flex-start!important;justify-content:center!important;gap:5px!important;width:56px!important;min-width:56px!important}
+.research-rank-no{display:block!important;font-size:22px!important;line-height:1!important;font-weight:800!important;letter-spacing:-.02em!important;color:var(--ink)!important}
+.research-score{display:block!important;font-size:10px!important;line-height:1.2!important;font-weight:800!important;color:var(--accent-dark)!important;white-space:nowrap!important}
+.research-ranked-image{display:block!important;width:190px!important;max-width:190px!important;min-width:0!important;overflow:hidden!important;background:#eceeea!important}
+.research-ranked-image img,.research-ranked-image .research-thumb{display:block!important;width:190px!important;max-width:190px!important;height:107px!important;max-height:107px!important;aspect-ratio:16/9!important;object-fit:cover!important;object-position:center!important;margin:0!important}
+.research-ranked-copy{display:block!important;min-width:0!important;width:100%!important}
+.research-ranked-copy .tag{margin:0 0 3px!important}
+.research-ranked-copy h3{font-size:17px!important;line-height:1.28!important;margin:4px 0 7px!important;max-width:850px!important;overflow-wrap:normal!important;word-break:normal!important}
+.research-ranked-copy h3 a{color:var(--ink)!important}
+.research-ranked-copy>p{font-size:13px!important;line-height:1.5!important;color:var(--muted)!important;margin:0!important;display:-webkit-box!important;-webkit-line-clamp:2!important;-webkit-box-orient:vertical!important;overflow:hidden!important;max-width:900px!important}
+.research-ranked-meta{display:flex!important;gap:14px!important;flex-wrap:wrap!important;margin-top:8px!important;font-size:10.5px!important;color:var(--soft)!important}
+
+/* Acervo científico: cada item é uma linha própria, nunca texto concatenado */
+.research-archive-list{display:flex!important;flex-direction:column!important;width:100%!important;border-top:1px solid var(--line)!important}
+.research-archive-row{display:grid!important;grid-template-columns:112px minmax(0,1fr) 70px!important;gap:18px!important;align-items:center!important;width:100%!important;padding:14px 0!important;border-bottom:1px solid var(--line)!important;color:var(--ink)!important}
+.research-archive-date{display:block!important;font-size:11px!important;line-height:1.35!important;color:var(--muted)!important;white-space:nowrap!important}
+.research-archive-title{display:block!important;min-width:0!important;font-size:14px!important;line-height:1.4!important;font-weight:700!important;color:var(--ink)!important;overflow-wrap:normal!important;word-break:normal!important}
+.research-archive-score{display:block!important;text-align:right!important;font-size:11px!important;line-height:1!important;font-weight:800!important;color:var(--accent-dark)!important;white-space:nowrap!important}
+
+/* Listagens e editorias: evita coluna de texto estreita em tablet */
+.card,.card>a{min-width:0!important;max-width:100%!important}
+.card h3,.card p{word-break:normal!important;overflow-wrap:break-word!important}
+
+@media(max-width:860px){
+  .list-grid{grid-template-columns:1fr!important;gap:28px!important}
+  .editorial-grid{grid-template-columns:1fr!important}
+  .editorial-stack .card,.editorial-stack .card>a{width:100%!important;min-width:0!important}
+  .editorial-stack .card>a{display:grid!important;grid-template-columns:150px minmax(0,1fr)!important;column-gap:16px!important;align-items:start!important}
+  .editorial-stack .card .image{display:block!important;width:150px!important;max-width:150px!important;height:auto!important;aspect-ratio:4/3!important;grid-column:1!important;grid-row:1/5!important;margin:0!important;object-fit:cover!important}
+  .editorial-stack .card .tag,.editorial-stack .card h3,.editorial-stack .card p,.editorial-stack .card .meta{grid-column:2!important;min-width:0!important}
+  .research-feature{grid-template-columns:minmax(240px,340px) minmax(0,1fr)!important;gap:22px!important}
+  .research-ranked-item{grid-template-columns:50px 150px minmax(0,1fr)!important;gap:14px!important}
+  .research-rank-block{width:50px!important;min-width:50px!important}
+  .research-ranked-image,.research-ranked-image img,.research-ranked-image .research-thumb{width:150px!important;max-width:150px!important}
+  .research-ranked-image img,.research-ranked-image .research-thumb{height:84px!important;max-height:84px!important}
 }
 
-/* Pesquisa & Ciência deve ter o mesmo peso visual das demais editorias */
-.research-ranked-list{width:100%;border-top:1px solid var(--line)}
-.research-ranked-item{
-  display:grid!important;
-  grid-template-columns:52px 156px minmax(0,1fr)!important;
-  gap:16px!important;
-  align-items:center!important;
-  padding:16px 0!important;
-  border-bottom:1px solid var(--line)!important;
-  min-height:0!important;
-}
-.research-ranked-image{
-  display:block!important;
-  width:156px!important;
-  max-width:156px!important;
-  overflow:hidden!important;
-}
-.research-ranked-image img,
-.research-ranked-image .research-thumb,
-.research-ranked-image .cover{
-  display:block!important;
-  width:156px!important;
-  height:88px!important;
-  max-width:156px!important;
-  max-height:88px!important;
-  aspect-ratio:16/9!important;
-  object-fit:cover!important;
-  object-position:center!important;
-  margin:0!important;
-}
-.research-ranked-featured{
-  background:transparent!important;
-  padding:16px 0!important;
-}
-.research-ranked-copy{min-width:0!important}
-.research-ranked-copy h3{
-  font-size:16px!important;
-  line-height:1.28!important;
-  margin:4px 0 6px!important;
-}
-.research-ranked-copy p{
-  font-size:12.5px!important;
-  line-height:1.48!important;
-  margin:0!important;
-  display:-webkit-box!important;
-  -webkit-line-clamp:2!important;
-  -webkit-box-orient:vertical!important;
-  overflow:hidden!important;
-}
-.research-why{
-  margin:9px 0 0!important;
-  padding:8px 0 0!important;
-  border-top:1px solid var(--line)!important;
-  border-bottom:0!important;
-}
-.research-why p{font-size:12px!important;line-height:1.45!important}
-.research-score-badge strong{font-size:26px!important}
-
-/* Proteção contra imagens gigantes em páginas de listagem */
-.list-grid .image,
-.daily-cards .image,
-.editorial-lead .image{
-  width:100%!important;
-  aspect-ratio:16/9!important;
-  height:auto!important;
-  max-height:320px!important;
-  object-fit:cover!important;
-}
-.side-story .thumb{max-height:220px!important}
-
-@media(max-width:720px){
+@media(max-width:640px){
   .hero-story img[data-editorial-cover="true"]{max-height:250px!important}
-  .research-ranked-item{
-    grid-template-columns:38px 88px minmax(0,1fr)!important;
-    gap:10px!important;
-    padding:12px 0!important;
-    align-items:start!important;
-  }
-  .research-ranked-image,
-  .research-ranked-image img,
-  .research-ranked-image .research-thumb,
-  .research-ranked-image .cover{
-    width:88px!important;
-    max-width:88px!important;
-    height:58px!important;
-    max-height:58px!important;
-  }
-  .research-ranked-copy h3{font-size:13.5px!important;margin-top:0!important}
-  .research-ranked-copy p,.research-why{display:none!important}
-  .research-rank-no{font-size:17px!important}
+  .list-grid{grid-template-columns:1fr!important}
+  .editorial-stack .card,.editorial-stack .card>a{display:block!important;width:100%!important}
+  .editorial-stack .card{padding:16px 0!important}
+  .editorial-stack .card .image{display:block!important;width:100%!important;max-width:100%!important;height:auto!important;aspect-ratio:16/9!important;margin:0 0 10px!important}
+  .editorial-stack .card .tag,.editorial-stack .card h3,.editorial-stack .card p,.editorial-stack .card .meta{display:block!important;width:100%!important;grid-column:auto!important}
+
+  .research-feature{display:block!important}
+  .research-feature-media{margin-bottom:16px!important}
+  .research-feature-image{max-height:none!important}
+  .research-feature-copy h2{font-size:21px!important;line-height:1.22!important}
+  .research-feature-dek{font-size:14px!important}
+  .research-why p{font-size:12.5px!important}
+
+  .research-ranked-item{grid-template-columns:42px minmax(0,1fr)!important;grid-template-areas:"rank media" "rank copy"!important;gap:10px 12px!important;align-items:start!important;padding:16px 0!important}
+  .research-rank-block{grid-area:rank!important;width:42px!important;min-width:42px!important;padding-top:2px!important}
+  .research-rank-no{font-size:18px!important}
   .research-score{font-size:9px!important}
+  .research-ranked-image{grid-area:media!important;width:min(100%,280px)!important;max-width:280px!important}
+  .research-ranked-image img,.research-ranked-image .research-thumb{width:100%!important;max-width:280px!important;height:auto!important;max-height:none!important;aspect-ratio:16/9!important}
+  .research-ranked-copy{grid-area:copy!important}
+  .research-ranked-copy h3{font-size:15px!important;line-height:1.32!important;margin:3px 0 6px!important}
+  .research-ranked-copy>p{font-size:12.5px!important;-webkit-line-clamp:3!important}
+  .research-ranked-meta{display:block!important;font-size:10px!important;margin-top:7px!important}
+  .research-ranked-meta span{display:block!important;margin-top:2px!important}
+
+  .research-archive-row{grid-template-columns:minmax(0,1fr) 62px!important;gap:6px 12px!important;padding:14px 0!important}
+  .research-archive-date{grid-column:1/3!important;font-size:10.5px!important}
+  .research-archive-title{grid-column:1!important;font-size:13.5px!important;line-height:1.38!important}
+  .research-archive-score{grid-column:2!important;align-self:center!important;font-size:10.5px!important}
 }
