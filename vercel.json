@@ -23,6 +23,9 @@
     {"source":"/buscar","destination":"/api/page?type=search"},
     {"source":"/analises/:slug","destination":"/api/page?type=article&slug=:slug"}
   ],
+  "crons": [
+    {"path":"/api/send-briefing","schedule":"0 12 * * *"}
+  ],
   "headers": [
     {"source":"/assets/(.*)","headers":[{"key":"Cache-Control","value":"public, max-age=3600, s-maxage=86400, stale-while-revalidate=604800"}]},
     {"source":"/(.*)","headers":[
