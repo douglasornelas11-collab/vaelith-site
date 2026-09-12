@@ -32,11 +32,14 @@ body{font-size:15.5px;line-height:1.56;background:#f6f6f2}
 .daily-cards{gap:24px}
 .card h3{font-size:17px;line-height:1.3;margin:6px 0 7px}
 .card p{font-size:13px;line-height:1.48;margin-bottom:9px}
+.card.no-image{padding-top:14px;border-top:1px solid var(--line)}
+.card.no-image h3{margin-top:8px}
 .editorial-grid{grid-template-columns:minmax(0,1.35fr) minmax(290px,.8fr);gap:26px}
 .editorial-lead .card h3{font-size:21px}
 .editorial-stack .card{grid-template-columns:118px 1fr;column-gap:14px;padding:13px 0}
 .editorial-stack .card .image{width:118px;height:88px}
 .editorial-stack .card h3{font-size:15px}
+.editorial-stack .card.no-image{display:block}
 .category-strip{grid-template-columns:repeat(4,minmax(0,1fr))}
 .cat-tile{min-height:106px;padding:17px}
 .cat-tile h3{font-size:16px;margin:15px 0 5px}
@@ -69,6 +72,10 @@ body{font-size:15.5px;line-height:1.56;background:#f6f6f2}
 .page-hero{padding:25px 0 20px}
 .page-hero h1{font-size:30px}
 .page-hero p{font-size:14px}
+.archive-search{max-width:680px;margin-top:18px}
+.archive-pager{display:flex;justify-content:space-between;align-items:center;gap:20px;margin-top:34px;padding-top:18px;border-top:1px solid var(--line);font-size:12px;color:var(--muted)}
+.archive-pager>div{display:flex;gap:18px}
+.archive-pager a{font-weight:700;color:var(--ink)}
 
 .event-grid{gap:30px}
 .event-row{grid-template-columns:82px 1fr 135px;padding:14px 0}
@@ -125,6 +132,7 @@ body{font-size:15.5px;line-height:1.56;background:#f6f6f2}
   .side-story a{display:contents}
   .side-story .thumb{grid-column:1;grid-row:1/5;width:112px}
   .side-story .tag,.side-story h2,.side-story .meta{grid-column:2}
+  .side-story.no-image{display:block}
   .side-story .tag{margin-top:0}
   .side-story h2{font-size:15px;margin:3px 0 6px}
   .section{padding:34px 0}
@@ -148,6 +156,7 @@ body{font-size:15.5px;line-height:1.56;background:#f6f6f2}
   .newsletter-grid{grid-template-columns:1fr;gap:20px}
   .newsletter-fields{grid-template-columns:1fr}
   .newsletter-fields button{width:100%}
+  .archive-pager{align-items:flex-start;flex-direction:column}
   .footer{padding-top:26px}
   .footer-grid{gap:20px}
   .footer-bottom{display:block}
