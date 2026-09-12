@@ -42,6 +42,18 @@
       "destination": "/api/page?type=editorial"
     },
     {
+      "source": "/privacidade",
+      "destination": "/api/page?type=privacy"
+    },
+    {
+      "source": "/autor/douglas-ornelas",
+      "destination": "/api/page?type=author"
+    },
+    {
+      "source": "/buscar",
+      "destination": "/api/page?type=search&q=:q"
+    },
+    {
       "source": "/analises/:slug",
       "destination": "/api/page?type=article&slug=:slug"
     }
@@ -52,7 +64,7 @@
       "headers": [
         {
           "key": "Cache-Control",
-          "value": "public, max-age=31536000, immutable"
+          "value": "public, max-age=3600, s-maxage=86400, stale-while-revalidate=604800"
         }
       ]
     },
@@ -64,12 +76,24 @@
           "value": "nosniff"
         },
         {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
+        {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
         },
         {
           "key": "Permissions-Policy",
           "value": "camera=(), microphone=(), geolocation=()"
+        },
+        {
+          "key": "Cross-Origin-Opener-Policy",
+          "value": "same-origin"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; img-src 'self' https://images.unsplash.com data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; font-src 'self' data:; connect-src 'self'; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests"
         }
       ]
     }
