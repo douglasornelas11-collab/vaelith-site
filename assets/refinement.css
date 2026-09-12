@@ -8,10 +8,10 @@ body{font-size:15.5px;line-height:1.56;background:#f6f6f2}
 .container{width:min(var(--max),calc(100% - 36px))}
 
 .site-header{backdrop-filter:saturate(130%) blur(10px);box-shadow:0 1px 0 rgba(17,19,21,.03)}
-.masthead{height:62px}
-.brand{gap:9px;align-items:center}
-.mark{width:36px;height:36px;flex:0 0 36px}
-.wordmark{font-size:19px;letter-spacing:.14em}
+.masthead{height:68px}
+.brand{gap:10px;align-items:center}
+.mark{width:52px;height:52px;flex:0 0 52px}
+.wordmark{font-size:18px;letter-spacing:.16em;font-weight:700}
 .utility-nav{font-size:12px;gap:18px}
 .navbar .container{height:40px;gap:21px}
 .navbar a{font-size:12.5px;line-height:40px}
@@ -98,6 +98,7 @@ body{font-size:15.5px;line-height:1.56;background:#f6f6f2}
 .footer{padding:30px 0 18px;background:#111315}
 .footer-grid{grid-template-columns:1.45fr .7fr .85fr;gap:34px;align-items:start}
 .footer .brand{color:#fff}
+.footer .mark{width:44px;height:44px;flex-basis:44px}
 .footer h4{font-size:10px;margin:0 0 9px;color:#fff}
 .footer p,.footer a{font-size:12px;line-height:1.75;color:#aeb5ba}
 .footer-brand p{max-width:390px;margin-top:12px}
@@ -121,8 +122,9 @@ body{font-size:15.5px;line-height:1.56;background:#f6f6f2}
 
 @media(max-width:720px){
   .container{width:min(100% - 26px,var(--max))}
-  .masthead{height:58px}
-  .mark{width:32px;height:32px;flex-basis:32px}
+  .masthead{height:62px}
+  .mark{width:46px;height:46px;flex-basis:46px}
+  .wordmark{font-size:17px}
   .utility-nav{display:none}
   .menu-btn{display:block;border-radius:0;padding:8px 11px}
   .navbar{display:none}
