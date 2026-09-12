@@ -35,7 +35,7 @@
       {"key":"Referrer-Policy","value":"strict-origin-when-cross-origin"},
       {"key":"Permissions-Policy","value":"camera=(), microphone=(), geolocation=()"},
       {"key":"Cross-Origin-Opener-Policy","value":"same-origin"},
-      {"key":"Content-Security-Policy","value":"default-src 'self'; img-src 'self' https://images.unsplash.com https://cdn.sanity.io https://www.google.com https://www.googleadservices.com https://googleads.g.doubleclick.net data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; font-src 'self' data:; connect-src 'self' https://api.resend.com https://www.googletagmanager.com https://www.google-analytics.com https://region1.google-analytics.com https://www.google.com https://www.googleadservices.com https://googleads.g.doubleclick.net; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests"}
+      {"key":"Content-Security-Policy","value":"default-src 'self'; img-src 'self' https://www.gov.br https://*.gov.br https://cdn.sanity.io https://www.google.com https://www.googleadservices.com https://googleads.g.doubleclick.net data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; font-src 'self' data:; connect-src 'self' https://api.resend.com https://www.googletagmanager.com https://www.google-analytics.com https://region1.google-analytics.com https://www.google.com https://www.googleadservices.com https://googleads.g.doubleclick.net; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests"}
     ]}
   ]
 }
