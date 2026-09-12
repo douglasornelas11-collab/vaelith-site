@@ -1,21 +1,10 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
-    {
-      "source": "/admin",
-      "destination": "https://vaelith-editorial.sanity.studio",
-      "permanent": false
-    },
-    {
-      "source": "/login",
-      "destination": "https://vaelith-platform-v5.vercel.app/login",
-      "permanent": false
-    },
-    {
-      "source": "/app",
-      "destination": "https://vaelith-platform-v5.vercel.app/app",
-      "permanent": false
-    }
+    {"source":"/admin","destination":"https://vaelith-editorial.sanity.studio","permanent":false},
+    {"source":"/login","destination":"https://vaelith-platform-v5.vercel.app/login","permanent":false},
+    {"source":"/app","destination":"https://vaelith-platform-v5.vercel.app/app","permanent":false},
+    {"source":"/autor/douglas-ornelas","destination":"/sobre","permanent":true}
   ],
   "rewrites": [
     {"source":"/sitemap.xml","destination":"/api/sitemap"},
@@ -30,25 +19,18 @@
     {"source":"/politica-editorial","destination":"/api/page?type=editorial"},
     {"source":"/privacidade","destination":"/api/page?type=privacy"},
     {"source":"/midia-kit","destination":"/api/page?type=media-kit"},
-    {"source":"/autor/douglas-ornelas","destination":"/api/page?type=author"},
     {"source":"/buscar","destination":"/api/page?type=search"},
     {"source":"/analises/:slug","destination":"/api/page?type=article&slug=:slug"}
   ],
   "headers": [
-    {
-      "source": "/assets/(.*)",
-      "headers": [{"key":"Cache-Control","value":"public, max-age=3600, s-maxage=86400, stale-while-revalidate=604800"}]
-    },
-    {
-      "source": "/(.*)",
-      "headers": [
-        {"key":"X-Content-Type-Options","value":"nosniff"},
-        {"key":"X-Frame-Options","value":"DENY"},
-        {"key":"Referrer-Policy","value":"strict-origin-when-cross-origin"},
-        {"key":"Permissions-Policy","value":"camera=(), microphone=(), geolocation=()"},
-        {"key":"Cross-Origin-Opener-Policy","value":"same-origin"},
-        {"key":"Content-Security-Policy","value":"default-src 'self'; img-src 'self' https://images.unsplash.com https://cdn.sanity.io data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; font-src 'self' data:; connect-src 'self' https://api.resend.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests"}
-      ]
-    }
+    {"source":"/assets/(.*)","headers":[{"key":"Cache-Control","value":"public, max-age=3600, s-maxage=86400, stale-while-revalidate=604800"}]},
+    {"source":"/(.*)","headers":[
+      {"key":"X-Content-Type-Options","value":"nosniff"},
+      {"key":"X-Frame-Options","value":"DENY"},
+      {"key":"Referrer-Policy","value":"strict-origin-when-cross-origin"},
+      {"key":"Permissions-Policy","value":"camera=(), microphone=(), geolocation=()"},
+      {"key":"Cross-Origin-Opener-Policy","value":"same-origin"},
+      {"key":"Content-Security-Policy","value":"default-src 'self'; img-src 'self' https://images.unsplash.com https://cdn.sanity.io data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; font-src 'self' data:; connect-src 'self' https://api.resend.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests"}
+    ]}
   ]
 }
