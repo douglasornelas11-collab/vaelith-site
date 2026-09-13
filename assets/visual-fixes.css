@@ -4,10 +4,9 @@
 .list-grid .image,.daily-cards .image,.editorial-lead .image{display:block!important;width:100%!important;max-width:100%!important;aspect-ratio:16/9!important;height:auto!important;max-height:330px!important;object-fit:cover!important;object-position:center!important}
 .side-story .thumb{max-height:220px!important;object-fit:cover!important}
 
-/* Sem imagem validada não exibimos placeholder como se fosse fotografia. */
+/* Sem imagem validada: card textual limpo, sem placeholder nem aviso técnico. */
 .card.no-image>a,.side-story.no-image>a{position:relative!important;background:#f9faf7!important}
-.card.no-image>a{padding:18px 18px 16px!important;border-top:2px solid #1c2320!important;min-height:170px!important}
-.card.no-image>a:before{content:'SEM IMAGEM OFICIAL VALIDADA';display:block!important;font-size:9px!important;line-height:1!important;letter-spacing:.12em!important;font-weight:800!important;color:#7b831f!important;margin-bottom:10px!important}
+.card.no-image>a{padding:18px 18px 16px!important;border-top:2px solid #1c2320!important;min-height:150px!important}
 .card.no-image h3{min-height:0!important}
 .side-story.no-image{border-top:1px solid var(--line)!important}
 .side-story.no-image>a{display:block!important;padding:14px 0!important}
