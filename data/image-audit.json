@@ -1,0 +1,291 @@
+{
+  "checkedAt": "2026-09-13",
+  "note": "Inventory from the public archive. Only records marked corrected have completed visual/source review in this audit; existing and missing photos remain explicitly tracked.",
+  "articles": [
+    {
+      "slug": "glenfarne-oliver-wood-lideranca-projetos-lng",
+      "sourceUrl": "https://www.businesswire.com/news/home/20260913293425/en/Glenfarne-Group-Promotes-Oliver-Wood-to-Global-Head-of-Projects",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "pesquisa-madeiras-rapido-crescimento-construcao-sustentavel",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0950061826023032",
+      "status": "missing-photo"
+    },
+    {
+      "slug": "pesquisa-escoria-magnesio-alto-forno-ligante-baixo-carbono",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0950061826023779",
+      "status": "missing-photo"
+    },
+    {
+      "slug": "pesquisa-ia-laser-scanner-deterioracao-pavimentos-2030",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-68410-z",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "data-centers-resiliencia-emirados",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/",
+      "status": "missing-photo"
+    },
+    {
+      "slug": "eu-carbono-investimento-industria",
+      "sourceUrl": "https://www.reuters.com/business/environment/eu-lawmaker-proposes-more-carbon-market-investments-in-industry-2026-09-11/",
+      "status": "missing-photo"
+    },
+    {
+      "slug": "grandes-contratos-construcao-semana",
+      "sourceUrl": "https://www.constructiondive.com/news/punch-list-procore-closes-deal-jacobs-wins-skanska-granite/830146/",
+      "status": "corrected"
+    },
+    {
+      "slug": "mundos-digitais-escala-materialidade",
+      "sourceUrl": "https://www.archdaily.com/1184807/digital-worlds-and-the-limits-of-frictionless-space-rethinking-scale-and-materiality",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "hidrogenio-limpo-investimento-global",
+      "sourceUrl": "https://www.reuters.com/business/energy/global-clean-hydrogen-investment-tops-130-billion-amid-energy-security-push-2026-09-10/",
+      "status": "missing-photo"
+    },
+    {
+      "slug": "pesquisa-ia-concreto-pet-cinza-casca-arroz",
+      "sourceUrl": "https://link.springer.com/article/10.1007/s44416-026-00114-z",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "wyre-ia-preconstrucao-documentos",
+      "sourceUrl": "https://www.enr.com/articles/63636-ai-powered-preconstruction-analysis-platform-wyre-raises-5m-in-funding",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "ponte-rio-ibicui-reabilitacao",
+      "sourceUrl": "https://www.gov.br/dnit/pt-br/assuntos/noticias-periodo-eleitoral/ponte-sobre-o-rio-ibicui-no-km-289-da-br-293-rs-esta-totalmente-liberada-ao-trafego",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "pesquisa-concreto-plastico-reciclado-ia-circularidade",
+      "sourceUrl": "https://link.springer.com/article/10.1186/s43065-026-00215-w",
+      "status": "missing-photo"
+    },
+    {
+      "slug": "google-finlandia-data-centers-nuclear",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/",
+      "status": "missing-photo"
+    },
+    {
+      "slug": "mexico-reits-industria-ia",
+      "sourceUrl": "https://www.reuters.com/world/americas/mexicos-reits-poised-benefit-manufacturing-ai-boom-exchange-chief-says-2026-09-09/",
+      "status": "missing-photo"
+    },
+    {
+      "slug": "madeira-rastreabilidade-eudr",
+      "sourceUrl": "https://www.reuters.com/sustainability/land-use-biodiversity/forest-loss-accelerates-can-world-meet-rising-demand-wood--ecmii-2026-09-09/",
+      "status": "missing-photo"
+    },
+    {
+      "slug": "br280-lancamento-vigas-ponte-pirai",
+      "sourceUrl": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-sistema-pare-e-siga-e-intervencoes-na-br-280-sc-em-araquari-a-partir-desta-quarta-feira-09",
+      "status": "corrected"
+    },
+    {
+      "slug": "hubs-construcao-circular-cidades",
+      "sourceUrl": "https://www.archdaily.com/1184701/city-governments-transform-industrial-buildings-into-circular-construction-hubs-in-new-york-london-and-brussels",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "pesquisa-polipropileno-juta-reciclada-reforco-vigas-concreto",
+      "sourceUrl": null,
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "asml-expansao-industrial-holanda",
+      "sourceUrl": "https://www.reuters.com/business/asml-breaks-ground-new-manufacturing-facilities-major-expansion-2026-09-08/",
+      "status": "missing-photo"
+    },
+    {
+      "slug": "pesquisa-manutencao-sustentavel-pontes-revisao-roadmap",
+      "sourceUrl": null,
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "casa-mdl-patio-central-arquitetura",
+      "sourceUrl": "https://www.archdaily.com/1184496/casa-mdl",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "usina-construcao-coletiva-brasil",
+      "sourceUrl": "https://www.archdaily.com/pt/1184491/construir-como-pratica-politica-a-usina-e-o-legado-da-construcao-coletiva-no-brasil",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "solar-baterias-redes-eletricas-data-centers",
+      "sourceUrl": null,
+      "status": "missing-photo"
+    },
+    {
+      "slug": "ponte-ribeirao-forquilha-interditada",
+      "sourceUrl": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-interdicao-total-da-ponte-sobre-o-ribeirao-forquilha-na-br-464-mg",
+      "status": "missing-photo"
+    },
+    {
+      "slug": "pesquisa-grafeno-cinza-volante-lajes-concreto",
+      "sourceUrl": null,
+      "status": "missing-photo"
+    },
+    {
+      "slug": "corredor-ferroviario-minas-rio-leilao",
+      "sourceUrl": "https://www.gov.br/transportes/pt-br/assuntos/noticias-/2026/09/corredor-ferroviario-minas-rio-vai-a-leilao-em-17-de-dezembro",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "caterpillar-fieldai-automacao-equipamentos",
+      "sourceUrl": null,
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "pesquisa-machine-learning-vulnerabilidade-sismica-tuneis",
+      "sourceUrl": "https://link.springer.com/article/10.1007/s11709-026-1332-6",
+      "status": "missing-photo"
+    },
+    {
+      "slug": "obras-de-arte-especiais-dnit",
+      "sourceUrl": null,
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "pesquisa-argamassa-geopolimerica-acido-desempenho-carbono",
+      "sourceUrl": "https://doi.org/10.1007/s42247-026-01506-4",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "construtoras-planejam-contratar-falta-mao-obra",
+      "sourceUrl": null,
+      "status": "missing-photo"
+    },
+    {
+      "slug": "porto-rico-controle-enchentes-11-bi",
+      "sourceUrl": "https://www.enr.com/articles/63604-enr-2026-top-400-review-1b-puerto-rico-flood-control-work-awarded",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "handoff-projeto-construcao-30-dias",
+      "sourceUrl": null,
+      "status": "missing-photo"
+    },
+    {
+      "slug": "civilgrid-mapeamento-subsolo",
+      "sourceUrl": "https://www.enr.com/articles/63611-underground-conditions-platform-civilgrid-raises-26m",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "rivian-fabrica-georgia-5-bilhoes",
+      "sourceUrl": null,
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "hvdc-dakota-minnesota-450-milhoes",
+      "sourceUrl": "https://www.enr.com/articles/63609-mortenson-tapped-for-450m-hvdc-project-in-north-dakota-and-minnesota",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "relacionamentos-risco-infraestrutura-pmi",
+      "sourceUrl": null,
+      "status": "missing-photo"
+    },
+    {
+      "slug": "pesquisa-impacto-veiculos-pilares-concreto-brasil",
+      "sourceUrl": "https://link.springer.com/article/10.1007/s40430-026-06790-z",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "oracle-procore-disputa-dados-construcao",
+      "sourceUrl": null,
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "ponte-estreito-mosquitos-reconstrucao",
+      "sourceUrl": "https://www.gov.br/transportes/pt-br/assuntos/noticias-/2026/09/ministerio-dos-transportes-inicia-reconstrucao-da-ponte-estreito-dos-mosquitos-em-10-de-setembro",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "data-centers-mudam-entrega-projetos",
+      "sourceUrl": null,
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "megaprojetos-garantias-performance-contratos",
+      "sourceUrl": "https://www.enr.com/articles/63537-clarity-in-the-era-of-megaprojects-rethinking-performance-security",
+      "status": "missing-photo"
+    },
+    {
+      "slug": "data-centers-energia-resfriamento-cadeia",
+      "sourceUrl": null,
+      "status": "missing-photo"
+    },
+    {
+      "slug": "everon-t5-construction-data-centers",
+      "sourceUrl": "https://www.enr.com/articles/63589-t5-construction-with-17b-in-latest-annual-revenue-rebrands-as-everon",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "data-centers-energia-gasto-construcao",
+      "sourceUrl": "https://www.enr.com/articles/63595-data-centers-power-see-increase-as-total-spending-declines",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "pib-construcao-segundo-trimestre-2026",
+      "sourceUrl": null,
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "souvinha-house-parto-portugal",
+      "sourceUrl": "https://www.archdaily.com/1184152/souvinha-house-parto",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "pesquisa-selecao-subcontratados-cronograma-construcao",
+      "sourceUrl": null,
+      "status": "missing-photo"
+    },
+    {
+      "slug": "grand-canyon-agua-cheias-infraestrutura",
+      "sourceUrl": "https://www.enr.com/articles/63586-grand-canyon-flood-disrupts-208m-waterline-replacement",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "pesquisa-areia-deserto-composto-cimenticio-fibras",
+      "sourceUrl": null,
+      "status": "missing-photo"
+    },
+    {
+      "slug": "financiamento-sbpe-cresce-2026",
+      "sourceUrl": "https://cbic.org.br/financiamento-para-aquisicao-de-imoveis-pelo-sbpe-cresce-12-no-primeiro-semestre-de-2026/",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "atividade-construcao-desacelera-emprego-resiste",
+      "sourceUrl": null,
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "pesquisa-bim-ia-planejamento-obras-revisao-2026",
+      "sourceUrl": "https://doi.org/10.3390/su18168529",
+      "status": "pending-visual-review"
+    },
+    {
+      "slug": "pesquisa-buildces-bim-blockchain-ia-construcao",
+      "sourceUrl": null,
+      "status": "missing-photo"
+    },
+    {
+      "slug": "pesquisa-bim-parametrico-concreto-edificios-altos",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S1226798826000371",
+      "status": "missing-photo"
+    },
+    {
+      "slug": "megaprojetos-modelos-entrega-estresse",
+      "sourceUrl": null,
+      "status": "missing-photo"
+    }
+  ]
+}
