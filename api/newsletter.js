@@ -2,11 +2,12 @@ function html(title,message,status=200){return {status,body:`<!doctype html><htm
 const headers=apiKey=>({Authorization:`Bearer ${apiKey}`,'Content-Type':'application/json'});
 async function addExistingToSegment(apiKey,email,segmentId){if(!segmentId)return;const r=await fetch(`https://api.resend.com/contacts/${encodeURIComponent(email)}/segments/${encodeURIComponent(segmentId)}`,{method:'POST',headers:headers(apiKey)});if(!r.ok){const detail=await r.text();console.error('NEWSLETTER_SEGMENT_ERROR',r.status,detail.slice(0,300));throw new Error('segment');}}
 module.exports=async(req,res)=>{
+  res.setHeader('Cache-Control','no-store');
   if(req.method!=='POST'){res.statusCode=405;res.setHeader('Allow','POST');return res.end('Method Not Allowed');}
-  let body='';for await(const chunk of req)body+=chunk;const params=new URLSearchParams(body);const email=String(params.get('email')||'').trim().toLowerCase();const consent=params.get('consent');
-  if(!consent||!/^\S+@\S+\.\S+$/.test(email)){const out=html('Não foi possível concluir','Confira o e-mail informado e confirme o consentimento para receber o briefing.',400);res.statusCode=out.status;res.setHeader('Content-Type','text/html; charset=utf-8');return res.end(out.body);}
+  let body='';for await(const chunk of req){body+=chunk;if(Buffer.byteLength(body)>4096){res.statusCode=413;return res.end('Formulário muito grande');}}const params=new URLSearchParams(body);const email=String(params.get('email')||'').trim().toLowerCase();const consent=params.get('consent');
+  if(consent!=='yes'||email.length>254||!/^\S+@\S+\.\S+$/.test(email)){const out=html('Não foi possível concluir','Confira o e-mail informado e confirme o consentimento para receber o briefing.',400);res.statusCode=out.status;res.setHeader('Content-Type','text/html; charset=utf-8');return res.end(out.body);}
   const apiKey=process.env.RESEND_API_KEY;const segmentId=process.env.RESEND_SEGMENT_ID||process.env.RESEND_AUDIENCE_ID;
-  if(!apiKey){console.error('NEWSLETTER_API_KEY_MISSING');const out=html('Inscrição temporariamente indisponível','O serviço de cadastro ainda precisa ser conectado ao provedor de e-mail. Tente novamente em breve.',503);res.statusCode=out.status;res.setHeader('Content-Type','text/html; charset=utf-8');res.setHeader('Cache-Control','no-store');return res.end(out.body);}
+  if(!apiKey||!segmentId){console.error('NEWSLETTER_CONFIG_MISSING');const out=html('Inscrição temporariamente indisponível','O serviço de cadastro ainda precisa ser conectado ao provedor de e-mail. Tente novamente em breve.',503);res.statusCode=out.status;res.setHeader('Content-Type','text/html; charset=utf-8');res.setHeader('Cache-Control','no-store');return res.end(out.body);}
   try{
     const payload={email,unsubscribed:false};if(segmentId)payload.segments=[{id:segmentId}];
     const r=await fetch('https://api.resend.com/contacts',{method:'POST',headers:headers(apiKey),body:JSON.stringify(payload)});
