@@ -11,10 +11,6 @@
     "url": "https://images.adsttc.com/media/images/6a91/af7e/b71a/0f01/89f1/b360/medium_jpg/building-as-political-practice-usina-and-the-legacy-of-collective-construction-in-brazil_23.jpg?1787932547",
     "sourceUrl": "https://www.archdaily.com/pt/1184491/construir-como-pratica-politica-a-usina-e-o-legado-da-construcao-coletiva-no-brasil"
   },
-  "ponte-ribeirao-forquilha-interditada": {
-    "url": "https://www.gov.br/dnit/logo.png",
-    "sourceUrl": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-interdicao-total-da-ponte-sobre-o-ribeirao-forquilha-na-br-464-mg"
-  },
   "caterpillar-fieldai-automacao-equipamentos": {
     "url": "https://imgproxy.divecdn.com/VUf7jTniKBMgURT7jH6wPSRuxDPgj2KoJa5FZguuVb4/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DYXRlcnBpbGxhci1hbmQtRmllbGRBSS1Kb2JzaXRlLVYyLmpwZw==.webp",
     "sourceUrl": "https://www.constructiondive.com/news/caterpillar-partners-fieldai-equipment-automation/829708/"
@@ -30,5 +26,45 @@
   "grandes-contratos-construcao-semana": {
     "url": "https://imgproxy.divecdn.com/d-JYiVnr8_nBx8dQuD25y232q6iP0MFe3i5q7ZmgI2w/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XZWJzaXRlX2ltYWdlX2Jhbm5lcl8xNDQweDUyMF9Ud29fTWVkaWNpbmVfUm9hZC5qcGc=.webp",
     "sourceUrl": "https://www.constructiondive.com/news/punch-list-procore-closes-deal-jacobs-wins-skanska-granite/830146/"
+  },
+  "wyre-ia-preconstrucao-documentos": {
+    "url": "https://www.enr.com/ext/resources/2026/09/09/Wyrescreen.webp?t=1789000890",
+    "sourceUrl": "https://www.enr.com/articles/63636-ai-powered-preconstruction-analysis-platform-wyre-raises-5m-in-funding"
+  },
+  "civilgrid-mapeamento-subsolo": {
+    "url": "https://www.enr.com/ext/resources/2026/09/03/civilgrid-platform-on-monitor_ENRready.webp?t=1788448373",
+    "sourceUrl": "https://www.enr.com/articles/63611-underground-conditions-platform-civilgrid-raises-26m"
+  },
+  "rivian-fabrica-georgia-5-bilhoes": {
+    "url": "https://www.enr.com/ext/resources/2026/09/02/100SD-Render_Aerial-Overall_large-1786468309-scaled-1024x686-c_ENRready.webp?t=1788539968",
+    "sourceUrl": "https://www.enr.com/articles/63605-enr-2026-top-400-review-5b-georgia-rivian-ev-plant-moves-forward"
+  },
+  "hvdc-dakota-minnesota-450-milhoes": {
+    "url": "https://www.enr.com/ext/resources/2026/09/03/Sept.3VIR0E21.webp?t=1788539969",
+    "sourceUrl": "https://www.enr.com/articles/63609-mortenson-tapped-for-450m-hvdc-project-in-north-dakota-and-minnesota"
+  },
+  "oracle-procore-disputa-dados-construcao": {
+    "url": "https://www.enr.com/ext/resources/2026/09/01/Oracle-Downloads.webp?t=1788286039",
+    "sourceUrl": "https://www.enr.com/articles/63592-records-show-file-transfers-in-oracle-procore-intellectual-property-dispute"
+  },
+  "data-centers-mudam-entrega-projetos": {
+    "url": "https://www.enr.com/ext/resources/Issues/National_Issues/2026/07-Sept/Interior-Data-Center-Project-copy_ENRready.webp?height=334&t=1788621812&width=640",
+    "sourceUrl": "https://www.enr.com/articles/63606-data-center-crunch-contractors-rethink-project-delivery-adopt-new-tools-to-meet-booming-demand"
+  },
+  "everon-t5-construction-data-centers": {
+    "url": "https://www.enr.com/ext/resources/2026/09/01/T5-GC.webp?t=1788281675",
+    "sourceUrl": "https://www.enr.com/articles/63589-t5-construction-with-17b-in-latest-annual-revenue-rebrands-as-everon"
+  },
+  "data-centers-energia-gasto-construcao": {
+    "url": "https://www.enr.com/ext/resources/2026/09/01/Nonres-Spending-July-2026.webp?t=1788290432",
+    "sourceUrl": "https://www.enr.com/articles/63595-data-centers-power-see-increase-as-total-spending-declines"
+  },
+  "grand-canyon-agua-cheias-infraestrutura": {
+    "url": "https://www.enr.com/ext/resources/2026/09/01/Transcanyon-Waterline-Damaged.webp?t=1788621814",
+    "sourceUrl": "https://www.enr.com/articles/63586-grand-canyon-flood-disrupts-208m-waterline-replacement"
+  },
+  "porto-rico-controle-enchentes-11-bi": {
+    "url": "https://www.enr.com/ext/resources/2026/09/02/obras-de-canalizacion-de-rio-piedras-puerto-rico-1-scaled_ENRready.webp?t=1788539970",
+    "sourceUrl": "https://www.enr.com/articles/63604-enr-2026-top-400-review-1b-puerto-rico-flood-control-work-awarded"
   }
 }
