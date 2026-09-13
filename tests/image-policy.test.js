@@ -13,11 +13,11 @@ test('reviewed photo overrides an outdated CMS image and its credit', () => {
   assert.match(a.imageCaption, /2024/);
   assert.ok(hasRealImage(a));
 });
-test('Piraí uses the bridge construction photo, not the institutional notice', () => {
+test('Piraí never displays the institutional notice as a bridge photograph', () => {
   const a = resolveImage({slug:'br280-lancamento-vigas-ponte-pirai',
     externalImageUrl:'https://example.com/aviso.jpeg'});
-  assert.match(a.image, /d7fa158f/);
-  assert.match(a.imageAlt, /Guindastes/);
+  assert.equal(a.image, '');
+  assert.equal(a.imageCaption, '');
 });
 test('stock, SVG and fabricated data covers cannot pass the shared policy', () => {
   for (const url of ['https://images.unsplash.com/photo-1','https://pexels.com/a.jpg',

@@ -9,11 +9,12 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
   },
   "br280-lancamento-vigas-ponte-pirai": {
-    "status": "approved",
+    "status": "rejected",
+    "reason": "A foto histórica aparece no índice de pesquisa, mas a fonte atualmente entrega um banner AVISO. Não publicar como foto da obra.",
     "url": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-operacoes-pare-e-siga-na-br-280-sc-entre-guaramirim-e-araquari-a-partir-desta-quinta-feira-6/whatsapp-image-2026-07-08-at-17-50-01-1.jpeg/@@images/d7fa158f-834c-43e3-bb69-e0a7bc055f19.jpeg",
-    "alt": "Guindastes e vigas de concreto na construção da nova ponte sobre o Rio Piraí, na BR-280/SC",
-    "caption": "Construção da ponte sobre o Rio Piraí, na BR-280/SC. Foto de etapa anterior, divulgada pelo DNIT em agosto de 2026; não é registro da operação de setembro.",
-    "credit": "DNIT",
+    "alt": "",
+    "caption": "",
+    "credit": "",
     "sourceUrl": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-operacoes-pare-e-siga-na-br-280-sc-entre-guaramirim-e-araquari-a-partir-desta-quinta-feira-6"
   }
 }
