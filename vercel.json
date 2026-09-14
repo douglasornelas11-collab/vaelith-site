@@ -22,7 +22,6 @@
     {"source":"/sobre","destination":"/api/page?type=about"},
     {"source":"/politica-editorial","destination":"/api/page?type=editorial"},
     {"source":"/privacidade","destination":"/api/page?type=privacy"},
-    {"source":"/midia-kit","destination":"/api/page?type=media-kit"},
     {"source":"/buscar","destination":"/api/page?type=search"},
     {"source":"/analises/:slug","destination":"/api/page?type=article&slug=:slug"}
   ],
