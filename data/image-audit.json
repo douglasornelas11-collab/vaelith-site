@@ -56,7 +56,8 @@
     {
       "slug": "wyre-ia-preconstrucao-documentos",
       "sourceUrl": "https://www.enr.com/articles/63636-ai-powered-preconstruction-analysis-platform-wyre-raises-5m-in-funding",
-      "status": "pending-visual-review"
+      "status": "external-image-failed-in-browser",
+      "note": "2026-09-14: imagem com naturalWidth zero na URL individual. Texto curto mistura interpretação com fatos e omite investidores, produtos e equipe mencionados na fonte. Ampliação pendente de imagem factual com autorização verificável; acervo preservado."
     },
     {
       "slug": "ponte-rio-ibicui-reabilitacao",
@@ -66,7 +67,8 @@
     {
       "slug": "pesquisa-concreto-plastico-reciclado-ia-circularidade",
       "sourceUrl": "https://link.springer.com/article/10.1186/s43065-026-00215-w",
-      "status": "missing-photo"
+      "status": "pending-image-permission",
+      "note": "2026-09-14: fonte original informa CC BY-NC-ND 4.0 em Rights and permissions. Não aprovar reutilização comercial da figura sem autorização adicional. Acervo preservado sem nova imagem."
     },
     {
       "slug": "google-finlandia-data-centers-nuclear",
