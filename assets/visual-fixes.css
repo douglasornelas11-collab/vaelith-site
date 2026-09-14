@@ -1,6 +1,7 @@
 /* VAELITH — camada final de estabilidade visual */
 /* Figuras científicas precisam permanecer inteiras, inclusive nos cards. */
 .research-feature-media .research-feature-image,
+.article-figure .article-hero,
 .research-ranked-image img.research-thumb{object-fit:contain!important;background:#fff!important}
 
 /* Imagens reais: nunca distorcer e nunca crescer além do bloco */
