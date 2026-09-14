@@ -1,20 +1,33 @@
 {
-  "grandes-contratos-construcao-semana": {
-    "status": "approved",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bridges_Over_the_Potomac_River_-_I-395_-_Washington_D.C._%2854000036919%29.jpg",
-    "alt": "Ponte Arland D. Williams Jr. e demais pontes da I-395 sobre o rio Potomac, em Washington",
-    "caption": "Pontes da I-395 sobre o Potomac, incluindo a Arland D. Williams Jr., cuja reabilitação pela Skanska integra os contratos citados no balanço semanal. Registro de junho de 2024, anterior às obras anunciadas.",
-    "credit": "Tony Webster / Wikimedia Commons — CC BY 2.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bridges_Over_the_Potomac_River_-_I-395_-_Washington_D.C._(54000036919).jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
-  },
   "br280-lancamento-vigas-ponte-pirai": {
-    "status": "rejected",
-    "reason": "A foto histórica aparece no índice de pesquisa, mas a fonte atualmente entrega um banner AVISO. Não publicar como foto da obra.",
-    "url": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-operacoes-pare-e-siga-na-br-280-sc-entre-guaramirim-e-araquari-a-partir-desta-quinta-feira-6/whatsapp-image-2026-07-08-at-17-50-01-1.jpeg/@@images/d7fa158f-834c-43e3-bb69-e0a7bc055f19.jpeg",
     "alt": "",
     "caption": "",
     "credit": "",
-    "sourceUrl": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-operacoes-pare-e-siga-na-br-280-sc-entre-guaramirim-e-araquari-a-partir-desta-quinta-feira-6"
+    "reason": "A foto histórica aparece no índice de pesquisa, mas a fonte atualmente entrega um banner AVISO. Não publicar como foto da obra.",
+    "sourceUrl": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-operacoes-pare-e-siga-na-br-280-sc-entre-guaramirim-e-araquari-a-partir-desta-quinta-feira-6",
+    "status": "rejected",
+    "url": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-operacoes-pare-e-siga-na-br-280-sc-entre-guaramirim-e-araquari-a-partir-desta-quinta-feira-6/whatsapp-image-2026-07-08-at-17-50-01-1.jpeg/@@images/d7fa158f-834c-43e3-bb69-e0a7bc055f19.jpeg"
+  },
+  "corredor-ferroviario-minas-rio-leilao": {
+    "reason": "Verificação visual no site público: banner institucional ou nota oficial, não uma fotografia da infraestrutura descrita.",
+    "reviewedAt": "2026-09-14",
+    "status": "rejected"
+  },
+  "grandes-contratos-construcao-semana": {
+    "alt": "Ponte Arland D. Williams Jr. e demais pontes da I-395 sobre o rio Potomac, em Washington",
+    "caption": "Pontes da I-395 sobre o Potomac, incluindo a Arland D. Williams Jr., cuja reabilitação pela Skanska integra os contratos citados no balanço semanal. Registro de junho de 2024, anterior às obras anunciadas.",
+    "credit": "Tony Webster / Wikimedia Commons — CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "reason": "Foto do conjunto de pontes sobre o Potomac, incluindo o projeto da Skanska citado na notícia. Registro de arquivo identificado na legenda; verificado no site público.",
+    "reviewedAt": "2026-09-14",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bridges_Over_the_Potomac_River_-_I-395_-_Washington_D.C._(54000036919).jpg",
+    "status": "approved",
+    "title": "Grandes contratos e projetos mostram construção global ainda ativa em infraestrutura crítica",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bridges_Over_the_Potomac_River_-_I-395_-_Washington_D.C._%2854000036919%29.jpg"
+  },
+  "ponte-estreito-mosquitos-reconstrucao": {
+    "reason": "Verificação visual no site público: banner institucional ou nota oficial, não uma fotografia da infraestrutura descrita.",
+    "reviewedAt": "2026-09-14",
+    "status": "rejected"
   }
 }
