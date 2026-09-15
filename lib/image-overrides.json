@@ -25,6 +25,18 @@
     "title": "Grandes contratos e projetos mostram construção global ainda ativa em infraestrutura crítica",
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bridges_Over_the_Potomac_River_-_I-395_-_Washington_D.C._%2854000036919%29.jpg"
   },
+  "pesquisa-indice-mobilidade-priorizacao-pontes-eua": {
+    "alt": "Fluxograma em cinco etapas da integração de dados, construção, avaliação e aplicação do índice de mobilidade para priorização de pontes",
+    "caption": "Figura 1 do artigo original: fluxo metodológico para integrar HPMS e NBI, construir o índice, avaliar sensibilidade e identificar rankings e áreas prioritárias.",
+    "credit": "Raj Bridgelall / Algorithms (MDPI) — CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reason": "Figura 1 do próprio estudo, conferida visualmente no navegador em 15 de setembro de 2026; mostra as cinco etapas exatas do método descrito na matéria e não é logotipo, aviso ou imagem temática.",
+    "reviewedAt": "2026-09-15T11:12:00Z",
+    "sourceUrl": "https://doi.org/10.3390/a19090791",
+    "status": "approved",
+    "title": "Índice combina condição, tráfego e pavimento para priorizar a preservação de 79.595 pontes",
+    "url": "https://www.mdpi.com/algorithms/algorithms-19-00791/article_deploy/html/images/algorithms-19-00791-g001.png"
+  },
   "ponte-estreito-mosquitos-reconstrucao": {
     "reason": "Verificação visual no site público: banner institucional ou nota oficial, não uma fotografia da infraestrutura descrita.",
     "reviewedAt": "2026-09-14",
