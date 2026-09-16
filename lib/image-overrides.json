@@ -41,5 +41,17 @@
     "reason": "Verificação visual no site público: banner institucional ou nota oficial, não uma fotografia da infraestrutura descrita.",
     "reviewedAt": "2026-09-14",
     "status": "rejected"
+  },
+  "eclusa-barkley-drenagem-reparos-estruturais": {
+    "alt": "Dois técnicos do Corpo de Engenheiros dos EUA inspecionam a câmara drenada da eclusa Barkley, diante das comportas de aço",
+    "caption": "Técnicos inspecionam a câmara drenada da eclusa Barkley em 10 de setembro de 2026, durante a janela de manutenção estrutural no rio Cumberland, em Kentucky.",
+    "credit": "Noe Gonzalez / U.S. Army Corps of Engineers",
+    "licenseUrl": "https://www.law.cornell.edu/uscode/text/17/105",
+    "reason": "Fotografia oficial produzida por servidor do U.S. Army Corps of Engineers e publicada na galeria do próprio fato. Conferida visualmente no navegador em 16 de setembro de 2026: mostra a câmara drenada, as comportas e a inspeção descritas na matéria; não é aviso, logotipo ou imagem temática.",
+    "reviewedAt": "2026-09-16T11:30:00Z",
+    "sourceUrl": "https://www.lrd.usace.army.mil/News/Multimedia/igphoto/2003998327/",
+    "status": "approved",
+    "title": "Corpo de Engenheiros drena eclusa Barkley para reparar comportas e válvulas críticas",
+    "url": "https://media.defense.gov/2026/Sep/15/2003998327/-1/-1/0/260909-A-LQ420-1002.JPG"
   }
 }
