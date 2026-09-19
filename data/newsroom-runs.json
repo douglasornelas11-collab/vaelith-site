@@ -38,9 +38,9 @@
     "siteMaintenance": [
       {
         "issue": "Figuras científicas recortadas em cartões genéricos",
-        "status": "fixed-in-code",
+        "status": "verified-in-production",
         "scope": ["página inicial", "editorias", "arquivo"],
-        "verification": "Aguardando deploy e validação visual no site público."
+        "verification": "Deploy READY. Conferência visual em Tecnologia, página inicial e arquivo confirmou imagens carregadas e object-fit contain."
       }
     ]
   }
