@@ -2,7 +2,7 @@ const test = require('node:test');
 const assert = require('node:assert/strict');
 const {resolveImage, resolveArticles, usableImage, approvedReview} = require('../lib/image-policy');
 const legacy = require('../lib/image-legacy.json');
-const {hasRealImage, card} = require('../lib/cards');
+const {hasRealImage, card, image} = require('../lib/cards');
 const content = require('../lib/content');
 const renderArticle = require('../lib/render-article');
 
@@ -65,4 +65,10 @@ test('an article with no usable photo does not expose a generated cover or socia
     const html=renderArticle(a.slug);
     assert.doesNotMatch(html, /article-hero|property="og:image"|data:image\/svg/);
   } finally {content.articles.pop();}
+});
+test('scientific figures are identified so generic cards display them without cropping', () => {
+  const scientific=image({contentType:'research',image:'https://cdn.sanity.io/images/project/dataset/figure.png',title:'Figure'});
+  const editorial=image({contentType:'news',image:'https://cdn.sanity.io/images/project/dataset/photo.jpg',title:'Photo'});
+  assert.match(scientific,/data-scientific-figure="true"/);
+  assert.doesNotMatch(editorial,/data-scientific-figure/);
 });
