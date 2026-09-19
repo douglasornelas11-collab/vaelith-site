@@ -8,6 +8,13 @@
 .list-grid .image,.daily-cards .image,.editorial-lead .image{display:block!important;width:100%!important;max-width:100%!important;aspect-ratio:16/9!important;height:auto!important;max-height:330px!important;object-fit:cover!important;object-position:center!important}
 .side-story .thumb{max-height:220px!important;object-fit:cover!important}
 
+/* Figuras e fluxogramas científicos não podem ser recortados nos cards genéricos. */
+.list-grid img[data-scientific-figure="true"],
+.daily-cards img[data-scientific-figure="true"],
+.editorial-lead img[data-scientific-figure="true"],
+.editorial-stack img[data-scientific-figure="true"],
+.side-story img[data-scientific-figure="true"]{object-fit:contain!important;object-position:center!important;background:#fff!important}
+
 /* Sem imagem validada: card textual limpo, sem placeholder nem aviso técnico. */
 .card.no-image>a,.side-story.no-image>a{position:relative!important;background:#f9faf7!important}
 .card.no-image>a{padding:18px 18px 16px!important;border-top:2px solid #1c2320!important;min-height:150px!important}
