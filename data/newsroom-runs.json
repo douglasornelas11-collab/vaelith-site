@@ -1,0 +1,47 @@
+[
+  {
+    "runDate": "2026-09-19",
+    "window": "mesmo dia e 24 horas anteriores",
+    "published": [],
+    "sections": {
+      "engenharia": {
+        "researched": ["construção civil", "infraestrutura", "obras públicas", "rodovias", "fontes brasileiras", "fontes internacionais"],
+        "status": "pending",
+        "reason": "Nenhuma pauta encontrada reuniu simultaneamente atualidade comprovada, fonte primária suficiente e imagem factual com permissão verificável de reutilização."
+      },
+      "arquitetura": {
+        "researched": ["projetos", "concursos", "obras", "CAU", "fontes brasileiras", "fontes internacionais"],
+        "status": "pending",
+        "reason": "Nenhuma pauta qualificada na janela editorial com imagem diretamente vinculada e reutilização autorizada."
+      },
+      "tecnologia": {
+        "researched": ["BIM", "inteligência artificial", "construção digital", "lançamentos", "fontes brasileiras", "fontes internacionais"],
+        "status": "pending",
+        "reason": "Os resultados localizados não atenderam ao conjunto de atualidade, fonte verificável e imagem autorizada."
+      },
+      "mercado": {
+        "researched": ["indicadores", "empresas", "contratos", "investimentos", "fontes brasileiras", "fontes internacionais"],
+        "status": "pending",
+        "reason": "Uma pauta empresarial brasileira foi descartada porque não havia autorização verificável para reutilizar a fotografia da publicação original."
+      },
+      "gestao": {
+        "researched": ["gestão de projetos", "liderança", "produtividade", "segurança", "fontes brasileiras", "fontes internacionais"],
+        "status": "pending",
+        "reason": "Nenhuma pauta qualificada na janela de 24 horas com fonte e imagem em conformidade."
+      },
+      "sustentabilidade": {
+        "researched": ["construção sustentável", "descarbonização", "materiais", "energia", "fontes brasileiras", "fontes internacionais"],
+        "status": "pending",
+        "reason": "Nenhuma pauta qualificada na janela de 24 horas com evidência completa e imagem autorizada."
+      }
+    },
+    "siteMaintenance": [
+      {
+        "issue": "Figuras científicas recortadas em cartões genéricos",
+        "status": "fixed-in-code",
+        "scope": ["página inicial", "editorias", "arquivo"],
+        "verification": "Aguardando deploy e validação visual no site público."
+      }
+    ]
+  }
+]
