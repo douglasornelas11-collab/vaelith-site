@@ -1,7 +1,13 @@
 {
   "checkedAt": "2026-09-20",
-  "note": "Inventário de 57 matérias. Não equivale a uma revisão visual completa. Novas publicações exigem revisão no manifesto; 24 matérias do cadastro estavam sem imagem antes das rejeições adicionais. Em 20/09, a auditoria visual confirmou quatro capas externas do ENR com dimensões naturais zero; elas foram rejeitadas no manifesto para saírem das áreas visuais até haver substituição autorizada.",
+  "note": "Inventário do acervo. Não equivale a uma revisão visual completa. Novas publicações exigem revisão no manifesto; 24 matérias do cadastro estavam sem imagem antes das rejeições adicionais. Em 20/09, capas externas quebradas foram rejeitadas para saírem das áreas visuais. A figura da nova revisão sobre ECC em pontes foi conferida no artigo original, aprovada sob CC BY 4.0 e armazenada no Sanity.",
   "articles": [
+    {
+      "slug": "pesquisa-ecc-pontes-durabilidade-resiliencia",
+      "sourceUrl": "https://doi.org/10.1186/s43251-026-00224-5",
+      "status": "approved",
+      "note": "Figura 2 do artigo original conferida visualmente em 20/09/2026; ativo próprio do Sanity, licença CC BY 4.0, sem duplicidade com as imagens publicadas."
+    },
     {
       "slug": "glenfarne-oliver-wood-lideranca-projetos-lng",
       "sourceUrl": "https://www.businesswire.com/news/home/20260913293425/en/Glenfarne-Group-Promotes-Oliver-Wood-to-Global-Head-of-Projects",
