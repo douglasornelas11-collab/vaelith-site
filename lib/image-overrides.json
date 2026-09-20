@@ -1,4 +1,22 @@
 {
+  "civilgrid-mapeamento-subsolo": {
+    "reason": "A capa externa da matéria do ENR foi conferida no site público em 20 de setembro de 2026 e não carregou após rolagem e espera do lazy-loading. Sem imagem alternativa autorizada do mesmo anúncio, a URL foi rejeitada para não manter um cartão quebrado.",
+    "reviewedAt": "2026-09-20T11:20:00Z",
+    "sourceUrl": "https://www.enr.com/articles/63611-underground-conditions-platform-civilgrid-raises-26m",
+    "status": "rejected"
+  },
+  "data-centers-energia-gasto-construcao": {
+    "reason": "O gráfico externo da matéria do ENR foi conferido no site público em 20 de setembro de 2026 e permaneceu com dimensões naturais zero após o carregamento da página. Rejeitado até existir figura oficial reutilizável e visualmente validada.",
+    "reviewedAt": "2026-09-20T11:20:00Z",
+    "sourceUrl": "https://www.enr.com/articles/63595-data-centers-power-see-increase-as-total-spending-declines",
+    "status": "rejected"
+  },
+  "everon-t5-construction-data-centers": {
+    "reason": "A fotografia externa do campus T5 usada pelo ENR foi conferida no site público em 20 de setembro de 2026 e não carregou após rolagem e espera do lazy-loading. Rejeitada até ser substituída por imagem oficial autorizada do mesmo fato.",
+    "reviewedAt": "2026-09-20T11:20:00Z",
+    "sourceUrl": "https://www.enr.com/articles/63589-t5-construction-with-17b-in-latest-annual-revenue-rebrands-as-everon",
+    "status": "rejected"
+  },
   "br280-lancamento-vigas-ponte-pirai": {
     "alt": "",
     "caption": "",
@@ -40,6 +58,12 @@
   "ponte-estreito-mosquitos-reconstrucao": {
     "reason": "Verificação visual no site público: banner institucional ou nota oficial, não uma fotografia da infraestrutura descrita.",
     "reviewedAt": "2026-09-14",
+    "status": "rejected"
+  },
+  "wyre-ia-preconstrucao-documentos": {
+    "reason": "A captura externa da plataforma Wyre continua sem carregar no site público em 20 de setembro de 2026. Sem autorização verificável para copiar a imagem protegida do ENR, a capa permanece rejeitada e fora das áreas visuais de destaque.",
+    "reviewedAt": "2026-09-20T11:20:00Z",
+    "sourceUrl": "https://www.enr.com/articles/63636-ai-powered-preconstruction-analysis-platform-wyre-raises-5m-in-funding",
     "status": "rejected"
   },
   "eclusa-barkley-drenagem-reparos-estruturais": {
