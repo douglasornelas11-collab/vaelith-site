@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "brasil-reativacao-10-mil-km-ferrovias-terminais-logisticos",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "region": "Brasil",
+    "date": "2026-09-20",
+    "dateDisplay": "20 set 2026",
+    "publishedAt": "2026-09-20T13:38:00-03:00",
+    "modifiedAt": "2026-09-20T13:38:00-03:00",
+    "contentType": "news",
+    "title": "Brasil prepara reativação de 10 mil quilômetros de ferrovias e novos terminais logísticos",
+    "dek": "Carteira apresentada pelo Ministério dos Transportes na B3 reúne sete projetos de shortlines, cinco terminais na Ferrovia Norte-Sul e o leilão do corredor Minas–Rio.",
+    "sourceName": "Ministério dos Transportes",
+    "sourceUrl": "https://www.gov.br/transportes/pt-br/assuntos/noticias-/2026/09/ministerio-dos-transportes-apresenta-na-b3-carteira-para-reativar-ferrovias-ociosas-e-implantar-terminais-logisticos",
+    "sourceLanguage": "Português",
+    "image": "https://www.vaelithlabs.com.br/assets/editorial/ferrovias-b3-ministerio-transportes.jpg",
+    "imageAlt": "Representantes do Ministério dos Transportes apresentam na B3 a carteira de chamamentos públicos e terminais logísticos, diante de uma tela com imagem de trem",
+    "imageCaption": "Apresentação da carteira de chamamentos públicos e terminais logísticos na B3, em São Paulo, em setembro de 2026.",
+    "imageCredit": "Jerônimo Gonzalez / Ministério dos Transportes",
+    "keyFacts": [
+      {"label": "Malha potencial", "value": "cerca de 10 mil km"},
+      {"label": "Shortlines", "value": "7 projetos"},
+      {"label": "Terminais", "value": "5 áreas na Norte-Sul"},
+      {"label": "Leilões", "value": "3 e 17 de dezembro"}
+    ],
+    "body": [
+      "O Ministério dos Transportes apresentou na B3, em São Paulo, uma carteira destinada a recolocar em operação trechos ferroviários ociosos e implantar novos terminais logísticos. Segundo a pasta, aproximadamente 10 mil quilômetros de linhas atualmente subutilizadas poderão voltar à rede de transportes por meio da participação privada. A divulgação original foi feita em 15 de setembro de 2026 e atualizada no dia seguinte.",
+      "A modelagem usa como referência o corredor Minas–Rio, com cerca de 700 quilômetros, validado pelo Tribunal de Contas da União em agosto. O leilão desse corredor está previsto para 17 de dezembro, também na B3. A proposta busca aproveitar infraestrutura já existente e criar ligações regionais capazes de alimentar corredores ferroviários de maior escala.",
+      "A carteira de ferrovias de curta distância, ou shortlines, reúne sete projetos: General Carneiro–Miguel Burnier e Aguaí–Bauxita, em Minas Gerais; Brasília–Luziânia, entre o Distrito Federal e Goiás; Campina Grande–Cabedelo, na Paraíba; Roncador Novo–Jardim Ingá, em Goiás; Santo Ângelo–Santa Rosa e Cruz Alta–Santo Ângelo, no Rio Grande do Sul. Os trechos deverão passar por chamamentos públicos para identificar interessados na operação.",
+      "O modelo prevê autorizações com prazo de até 99 anos. Os vencedores terão até dois anos para apresentar o Plano de Requalificação e Exploração da Capacidade, documento que deverá detalhar os investimentos necessários para recuperar e operar cada trecho. A estrutura transfere ao interessado a obrigação de demonstrar viabilidade técnica e econômica antes da retomada efetiva do serviço.",
+      "Além das shortlines, o governo anunciou cinco áreas para terminais logísticos na Ferrovia Norte-Sul, com leilão marcado para 3 de dezembro. Duas áreas serão destinadas a granéis agrícolas e três a granéis líquidos, distribuídas entre Palmeirante e Porto Nacional, no Tocantins. A carteira também considera áreas disponíveis em 12 pátios ferroviários localizados no Tocantins, em Goiás e em São Paulo.",
+      "A estratégia combina reativação de ativos, conexão regional e ampliação da capacidade de armazenagem e transbordo. Para o governo, o aproveitamento de trechos já implantados pode reduzir a necessidade de construir corredores integralmente novos, desde que os projetos de requalificação confirmem condições de segurança, demanda, integração operacional e sustentabilidade econômica."
+    ],
+    "technicalTakeaway": "A oportunidade central está menos na extensão anunciada isoladamente e mais na capacidade de integrar trechos curtos, terminais e corredores troncais. Para engenharia e construção, o avanço dependerá de diagnósticos consistentes da via permanente, pontes, drenagem, sinalização e pátios, além de projetos executivos que transformem autorizações longas em cronogramas financiáveis e operação segura."
+  }
+]

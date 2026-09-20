@@ -57,6 +57,18 @@ test('emergency articles use the same image rules', () => {
   assert.match(renderArticle(a.slug),/Tony Webster/);
   assert.doesNotMatch(renderArticle(a.slug),/Two_Medicine|d-JYiVnr8/);
 });
+test('reviewed national editorial remains available beside Sanity content', () => {
+  const slug='brasil-reativacao-10-mil-km-ferrovias-terminais-logisticos';
+  const a=content.articles.find(article=>article.slug===slug);
+  assert.ok(a);
+  assert.equal(a.region,'Brasil');
+  assert.equal(a.imageReviewStatus,'approved');
+  assert.match(a.image,/vaelithlabs\.com\.br\/assets\/editorial\/ferrovias-b3/);
+  const html=renderArticle(slug);
+  assert.match(html,/10 mil quilômetros de ferrovias/);
+  assert.match(html,/Jerônimo Gonzalez/);
+  assert.match(html,/Leitura VAELITH/);
+});
 test('an article with no usable photo does not expose a generated cover or social image', () => {
   const a={slug:'test-missing-image',title:'Test',category:'Engenharia',categorySlug:'engenharia',
     date:'2026-09-13',body:['Test'],image:'data:image/svg+xml,invalid',imageIsEditorialFallback:true};
