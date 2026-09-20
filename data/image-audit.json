@@ -118,7 +118,8 @@
     {
       "slug": "usina-construcao-coletiva-brasil",
       "sourceUrl": "https://www.archdaily.com/pt/1184491/construir-como-pratica-politica-a-usina-e-o-legado-da-construcao-coletiva-no-brasil",
-      "status": "pending-visual-review"
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-20: capa com naturalWidth zero em Arquitetura; URL removida do Sanity e rejeição registrada no manifesto."
     },
     {
       "slug": "solar-baterias-redes-eletricas-data-centers",
@@ -152,8 +153,9 @@
     },
     {
       "slug": "obras-de-arte-especiais-dnit",
-      "sourceUrl": null,
-      "status": "pending-visual-review"
+      "sourceUrl": "https://www.gov.br/dnit/pt-br/assuntos/noticias-periodo-eleitoral/obras-de-arte-especiais-estruturas-fundamentais-para-a-infraestrutura-rodoviaria",
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-20: imagem oficial com naturalWidth zero em Engenharia; URL removida do Sanity e rejeição registrada no manifesto."
     },
     {
       "slug": "pesquisa-argamassa-geopolimerica-acido-desempenho-carbono",
@@ -168,8 +170,8 @@
     {
       "slug": "porto-rico-controle-enchentes-11-bi",
       "sourceUrl": "https://www.enr.com/articles/63604-enr-2026-top-400-review-1b-puerto-rico-flood-control-work-awarded",
-      "status": "external-image-failed-in-browser",
-      "note": "Imagem não carregou no site público. ENR apresentou verificação humana no teste direto da imagem de Puerto Rico; não contornar o bloqueio."
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-20: falha reconfirmada em Engenharia; URL removida do Sanity e rejeição registrada no manifesto."
     },
     {
       "slug": "handoff-projeto-construcao-30-dias",
@@ -184,15 +186,15 @@
     },
     {
       "slug": "rivian-fabrica-georgia-5-bilhoes",
-      "sourceUrl": null,
-      "status": "external-image-failed-in-browser",
-      "note": "Imagem não carregou no site público. ENR apresentou verificação humana no teste direto da imagem de Puerto Rico; não contornar o bloqueio."
+      "sourceUrl": "https://www.enr.com/articles/63605-enr-2026-top-400-review-5b-georgia-rivian-ev-plant-moves-forward",
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-20: renderização com naturalWidth zero em Engenharia; URL removida do Sanity e rejeição registrada no manifesto."
     },
     {
       "slug": "hvdc-dakota-minnesota-450-milhoes",
       "sourceUrl": "https://www.enr.com/articles/63609-mortenson-tapped-for-450m-hvdc-project-in-north-dakota-and-minnesota",
-      "status": "external-image-failed-in-browser",
-      "note": "Imagem não carregou no site público. ENR apresentou verificação humana no teste direto da imagem de Puerto Rico; não contornar o bloqueio."
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-20: mapa com naturalWidth zero em Engenharia; URL removida do Sanity e rejeição registrada no manifesto."
     },
     {
       "slug": "relacionamentos-risco-infraestrutura-pmi",
@@ -217,9 +219,9 @@
     },
     {
       "slug": "data-centers-mudam-entrega-projetos",
-      "sourceUrl": null,
-      "status": "external-image-failed-in-browser",
-      "note": "Imagem não carregou no site público. ENR apresentou verificação humana no teste direto da imagem de Puerto Rico; não contornar o bloqueio."
+      "sourceUrl": "https://www.enr.com/articles/63606-data-center-crunch-contractors-rethink-project-delivery-adopt-new-tools-to-meet-booming-demand",
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-20: capa com naturalWidth zero em Engenharia; URL removida do Sanity e rejeição registrada no manifesto."
     },
     {
       "slug": "megaprojetos-garantias-performance-contratos",
@@ -251,7 +253,8 @@
     {
       "slug": "souvinha-house-parto-portugal",
       "sourceUrl": "https://www.archdaily.com/1184152/souvinha-house-parto",
-      "status": "pending-visual-review"
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-20: fotografia com naturalWidth zero em Arquitetura; URL removida do Sanity e rejeição registrada no manifesto."
     },
     {
       "slug": "pesquisa-selecao-subcontratados-cronograma-construcao",
@@ -261,8 +264,8 @@
     {
       "slug": "grand-canyon-agua-cheias-infraestrutura",
       "sourceUrl": "https://www.enr.com/articles/63586-grand-canyon-flood-disrupts-208m-waterline-replacement",
-      "status": "external-image-failed-in-browser",
-      "note": "Imagem não carregou no site público. ENR apresentou verificação humana no teste direto da imagem de Puerto Rico; não contornar o bloqueio."
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-20: capa com naturalWidth zero em Engenharia; URL removida do Sanity e rejeição registrada no manifesto."
     },
     {
       "slug": "pesquisa-areia-deserto-composto-cimenticio-fibras",
@@ -276,8 +279,9 @@
     },
     {
       "slug": "atividade-construcao-desacelera-emprego-resiste",
-      "sourceUrl": null,
-      "status": "pending-visual-review"
+      "sourceUrl": "https://cbic.org.br/cni-atividade-da-industria-da-construcao-desacelera-mas-emprego-no-setor-resiste/",
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-20: capa com naturalWidth zero em Engenharia; URL removida do Sanity e rejeição registrada no manifesto."
     },
     {
       "slug": "pesquisa-bim-ia-planejamento-obras-revisao-2026",
