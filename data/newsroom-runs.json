@@ -37,10 +37,10 @@
     },
     "siteMaintenance": [
       {
-        "issue": "Quatro capas externas do ENR com carregamento quebrado",
+        "issue": "Quatorze capas externas com carregamento quebrado",
         "status": "fixed-in-source-and-manifest-awaiting-deploy",
-        "scope": ["página inicial", "Tecnologia", "Mercado", "Arquivo"],
-        "verification": "Wyre, CivilGrid, EverOn/T5 e gráfico de gastos apresentaram naturalWidth zero após rolagem e espera. URLs removidas do Sanity e registradas como rejeitadas no manifesto; matérias preservadas no acervo."
+        "scope": ["página inicial", "Engenharia", "Arquitetura", "Tecnologia", "Mercado", "Arquivo"],
+        "verification": "A auditoria completa encontrou 14 imagens com naturalWidth zero após rolagem e espera: quatro na inicial, uma adicional em Tecnologia, sete em Engenharia e duas em Arquitetura. URLs removidas do Sanity e registradas como rejeitadas no manifesto; matérias preservadas no acervo."
       }
     ]
   },
