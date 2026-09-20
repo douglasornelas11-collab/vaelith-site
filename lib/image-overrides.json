@@ -1,4 +1,58 @@
 {
+  "atividade-construcao-desacelera-emprego-resiste": {
+    "reason": "A capa externa da reportagem da CBIC foi conferida na editoria Engenharia em 20 de setembro de 2026 e não carregou após a rolagem completa. Rejeitada até existir imagem autorizada e visualmente validada do mesmo indicador.",
+    "reviewedAt": "2026-09-20T12:05:00Z",
+    "sourceUrl": "https://cbic.org.br/cni-atividade-da-industria-da-construcao-desacelera-mas-emprego-no-setor-resiste/",
+    "status": "rejected"
+  },
+  "data-centers-mudam-entrega-projetos": {
+    "reason": "A fotografia externa de interior de data center não carregou na editoria Engenharia após a espera do lazy-loading em 20 de setembro de 2026. Rejeitada até haver alternativa autorizada do mesmo fato.",
+    "reviewedAt": "2026-09-20T12:05:00Z",
+    "sourceUrl": "https://www.enr.com/articles/63606-data-center-crunch-contractors-rethink-project-delivery-adopt-new-tools-to-meet-booming-demand",
+    "status": "rejected"
+  },
+  "grand-canyon-agua-cheias-infraestrutura": {
+    "reason": "A capa externa sobre a infraestrutura de água do Grand Canyon permaneceu com dimensões naturais zero na editoria Engenharia em 20 de setembro de 2026. Rejeitada até substituição factual autorizada.",
+    "reviewedAt": "2026-09-20T12:05:00Z",
+    "sourceUrl": "https://www.enr.com/articles/63586-grand-canyon-flood-disrupts-208m-waterline-replacement",
+    "status": "rejected"
+  },
+  "hvdc-dakota-minnesota-450-milhoes": {
+    "reason": "O mapa externo da linha HVDC não carregou na editoria Engenharia após a rolagem completa em 20 de setembro de 2026. Rejeitado até existir figura oficial reutilizável e visualmente validada.",
+    "reviewedAt": "2026-09-20T12:05:00Z",
+    "sourceUrl": "https://www.enr.com/articles/63609-mortenson-tapped-for-450m-hvdc-project-in-north-dakota-and-minnesota",
+    "status": "rejected"
+  },
+  "obras-de-arte-especiais-dnit": {
+    "reason": "A imagem oficial vinculada à matéria do DNIT não carregou na editoria Engenharia após a rolagem completa em 20 de setembro de 2026. Rejeitada até ser recuperada ou substituída por ativo oficial do mesmo conteúdo.",
+    "reviewedAt": "2026-09-20T12:05:00Z",
+    "sourceUrl": "https://www.gov.br/dnit/pt-br/assuntos/noticias-periodo-eleitoral/obras-de-arte-especiais-estruturas-fundamentais-para-a-infraestrutura-rodoviaria",
+    "status": "rejected"
+  },
+  "porto-rico-controle-enchentes-11-bi": {
+    "reason": "A fotografia externa das obras de canalização em Puerto Rico continuou sem carregar na editoria Engenharia em 20 de setembro de 2026. Rejeitada até haver cópia autorizada ou alternativa oficial do mesmo projeto.",
+    "reviewedAt": "2026-09-20T12:05:00Z",
+    "sourceUrl": "https://www.enr.com/articles/63604-enr-2026-top-400-review-1b-puerto-rico-flood-control-work-awarded",
+    "status": "rejected"
+  },
+  "rivian-fabrica-georgia-5-bilhoes": {
+    "reason": "A renderização externa da fábrica da Rivian permaneceu com dimensões naturais zero na editoria Engenharia em 20 de setembro de 2026. Rejeitada até alternativa oficial autorizada do mesmo empreendimento.",
+    "reviewedAt": "2026-09-20T12:05:00Z",
+    "sourceUrl": "https://www.enr.com/articles/63605-enr-2026-top-400-review-5b-georgia-rivian-ev-plant-moves-forward",
+    "status": "rejected"
+  },
+  "souvinha-house-parto-portugal": {
+    "reason": "A fotografia externa da Souvinha House não carregou na editoria Arquitetura após a rolagem completa em 20 de setembro de 2026. Rejeitada até ser substituída por imagem da obra com permissão verificável.",
+    "reviewedAt": "2026-09-20T12:05:00Z",
+    "sourceUrl": "https://www.archdaily.com/1184152/souvinha-house-parto",
+    "status": "rejected"
+  },
+  "usina-construcao-coletiva-brasil": {
+    "reason": "A fotografia externa da publicação sobre a USINA não carregou na editoria Arquitetura após a rolagem completa em 20 de setembro de 2026. Rejeitada até haver imagem autorizada diretamente ligada ao mesmo conteúdo.",
+    "reviewedAt": "2026-09-20T12:05:00Z",
+    "sourceUrl": "https://www.archdaily.com/pt/1184491/construir-como-pratica-politica-a-usina-e-o-legado-da-construcao-coletiva-no-brasil",
+    "status": "rejected"
+  },
   "civilgrid-mapeamento-subsolo": {
     "reason": "A capa externa da matéria do ENR foi conferida no site público em 20 de setembro de 2026 e não carregou após rolagem e espera do lazy-loading. Sem imagem alternativa autorizada do mesmo anúncio, a URL foi rejeitada para não manter um cartão quebrado.",
     "reviewedAt": "2026-09-20T11:20:00Z",
