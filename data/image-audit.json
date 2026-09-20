@@ -206,8 +206,9 @@
     },
     {
       "slug": "oracle-procore-disputa-dados-construcao",
-      "sourceUrl": null,
-      "status": "pending-visual-review"
+      "sourceUrl": "https://www.enr.com/articles/63592-records-show-file-transfers-in-oracle-procore-intellectual-property-dispute",
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-20: anexo externo do ENR confirmado com naturalWidth zero na editoria Tecnologia; URL removida do Sanity e rejeição registrada no manifesto."
     },
     {
       "slug": "ponte-estreito-mosquitos-reconstrucao",
