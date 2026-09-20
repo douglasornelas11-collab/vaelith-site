@@ -1,5 +1,50 @@
 [
   {
+    "runDate": "2026-09-20",
+    "window": "mesmo dia e 24 horas anteriores",
+    "published": [],
+    "sections": {
+      "engenharia": {
+        "researched": ["obras e concessões no Brasil", "saneamento", "rodovias e ferrovias", "infraestrutura internacional"],
+        "status": "pending",
+        "reason": "Foram localizadas pautas brasileiras sobre a carteira de saneamento e projetos de infraestrutura, mas as fontes disponíveis eram matérias secundárias e suas fotografias não tinham autorização verificável de reutilização."
+      },
+      "arquitetura": {
+        "researched": ["projetos brasileiros", "prêmios", "CAU", "urbanismo", "lançamentos internacionais"],
+        "status": "pending",
+        "reason": "Nenhuma novidade da janela de 24 horas reuniu publicação original completa e imagem factual com permissão verificável."
+      },
+      "tecnologia": {
+        "researched": ["BIM", "IA aplicada à construção", "automação", "plataformas brasileiras", "construction tech internacional"],
+        "status": "pending",
+        "reason": "Nenhuma pauta qualificada na janela editorial; resultados recuperados eram antigos, genéricos ou sem imagem autorizada do mesmo fato."
+      },
+      "mercado": {
+        "researched": ["crédito e investimentos", "BNDES", "indicadores da construção", "empresas brasileiras", "mercado internacional"],
+        "status": "pending",
+        "reason": "A pauta do Plano Brasil Soberano foi triada, mas não tinha relação material suficiente com o ambiente construído para justificar publicação na VAELITH."
+      },
+      "gestao": {
+        "researched": ["gestão de projetos", "contratações", "produtividade", "segurança", "liderança técnica"],
+        "status": "pending",
+        "reason": "Não foi encontrada pauta da janela de 24 horas que passasse simultaneamente por relevância setorial, fonte primária e imagem autorizada."
+      },
+      "sustentabilidade": {
+        "researched": ["descarbonização", "construção circular", "energia", "materiais", "adaptação climática no Brasil"],
+        "status": "pending",
+        "reason": "O passaporte socioambiental brasileiro foi analisado, mas o fato é voltado ao agronegócio e não apresentou vínculo técnico suficiente com construção e infraestrutura."
+      }
+    },
+    "siteMaintenance": [
+      {
+        "issue": "Quatro capas externas do ENR com carregamento quebrado",
+        "status": "fixed-in-source-and-manifest-awaiting-deploy",
+        "scope": ["página inicial", "Tecnologia", "Mercado", "Arquivo"],
+        "verification": "Wyre, CivilGrid, EverOn/T5 e gráfico de gastos apresentaram naturalWidth zero após rolagem e espera. URLs removidas do Sanity e registradas como rejeitadas no manifesto; matérias preservadas no acervo."
+      }
+    ]
+  },
+  {
     "runDate": "2026-09-19",
     "window": "mesmo dia e 24 horas anteriores",
     "published": [],
