@@ -137,5 +137,17 @@
     "status": "approved",
     "title": "Corpo de Engenheiros drena eclusa Barkley para reparar comportas e válvulas críticas",
     "url": "https://www.vaelithlabs.com.br/assets/editorial/barkley-usace-9938032.jpg"
+  },
+  "pesquisa-ecc-pontes-durabilidade-resiliencia": {
+    "alt": "Esquema de uma ponte indicando seis aplicações de compósitos cimentícios engenheirados em tabuleiro, laje de ligação, reparos, chaves transversais, pilares e dispositivos sísmicos",
+    "caption": "Figura 2 do artigo original: esquema dos usos de ECC em diferentes componentes de uma ponte, incluindo laje de ligação, sistema misto de tabuleiro, reparos, preenchimento de chave transversal, regiões de dobradiça plástica e dispositivo sísmico.",
+    "credit": "Hu et al. / Advances in Bridge Engineering — CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reason": "Figura 2 do próprio artigo, conferida visualmente no navegador em 20 de setembro de 2026. O esquema mostra exatamente as seis aplicações de ECC em pontes descritas na revisão; não é logotipo, aviso nem imagem temática. A figura foi armazenada como ativo do Sanity para evitar dependência de hotlink.",
+    "reviewedAt": "2026-09-20T11:40:00Z",
+    "sourceUrl": "https://doi.org/10.1186/s43251-026-00224-5",
+    "status": "approved",
+    "title": "ECC amplia durabilidade de pontes, mas adoção ainda esbarra em normas e dados de campo",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/91c145e752d46df449ea6a820441be2aea32e14d-1200x623.png"
   }
 }
