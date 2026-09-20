@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-09-14",
-  "note": "Inventário de 57 matérias. Não equivale a uma revisão visual completa. Novas publicações exigem revisão no manifesto; 24 matérias do cadastro estavam sem imagem antes das rejeições adicionais. Fotos externas do ENR falharam no navegador; uma navegação direta confirmou exigência de verificação humana.",
+  "checkedAt": "2026-09-20",
+  "note": "Inventário de 57 matérias. Não equivale a uma revisão visual completa. Novas publicações exigem revisão no manifesto; 24 matérias do cadastro estavam sem imagem antes das rejeições adicionais. Em 20/09, a auditoria visual confirmou quatro capas externas do ENR com dimensões naturais zero; elas foram rejeitadas no manifesto para saírem das áreas visuais até haver substituição autorizada.",
   "articles": [
     {
       "slug": "glenfarne-oliver-wood-lideranca-projetos-lng",
@@ -56,8 +56,8 @@
     {
       "slug": "wyre-ia-preconstrucao-documentos",
       "sourceUrl": "https://www.enr.com/articles/63636-ai-powered-preconstruction-analysis-platform-wyre-raises-5m-in-funding",
-      "status": "external-image-failed-in-browser",
-      "note": "2026-09-14: imagem com naturalWidth zero na URL individual. Texto curto mistura interpretação com fatos e omite investidores, produtos e equipe mencionados na fonte. Ampliação pendente de imagem factual com autorização verificável; acervo preservado."
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-20: imagem continuou com naturalWidth zero após rolagem e espera do lazy-loading. Rejeição registrada no manifesto; texto curto ainda requer ampliação e a substituição depende de imagem factual com autorização verificável."
     },
     {
       "slug": "ponte-rio-ibicui-reabilitacao",
@@ -179,7 +179,8 @@
     {
       "slug": "civilgrid-mapeamento-subsolo",
       "sourceUrl": "https://www.enr.com/articles/63611-underground-conditions-platform-civilgrid-raises-26m",
-      "status": "pending-visual-review"
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-20: capa do ENR confirmada com naturalWidth zero no site público; rejeição registrada no manifesto."
     },
     {
       "slug": "rivian-fabrica-georgia-5-bilhoes",
@@ -232,12 +233,14 @@
     {
       "slug": "everon-t5-construction-data-centers",
       "sourceUrl": "https://www.enr.com/articles/63589-t5-construction-with-17b-in-latest-annual-revenue-rebrands-as-everon",
-      "status": "pending-visual-review"
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-20: capa do ENR confirmada com naturalWidth zero no site público; rejeição registrada no manifesto."
     },
     {
       "slug": "data-centers-energia-gasto-construcao",
       "sourceUrl": "https://www.enr.com/articles/63595-data-centers-power-see-increase-as-total-spending-declines",
-      "status": "pending-visual-review"
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-20: gráfico externo do ENR confirmado com naturalWidth zero no site público; rejeição registrada no manifesto."
     },
     {
       "slug": "pib-construcao-segundo-trimestre-2026",
