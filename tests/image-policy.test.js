@@ -69,6 +69,28 @@ test('reviewed national editorial remains available beside Sanity content', () =
   assert.match(html,/Jerônimo Gonzalez/);
   assert.match(html,/Leitura VAELITH/);
 });
+test('expanded current edition publishes only fully reviewed factual images', () => {
+  const expected=[
+    ['mata-atlantica-perde-vegetacao-agricultura-avanca','Sustentabilidade'],
+    ['pix-novas-regras-fraudes-cobranca-hibrida','Tecnologia'],
+    ['chongqing-megainfraestrutura-polo-industrial','Arquitetura'],
+    ['plataforma-228-indicadores-estados-brasileiros','Gestão']
+  ];
+  const urls=new Set();
+  for(const [slug,category] of expected){
+    const article=content.articles.find(item=>item.slug===slug);
+    assert.ok(article, `${slug} should be published`);
+    assert.equal(article.category,category);
+    assert.equal(article.imageReviewStatus,'approved');
+    assert.ok(article.body.length>=6);
+    assert.ok(article.image.startsWith('https://imagens.ebc.com.br/'));
+    assert.ok(!urls.has(article.image),`${slug} must not reuse an image`);
+    urls.add(article.image);
+    const html=renderArticle(slug);
+    assert.match(html,/Leitura VAELITH/);
+    assert.match(html,/Agência Brasil/);
+  }
+});
 test('an article with no usable photo does not expose a generated cover or social image', () => {
   const a={slug:'test-missing-image',title:'Test',category:'Engenharia',categorySlug:'engenharia',
     date:'2026-09-13',body:['Test'],image:'data:image/svg+xml,invalid',imageIsEditorialFallback:true};

@@ -1,5 +1,55 @@
 [
   {
+    "runDate": "2026-09-21",
+    "window": "notícias atuais, com prioridade para o mesmo dia e os dias imediatamente anteriores",
+    "published": [
+      "mata-atlantica-perde-vegetacao-agricultura-avanca",
+      "pix-novas-regras-fraudes-cobranca-hibrida",
+      "chongqing-megainfraestrutura-polo-industrial",
+      "plataforma-228-indicadores-estados-brasileiros"
+    ],
+    "sections": {
+      "engenharia": {
+        "researched": ["infraestrutura ferroviária brasileira", "obras públicas", "concessões", "construção"],
+        "status": "current",
+        "reason": "A pauta nacional sobre a reativação de 10 mil quilômetros de ferrovias, publicada em 20 de setembro, permanece atual e foi preservada na edição. Nenhuma segunda pauta reuniu fonte primária e fotografia reutilizável melhor do que as já publicadas."
+      },
+      "arquitetura": {
+        "researched": ["urbanismo brasileiro", "obras e projetos", "mobilidade urbana", "megacidades internacionais"],
+        "status": "published",
+        "reason": "Publicada reportagem sobre a forma urbana, o metrô, os viadutos e a integração logística de Chongqing, com fotografia produzida na reportagem original e reutilização autorizada pela EBC."
+      },
+      "tecnologia": {
+        "researched": ["infraestrutura digital", "sistemas de pagamento", "BIM", "automação e segurança"],
+        "status": "published",
+        "reason": "Publicada matéria nacional sobre cobrança híbrida, Pix Automático em contas-salário e novas regras de segurança, com fotografia principal da fonte original."
+      },
+      "mercado": {
+        "researched": ["Selic", "investimentos", "indicadores", "empresas e financiamento"],
+        "status": "pending",
+        "reason": "A pauta mais recente sobre a Selic usava fotografia licenciada de banco comercial sem evidência de reutilização. Não foi publicada para evitar imagem sem autorização."
+      },
+      "gestao": {
+        "researched": ["gestão pública", "indicadores territoriais", "planejamento", "produtividade"],
+        "status": "published",
+        "reason": "Publicada matéria nacional sobre a plataforma do IMDS com 228 indicadores para comparar as 27 unidades da Federação."
+      },
+      "sustentabilidade": {
+        "researched": ["uso do solo", "Mata Atlântica", "restauração", "urbanização e agricultura"],
+        "status": "published",
+        "reason": "Publicada no mesmo dia matéria baseada no levantamento do MapBiomas sobre 41 anos de mudanças na cobertura da Mata Atlântica."
+      }
+    },
+    "siteMaintenance": [
+      {
+        "issue": "Página de notícias com apenas uma pauta nacional recente",
+        "status": "expanded-awaiting-deploy",
+        "scope": ["página inicial", "editorias", "Últimas notícias", "arquivo", "busca", "RSS", "sitemap"],
+        "verification": "Quatro matérias completas adicionadas ao acervo editorial, todas com revisão de imagem aprovada e 6 ou 7 parágrafos factuais antes da Leitura VAELITH."
+      }
+    ]
+  },
+  {
     "runDate": "2026-09-20",
     "window": "mesmo dia e 24 horas anteriores",
     "published": [],
