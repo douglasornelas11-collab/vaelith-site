@@ -1,4 +1,16 @@
 {
+  "pesquisa-nuvens-pontos-3d-descontinuidades-tuneis": {
+    "alt": "Nuvem de pontos de uma frente de túnel e resultados coloridos de agrupamento e segmentação de descontinuidades rochosas",
+    "caption": "Figura 8 do estudo original: nuvem de pontos da frente de túnel (Dataset B) e resultados de agrupamento e segmentação das descontinuidades identificadas.",
+    "credit": "Leng et al. / Scientific Reports — CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reason": "Figura 8 do estudo original, mostrando a frente de túnel usada no Dataset B e os resultados de identificação e segmentação. A figura foi conferida visualmente no navegador em 26 de setembro de 2026, não é aviso nem logotipo e está coberta pela licença CC BY 4.0 do artigo. A cópia foi armazenada no Sanity para evitar dependência de hotlink.",
+    "reviewedAt": "2026-09-26T13:55:00Z",
+    "sourceUrl": "https://www.nature.com/articles/s41598-026-71322-7",
+    "status": "approved",
+    "title": "Nuvens de pontos 3D reduzem erro na identificação de descontinuidades em túneis",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/dd382ae85883ce23c10e811051e385962f2c7128-1200x879.png"
+  },
   "mata-atlantica-perde-vegetacao-agricultura-avanca": {
     "alt": "Vista aérea de antiga área de pasto reflorestada pelo Projeto Guapiaçu na Fazenda Vital Brazil, em Cachoeiras de Macacu, no Rio de Janeiro",
     "caption": "Área anteriormente usada como pasto e reflorestada pelo Projeto Guapiaçu na Fazenda Vital Brazil, em Cachoeiras de Macacu (RJ), em novembro de 2024.",
