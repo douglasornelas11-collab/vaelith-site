@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-09-26",
-  "note": "Inventário do acervo. Não equivale a uma revisão visual completa. Novas publicações exigem revisão no manifesto; 24 matérias do cadastro estavam sem imagem antes das rejeições adicionais. Em 20/09, capas externas quebradas foram rejeitadas para saírem das áreas visuais. Em 26/09, a Figura 8 do novo estudo sobre descontinuidades em nuvens de pontos 3D foi conferida na publicação original, aprovada sob CC BY 4.0 e armazenada no Sanity.",
+  "checkedAt": "2026-09-28",
+  "note": "Inventário do acervo. Não equivale a uma revisão visual completa. Novas publicações exigem revisão no manifesto. Em 28/09, a fotografia externa de Oliver Wood/Glenfarne foi reconfirmada com dimensões naturais zero e rejeitada até substituição autorizada.",
   "articles": [
     {
       "slug": "pesquisa-nuvens-pontos-3d-descontinuidades-tuneis",
@@ -17,7 +17,8 @@
     {
       "slug": "glenfarne-oliver-wood-lideranca-projetos-lng",
       "sourceUrl": "https://www.businesswire.com/news/home/20260913293425/en/Glenfarne-Group-Promotes-Oliver-Wood-to-Global-Head-of-Projects",
-      "status": "pending-visual-review"
+      "status": "rejected-broken-image-awaiting-authorized-replacement",
+      "note": "2026-09-28: fotografia externa com naturalWidth zero na página inicial após rolagem e espera; rejeição registrada no manifesto."
     },
     {
       "slug": "pesquisa-madeiras-rapido-crescimento-construcao-sustentavel",
