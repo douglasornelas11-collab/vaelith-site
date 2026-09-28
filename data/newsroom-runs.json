@@ -64,13 +64,13 @@
     "siteMaintenance": [
       {
         "issue": "Fotografia externa de Oliver Wood/Glenfarne deixou de carregar",
-        "status": "fixed-in-manifest-awaiting-deploy",
+        "status": "verified-in-production",
         "scope": [
           "página inicial",
           "Gestão",
           "Arquivo"
         ],
-        "verification": "Após rolagem completa e espera do lazy-loading, a imagem permaneceu com naturalWidth e naturalHeight iguais a zero. A URL foi rejeitada no manifesto para que o portal não a trate como capa válida; a matéria permanece no acervo aguardando substituição oficial autorizada."
+        "verification": "Após rolagem completa e espera do lazy-loading, a imagem tinha naturalWidth e naturalHeight iguais a zero. A URL foi rejeitada no manifesto. No deploy de produção, a inicial e a editoria Gestão não renderizam mais a capa quebrada; a URL individual da matéria continua acessível, sem imagem, enquanto aguarda substituição oficial autorizada."
       }
     ]
   },
