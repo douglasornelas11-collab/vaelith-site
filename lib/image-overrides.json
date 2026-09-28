@@ -221,5 +221,11 @@
     "status": "approved",
     "title": "ECC amplia durabilidade de pontes, mas adoção ainda esbarra em normas e dados de campo",
     "url": "https://cdn.sanity.io/images/s2xosuea/production/91c145e752d46df449ea6a820441be2aea32e14d-1200x623.png"
+  },
+  "glenfarne-oliver-wood-lideranca-projetos-lng": {
+    "reason": "A fotografia externa de Oliver Wood, vinculada ao anúncio da Glenfarne, foi conferida novamente na página inicial em 28 de setembro de 2026 e permaneceu com naturalWidth zero após a rolagem e a espera do lazy-loading. Rejeitada até existir uma cópia oficial autorizada e visualmente validada do mesmo anúncio.",
+    "reviewedAt": "2026-09-28T12:00:00Z",
+    "sourceUrl": "https://www.businesswire.com/news/home/20260913293425/en/Glenfarne-Group-Promotes-Oliver-Wood-to-Global-Head-of-Projects",
+    "status": "rejected"
   }
 }
