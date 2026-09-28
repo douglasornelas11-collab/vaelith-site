@@ -1,5 +1,80 @@
 [
   {
+    "runDate": "2026-09-28",
+    "window": "mesmo dia e 24 horas anteriores",
+    "published": [],
+    "sections": {
+      "engenharia": {
+        "researched": [
+          "obras e infraestrutura no Brasil",
+          "rodovias e pavimentação",
+          "projetos e anúncios internacionais"
+        ],
+        "status": "pending",
+        "reason": "A pauta sobre a pavimentação do Residencial Coxipó, divulgada em 27/09 por veículos locais, foi triada, mas não foi localizada publicação primária da Prefeitura com imagem cuja reutilização estivesse comprovada. Os resultados internacionais não reuniram simultaneamente relevância para o leitor brasileiro e imagem autorizada."
+      },
+      "arquitetura": {
+        "researched": [
+          "projetos e urbanismo brasileiros",
+          "CAU e IAB",
+          "lançamentos e premiações internacionais"
+        ],
+        "status": "pending",
+        "reason": "Nenhuma novidade da janela de 24 horas apresentou fonte primária completa e imagem factual com autorização verificável de reutilização."
+      },
+      "tecnologia": {
+        "researched": [
+          "BIM",
+          "IA aplicada a projeto e construção",
+          "automação de infraestrutura",
+          "Arcadis e Autodesk"
+        ],
+        "status": "pending",
+        "reason": "O anúncio internacional sobre colaboração Arcadis–Autodesk foi localizado, mas a triagem não encontrou imagem do mesmo anúncio com permissão de reutilização suficientemente documentada."
+      },
+      "mercado": {
+        "researched": [
+          "indicadores da construção brasileira",
+          "investimentos",
+          "empresas e materiais"
+        ],
+        "status": "pending",
+        "reason": "Não houve pauta brasileira qualificada na janela; previsões comerciais internacionais recuperadas eram estudos promocionais sem documentação editorial e visual suficiente."
+      },
+      "gestao": {
+        "researched": [
+          "liderança técnica",
+          "gestão de projetos",
+          "produtividade e execução"
+        ],
+        "status": "pending",
+        "reason": "Nenhuma pauta passou simultaneamente pelos critérios de fonte primária, relevância setorial, atualidade comprovada e imagem autorizada."
+      },
+      "sustentabilidade": {
+        "researched": [
+          "construção sustentável no Brasil",
+          "energia e clima",
+          "infraestrutura resiliente",
+          "habitação eficiente internacional"
+        ],
+        "status": "pending",
+        "reason": "As candidatas internacionais sobre retrofit habitacional e infraestrutura climática não apresentaram, na triagem disponível, imagem reutilizável com evidência jurídica suficiente; não houve pauta brasileira qualificada nas últimas 24 horas."
+      }
+    },
+    "siteMaintenance": [
+      {
+        "issue": "Fotografia externa de Oliver Wood/Glenfarne deixou de carregar",
+        "status": "fixed-in-manifest-awaiting-deploy",
+        "scope": [
+          "página inicial",
+          "Gestão",
+          "Arquivo"
+        ],
+        "verification": "Após rolagem completa e espera do lazy-loading, a imagem permaneceu com naturalWidth e naturalHeight iguais a zero. A URL foi rejeitada no manifesto para que o portal não a trate como capa válida; a matéria permanece no acervo aguardando substituição oficial autorizada."
+      }
+    ]
+  },
+  {
     "runDate": "2026-09-21",
     "window": "notícias atuais, com prioridade para o mesmo dia e os dias imediatamente anteriores",
     "published": [
@@ -10,32 +85,62 @@
     ],
     "sections": {
       "engenharia": {
-        "researched": ["infraestrutura ferroviária brasileira", "obras públicas", "concessões", "construção"],
+        "researched": [
+          "infraestrutura ferroviária brasileira",
+          "obras públicas",
+          "concessões",
+          "construção"
+        ],
         "status": "current",
         "reason": "A pauta nacional sobre a reativação de 10 mil quilômetros de ferrovias, publicada em 20 de setembro, permanece atual e foi preservada na edição. Nenhuma segunda pauta reuniu fonte primária e fotografia reutilizável melhor do que as já publicadas."
       },
       "arquitetura": {
-        "researched": ["urbanismo brasileiro", "obras e projetos", "mobilidade urbana", "megacidades internacionais"],
+        "researched": [
+          "urbanismo brasileiro",
+          "obras e projetos",
+          "mobilidade urbana",
+          "megacidades internacionais"
+        ],
         "status": "published",
         "reason": "Publicada reportagem sobre a forma urbana, o metrô, os viadutos e a integração logística de Chongqing, com fotografia produzida na reportagem original e reutilização autorizada pela EBC."
       },
       "tecnologia": {
-        "researched": ["infraestrutura digital", "sistemas de pagamento", "BIM", "automação e segurança"],
+        "researched": [
+          "infraestrutura digital",
+          "sistemas de pagamento",
+          "BIM",
+          "automação e segurança"
+        ],
         "status": "published",
         "reason": "Publicada matéria nacional sobre cobrança híbrida, Pix Automático em contas-salário e novas regras de segurança, com fotografia principal da fonte original."
       },
       "mercado": {
-        "researched": ["Selic", "investimentos", "indicadores", "empresas e financiamento"],
+        "researched": [
+          "Selic",
+          "investimentos",
+          "indicadores",
+          "empresas e financiamento"
+        ],
         "status": "pending",
         "reason": "A pauta mais recente sobre a Selic usava fotografia licenciada de banco comercial sem evidência de reutilização. Não foi publicada para evitar imagem sem autorização."
       },
       "gestao": {
-        "researched": ["gestão pública", "indicadores territoriais", "planejamento", "produtividade"],
+        "researched": [
+          "gestão pública",
+          "indicadores territoriais",
+          "planejamento",
+          "produtividade"
+        ],
         "status": "published",
         "reason": "Publicada matéria nacional sobre a plataforma do IMDS com 228 indicadores para comparar as 27 unidades da Federação."
       },
       "sustentabilidade": {
-        "researched": ["uso do solo", "Mata Atlântica", "restauração", "urbanização e agricultura"],
+        "researched": [
+          "uso do solo",
+          "Mata Atlântica",
+          "restauração",
+          "urbanização e agricultura"
+        ],
         "status": "published",
         "reason": "Publicada no mesmo dia matéria baseada no levantamento do MapBiomas sobre 41 anos de mudanças na cobertura da Mata Atlântica."
       }
@@ -44,7 +149,15 @@
       {
         "issue": "Página de notícias com apenas uma pauta nacional recente",
         "status": "expanded-awaiting-deploy",
-        "scope": ["página inicial", "editorias", "Últimas notícias", "arquivo", "busca", "RSS", "sitemap"],
+        "scope": [
+          "página inicial",
+          "editorias",
+          "Últimas notícias",
+          "arquivo",
+          "busca",
+          "RSS",
+          "sitemap"
+        ],
         "verification": "Quatro matérias completas adicionadas ao acervo editorial, todas com revisão de imagem aprovada e 6 ou 7 parágrafos factuais antes da Leitura VAELITH."
       }
     ]
@@ -55,32 +168,67 @@
     "published": [],
     "sections": {
       "engenharia": {
-        "researched": ["obras e concessões no Brasil", "saneamento", "rodovias e ferrovias", "infraestrutura internacional"],
+        "researched": [
+          "obras e concessões no Brasil",
+          "saneamento",
+          "rodovias e ferrovias",
+          "infraestrutura internacional"
+        ],
         "status": "pending",
         "reason": "Foram localizadas pautas brasileiras sobre a carteira de saneamento e projetos de infraestrutura, mas as fontes disponíveis eram matérias secundárias e suas fotografias não tinham autorização verificável de reutilização."
       },
       "arquitetura": {
-        "researched": ["projetos brasileiros", "prêmios", "CAU", "urbanismo", "lançamentos internacionais"],
+        "researched": [
+          "projetos brasileiros",
+          "prêmios",
+          "CAU",
+          "urbanismo",
+          "lançamentos internacionais"
+        ],
         "status": "pending",
         "reason": "Nenhuma novidade da janela de 24 horas reuniu publicação original completa e imagem factual com permissão verificável."
       },
       "tecnologia": {
-        "researched": ["BIM", "IA aplicada à construção", "automação", "plataformas brasileiras", "construction tech internacional"],
+        "researched": [
+          "BIM",
+          "IA aplicada à construção",
+          "automação",
+          "plataformas brasileiras",
+          "construction tech internacional"
+        ],
         "status": "pending",
         "reason": "Nenhuma pauta qualificada na janela editorial; resultados recuperados eram antigos, genéricos ou sem imagem autorizada do mesmo fato."
       },
       "mercado": {
-        "researched": ["crédito e investimentos", "BNDES", "indicadores da construção", "empresas brasileiras", "mercado internacional"],
+        "researched": [
+          "crédito e investimentos",
+          "BNDES",
+          "indicadores da construção",
+          "empresas brasileiras",
+          "mercado internacional"
+        ],
         "status": "pending",
         "reason": "A pauta do Plano Brasil Soberano foi triada, mas não tinha relação material suficiente com o ambiente construído para justificar publicação na VAELITH."
       },
       "gestao": {
-        "researched": ["gestão de projetos", "contratações", "produtividade", "segurança", "liderança técnica"],
+        "researched": [
+          "gestão de projetos",
+          "contratações",
+          "produtividade",
+          "segurança",
+          "liderança técnica"
+        ],
         "status": "pending",
         "reason": "Não foi encontrada pauta da janela de 24 horas que passasse simultaneamente por relevância setorial, fonte primária e imagem autorizada."
       },
       "sustentabilidade": {
-        "researched": ["descarbonização", "construção circular", "energia", "materiais", "adaptação climática no Brasil"],
+        "researched": [
+          "descarbonização",
+          "construção circular",
+          "energia",
+          "materiais",
+          "adaptação climática no Brasil"
+        ],
         "status": "pending",
         "reason": "O passaporte socioambiental brasileiro foi analisado, mas o fato é voltado ao agronegócio e não apresentou vínculo técnico suficiente com construção e infraestrutura."
       }
@@ -89,7 +237,14 @@
       {
         "issue": "Quatorze capas externas com carregamento quebrado",
         "status": "fixed-in-source-and-manifest-awaiting-deploy",
-        "scope": ["página inicial", "Engenharia", "Arquitetura", "Tecnologia", "Mercado", "Arquivo"],
+        "scope": [
+          "página inicial",
+          "Engenharia",
+          "Arquitetura",
+          "Tecnologia",
+          "Mercado",
+          "Arquivo"
+        ],
         "verification": "A auditoria completa encontrou 14 imagens com naturalWidth zero após rolagem e espera: quatro na inicial, uma adicional em Tecnologia, sete em Engenharia e duas em Arquitetura. URLs removidas do Sanity e registradas como rejeitadas no manifesto; matérias preservadas no acervo."
       }
     ]
@@ -100,32 +255,74 @@
     "published": [],
     "sections": {
       "engenharia": {
-        "researched": ["construção civil", "infraestrutura", "obras públicas", "rodovias", "fontes brasileiras", "fontes internacionais"],
+        "researched": [
+          "construção civil",
+          "infraestrutura",
+          "obras públicas",
+          "rodovias",
+          "fontes brasileiras",
+          "fontes internacionais"
+        ],
         "status": "pending",
         "reason": "Nenhuma pauta encontrada reuniu simultaneamente atualidade comprovada, fonte primária suficiente e imagem factual com permissão verificável de reutilização."
       },
       "arquitetura": {
-        "researched": ["projetos", "concursos", "obras", "CAU", "fontes brasileiras", "fontes internacionais"],
+        "researched": [
+          "projetos",
+          "concursos",
+          "obras",
+          "CAU",
+          "fontes brasileiras",
+          "fontes internacionais"
+        ],
         "status": "pending",
         "reason": "Nenhuma pauta qualificada na janela editorial com imagem diretamente vinculada e reutilização autorizada."
       },
       "tecnologia": {
-        "researched": ["BIM", "inteligência artificial", "construção digital", "lançamentos", "fontes brasileiras", "fontes internacionais"],
+        "researched": [
+          "BIM",
+          "inteligência artificial",
+          "construção digital",
+          "lançamentos",
+          "fontes brasileiras",
+          "fontes internacionais"
+        ],
         "status": "pending",
         "reason": "Os resultados localizados não atenderam ao conjunto de atualidade, fonte verificável e imagem autorizada."
       },
       "mercado": {
-        "researched": ["indicadores", "empresas", "contratos", "investimentos", "fontes brasileiras", "fontes internacionais"],
+        "researched": [
+          "indicadores",
+          "empresas",
+          "contratos",
+          "investimentos",
+          "fontes brasileiras",
+          "fontes internacionais"
+        ],
         "status": "pending",
         "reason": "Uma pauta empresarial brasileira foi descartada porque não havia autorização verificável para reutilizar a fotografia da publicação original."
       },
       "gestao": {
-        "researched": ["gestão de projetos", "liderança", "produtividade", "segurança", "fontes brasileiras", "fontes internacionais"],
+        "researched": [
+          "gestão de projetos",
+          "liderança",
+          "produtividade",
+          "segurança",
+          "fontes brasileiras",
+          "fontes internacionais"
+        ],
         "status": "pending",
         "reason": "Nenhuma pauta qualificada na janela de 24 horas com fonte e imagem em conformidade."
       },
       "sustentabilidade": {
-        "researched": ["construção sustentável", "descarbonização", "materiais", "energia", "fontes brasileiras", "fontes internacionais"],
+        "researched": [
+          "construção sustentável",
+          "descarbonização",
+          "materiais",
+          "energia",
+          "fontes brasileiras",
+          "fontes internacionais"
+        ],
         "status": "pending",
         "reason": "Nenhuma pauta qualificada na janela de 24 horas com evidência completa e imagem autorizada."
       }
@@ -134,7 +331,11 @@
       {
         "issue": "Figuras científicas recortadas em cartões genéricos",
         "status": "verified-in-production",
-        "scope": ["página inicial", "editorias", "arquivo"],
+        "scope": [
+          "página inicial",
+          "editorias",
+          "arquivo"
+        ],
         "verification": "Deploy READY. Conferência visual em Tecnologia, página inicial e arquivo confirmou imagens carregadas e object-fit contain."
       }
     ]
