@@ -1,4 +1,16 @@
 {
+  "pesquisa-retrofit-clt-paineis-amortecedores-atrito": {
+    "alt": "Desenho dos componentes do amortecedor por atrito e fotografia da instalação de um painel de CLT em pórtico de concreto armado",
+    "caption": "Figura 1 do estudo: componentes do amortecedor por atrito e instalação do painel e-CLT no pórtico de concreto armado ensaiado em escala real.",
+    "credit": "Pozza et al. / Bulletin of Earthquake Engineering — CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reason": "Figura 1 do próprio estudo, mostrando o detalhamento do amortecedor por atrito e a instalação do painel e-CLT no protótipo de concreto armado ensaiado. A figura foi conferida visualmente no navegador em 28 de setembro de 2026, não é aviso nem logotipo, não duplica imagens do acervo e está coberta pela licença CC BY 4.0 do artigo. A cópia foi armazenada no Sanity para evitar dependência de hotlink.",
+    "reviewedAt": "2026-09-28T12:42:00Z",
+    "sourceUrl": "https://link.springer.com/article/10.1007/s10518-026-02690-8",
+    "status": "approved",
+    "title": "Painéis de CLT elevam resistência sísmica de pórticos de concreto em ensaio de escala real",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/116e8f9bc856809fafd0b42a1fc8618a694c0901-685x278.png"
+  },
   "pesquisa-nuvens-pontos-3d-descontinuidades-tuneis": {
     "alt": "Nuvem de pontos de uma frente de túnel e resultados coloridos de agrupamento e segmentação de descontinuidades rochosas",
     "caption": "Figura 8 do estudo original: nuvem de pontos da frente de túnel (Dataset B) e resultados de agrupamento e segmentação das descontinuidades identificadas.",
