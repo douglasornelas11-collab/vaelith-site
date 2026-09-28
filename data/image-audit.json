@@ -1,7 +1,13 @@
 {
   "checkedAt": "2026-09-28",
-  "note": "Inventário do acervo. Não equivale a uma revisão visual completa. Novas publicações exigem revisão no manifesto. Em 28/09, a fotografia externa de Oliver Wood/Glenfarne foi reconfirmada com dimensões naturais zero e rejeitada até substituição autorizada.",
+  "note": "Inventário do acervo. Não equivale a uma revisão visual completa. Novas publicações exigem revisão no manifesto. Em 28/09, a Figura 1 do estudo e-CLT foi validada visualmente, copiada para o Sanity sob CC BY 4.0 e aprovada sem duplicidade; a fotografia externa de Oliver Wood/Glenfarne permaneceu rejeitada.",
   "articles": [
+    {
+      "slug": "pesquisa-retrofit-clt-paineis-amortecedores-atrito",
+      "sourceUrl": "https://doi.org/10.1007/s10518-026-02690-8",
+      "status": "approved",
+      "note": "Figura 1 do artigo original conferida visualmente em 28/09/2026; mostra o detalhamento do amortecedor por atrito e a instalação do painel e-CLT no protótipo ensaiado, foi copiada para ativo próprio do Sanity sob CC BY 4.0 e não duplica nenhuma imagem publicada."
+    },
     {
       "slug": "pesquisa-nuvens-pontos-3d-descontinuidades-tuneis",
       "sourceUrl": "https://doi.org/10.1038/s41598-026-71322-7",
