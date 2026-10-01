@@ -3,6 +3,12 @@
   "note": "Inventário do acervo. Não equivale a uma revisão visual completa. Novas publicações exigem revisão no manifesto. Em 01/10, a Figura 4 do estudo sobre grade condutiva para monitoramento de fissuras foi validada visualmente em 1200 × 1140, copiada para o Sanity sob CC BY 4.0 e aprovada sem duplicidade.",
   "articles": [
     {
+      "slug": "cantareira-faixa-atencao-outubro-2026",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/apos-chuvas-de-setembro-cantareira-passa-operar-na-faixa-de-atencao",
+      "status": "approved",
+      "note": "Foto principal da própria reportagem: barragem Paiva Castro, parte do Cantareira, registrada em 30/09/2024. Vista na fonte e no ativo Sanity em 01/10/2026. A legenda distingue a data da foto do nível reportado; uso jornalístico autorizado no serviço de imagens da Agência Brasil com crédito."
+    },
+    {
       "slug": "pesquisa-grade-condutiva-monitoramento-fissuras-concreto",
       "sourceUrl": "https://doi.org/10.1186/s40069-026-00955-9",
       "status": "approved",
