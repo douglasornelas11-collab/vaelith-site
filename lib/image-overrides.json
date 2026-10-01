@@ -1,4 +1,16 @@
 {
+  "cantareira-faixa-atencao-outubro-2026": {
+    "alt": "Barragem do rio Juqueri na represa Paiva Castro, um dos reservatórios do Sistema Cantareira, fotografada em 30 de setembro de 2024",
+    "caption": "Barragem do rio Juqueri, na represa Paiva Castro, em Franco da Rocha (SP), em 30 de setembro de 2024. Imagem de arquivo do próprio Sistema Cantareira; não mostra o volume medido em outubro de 2026.",
+    "credit": "Rovena Rosa / Agência Brasil",
+    "licenseUrl": "https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente",
+    "reason": "Fotografia principal da própria reportagem da Agência Brasil sobre o Cantareira, vista carregada no navegador em 1º de outubro de 2026 e copiada para o Sanity. Mostra a barragem do Paiva Castro, reservatório integrante do sistema tratado na matéria. É uma foto de arquivo de 30/09/2024, indicada como tal na legenda; não representa o nível atual. A página oficial do serviço de imagens autoriza o uso jornalístico de fotos da própria Agência Brasil com crédito. Não duplica foto publicada, não é aviso ou logotipo.",
+    "reviewedAt": "2026-10-01T20:58:00Z",
+    "sourceUrl": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/apos-chuvas-de-setembro-cantareira-passa-operar-na-faixa-de-atencao",
+    "status": "approved",
+    "title": "Cantareira volta à faixa de atenção com 41,1% do volume útil após chuvas de setembro",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/8ed5ba9d69fbf249986cd915a92b8a384b276fef-1170x700.jpg"
+  },
   "pesquisa-grade-condutiva-monitoramento-fissuras-concreto": {
     "alt": "Quatro diagramas de uma grade condutiva mostram cenários de propagação de fissuras e os pontos detectados pelo método de análise inversa",
     "caption": "Figura 4 do estudo original: cenários e resultados de detecção para propagação simultânea, fissuras irregulares próximas e fissuras próximas à borda.",
