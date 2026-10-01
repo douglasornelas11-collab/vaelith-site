@@ -1,6 +1,59 @@
 [
   {
     "runDate": "2026-10-01",
+    "window": "triagem complementar do mesmo dia e dos sete dias anteriores",
+    "published": [
+      "cantareira-faixa-atencao-outubro-2026"
+    ],
+    "sections": {
+      "engenharia": {
+        "researched": ["Ministério dos Transportes e obras rodoviárias", "BR-230/PB, Rio das Antas/SC e Serra da Rocinha/SC"],
+        "status": "pending",
+        "reason": "As páginas oficiais examinadas exibiam banner institucional ou aviso em vez de fotografia factual da obra; não foi confirmada alternativa autorizada do mesmo acontecimento."
+      },
+      "arquitetura": {
+        "researched": ["CAU/BR", "concurso Arquitetura Indígena e Amazônia Legal de 30 de setembro"],
+        "status": "pending",
+        "reason": "A fotografia da pauta tem crédito, mas não foi localizada autorização de reutilização."
+      },
+      "tecnologia": {
+        "researched": ["BIM Forum Brasil", "BIM, digitalização e tecnologia para o ambiente construído"],
+        "status": "pending",
+        "reason": "As candidatas da janela não reuniram aplicação direta verificável e imagem factual com permissão documentada."
+      },
+      "mercado": {
+        "researched": ["Novo Caged do MTE", "indicadores e VGV da construção"],
+        "status": "previously-published-same-day",
+        "reason": "A matéria brasileira do Novo Caged, publicada na primeira triagem do dia, permanece em Mercado; a pauta adicional de VGV em Fortaleza não teve reutilização da fotografia confirmada."
+      },
+      "gestao": {
+        "researched": ["gestão de projetos e obras", "indicadores profissionais e produtividade"],
+        "status": "pending",
+        "reason": "Nenhuma pauta distinta da notícia do Caged passou pelos critérios de fonte, atualidade e imagem autorizada; não houve duplicação entre editorias."
+      },
+      "sustentabilidade": {
+        "researched": ["Agência Brasil e regras de operação ANA/SP Águas", "infraestrutura hídrica e resiliência"],
+        "status": "published",
+        "reason": "Publicada notícia do Sistema Cantareira com fonte de 1º de outubro, fotografia de arquivo da própria represa identificada como feita em 2024 por Rovena Rosa/Agência Brasil, uso fotojornalístico permitido pela EBC, cópia no Sanity e imagem conferida visualmente."
+      }
+    },
+    "siteMaintenance": [
+      {
+        "issue": "Pesquisa científica ocupava manchete e últimas notícias omitia matéria em destaque",
+        "status": "verified-in-production",
+        "scope": ["home", "Últimas notícias", "editorias gerais"],
+        "verification": "Correção da seleção editorial publicada; 14 testes passaram e deploy ficou READY. A home exibe notícia geral qualificada na manchete e as matérias gerais recentes também em Últimas notícias. Pesquisa & Ciência segue na seção própria."
+      },
+      {
+        "issue": "Publicação de Sustentabilidade",
+        "status": "verified-in-production",
+        "scope": ["URL individual", "Sustentabilidade", "home", "arquivo", "busca", "RSS", "sitemap"],
+        "verification": "Fotografia HTTPS do Cantareira renderizada visualmente na URL individual e na editoria após carregamento lazy; busca por Cantareira retornou um resultado, e RSS e sitemap contêm o slug."
+      }
+    ]
+  },
+  {
+    "runDate": "2026-10-01",
     "window": "mesmo dia e últimas 24 horas, ampliada progressivamente até sete dias",
     "published": [
       "construcao-emprego-formal-agosto-2026"
