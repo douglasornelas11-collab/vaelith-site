@@ -3,6 +3,12 @@
   "note": "Inventário do acervo. Não equivale a uma revisão visual completa. Novas publicações exigem revisão no manifesto. Em 01/10, a Figura 4 do estudo sobre grade condutiva para monitoramento de fissuras foi validada visualmente em 1200 × 1140, copiada para o Sanity sob CC BY 4.0 e aprovada sem duplicidade.",
   "articles": [
     {
+      "slug": "iphan-quilombo-ferreira-diniz-gloria",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/quilombo-urbano-na-zona-sul-do-rio-guarda-licoes-de-resistencia",
+      "status": "approved",
+      "note": "Fotografia de Fernando Frazão/Agência Brasil, feita em 25/09/2026 no próprio quintal tombado. Conferida visualmente na reportagem e na cópia Sanity em 01/10; uso jornalístico permitido pelo serviço de imagens da Agência Brasil com crédito, sem duplicidade no acervo."
+    },
+    {
       "slug": "cantareira-faixa-atencao-outubro-2026",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/apos-chuvas-de-setembro-cantareira-passa-operar-na-faixa-de-atencao",
       "status": "approved",
