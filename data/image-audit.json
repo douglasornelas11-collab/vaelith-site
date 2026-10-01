@@ -1,7 +1,13 @@
 {
-  "checkedAt": "2026-09-28",
-  "note": "Inventário do acervo. Não equivale a uma revisão visual completa. Novas publicações exigem revisão no manifesto. Em 28/09, a Figura 1 do estudo e-CLT foi validada visualmente, copiada para o Sanity sob CC BY 4.0 e aprovada sem duplicidade; a fotografia externa de Oliver Wood/Glenfarne permaneceu rejeitada.",
+  "checkedAt": "2026-10-01",
+  "note": "Inventário do acervo. Não equivale a uma revisão visual completa. Novas publicações exigem revisão no manifesto. Em 01/10, a Figura 4 do estudo sobre grade condutiva para monitoramento de fissuras foi validada visualmente em 1200 × 1140, copiada para o Sanity sob CC BY 4.0 e aprovada sem duplicidade.",
   "articles": [
+    {
+      "slug": "pesquisa-grade-condutiva-monitoramento-fissuras-concreto",
+      "sourceUrl": "https://doi.org/10.1186/s40069-026-00955-9",
+      "status": "approved",
+      "note": "Figura 4 do artigo original conferida visualmente em 01/10/2026; mostra os cenários de propagação e os resultados de detecção da análise inversa, foi copiada para ativo próprio do Sanity sob CC BY 4.0 e não duplica nenhuma imagem publicada."
+    },
     {
       "slug": "pesquisa-retrofit-clt-paineis-amortecedores-atrito",
       "sourceUrl": "https://doi.org/10.1007/s10518-026-02690-8",
