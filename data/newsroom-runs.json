@@ -64,7 +64,7 @@
     "siteMaintenance": [
       {
         "issue": "Atualidade da manchete geral e das editorias",
-        "status": "publication-prepared",
+        "status": "verified-in-production",
         "scope": [
           "página inicial",
           "Mercado",
@@ -74,7 +74,7 @@
           "RSS",
           "sitemap"
         ],
-        "verification": "A nova matéria recebeu revisão de imagem aprovada, ativo próprio do Sanity, sete parágrafos factuais e Leitura VAELITH separada. A validação pública será concluída após o deploy."
+        "verification": "Deploy de produção confirmado como READY. A matéria aparece na manchete da página inicial, em Mercado, no arquivo, na busca por construção, no RSS e no sitemap. A fotografia do MTE carregou na URL individual e na listagem; após rolagem incremental, nenhuma imagem apresentou dimensões naturais zero na home ou nas seis editorias."
       }
     ]
   },
