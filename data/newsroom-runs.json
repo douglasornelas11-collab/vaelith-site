@@ -1,5 +1,84 @@
 [
   {
+    "runDate": "2026-10-01",
+    "window": "mesmo dia e últimas 24 horas, ampliada progressivamente até sete dias",
+    "published": [
+      "construcao-emprego-formal-agosto-2026"
+    ],
+    "sections": {
+      "engenharia": {
+        "researched": [
+          "obras rodoviárias do Ministério dos Transportes",
+          "infraestrutura federal",
+          "construção e mobilidade"
+        ],
+        "status": "pending",
+        "reason": "As publicações oficiais recentes sobre a BR-230/PB, Rio das Antas/SC e Serra da Rocinha/SC foram examinadas, mas as páginas entregavam banner institucional ou aviso eleitoral como imagem principal, sem fotografia factual da obra. Nenhuma alternativa autorizada do mesmo fato foi confirmada."
+      },
+      "arquitetura": {
+        "researched": [
+          "CAU/BR e concursos nacionais",
+          "projetos urbanos",
+          "premiações e lançamentos"
+        ],
+        "status": "pending",
+        "reason": "O resultado do concurso Arquitetura Indígena e Amazônia Legal, divulgado pelo CAU/BR em 30 de setembro, foi triado. A fotografia tem crédito, mas não foi localizada licença ou autorização de reutilização; crédito e link, isoladamente, não atendem à política editorial."
+      },
+      "tecnologia": {
+        "researched": [
+          "BIM e digitalização da construção",
+          "IA aplicada a projeto e infraestrutura",
+          "automação e plataformas profissionais"
+        ],
+        "status": "pending",
+        "reason": "Nenhuma pauta dos últimos sete dias reuniu, ao mesmo tempo, aplicação direta ao ambiente construído, fonte verificável e imagem factual com autorização documentada."
+      },
+      "mercado": {
+        "researched": [
+          "Novo Caged e emprego formal",
+          "indicadores da construção",
+          "mercado de trabalho e investimentos"
+        ],
+        "status": "published",
+        "reason": "Publicada matéria baseada no Novo Caged sobre 20.848 vagas abertas pela construção em agosto e 200.431 no acumulado de 2026, com fotografia oficial do MTE armazenada no Sanity e licença CC BY-ND 3.0 confirmada."
+      },
+      "gestao": {
+        "researched": [
+          "gestão de projetos e obras",
+          "liderança e produtividade",
+          "indicadores para tomada de decisão"
+        ],
+        "status": "pending",
+        "reason": "A triagem não encontrou pauta distinta da publicação de Mercado que atendesse integralmente aos critérios de atualidade, fonte primária e imagem reutilizável. A notícia do Caged não foi duplicada em outra editoria."
+      },
+      "sustentabilidade": {
+        "researched": [
+          "resiliência urbana e clima",
+          "energia e construção sustentável",
+          "infraestrutura adaptativa"
+        ],
+        "status": "pending",
+        "reason": "As pautas recentes sobre alertas climáticos e eventos meteorológicos foram avaliadas, mas não apresentaram relação material suficiente com projeto, obra ou infraestrutura para uma publicação técnica completa sem extrapolação."
+      }
+    },
+    "siteMaintenance": [
+      {
+        "issue": "Atualidade da manchete geral e das editorias",
+        "status": "publication-prepared",
+        "scope": [
+          "página inicial",
+          "Mercado",
+          "Últimas notícias",
+          "arquivo",
+          "busca",
+          "RSS",
+          "sitemap"
+        ],
+        "verification": "A nova matéria recebeu revisão de imagem aprovada, ativo próprio do Sanity, sete parágrafos factuais e Leitura VAELITH separada. A validação pública será concluída após o deploy."
+      }
+    ]
+  },
+  {
     "runDate": "2026-09-28",
     "window": "mesmo dia e 24 horas anteriores",
     "published": [],
