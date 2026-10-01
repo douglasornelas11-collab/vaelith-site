@@ -1,4 +1,16 @@
 {
+  "pesquisa-grade-condutiva-monitoramento-fissuras-concreto": {
+    "alt": "Quatro diagramas de uma grade condutiva mostram cenários de propagação de fissuras e os pontos detectados pelo método de análise inversa",
+    "caption": "Figura 4 do estudo original: cenários e resultados de detecção para propagação simultânea, fissuras irregulares próximas e fissuras próximas à borda.",
+    "credit": "Shin et al. / International Journal of Concrete Structures and Materials — CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reason": "Figura 4 do próprio estudo, conferida visualmente no navegador em 1º de outubro de 2026 na versão 1200 × 1140. A imagem mostra os cenários de propagação e os resultados de detecção analisados na matéria; não é logotipo, aviso ou imagem temática. Foi armazenada como ativo próprio do Sanity e não duplica nenhuma imagem publicada.",
+    "reviewedAt": "2026-10-01T12:14:00Z",
+    "sourceUrl": "https://link.springer.com/article/10.1186/s40069-026-00955-9/figures/4",
+    "status": "approved",
+    "title": "Grade condutiva localiza fissuras em concreto, mas método ainda depende de validação física",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/67a83b7f8d5d995c5f05d4e2fa1c79cc308104a6-1200x1140.png"
+  },
   "construcao-emprego-formal-agosto-2026": {
     "alt": "Divulgação oficial dos resultados do Novo Caged de agosto de 2026, com representantes do Ministério do Trabalho e Emprego",
     "caption": "Divulgação dos resultados do Novo Caged de agosto de 2026 pelo Ministério do Trabalho e Emprego.",
