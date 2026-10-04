@@ -1,5 +1,78 @@
 [
   {
+    "runDate": "2026-10-04",
+    "window": "fontes de 04/10, últimas 24 horas e ampliação até 7 dias por editoria",
+    "published": [
+      "br020-audiencias-projeto-go-ba-2026",
+      "antt-simulado-emergencia-br040-2026"
+    ],
+    "sections": {
+      "engenharia": {
+        "researched": [
+          "DNIT: audiências da BR-020 GO/BA, fonte 29/09/2026",
+          "obras federais recentes e infraestrutura"
+        ],
+        "status": "published",
+        "reason": "Matéria completa da BR-020 com imagem factual do DNIT, fonte e licença verificadas; URL e listagem públicas confirmadas."
+      },
+      "arquitetura": {
+        "researched": [
+          "Curitiba: novas estações Prisma Solar do Inter 2, 02/10/2026",
+          "Suzano: ATHIS e ONU-Habitat, 02/10/2026"
+        ],
+        "status": "pending",
+        "reason": "Fotografias da pauta encontradas, mas sem condição de reutilização confirmada para as imagens; não se publicou pauta nem se mudou data."
+      },
+      "tecnologia": {
+        "researched": [
+          "EPE: tecnologia DLR na transmissão de São Paulo, 02/10/2026",
+          "BIM e digitalização do ambiente construído"
+        ],
+        "status": "pending",
+        "reason": "O material acessível da EPE não forneceu fotografia ou figura factual reutilizável validada visualmente; nenhuma pauta adicional passou no conjunto dos critérios."
+      },
+      "mercado": {
+        "researched": [
+          "indicadores da construção e infraestrutura brasileira",
+          "Novo Caged já publicado em 01/10/2026",
+          "licitações e mercado de transmissão"
+        ],
+        "status": "pending",
+        "reason": "As pautas com imagem adequada eram duplicadas ou ficaram sem imagem factual e permissão de reutilização verificadas."
+      },
+      "gestao": {
+        "researched": [
+          "ANTT: simulado de emergência BR-040/MG, 02/10/2026 às 14h38",
+          "gestão de operação e resposta a riscos"
+        ],
+        "status": "published",
+        "reason": "Matéria completa publicada com foto do próprio exercício, crédito e licença do portal; URL individual e editoria públicas confirmadas."
+      },
+      "sustentabilidade": {
+        "researched": [
+          "EPE: resiliência elétrica no sul do RS, 02/10/2026",
+          "Santos: escadas hidráulicas para controle de enxurrada, 02/10/2026"
+        ],
+        "status": "pending",
+        "reason": "Estudo da EPE sem imagem factual e projeto de Santos sem autorização de reutilização da foto confirmada; pauta do Cantareira de 01/10 permanece no acervo."
+      }
+    },
+    "siteMaintenance": [
+      {
+        "issue": "Duas matérias gerais publicadas e manchete atualizada",
+        "status": "verified-in-production",
+        "scope": [
+          "home",
+          "Engenharia",
+          "Gestão",
+          "arquivo",
+          "busca"
+        ],
+        "verification": "Home exibiu simulado da BR-040 na manchete e audiências da BR-020 em Últimas notícias; páginas individuais e imagens reais conferidas visualmente em 04/10/2026."
+      }
+    ]
+  },
+  {
     "runDate": "2026-10-01",
     "window": "triagem complementar do mesmo dia e dos sete dias anteriores",
     "published": [
@@ -7,32 +80,50 @@
     ],
     "sections": {
       "engenharia": {
-        "researched": ["Ministério dos Transportes e obras rodoviárias", "BR-230/PB, Rio das Antas/SC e Serra da Rocinha/SC"],
+        "researched": [
+          "Ministério dos Transportes e obras rodoviárias",
+          "BR-230/PB, Rio das Antas/SC e Serra da Rocinha/SC"
+        ],
         "status": "pending",
         "reason": "As páginas oficiais examinadas exibiam banner institucional ou aviso em vez de fotografia factual da obra; não foi confirmada alternativa autorizada do mesmo acontecimento."
       },
       "arquitetura": {
-        "researched": ["CAU/BR", "concurso Arquitetura Indígena e Amazônia Legal de 30 de setembro"],
+        "researched": [
+          "CAU/BR",
+          "concurso Arquitetura Indígena e Amazônia Legal de 30 de setembro"
+        ],
         "status": "pending",
         "reason": "A fotografia da pauta tem crédito, mas não foi localizada autorização de reutilização."
       },
       "tecnologia": {
-        "researched": ["BIM Forum Brasil", "BIM, digitalização e tecnologia para o ambiente construído"],
+        "researched": [
+          "BIM Forum Brasil",
+          "BIM, digitalização e tecnologia para o ambiente construído"
+        ],
         "status": "pending",
         "reason": "As candidatas da janela não reuniram aplicação direta verificável e imagem factual com permissão documentada."
       },
       "mercado": {
-        "researched": ["Novo Caged do MTE", "indicadores e VGV da construção"],
+        "researched": [
+          "Novo Caged do MTE",
+          "indicadores e VGV da construção"
+        ],
         "status": "previously-published-same-day",
         "reason": "A matéria brasileira do Novo Caged, publicada na primeira triagem do dia, permanece em Mercado; a pauta adicional de VGV em Fortaleza não teve reutilização da fotografia confirmada."
       },
       "gestao": {
-        "researched": ["gestão de projetos e obras", "indicadores profissionais e produtividade"],
+        "researched": [
+          "gestão de projetos e obras",
+          "indicadores profissionais e produtividade"
+        ],
         "status": "pending",
         "reason": "Nenhuma pauta distinta da notícia do Caged passou pelos critérios de fonte, atualidade e imagem autorizada; não houve duplicação entre editorias."
       },
       "sustentabilidade": {
-        "researched": ["Agência Brasil e regras de operação ANA/SP Águas", "infraestrutura hídrica e resiliência"],
+        "researched": [
+          "Agência Brasil e regras de operação ANA/SP Águas",
+          "infraestrutura hídrica e resiliência"
+        ],
         "status": "published",
         "reason": "Publicada notícia do Sistema Cantareira com fonte de 1º de outubro, fotografia de arquivo da própria represa identificada como feita em 2024 por Rovena Rosa/Agência Brasil, uso fotojornalístico permitido pela EBC, cópia no Sanity e imagem conferida visualmente."
       }
@@ -41,13 +132,25 @@
       {
         "issue": "Pesquisa científica ocupava manchete e últimas notícias omitia matéria em destaque",
         "status": "verified-in-production",
-        "scope": ["home", "Últimas notícias", "editorias gerais"],
+        "scope": [
+          "home",
+          "Últimas notícias",
+          "editorias gerais"
+        ],
         "verification": "Correção da seleção editorial publicada; 14 testes passaram e deploy ficou READY. A home exibe notícia geral qualificada na manchete e as matérias gerais recentes também em Últimas notícias. Pesquisa & Ciência segue na seção própria."
       },
       {
         "issue": "Publicação de Sustentabilidade",
         "status": "verified-in-production",
-        "scope": ["URL individual", "Sustentabilidade", "home", "arquivo", "busca", "RSS", "sitemap"],
+        "scope": [
+          "URL individual",
+          "Sustentabilidade",
+          "home",
+          "arquivo",
+          "busca",
+          "RSS",
+          "sitemap"
+        ],
         "verification": "Fotografia HTTPS do Cantareira renderizada visualmente na URL individual e na editoria após carregamento lazy; busca por Cantareira retornou um resultado, e RSS e sitemap contêm o slug."
       }
     ]
