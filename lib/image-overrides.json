@@ -323,5 +323,17 @@
     "licenseUrl": "https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente",
     "reviewedAt": "2026-10-04T16:36:45.043Z",
     "reason": "Fotografia da coletiva de 02/10/2026 sobre a segunda descoberta do poço Morpho, produzida por Rovena Rosa/Agência Brasil e exibida na própria reportagem. Conferida carregada na fonte e na cópia Sanity em 04/10/2026: dirigentes da Petrobras e tela do poço, não imagem temática, aviso ou logotipo. O serviço oficial autoriza uso fotojornalístico das imagens próprias da Agência Brasil com crédito."
+  },
+  "epe-dlr-linha-transmissao-mogi-guacu-sao-joao-2026": {
+    "title": "EPE recomenda sensores para elevar capacidade de linha de transmissão em SP",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/cb8d3063346142c892670b5e5a3217912d2255a5-1468x617.png",
+    "alt": "Gráfico original da EPE compara os limites estáticos SLR e dinâmicos DLR da linha entre São João da Boa Vista II e Mogi Guaçu I entre 2023 e 2025",
+    "caption": "Figura 9-5 do relatório EPE-DEE-RE-037-2025, Parte 2, Revisão 1: comparação histórica de SLR e DLR para a linha paulista. É um resultado de estudo, não uma medição da solução já implantada.",
+    "credit": "Empresa de Pesquisa Energética (EPE), figura 9-5",
+    "sourceUrl": "https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/EstudosPlanejamentoTransmissao/EPE-DEE-RE-037-2025-DIT%20Parte%20II_Rev01.pdf",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reviewedAt": "2026-10-04T16:45:15.257Z",
+    "reason": "Figura 9-5, página 56 do relatório oficial EPE-DEE-RE-037-2025 Parte 2 Revisão 1, especificamente sobre a comparação SLR/DLR na LT São João da Boa Vista II–Mogi Guaçu I. Extraída integralmente como figura do PDF, carregada e conferida visualmente no ativo Sanity em 04/10/2026. O portal EPE declara CC BY 4.0 para seu conteúdo. Não é imagem temática nem logotipo."
   }
 }
