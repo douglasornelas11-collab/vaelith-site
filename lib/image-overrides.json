@@ -1,111 +1,30 @@
 {
-  "cantareira-faixa-atencao-outubro-2026": {
-    "alt": "Barragem do rio Juqueri na represa Paiva Castro, um dos reservatórios do Sistema Cantareira, fotografada em 30 de setembro de 2024",
-    "caption": "Barragem do rio Juqueri, na represa Paiva Castro, em Franco da Rocha (SP), em 30 de setembro de 2024. Imagem de arquivo do próprio Sistema Cantareira; não mostra o volume medido em outubro de 2026.",
-    "credit": "Rovena Rosa / Agência Brasil",
-    "licenseUrl": "https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente",
-    "reason": "Fotografia principal da própria reportagem da Agência Brasil sobre o Cantareira, vista carregada no navegador em 1º de outubro de 2026 e copiada para o Sanity. Mostra a barragem do Paiva Castro, reservatório integrante do sistema tratado na matéria. É uma foto de arquivo de 30/09/2024, indicada como tal na legenda; não representa o nível atual. A página oficial do serviço de imagens autoriza o uso jornalístico de fotos da própria Agência Brasil com crédito. Não duplica foto publicada, não é aviso ou logotipo.",
-    "reviewedAt": "2026-10-01T20:58:00Z",
-    "sourceUrl": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/apos-chuvas-de-setembro-cantareira-passa-operar-na-faixa-de-atencao",
-    "status": "approved",
-    "title": "Cantareira volta à faixa de atenção com 41,1% do volume útil após chuvas de setembro",
-    "url": "https://cdn.sanity.io/images/s2xosuea/production/8ed5ba9d69fbf249986cd915a92b8a384b276fef-1170x700.jpg"
+  "atividade-construcao-desacelera-emprego-resiste": {
+    "reason": "A capa externa da reportagem da CBIC foi conferida na editoria Engenharia em 20 de setembro de 2026 e não carregou após a rolagem completa. Rejeitada até existir imagem autorizada e visualmente validada do mesmo indicador.",
+    "reviewedAt": "2026-09-20T12:05:00Z",
+    "sourceUrl": "https://cbic.org.br/cni-atividade-da-industria-da-construcao-desacelera-mas-emprego-no-setor-resiste/",
+    "status": "rejected"
   },
-  "pesquisa-grade-condutiva-monitoramento-fissuras-concreto": {
-    "alt": "Quatro diagramas de uma grade condutiva mostram cenários de propagação de fissuras e os pontos detectados pelo método de análise inversa",
-    "caption": "Figura 4 do estudo original: cenários e resultados de detecção para propagação simultânea, fissuras irregulares próximas e fissuras próximas à borda.",
-    "credit": "Shin et al. / International Journal of Concrete Structures and Materials — CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "reason": "Figura 4 do próprio estudo, conferida visualmente no navegador em 1º de outubro de 2026 na versão 1200 × 1140. A imagem mostra os cenários de propagação e os resultados de detecção analisados na matéria; não é logotipo, aviso ou imagem temática. Foi armazenada como ativo próprio do Sanity e não duplica nenhuma imagem publicada.",
-    "reviewedAt": "2026-10-01T12:14:00Z",
-    "sourceUrl": "https://link.springer.com/article/10.1186/s40069-026-00955-9/figures/4",
-    "status": "approved",
-    "title": "Grade condutiva localiza fissuras em concreto, mas método ainda depende de validação física",
-    "url": "https://cdn.sanity.io/images/s2xosuea/production/67a83b7f8d5d995c5f05d4e2fa1c79cc308104a6-1200x1140.png"
-  },
-  "construcao-emprego-formal-agosto-2026": {
-    "alt": "Divulgação oficial dos resultados do Novo Caged de agosto de 2026, com representantes do Ministério do Trabalho e Emprego",
-    "caption": "Divulgação dos resultados do Novo Caged de agosto de 2026 pelo Ministério do Trabalho e Emprego.",
-    "credit": "Tirza Bráz / Ministério do Trabalho e Emprego",
+  "br020-audiencias-projeto-go-ba-2026": {
+    "alt": "Participantes e técnicos reunidos em uma audiência pública sobre o projeto da BR-020 em Goiás e na Bahia",
+    "caption": "Uma das audiências públicas de setembro de 2026 sobre a adequação da BR-020/GO/BA. A imagem mostra a apresentação e a participação da comunidade, não uma obra executada.",
+    "credit": "DNIT",
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/3.0/",
-    "reason": "Fotografia oficial da própria divulgação do Novo Caged de agosto de 2026 pelo Ministério do Trabalho e Emprego. A imagem foi conferida visualmente no navegador em 1º de outubro de 2026, mostra o evento institucional que apresentou os dados, não é aviso, nota oficial, logotipo ou imagem genérica, e foi armazenada no Sanity. O portal gov.br declara licença CC BY-ND 3.0 para o conteúdo.",
-    "reviewedAt": "2026-10-01T11:57:22Z",
-    "sourceUrl": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/setembro/novo-caged-emprego-formal-gera-165-8-mil-vagas-em-agosto-e-acumula-1-13-milhao-de-postos-no-ano/",
+    "reason": "Fotografia da própria audiência da BR-020 publicada pelo DNIT em 29/09/2026, com participantes e técnicos presentes na reunião. Vista carregada na fonte e na cópia Sanity em 04/10/2026: não é modelo temático, aviso nem logotipo. Reproduzida integralmente sem edição sob a licença CC BY-ND 3.0 indicada no rodapé do portal gov.br.",
+    "reviewedAt": "2026-10-04T16:00:34.211Z",
+    "sourceUrl": "https://www.gov.br/dnit/pt-br/assuntos/noticias-periodo-eleitoral/br-020-audiencias-publicas-apresentam-estudos-ambientais-e-solucoes-previstas-para-trechos-da-rodovia/",
     "status": "approved",
-    "title": "Construção cria 20,8 mil vagas em agosto e acumula 200,4 mil postos em 2026",
-    "url": "https://cdn.sanity.io/images/s2xosuea/production/e9405d5d476c7c7d0fe36cfb45626037cbd07428-1401x936.jpg"
+    "title": "Audiências apresentam seis lotes de intervenção na BR-020 em Goiás e Bahia",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/1e422214ba62f6feacb0f07bd5db2650c93a4bba-768x432.png"
   },
-  "pesquisa-retrofit-clt-paineis-amortecedores-atrito": {
-    "alt": "Desenho dos componentes do amortecedor por atrito e fotografia da instalação de um painel de CLT em pórtico de concreto armado",
-    "caption": "Figura 1 do estudo: componentes do amortecedor por atrito e instalação do painel e-CLT no pórtico de concreto armado ensaiado em escala real.",
-    "credit": "Pozza et al. / Bulletin of Earthquake Engineering — CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "reason": "Figura 1 do próprio estudo, mostrando o detalhamento do amortecedor por atrito e a instalação do painel e-CLT no protótipo de concreto armado ensaiado. A figura foi conferida visualmente no navegador em 28 de setembro de 2026, não é aviso nem logotipo, não duplica imagens do acervo e está coberta pela licença CC BY 4.0 do artigo. A cópia foi armazenada no Sanity para evitar dependência de hotlink.",
-    "reviewedAt": "2026-09-28T12:42:00Z",
-    "sourceUrl": "https://link.springer.com/article/10.1007/s10518-026-02690-8",
-    "status": "approved",
-    "title": "Painéis de CLT elevam resistência sísmica de pórticos de concreto em ensaio de escala real",
-    "url": "https://cdn.sanity.io/images/s2xosuea/production/116e8f9bc856809fafd0b42a1fc8618a694c0901-685x278.png"
-  },
-  "pesquisa-nuvens-pontos-3d-descontinuidades-tuneis": {
-    "alt": "Nuvem de pontos de uma frente de túnel e resultados coloridos de agrupamento e segmentação de descontinuidades rochosas",
-    "caption": "Figura 8 do estudo original: nuvem de pontos da frente de túnel (Dataset B) e resultados de agrupamento e segmentação das descontinuidades identificadas.",
-    "credit": "Leng et al. / Scientific Reports — CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "reason": "Figura 8 do estudo original, mostrando a frente de túnel usada no Dataset B e os resultados de identificação e segmentação. A figura foi conferida visualmente no navegador em 26 de setembro de 2026, não é aviso nem logotipo e está coberta pela licença CC BY 4.0 do artigo. A cópia foi armazenada no Sanity para evitar dependência de hotlink.",
-    "reviewedAt": "2026-09-26T13:55:00Z",
-    "sourceUrl": "https://www.nature.com/articles/s41598-026-71322-7",
-    "status": "approved",
-    "title": "Nuvens de pontos 3D reduzem erro na identificação de descontinuidades em túneis",
-    "url": "https://cdn.sanity.io/images/s2xosuea/production/dd382ae85883ce23c10e811051e385962f2c7128-1200x879.png"
-  },
-  "mata-atlantica-perde-vegetacao-agricultura-avanca": {
-    "alt": "Vista aérea de antiga área de pasto reflorestada pelo Projeto Guapiaçu na Fazenda Vital Brazil, em Cachoeiras de Macacu, no Rio de Janeiro",
-    "caption": "Área anteriormente usada como pasto e reflorestada pelo Projeto Guapiaçu na Fazenda Vital Brazil, em Cachoeiras de Macacu (RJ), em novembro de 2024.",
-    "credit": "Fernando Frazão / Agência Brasil",
-    "licenseUrl": "https://www.ebc.com.br/termos-de-uso-e-condicoes-gerais-do-portal-da-ebc",
-    "reason": "Fotografia principal da notícia original da Agência Brasil. Conferida carregada no navegador em 21 de setembro de 2026: mostra a área do Projeto Guapiaçu com floresta, pastagem e área em restauração, ligação direta com a mudança de cobertura da terra tratada pela matéria. Os termos da EBC autorizam reprodução mediante indicação da fonte.",
-    "reviewedAt": "2026-09-21T17:10:00Z",
-    "sourceUrl": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/agricultura-avanca-11-milhoes-de-hectares-em-41-anos-na-mata-atlantica",
-    "status": "approved",
-    "title": "Mata Atlântica perde 9,7 milhões de hectares de vegetação madura em 41 anos",
-    "url": "https://imagens.ebc.com.br/x45QqQmpyp1-R8ZYfusYvdl2MN0=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/11/29/dji_0483_1-2.jpg?itok=iD6cjjWj"
-  },
-  "pix-novas-regras-fraudes-cobranca-hibrida": {
-    "alt": "Pessoa usa aplicativo bancário em um telefone celular para realizar pagamento por Pix",
-    "caption": "Aplicativo bancário usado para pagamento por Pix, em Brasília, em janeiro de 2025.",
-    "credit": "Bruno Peres / Agência Brasil",
-    "licenseUrl": "https://www.ebc.com.br/termos-de-uso-e-condicoes-gerais-do-portal-da-ebc",
-    "reason": "Fotografia principal da notícia original da Agência Brasil. Conferida carregada no navegador em 21 de setembro de 2026: mostra um usuário na interface Pix de um aplicativo bancário, correspondendo diretamente às novas regras do serviço. Os termos da EBC autorizam reprodução mediante indicação da fonte.",
-    "reviewedAt": "2026-09-21T17:10:00Z",
-    "sourceUrl": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pix-tera-novas-regras-para-fraudes-cobranca-hibrida-e-contas-salario",
-    "status": "approved",
-    "title": "Pix terá cobrança híbrida e novas barreiras contra fraudes a partir de 2027",
-    "url": "https://imagens.ebc.com.br/71HxOxAuWFkjOLez_Jq1vsOTgBs=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/16/_mg_5213.jpg?itok=1FiGNjJl"
-  },
-  "chongqing-megainfraestrutura-polo-industrial": {
-    "alt": "Vista noturna de Chongqing, na China, com edifícios altos iluminados e infraestrutura urbana junto aos rios",
-    "caption": "Chongqing, metrópole chinesa de 32 milhões de habitantes e centro logístico da Nova Rota da Seda, em setembro de 2026.",
-    "credit": "Lucas Pordeus León / Agência Brasil",
-    "licenseUrl": "https://www.ebc.com.br/termos-de-uso-e-condicoes-gerais-do-portal-da-ebc",
-    "reason": "Fotografia principal produzida na própria reportagem da Agência Brasil. Conferida carregada no navegador em 21 de setembro de 2026: registra a paisagem urbana noturna de Chongqing, com torres e margem fluvial citadas na matéria. Os termos da EBC autorizam reprodução mediante indicação da fonte.",
-    "reviewedAt": "2026-09-21T17:10:00Z",
-    "sourceUrl": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/conheca-chongqing-metropole-chave-da-transformacao-economica-chinesa",
-    "status": "approved",
-    "title": "Chongqing combina megainfraestrutura urbana e polo industrial de 32 milhões de habitantes",
-    "url": "https://imagens.ebc.com.br/90TIyL9iUGH2M4VT6QfTIldCMN4=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/19/whatsapp_image_2026-09-18_at_20.58.58.jpeg?itok=uS-nYFUX"
-  },
-  "plataforma-228-indicadores-estados-brasileiros": {
-    "alt": "Vista de edifícios na cidade de São Paulo, um dos territórios comparados pela plataforma de indicadores estaduais",
-    "caption": "Edifícios na cidade de São Paulo, em agosto de 2026. O novo painel permite comparar indicadores das 27 unidades da Federação.",
-    "credit": "Rafa Neddermeyer / Agência Brasil",
-    "licenseUrl": "https://www.ebc.com.br/termos-de-uso-e-condicoes-gerais-do-portal-da-ebc",
-    "reason": "Fotografia principal da notícia original da Agência Brasil. Conferida carregada no navegador em 21 de setembro de 2026: mostra a paisagem urbana de São Paulo, uma das unidades territoriais comparadas nos 228 indicadores. Os termos da EBC autorizam reprodução mediante indicação da fonte.",
-    "reviewedAt": "2026-09-21T17:10:00Z",
-    "sourceUrl": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/plataforma-reune-228-indicadores-para-comparar-estados-brasileiros",
-    "status": "approved",
-    "title": "Plataforma reúne 228 indicadores para comparar os 27 estados brasileiros",
-    "url": "https://imagens.ebc.com.br/JMncg4Zyjg7LY4OtA0aA_PEo1j0=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/img_9492.jpg-12.jpg?itok=BMDPnXyM"
+  "br280-lancamento-vigas-ponte-pirai": {
+    "alt": "",
+    "caption": "",
+    "credit": "",
+    "reason": "A foto histórica aparece no índice de pesquisa, mas a fonte atualmente entrega um banner AVISO. Não publicar como foto da obra.",
+    "sourceUrl": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-operacoes-pare-e-siga-na-br-280-sc-entre-guaramirim-e-araquari-a-partir-desta-quinta-feira-6",
+    "status": "rejected",
+    "url": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-operacoes-pare-e-siga-na-br-280-sc-entre-guaramirim-e-araquari-a-partir-desta-quinta-feira-6/whatsapp-image-2026-07-08-at-17-50-01-1.jpeg/@@images/d7fa158f-834c-43e3-bb69-e0a7bc055f19.jpeg"
   },
   "brasil-reativacao-10-mil-km-ferrovias-terminais-logisticos": {
     "alt": "Representantes do Ministério dos Transportes apresentam na B3 a carteira de chamamentos públicos e terminais logísticos, diante de uma tela com imagem de trem",
@@ -119,10 +38,57 @@
     "title": "Brasil prepara reativação de 10 mil quilômetros de ferrovias e novos terminais logísticos",
     "url": "https://www.vaelithlabs.com.br/assets/editorial/ferrovias-b3-ministerio-transportes.jpg"
   },
-  "atividade-construcao-desacelera-emprego-resiste": {
-    "reason": "A capa externa da reportagem da CBIC foi conferida na editoria Engenharia em 20 de setembro de 2026 e não carregou após a rolagem completa. Rejeitada até existir imagem autorizada e visualmente validada do mesmo indicador.",
-    "reviewedAt": "2026-09-20T12:05:00Z",
-    "sourceUrl": "https://cbic.org.br/cni-atividade-da-industria-da-construcao-desacelera-mas-emprego-no-setor-resiste/",
+  "cantareira-faixa-atencao-outubro-2026": {
+    "alt": "Barragem do rio Juqueri na represa Paiva Castro, um dos reservatórios do Sistema Cantareira, fotografada em 30 de setembro de 2024",
+    "caption": "Barragem do rio Juqueri, na represa Paiva Castro, em Franco da Rocha (SP), em 30 de setembro de 2024. Imagem de arquivo do próprio Sistema Cantareira; não mostra o volume medido em outubro de 2026.",
+    "credit": "Rovena Rosa / Agência Brasil",
+    "licenseUrl": "https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente",
+    "reason": "Fotografia principal da própria reportagem da Agência Brasil sobre o Cantareira, vista carregada no navegador em 1º de outubro de 2026 e copiada para o Sanity. Mostra a barragem do Paiva Castro, reservatório integrante do sistema tratado na matéria. É uma foto de arquivo de 30/09/2024, indicada como tal na legenda; não representa o nível atual. A página oficial do serviço de imagens autoriza o uso jornalístico de fotos da própria Agência Brasil com crédito. Não duplica foto publicada, não é aviso ou logotipo.",
+    "reviewedAt": "2026-10-01T20:58:00Z",
+    "sourceUrl": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/apos-chuvas-de-setembro-cantareira-passa-operar-na-faixa-de-atencao",
+    "status": "approved",
+    "title": "Cantareira volta à faixa de atenção com 41,1% do volume útil após chuvas de setembro",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/8ed5ba9d69fbf249986cd915a92b8a384b276fef-1170x700.jpg"
+  },
+  "chongqing-megainfraestrutura-polo-industrial": {
+    "alt": "Vista noturna de Chongqing, na China, com edifícios altos iluminados e infraestrutura urbana junto aos rios",
+    "caption": "Chongqing, metrópole chinesa de 32 milhões de habitantes e centro logístico da Nova Rota da Seda, em setembro de 2026.",
+    "credit": "Lucas Pordeus León / Agência Brasil",
+    "licenseUrl": "https://www.ebc.com.br/termos-de-uso-e-condicoes-gerais-do-portal-da-ebc",
+    "reason": "Fotografia principal produzida na própria reportagem da Agência Brasil. Conferida carregada no navegador em 21 de setembro de 2026: registra a paisagem urbana noturna de Chongqing, com torres e margem fluvial citadas na matéria. Os termos da EBC autorizam reprodução mediante indicação da fonte.",
+    "reviewedAt": "2026-09-21T17:10:00Z",
+    "sourceUrl": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/conheca-chongqing-metropole-chave-da-transformacao-economica-chinesa",
+    "status": "approved",
+    "title": "Chongqing combina megainfraestrutura urbana e polo industrial de 32 milhões de habitantes",
+    "url": "https://imagens.ebc.com.br/90TIyL9iUGH2M4VT6QfTIldCMN4=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/19/whatsapp_image_2026-09-18_at_20.58.58.jpeg?itok=uS-nYFUX"
+  },
+  "civilgrid-mapeamento-subsolo": {
+    "reason": "A capa externa da matéria do ENR foi conferida no site público em 20 de setembro de 2026 e não carregou após rolagem e espera do lazy-loading. Sem imagem alternativa autorizada do mesmo anúncio, a URL foi rejeitada para não manter um cartão quebrado.",
+    "reviewedAt": "2026-09-20T11:20:00Z",
+    "sourceUrl": "https://www.enr.com/articles/63611-underground-conditions-platform-civilgrid-raises-26m",
+    "status": "rejected"
+  },
+  "construcao-emprego-formal-agosto-2026": {
+    "alt": "Divulgação oficial dos resultados do Novo Caged de agosto de 2026, com representantes do Ministério do Trabalho e Emprego",
+    "caption": "Divulgação dos resultados do Novo Caged de agosto de 2026 pelo Ministério do Trabalho e Emprego.",
+    "credit": "Tirza Bráz / Ministério do Trabalho e Emprego",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/3.0/",
+    "reason": "Fotografia oficial da própria divulgação do Novo Caged de agosto de 2026 pelo Ministério do Trabalho e Emprego. A imagem foi conferida visualmente no navegador em 1º de outubro de 2026, mostra o evento institucional que apresentou os dados, não é aviso, nota oficial, logotipo ou imagem genérica, e foi armazenada no Sanity. O portal gov.br declara licença CC BY-ND 3.0 para o conteúdo.",
+    "reviewedAt": "2026-10-01T11:57:22Z",
+    "sourceUrl": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/setembro/novo-caged-emprego-formal-gera-165-8-mil-vagas-em-agosto-e-acumula-1-13-milhao-de-postos-no-ano/",
+    "status": "approved",
+    "title": "Construção cria 20,8 mil vagas em agosto e acumula 200,4 mil postos em 2026",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/e9405d5d476c7c7d0fe36cfb45626037cbd07428-1401x936.jpg"
+  },
+  "corredor-ferroviario-minas-rio-leilao": {
+    "reason": "Verificação visual no site público: banner institucional ou nota oficial, não uma fotografia da infraestrutura descrita.",
+    "reviewedAt": "2026-09-14",
+    "status": "rejected"
+  },
+  "data-centers-energia-gasto-construcao": {
+    "reason": "O gráfico externo da matéria do ENR foi conferido no site público em 20 de setembro de 2026 e permaneceu com dimensões naturais zero após o carregamento da página. Rejeitado até existir figura oficial reutilizável e visualmente validada.",
+    "reviewedAt": "2026-09-20T11:20:00Z",
+    "sourceUrl": "https://www.enr.com/articles/63595-data-centers-power-see-increase-as-total-spending-declines",
     "status": "rejected"
   },
   "data-centers-mudam-entrega-projetos": {
@@ -131,11 +97,47 @@
     "sourceUrl": "https://www.enr.com/articles/63606-data-center-crunch-contractors-rethink-project-delivery-adopt-new-tools-to-meet-booming-demand",
     "status": "rejected"
   },
+  "eclusa-barkley-drenagem-reparos-estruturais": {
+    "alt": "Comporta de aço da eclusa Barkley exposta durante a drenagem, com plataforma elevatória junto à estrutura",
+    "caption": "Comporta da eclusa Barkley durante a manutenção de setembro de 2026, em Grand Rivers, Kentucky. Foto oficial da mesma operação; o catálogo registra 9 de setembro e a legenda da fonte menciona 10 de setembro.",
+    "credit": "Noe Gonzalez / U.S. Army Corps of Engineers",
+    "licenseUrl": "https://www.dvidshub.net/about/copyright",
+    "reason": "Foto 9938032 do USACE, identificada como domínio público no DVIDS e vinculada à mesma notícia. Vista carregada no navegador: comporta de aço, câmara drenada e plataforma elevatória. Cópia estática no domínio VAELITH substitui hotlink que retornou Access Denied. Divergência de um dia entre catálogo e legenda explicitada.",
+    "reviewedAt": "2026-09-16T18:09:28.539Z",
+    "sourceUrl": "https://www.dvidshub.net/image/9938032/us-army-corps-engineers-dewatering-barkley-lock",
+    "status": "approved",
+    "title": "Corpo de Engenheiros drena eclusa Barkley para reparar comportas e válvulas críticas",
+    "url": "https://www.vaelithlabs.com.br/assets/editorial/barkley-usace-9938032.jpg"
+  },
+  "everon-t5-construction-data-centers": {
+    "reason": "A fotografia externa do campus T5 usada pelo ENR foi conferida no site público em 20 de setembro de 2026 e não carregou após rolagem e espera do lazy-loading. Rejeitada até ser substituída por imagem oficial autorizada do mesmo fato.",
+    "reviewedAt": "2026-09-20T11:20:00Z",
+    "sourceUrl": "https://www.enr.com/articles/63589-t5-construction-with-17b-in-latest-annual-revenue-rebrands-as-everon",
+    "status": "rejected"
+  },
+  "glenfarne-oliver-wood-lideranca-projetos-lng": {
+    "reason": "A fotografia externa de Oliver Wood, vinculada ao anúncio da Glenfarne, foi conferida novamente na página inicial em 28 de setembro de 2026 e permaneceu com naturalWidth zero após a rolagem e a espera do lazy-loading. Rejeitada até existir uma cópia oficial autorizada e visualmente validada do mesmo anúncio.",
+    "reviewedAt": "2026-09-28T12:00:00Z",
+    "sourceUrl": "https://www.businesswire.com/news/home/20260913293425/en/Glenfarne-Group-Promotes-Oliver-Wood-to-Global-Head-of-Projects",
+    "status": "rejected"
+  },
   "grand-canyon-agua-cheias-infraestrutura": {
     "reason": "A capa externa sobre a infraestrutura de água do Grand Canyon permaneceu com dimensões naturais zero na editoria Engenharia em 20 de setembro de 2026. Rejeitada até substituição factual autorizada.",
     "reviewedAt": "2026-09-20T12:05:00Z",
     "sourceUrl": "https://www.enr.com/articles/63586-grand-canyon-flood-disrupts-208m-waterline-replacement",
     "status": "rejected"
+  },
+  "grandes-contratos-construcao-semana": {
+    "alt": "Ponte Arland D. Williams Jr. e demais pontes da I-395 sobre o rio Potomac, em Washington",
+    "caption": "Pontes da I-395 sobre o Potomac, incluindo a Arland D. Williams Jr., cuja reabilitação pela Skanska integra os contratos citados no balanço semanal. Registro de junho de 2024, anterior às obras anunciadas.",
+    "credit": "Tony Webster / Wikimedia Commons — CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "reason": "Foto do conjunto de pontes sobre o Potomac, incluindo o projeto da Skanska citado na notícia. Registro de arquivo identificado na legenda; verificado no site público.",
+    "reviewedAt": "2026-09-14",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bridges_Over_the_Potomac_River_-_I-395_-_Washington_D.C._(54000036919).jpg",
+    "status": "approved",
+    "title": "Grandes contratos e projetos mostram construção global ainda ativa em infraestrutura crítica",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bridges_Over_the_Potomac_River_-_I-395_-_Washington_D.C._%2854000036919%29.jpg"
   },
   "hvdc-dakota-minnesota-450-milhoes": {
     "reason": "O mapa externo da linha HVDC não carregou na editoria Engenharia após a rolagem completa em 20 de setembro de 2026. Rejeitado até existir figura oficial reutilizável e visualmente validada.",
@@ -143,10 +145,129 @@
     "sourceUrl": "https://www.enr.com/articles/63609-mortenson-tapped-for-450m-hvdc-project-in-north-dakota-and-minnesota",
     "status": "rejected"
   },
+  "iphan-quilombo-ferreira-diniz-gloria": {
+    "alt": "Moradores e visitantes reunidos no quintal do Quilombo Ferreira Diniz, diante de um dos casarões na Glória, Rio de Janeiro",
+    "caption": "Quintal e construção do Quilombo Ferreira Diniz, na Glória, Rio de Janeiro, em registro de 25 de setembro de 2026. O terreno, o quintal e os casarões integram a área tombada pelo Iphan.",
+    "credit": "Fernando Frazão / Agência Brasil",
+    "licenseUrl": "https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente",
+    "reason": "Fotografia da própria reportagem sobre o mesmo quilombo, feita por Fernando Frazão em 25/09/2026. Vista carregada na fonte e no ativo copiado ao Sanity em 01/10/2026: mostra o quintal em uso e a construção protegida, não aviso, logotipo ou imagem temática. O serviço oficial permite uso jornalístico de imagens da Agência Brasil com crédito; não é foto de parceiro nem duplica outra matéria.",
+    "reviewedAt": "2026-10-01T21:12:07Z",
+    "sourceUrl": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/quilombo-urbano-na-zona-sul-do-rio-guarda-licoes-de-resistencia",
+    "status": "approved",
+    "title": "Tombamento protege quintal e casarões do Quilombo Ferreira Diniz no Rio",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/66ce17c09a99264040270f449a8e6ea40e0ad850-754x503.jpg"
+  },
+  "mata-atlantica-perde-vegetacao-agricultura-avanca": {
+    "alt": "Vista aérea de antiga área de pasto reflorestada pelo Projeto Guapiaçu na Fazenda Vital Brazil, em Cachoeiras de Macacu, no Rio de Janeiro",
+    "caption": "Área anteriormente usada como pasto e reflorestada pelo Projeto Guapiaçu na Fazenda Vital Brazil, em Cachoeiras de Macacu (RJ), em novembro de 2024.",
+    "credit": "Fernando Frazão / Agência Brasil",
+    "licenseUrl": "https://www.ebc.com.br/termos-de-uso-e-condicoes-gerais-do-portal-da-ebc",
+    "reason": "Fotografia principal da notícia original da Agência Brasil. Conferida carregada no navegador em 21 de setembro de 2026: mostra a área do Projeto Guapiaçu com floresta, pastagem e área em restauração, ligação direta com a mudança de cobertura da terra tratada pela matéria. Os termos da EBC autorizam reprodução mediante indicação da fonte.",
+    "reviewedAt": "2026-09-21T17:10:00Z",
+    "sourceUrl": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/agricultura-avanca-11-milhoes-de-hectares-em-41-anos-na-mata-atlantica",
+    "status": "approved",
+    "title": "Mata Atlântica perde 9,7 milhões de hectares de vegetação madura em 41 anos",
+    "url": "https://imagens.ebc.com.br/x45QqQmpyp1-R8ZYfusYvdl2MN0=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/11/29/dji_0483_1-2.jpg?itok=iD6cjjWj"
+  },
   "obras-de-arte-especiais-dnit": {
     "reason": "A imagem oficial vinculada à matéria do DNIT não carregou na editoria Engenharia após a rolagem completa em 20 de setembro de 2026. Rejeitada até ser recuperada ou substituída por ativo oficial do mesmo conteúdo.",
     "reviewedAt": "2026-09-20T12:05:00Z",
     "sourceUrl": "https://www.gov.br/dnit/pt-br/assuntos/noticias-periodo-eleitoral/obras-de-arte-especiais-estruturas-fundamentais-para-a-infraestrutura-rodoviaria",
+    "status": "rejected"
+  },
+  "oracle-procore-disputa-dados-construcao": {
+    "reason": "O anexo externo usado como capa da matéria Oracle–Procore foi conferido na editoria Tecnologia em 20 de setembro de 2026 e permaneceu com dimensões naturais zero após o lazy-loading. Rejeitado até existir imagem factual autorizada e visualmente validada.",
+    "reviewedAt": "2026-09-20T11:45:00Z",
+    "sourceUrl": "https://www.enr.com/articles/63592-records-show-file-transfers-in-oracle-procore-intellectual-property-dispute",
+    "status": "rejected"
+  },
+  "pesquisa-ecc-pontes-durabilidade-resiliencia": {
+    "alt": "Esquema de uma ponte indicando seis aplicações de compósitos cimentícios engenheirados em tabuleiro, laje de ligação, reparos, chaves transversais, pilares e dispositivos sísmicos",
+    "caption": "Figura 2 do artigo original: esquema dos usos de ECC em diferentes componentes de uma ponte, incluindo laje de ligação, sistema misto de tabuleiro, reparos, preenchimento de chave transversal, regiões de dobradiça plástica e dispositivo sísmico.",
+    "credit": "Hu et al. / Advances in Bridge Engineering — CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reason": "Figura 2 do próprio artigo, conferida visualmente no navegador em 20 de setembro de 2026. O esquema mostra exatamente as seis aplicações de ECC em pontes descritas na revisão; não é logotipo, aviso nem imagem temática. A figura foi armazenada como ativo do Sanity para evitar dependência de hotlink.",
+    "reviewedAt": "2026-09-20T11:40:00Z",
+    "sourceUrl": "https://doi.org/10.1186/s43251-026-00224-5",
+    "status": "approved",
+    "title": "ECC amplia durabilidade de pontes, mas adoção ainda esbarra em normas e dados de campo",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/91c145e752d46df449ea6a820441be2aea32e14d-1200x623.png"
+  },
+  "pesquisa-grade-condutiva-monitoramento-fissuras-concreto": {
+    "alt": "Quatro diagramas de uma grade condutiva mostram cenários de propagação de fissuras e os pontos detectados pelo método de análise inversa",
+    "caption": "Figura 4 do estudo original: cenários e resultados de detecção para propagação simultânea, fissuras irregulares próximas e fissuras próximas à borda.",
+    "credit": "Shin et al. / International Journal of Concrete Structures and Materials — CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reason": "Figura 4 do próprio estudo, conferida visualmente no navegador em 1º de outubro de 2026 na versão 1200 × 1140. A imagem mostra os cenários de propagação e os resultados de detecção analisados na matéria; não é logotipo, aviso ou imagem temática. Foi armazenada como ativo próprio do Sanity e não duplica nenhuma imagem publicada.",
+    "reviewedAt": "2026-10-01T12:14:00Z",
+    "sourceUrl": "https://link.springer.com/article/10.1186/s40069-026-00955-9/figures/4",
+    "status": "approved",
+    "title": "Grade condutiva localiza fissuras em concreto, mas método ainda depende de validação física",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/67a83b7f8d5d995c5f05d4e2fa1c79cc308104a6-1200x1140.png"
+  },
+  "pesquisa-indice-mobilidade-priorizacao-pontes-eua": {
+    "alt": "Fluxograma em cinco etapas da integração de dados, construção, avaliação e aplicação do índice de mobilidade para priorização de pontes",
+    "caption": "Figura 1 do artigo original: fluxo metodológico para integrar HPMS e NBI, construir o índice, avaliar sensibilidade e identificar rankings e áreas prioritárias.",
+    "credit": "Raj Bridgelall / Algorithms (MDPI) — CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reason": "Figura 1 do próprio estudo, conferida visualmente no navegador em 15 de setembro de 2026; mostra as cinco etapas exatas do método descrito na matéria e não é logotipo, aviso ou imagem temática.",
+    "reviewedAt": "2026-09-15T11:12:00Z",
+    "sourceUrl": "https://doi.org/10.3390/a19090791",
+    "status": "approved",
+    "title": "Índice combina condição, tráfego e pavimento para priorizar a preservação de 79.595 pontes",
+    "url": "https://www.mdpi.com/algorithms/algorithms-19-00791/article_deploy/html/images/algorithms-19-00791-g001.png"
+  },
+  "pesquisa-nuvens-pontos-3d-descontinuidades-tuneis": {
+    "alt": "Nuvem de pontos de uma frente de túnel e resultados coloridos de agrupamento e segmentação de descontinuidades rochosas",
+    "caption": "Figura 8 do estudo original: nuvem de pontos da frente de túnel (Dataset B) e resultados de agrupamento e segmentação das descontinuidades identificadas.",
+    "credit": "Leng et al. / Scientific Reports — CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reason": "Figura 8 do estudo original, mostrando a frente de túnel usada no Dataset B e os resultados de identificação e segmentação. A figura foi conferida visualmente no navegador em 26 de setembro de 2026, não é aviso nem logotipo e está coberta pela licença CC BY 4.0 do artigo. A cópia foi armazenada no Sanity para evitar dependência de hotlink.",
+    "reviewedAt": "2026-09-26T13:55:00Z",
+    "sourceUrl": "https://www.nature.com/articles/s41598-026-71322-7",
+    "status": "approved",
+    "title": "Nuvens de pontos 3D reduzem erro na identificação de descontinuidades em túneis",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/dd382ae85883ce23c10e811051e385962f2c7128-1200x879.png"
+  },
+  "pesquisa-retrofit-clt-paineis-amortecedores-atrito": {
+    "alt": "Desenho dos componentes do amortecedor por atrito e fotografia da instalação de um painel de CLT em pórtico de concreto armado",
+    "caption": "Figura 1 do estudo: componentes do amortecedor por atrito e instalação do painel e-CLT no pórtico de concreto armado ensaiado em escala real.",
+    "credit": "Pozza et al. / Bulletin of Earthquake Engineering — CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reason": "Figura 1 do próprio estudo, mostrando o detalhamento do amortecedor por atrito e a instalação do painel e-CLT no protótipo de concreto armado ensaiado. A figura foi conferida visualmente no navegador em 28 de setembro de 2026, não é aviso nem logotipo, não duplica imagens do acervo e está coberta pela licença CC BY 4.0 do artigo. A cópia foi armazenada no Sanity para evitar dependência de hotlink.",
+    "reviewedAt": "2026-09-28T12:42:00Z",
+    "sourceUrl": "https://link.springer.com/article/10.1007/s10518-026-02690-8",
+    "status": "approved",
+    "title": "Painéis de CLT elevam resistência sísmica de pórticos de concreto em ensaio de escala real",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/116e8f9bc856809fafd0b42a1fc8618a694c0901-685x278.png"
+  },
+  "pix-novas-regras-fraudes-cobranca-hibrida": {
+    "alt": "Pessoa usa aplicativo bancário em um telefone celular para realizar pagamento por Pix",
+    "caption": "Aplicativo bancário usado para pagamento por Pix, em Brasília, em janeiro de 2025.",
+    "credit": "Bruno Peres / Agência Brasil",
+    "licenseUrl": "https://www.ebc.com.br/termos-de-uso-e-condicoes-gerais-do-portal-da-ebc",
+    "reason": "Fotografia principal da notícia original da Agência Brasil. Conferida carregada no navegador em 21 de setembro de 2026: mostra um usuário na interface Pix de um aplicativo bancário, correspondendo diretamente às novas regras do serviço. Os termos da EBC autorizam reprodução mediante indicação da fonte.",
+    "reviewedAt": "2026-09-21T17:10:00Z",
+    "sourceUrl": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pix-tera-novas-regras-para-fraudes-cobranca-hibrida-e-contas-salario",
+    "status": "approved",
+    "title": "Pix terá cobrança híbrida e novas barreiras contra fraudes a partir de 2027",
+    "url": "https://imagens.ebc.com.br/71HxOxAuWFkjOLez_Jq1vsOTgBs=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/16/_mg_5213.jpg?itok=1FiGNjJl"
+  },
+  "plataforma-228-indicadores-estados-brasileiros": {
+    "alt": "Vista de edifícios na cidade de São Paulo, um dos territórios comparados pela plataforma de indicadores estaduais",
+    "caption": "Edifícios na cidade de São Paulo, em agosto de 2026. O novo painel permite comparar indicadores das 27 unidades da Federação.",
+    "credit": "Rafa Neddermeyer / Agência Brasil",
+    "licenseUrl": "https://www.ebc.com.br/termos-de-uso-e-condicoes-gerais-do-portal-da-ebc",
+    "reason": "Fotografia principal da notícia original da Agência Brasil. Conferida carregada no navegador em 21 de setembro de 2026: mostra a paisagem urbana de São Paulo, uma das unidades territoriais comparadas nos 228 indicadores. Os termos da EBC autorizam reprodução mediante indicação da fonte.",
+    "reviewedAt": "2026-09-21T17:10:00Z",
+    "sourceUrl": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/plataforma-reune-228-indicadores-para-comparar-estados-brasileiros",
+    "status": "approved",
+    "title": "Plataforma reúne 228 indicadores para comparar os 27 estados brasileiros",
+    "url": "https://imagens.ebc.com.br/JMncg4Zyjg7LY4OtA0aA_PEo1j0=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/img_9492.jpg-12.jpg?itok=BMDPnXyM"
+  },
+  "ponte-estreito-mosquitos-reconstrucao": {
+    "reason": "Verificação visual no site público: banner institucional ou nota oficial, não uma fotografia da infraestrutura descrita.",
+    "reviewedAt": "2026-09-14",
     "status": "rejected"
   },
   "porto-rico-controle-enchentes-11-bi": {
@@ -173,119 +294,10 @@
     "sourceUrl": "https://www.archdaily.com/pt/1184491/construir-como-pratica-politica-a-usina-e-o-legado-da-construcao-coletiva-no-brasil",
     "status": "rejected"
   },
-  "civilgrid-mapeamento-subsolo": {
-    "reason": "A capa externa da matéria do ENR foi conferida no site público em 20 de setembro de 2026 e não carregou após rolagem e espera do lazy-loading. Sem imagem alternativa autorizada do mesmo anúncio, a URL foi rejeitada para não manter um cartão quebrado.",
-    "reviewedAt": "2026-09-20T11:20:00Z",
-    "sourceUrl": "https://www.enr.com/articles/63611-underground-conditions-platform-civilgrid-raises-26m",
-    "status": "rejected"
-  },
-  "data-centers-energia-gasto-construcao": {
-    "reason": "O gráfico externo da matéria do ENR foi conferido no site público em 20 de setembro de 2026 e permaneceu com dimensões naturais zero após o carregamento da página. Rejeitado até existir figura oficial reutilizável e visualmente validada.",
-    "reviewedAt": "2026-09-20T11:20:00Z",
-    "sourceUrl": "https://www.enr.com/articles/63595-data-centers-power-see-increase-as-total-spending-declines",
-    "status": "rejected"
-  },
-  "everon-t5-construction-data-centers": {
-    "reason": "A fotografia externa do campus T5 usada pelo ENR foi conferida no site público em 20 de setembro de 2026 e não carregou após rolagem e espera do lazy-loading. Rejeitada até ser substituída por imagem oficial autorizada do mesmo fato.",
-    "reviewedAt": "2026-09-20T11:20:00Z",
-    "sourceUrl": "https://www.enr.com/articles/63589-t5-construction-with-17b-in-latest-annual-revenue-rebrands-as-everon",
-    "status": "rejected"
-  },
-  "oracle-procore-disputa-dados-construcao": {
-    "reason": "O anexo externo usado como capa da matéria Oracle–Procore foi conferido na editoria Tecnologia em 20 de setembro de 2026 e permaneceu com dimensões naturais zero após o lazy-loading. Rejeitado até existir imagem factual autorizada e visualmente validada.",
-    "reviewedAt": "2026-09-20T11:45:00Z",
-    "sourceUrl": "https://www.enr.com/articles/63592-records-show-file-transfers-in-oracle-procore-intellectual-property-dispute",
-    "status": "rejected"
-  },
-  "br280-lancamento-vigas-ponte-pirai": {
-    "alt": "",
-    "caption": "",
-    "credit": "",
-    "reason": "A foto histórica aparece no índice de pesquisa, mas a fonte atualmente entrega um banner AVISO. Não publicar como foto da obra.",
-    "sourceUrl": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-operacoes-pare-e-siga-na-br-280-sc-entre-guaramirim-e-araquari-a-partir-desta-quinta-feira-6",
-    "status": "rejected",
-    "url": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-operacoes-pare-e-siga-na-br-280-sc-entre-guaramirim-e-araquari-a-partir-desta-quinta-feira-6/whatsapp-image-2026-07-08-at-17-50-01-1.jpeg/@@images/d7fa158f-834c-43e3-bb69-e0a7bc055f19.jpeg"
-  },
-  "corredor-ferroviario-minas-rio-leilao": {
-    "reason": "Verificação visual no site público: banner institucional ou nota oficial, não uma fotografia da infraestrutura descrita.",
-    "reviewedAt": "2026-09-14",
-    "status": "rejected"
-  },
-  "grandes-contratos-construcao-semana": {
-    "alt": "Ponte Arland D. Williams Jr. e demais pontes da I-395 sobre o rio Potomac, em Washington",
-    "caption": "Pontes da I-395 sobre o Potomac, incluindo a Arland D. Williams Jr., cuja reabilitação pela Skanska integra os contratos citados no balanço semanal. Registro de junho de 2024, anterior às obras anunciadas.",
-    "credit": "Tony Webster / Wikimedia Commons — CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-    "reason": "Foto do conjunto de pontes sobre o Potomac, incluindo o projeto da Skanska citado na notícia. Registro de arquivo identificado na legenda; verificado no site público.",
-    "reviewedAt": "2026-09-14",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bridges_Over_the_Potomac_River_-_I-395_-_Washington_D.C._(54000036919).jpg",
-    "status": "approved",
-    "title": "Grandes contratos e projetos mostram construção global ainda ativa em infraestrutura crítica",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bridges_Over_the_Potomac_River_-_I-395_-_Washington_D.C._%2854000036919%29.jpg"
-  },
-  "pesquisa-indice-mobilidade-priorizacao-pontes-eua": {
-    "alt": "Fluxograma em cinco etapas da integração de dados, construção, avaliação e aplicação do índice de mobilidade para priorização de pontes",
-    "caption": "Figura 1 do artigo original: fluxo metodológico para integrar HPMS e NBI, construir o índice, avaliar sensibilidade e identificar rankings e áreas prioritárias.",
-    "credit": "Raj Bridgelall / Algorithms (MDPI) — CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "reason": "Figura 1 do próprio estudo, conferida visualmente no navegador em 15 de setembro de 2026; mostra as cinco etapas exatas do método descrito na matéria e não é logotipo, aviso ou imagem temática.",
-    "reviewedAt": "2026-09-15T11:12:00Z",
-    "sourceUrl": "https://doi.org/10.3390/a19090791",
-    "status": "approved",
-    "title": "Índice combina condição, tráfego e pavimento para priorizar a preservação de 79.595 pontes",
-    "url": "https://www.mdpi.com/algorithms/algorithms-19-00791/article_deploy/html/images/algorithms-19-00791-g001.png"
-  },
-  "ponte-estreito-mosquitos-reconstrucao": {
-    "reason": "Verificação visual no site público: banner institucional ou nota oficial, não uma fotografia da infraestrutura descrita.",
-    "reviewedAt": "2026-09-14",
-    "status": "rejected"
-  },
   "wyre-ia-preconstrucao-documentos": {
     "reason": "A captura externa da plataforma Wyre continua sem carregar no site público em 20 de setembro de 2026. Sem autorização verificável para copiar a imagem protegida do ENR, a capa permanece rejeitada e fora das áreas visuais de destaque.",
     "reviewedAt": "2026-09-20T11:20:00Z",
     "sourceUrl": "https://www.enr.com/articles/63636-ai-powered-preconstruction-analysis-platform-wyre-raises-5m-in-funding",
     "status": "rejected"
-  },
-  "eclusa-barkley-drenagem-reparos-estruturais": {
-    "alt": "Comporta de aço da eclusa Barkley exposta durante a drenagem, com plataforma elevatória junto à estrutura",
-    "caption": "Comporta da eclusa Barkley durante a manutenção de setembro de 2026, em Grand Rivers, Kentucky. Foto oficial da mesma operação; o catálogo registra 9 de setembro e a legenda da fonte menciona 10 de setembro.",
-    "credit": "Noe Gonzalez / U.S. Army Corps of Engineers",
-    "licenseUrl": "https://www.dvidshub.net/about/copyright",
-    "reason": "Foto 9938032 do USACE, identificada como domínio público no DVIDS e vinculada à mesma notícia. Vista carregada no navegador: comporta de aço, câmara drenada e plataforma elevatória. Cópia estática no domínio VAELITH substitui hotlink que retornou Access Denied. Divergência de um dia entre catálogo e legenda explicitada.",
-    "reviewedAt": "2026-09-16T18:09:28.539Z",
-    "sourceUrl": "https://www.dvidshub.net/image/9938032/us-army-corps-engineers-dewatering-barkley-lock",
-    "status": "approved",
-    "title": "Corpo de Engenheiros drena eclusa Barkley para reparar comportas e válvulas críticas",
-    "url": "https://www.vaelithlabs.com.br/assets/editorial/barkley-usace-9938032.jpg"
-  },
-  "pesquisa-ecc-pontes-durabilidade-resiliencia": {
-    "alt": "Esquema de uma ponte indicando seis aplicações de compósitos cimentícios engenheirados em tabuleiro, laje de ligação, reparos, chaves transversais, pilares e dispositivos sísmicos",
-    "caption": "Figura 2 do artigo original: esquema dos usos de ECC em diferentes componentes de uma ponte, incluindo laje de ligação, sistema misto de tabuleiro, reparos, preenchimento de chave transversal, regiões de dobradiça plástica e dispositivo sísmico.",
-    "credit": "Hu et al. / Advances in Bridge Engineering — CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "reason": "Figura 2 do próprio artigo, conferida visualmente no navegador em 20 de setembro de 2026. O esquema mostra exatamente as seis aplicações de ECC em pontes descritas na revisão; não é logotipo, aviso nem imagem temática. A figura foi armazenada como ativo do Sanity para evitar dependência de hotlink.",
-    "reviewedAt": "2026-09-20T11:40:00Z",
-    "sourceUrl": "https://doi.org/10.1186/s43251-026-00224-5",
-    "status": "approved",
-    "title": "ECC amplia durabilidade de pontes, mas adoção ainda esbarra em normas e dados de campo",
-    "url": "https://cdn.sanity.io/images/s2xosuea/production/91c145e752d46df449ea6a820441be2aea32e14d-1200x623.png"
-  },
-  "glenfarne-oliver-wood-lideranca-projetos-lng": {
-    "reason": "A fotografia externa de Oliver Wood, vinculada ao anúncio da Glenfarne, foi conferida novamente na página inicial em 28 de setembro de 2026 e permaneceu com naturalWidth zero após a rolagem e a espera do lazy-loading. Rejeitada até existir uma cópia oficial autorizada e visualmente validada do mesmo anúncio.",
-    "reviewedAt": "2026-09-28T12:00:00Z",
-    "sourceUrl": "https://www.businesswire.com/news/home/20260913293425/en/Glenfarne-Group-Promotes-Oliver-Wood-to-Global-Head-of-Projects",
-    "status": "rejected"
-  },
-  "iphan-quilombo-ferreira-diniz-gloria": {
-    "alt": "Moradores e visitantes reunidos no quintal do Quilombo Ferreira Diniz, diante de um dos casarões na Glória, Rio de Janeiro",
-    "caption": "Quintal e construção do Quilombo Ferreira Diniz, na Glória, Rio de Janeiro, em registro de 25 de setembro de 2026. O terreno, o quintal e os casarões integram a área tombada pelo Iphan.",
-    "credit": "Fernando Frazão / Agência Brasil",
-    "licenseUrl": "https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente",
-    "reason": "Fotografia da própria reportagem sobre o mesmo quilombo, feita por Fernando Frazão em 25/09/2026. Vista carregada na fonte e no ativo copiado ao Sanity em 01/10/2026: mostra o quintal em uso e a construção protegida, não aviso, logotipo ou imagem temática. O serviço oficial permite uso jornalístico de imagens da Agência Brasil com crédito; não é foto de parceiro nem duplica outra matéria.",
-    "reviewedAt": "2026-10-01T21:12:07Z",
-    "sourceUrl": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/quilombo-urbano-na-zona-sul-do-rio-guarda-licoes-de-resistencia",
-    "status": "approved",
-    "title": "Tombamento protege quintal e casarões do Quilombo Ferreira Diniz no Rio",
-    "url": "https://cdn.sanity.io/images/s2xosuea/production/66ce17c09a99264040270f449a8e6ea40e0ad850-754x503.jpg"
   }
 }
