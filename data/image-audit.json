@@ -1,7 +1,13 @@
 {
-  "checkedAt": "2026-10-01",
+  "checkedAt": "2026-10-04",
   "note": "Inventário do acervo. Não equivale a uma revisão visual completa. Novas publicações exigem revisão no manifesto. Em 01/10, a Figura 4 do estudo sobre grade condutiva para monitoramento de fissuras foi validada visualmente em 1200 × 1140, copiada para o Sanity sob CC BY 4.0 e aprovada sem duplicidade.",
   "articles": [
+    {
+      "slug": "br020-audiencias-projeto-go-ba-2026",
+      "sourceUrl": "https://www.gov.br/dnit/pt-br/assuntos/noticias-periodo-eleitoral/br-020-audiencias-publicas-apresentam-estudos-ambientais-e-solucoes-previstas-para-trechos-da-rodovia/",
+      "status": "approved",
+      "note": "Fotografia factual de audiência pública da BR-020 vista no navegador em 04/10/2026 na fonte, no ativo Sanity e na URL individual com imagem 720 × 405; licença CC BY-ND 3.0 do portal DNIT; arquivo copiado sem alteração editorial. Publicação da fonte em 29/09, notícia VAELITH em 04/10."
+    },
     {
       "slug": "iphan-quilombo-ferreira-diniz-gloria",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/quilombo-urbano-na-zona-sul-do-rio-guarda-licoes-de-resistencia",
