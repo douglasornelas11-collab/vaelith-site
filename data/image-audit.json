@@ -3,6 +3,12 @@
   "note": "Inventário do acervo. Não equivale a uma revisão visual completa. Novas publicações exigem revisão no manifesto. Em 01/10, a Figura 4 do estudo sobre grade condutiva para monitoramento de fissuras foi validada visualmente em 1200 × 1140, copiada para o Sanity sob CC BY 4.0 e aprovada sem duplicidade.",
   "articles": [
     {
+      "slug": "antt-simulado-emergencia-br040-2026",
+      "sourceUrl": "https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral/antt-acompanha-simulado-de-emergencia-realizado-pela-epr-via-mineira-na-br-040",
+      "status": "approved",
+      "note": "Fotografia oficial EPR Via Mineira/ANTT da equipe de bombeiros aplicando espuma ao caminhão-tanque no simulado na BR-040. Vista na fonte, no ativo Sanity e na URL individual e listagem em 04/10/2026; cópia sem alteração sob a condição CC BY-ND 3.0 indicada no portal ANTT. Fonte de 02/10/2026 às 14h38, publicação VAELITH em 04/10."
+    },
+    {
       "slug": "br020-audiencias-projeto-go-ba-2026",
       "sourceUrl": "https://www.gov.br/dnit/pt-br/assuntos/noticias-periodo-eleitoral/br-020-audiencias-publicas-apresentam-estudos-ambientais-e-solucoes-previstas-para-trechos-da-rodovia/",
       "status": "approved",
