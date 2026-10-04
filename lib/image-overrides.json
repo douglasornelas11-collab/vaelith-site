@@ -311,5 +311,17 @@
     "reviewedAt": "2026-09-20T11:20:00Z",
     "sourceUrl": "https://www.enr.com/articles/63636-ai-powered-preconstruction-analysis-platform-wyre-raises-5m-in-funding",
     "status": "rejected"
+  },
+  "petrobras-morpho-segundo-intervalo-petroleo-amapa-2026": {
+    "title": "Petrobras encontra segundo intervalo com petróleo no poço Morpho, no Amapá",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/c2542d1b4717ab6ed1ac5f5cae866dca59f72674-1170x700.webp",
+    "alt": "Magda Chambriard e dirigentes da Petrobras apresentam a descoberta no poço Morpho em coletiva de imprensa, diante de tela com imagem da sonda",
+    "caption": "Coletiva da Petrobras em 2 de outubro de 2026 sobre a segunda descoberta no poço Morpho, na costa do Amapá. A foto registra o anúncio, não a jazida submarina.",
+    "credit": "Rovena Rosa / Agência Brasil",
+    "sourceUrl": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/nova-descoberta-aumenta-expectativa-da-petrobras-na-foz-do-amazonas",
+    "licenseUrl": "https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente",
+    "reviewedAt": "2026-10-04T16:36:45.043Z",
+    "reason": "Fotografia da coletiva de 02/10/2026 sobre a segunda descoberta do poço Morpho, produzida por Rovena Rosa/Agência Brasil e exibida na própria reportagem. Conferida carregada na fonte e na cópia Sanity em 04/10/2026: dirigentes da Petrobras e tela do poço, não imagem temática, aviso ou logotipo. O serviço oficial autoriza uso fotojornalístico das imagens próprias da Agência Brasil com crédito."
   }
 }
