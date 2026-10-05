@@ -1,5 +1,85 @@
 [
   {
+    "runDate": "2026-10-05",
+    "window": "triagem por editoria em 05/10, fontes dos últimos sete dias quando não houve pauta qualificada do mesmo dia",
+    "published": [
+      "br020-audiencias-projeto-go-ba-2026",
+      "antt-simulado-emergencia-br040-2026",
+      "petrobras-morpho-segundo-intervalo-petroleo-amapa-2026",
+      "epe-dlr-linha-transmissao-mogi-guacu-sao-joao-2026",
+      "inpe-el-nino-boletim-4-risco-cheias-seca-2026",
+      "ufmt-moradias-rurais-amazonia-revisao-2026"
+    ],
+    "sections": {
+      "engenharia": {
+        "researched": [
+          "DNIT, BR-020 GO/BA, 29/09/2026"
+        ],
+        "status": "published",
+        "reason": "Matéria de infraestrutura rodoviária, foto factual oficial aprovada, URL e editoria conferidas."
+      },
+      "arquitetura": {
+        "researched": [
+          "UFMT/Frontiers, revisão sistemática de moradias rurais amazônicas, fim de setembro/início de outubro de 2026",
+          "CAU/BR e projetos brasileiros"
+        ],
+        "status": "published-pending-canonical-verification",
+        "reason": "Estudo com figura original CC BY 4.0 publicado e renderizado no site com parâmetro de consulta; URL canônica ainda apresentava 404 em cache após publicação, aguardando revalidação."
+      },
+      "tecnologia": {
+        "researched": [
+          "EPE, aplicação do DLR em linha paulista, 02/10/2026",
+          "BIM e tecnologia aplicada"
+        ],
+        "status": "published",
+        "reason": "Matéria com gráfico original da EPE, aprovada e conferida visualmente no site."
+      },
+      "mercado": {
+        "researched": [
+          "Petrobras/Agência Brasil, poço Morpho no Amapá, 02/10/2026",
+          "indicadores e investimentos"
+        ],
+        "status": "published",
+        "reason": "Matéria com fotografia da divulgação original e condição de reutilização verificada."
+      },
+      "gestao": {
+        "researched": [
+          "ANTT, simulado na BR-040/MG, 02/10/2026",
+          "gestão de operação e risco"
+        ],
+        "status": "published",
+        "reason": "Foto do exercício, texto completo e listagem conferidos no site."
+      },
+      "sustentabilidade": {
+        "researched": [
+          "INPE, Boletim 4 de El Niño, 01/10/2026",
+          "ANA e resiliência hídrica"
+        ],
+        "status": "published",
+        "reason": "Boletim original com capa CC BY-ND 3.0; página e cartão visualmente conferidos, CSS adaptado para preservar a capa integral."
+      }
+    },
+    "siteMaintenance": [
+      {
+        "issue": "Imagens de documento e figuras informativas recortadas nos cartões",
+        "status": "verified-in-production",
+        "scope": [
+          "Sustentabilidade",
+          "Arquitetura"
+        ],
+        "verification": "data-preserve-full e object-fit contain verificados após deploy READY; capa do boletim INPE e mapa da UFMT aparecem inteiros."
+      },
+      {
+        "issue": "URL canônica da matéria de Arquitetura exibiu 404 após publicação",
+        "status": "rechecking-after-deployment",
+        "scope": [
+          "URL individual de Arquitetura"
+        ],
+        "verification": "URL com parâmetro de consulta entrega matéria e figura; URL sem parâmetro ainda apresenta resposta 404 em cache. Nova implantação acionada para limpar a resposta antiga."
+      }
+    ]
+  },
+  {
     "runDate": "2026-10-04",
     "window": "fontes de 04/10, últimas 24 horas e ampliação até 7 dias por editoria",
     "published": [
