@@ -23,8 +23,8 @@
           "UFMT/Frontiers, revisão sistemática de moradias rurais amazônicas, fim de setembro/início de outubro de 2026",
           "CAU/BR e projetos brasileiros"
         ],
-        "status": "published-pending-canonical-verification",
-        "reason": "Estudo com figura original CC BY 4.0 publicado e renderizado no site com parâmetro de consulta; URL canônica ainda apresentava 404 em cache após publicação, aguardando revalidação."
+        "status": "published",
+        "reason": "Estudo aplicado publicado em Arquitetura com figura original CC BY 4.0; URL canônica, listagem e imagem conferidas após novo deploy READY."
       },
       "tecnologia": {
         "researched": [
@@ -71,11 +71,21 @@
       },
       {
         "issue": "URL canônica da matéria de Arquitetura exibiu 404 após publicação",
-        "status": "rechecking-after-deployment",
+        "status": "verified-in-production",
         "scope": [
           "URL individual de Arquitetura"
         ],
-        "verification": "URL com parâmetro de consulta entrega matéria e figura; URL sem parâmetro ainda apresenta resposta 404 em cache. Nova implantação acionada para limpar a resposta antiga."
+        "verification": "A URL canônica voltou a exibir matéria completa e figura após deploy READY; clique da listagem e página individual verificados no navegador."
+      },
+      {
+        "issue": "Estudo acadêmico de Arquitetura ocupava manchete geral",
+        "status": "verified-in-production",
+        "scope": [
+          "home",
+          "Arquitetura",
+          "Últimas notícias"
+        ],
+        "verification": "Seleção da home prioriza notícia setorial geral na manchete. O estudo da UFMT permanece acessível em Arquitetura e Últimas notícias; gráfico EPE preservado integralmente em Tecnologia. Testes node --test tests/*.test.js: 3/3 arquivos aprovados."
       }
     ]
   },
