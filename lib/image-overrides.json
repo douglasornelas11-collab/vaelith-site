@@ -335,5 +335,17 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
     "reviewedAt": "2026-10-04T16:45:15.257Z",
     "reason": "Figura 9-5, página 56 do relatório oficial EPE-DEE-RE-037-2025 Parte 2 Revisão 1, especificamente sobre a comparação SLR/DLR na LT São João da Boa Vista II–Mogi Guaçu I. Extraída integralmente como figura do PDF, carregada e conferida visualmente no ativo Sanity em 04/10/2026. O portal EPE declara CC BY 4.0 para seu conteúdo. Não é imagem temática nem logotipo."
+  },
+  "inpe-el-nino-boletim-4-risco-cheias-seca-2026": {
+    "title": "INPE aponta 95% de chance de El Niño muito forte no último trimestre de 2026",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/877ce786efb9c3050045a04471e271c3143c30b9-768x749.jpg",
+    "alt": "Capa azul do boletim mensal número 4 do Painel El Niño 2026-2027, com mapa do Oceano Pacífico Equatorial e indicação Setembro/2026",
+    "caption": "Capa integral do boletim nº 4, referente a setembro de 2026, publicada pelo INPE. É a identidade visual do relatório, não uma fotografia das condições em uma região brasileira.",
+    "credit": "INPE e instituições do Painel El Niño 2026-2027",
+    "sourceUrl": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/painel-el-nino-2026-2027-quarto-boletim-sobre-o-monitoramento-do-fenomeno-no-brasil-e-publicado",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR",
+    "reviewedAt": "2026-10-05T09:19:54.112Z",
+    "reason": "Capa original completa do boletim nº 4 do Painel El Niño 2026-2027, publicada pelo INPE na notícia de 01/10/2026 e visualmente conferida na página original e no ativo Sanity. O rodapé do portal do INPE declara CC BY-ND 3.0 para o conteúdo; a imagem foi copiada sem edição. É a capa do documento noticiado, não fotografia de um evento meteorológico, logo genérico, aviso ou nota oficial."
   }
 }
