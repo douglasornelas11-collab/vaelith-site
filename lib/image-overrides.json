@@ -29,6 +29,18 @@
     "title": "Audiências apresentam seis lotes de intervenção na BR-020 em Goiás e Bahia",
     "url": "https://cdn.sanity.io/images/s2xosuea/production/1e422214ba62f6feacb0f07bd5db2650c93a4bba-768x432.png"
   },
+  "br230-pb-oito-quilometros-duplicados-2026": {
+    "title": "BR-230/PB ganha oito quilômetros de pista duplicada perto de Campina Grande",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/8e84abbbd23bae445f48ca76114657bac8100340-768x575.jpg",
+    "alt": "Pistas da BR-230 na Paraíba, com caminhão e veículos circulando no segmento fotografado pelo DNIT",
+    "caption": "BR-230/PB na fotografia que acompanha o anúncio do DNIT sobre a liberação de oito quilômetros duplicados em 3 de outubro de 2026.",
+    "credit": "DNIT",
+    "sourceUrl": "https://www.gov.br/dnit/pt-br/assuntos/noticias-periodo-eleitoral/dnit-libera-8-quilometros-de-via-duplicada-na-br-230-pb-em-campina-grande",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR",
+    "reviewedAt": "2026-10-05T15:29:38.487Z",
+    "reason": "Fotografia principal publicada pelo DNIT na notícia de 03/10/2026 sobre a própria BR-230/PB, conferida carregada na fonte e no ativo Sanity em 05/10/2026. Mostra a pista e o tráfego, não aviso ou logotipo. Cópia integral sem alteração sob CC BY-ND 3.0 indicada no rodapé do gov.br."
+  },
   "br280-lancamento-vigas-ponte-pirai": {
     "alt": "",
     "caption": "",
@@ -37,6 +49,18 @@
     "sourceUrl": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-operacoes-pare-e-siga-na-br-280-sc-entre-guaramirim-e-araquari-a-partir-desta-quinta-feira-6",
     "status": "rejected",
     "url": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-operacoes-pare-e-siga-na-br-280-sc-entre-guaramirim-e-araquari-a-partir-desta-quinta-feira-6/whatsapp-image-2026-07-08-at-17-50-01-1.jpeg/@@images/d7fa158f-834c-43e3-bb69-e0a7bc055f19.jpeg"
+  },
+  "br470-sc-viaduto-km4-navegantes-2026": {
+    "title": "Viaduto no km 4 da BR-470/SC encerra a duplicação do lote 1 em Navegantes",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/def4edcc0c1fb945b99df07e38c809648d38b13c-768x471.jpg",
+    "alt": "Vista aérea do viaduto e das pistas duplicadas da BR-470 no km 4, em Navegantes, com veículos em circulação",
+    "caption": "Viaduto do km 4 da BR-470/SC e pistas no acesso ao bairro Machados, em Navegantes, na fotografia oficial da liberação ao tráfego.",
+    "credit": "DNIT",
+    "sourceUrl": "https://www.gov.br/dnit/pt-br/assuntos/noticias-periodo-eleitoral/dnit-libera-viaduto-no-km-4-da-br-470-sc-ultima-etapa-de-conclusao-do-lote-1",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR",
+    "reviewedAt": "2026-10-05T15:29:38.487Z",
+    "reason": "Fotografia aérea principal da liberação do próprio viaduto no km 4, publicada pelo DNIT em 03/10/2026. Vista carregada na fonte e na cópia Sanity em 05/10/2026, mostrando pistas e veículos em circulação; não é aviso ou logo. Reprodução integral sob CC BY-ND 3.0 indicada no rodapé do gov.br."
   },
   "brasil-reativacao-10-mil-km-ferrovias-terminais-logisticos": {
     "alt": "Representantes do Ministério dos Transportes apresentam na B3 a carteira de chamamentos públicos e terminais logísticos, diante de uma tela com imagem de trem",
@@ -121,6 +145,19 @@
     "title": "Corpo de Engenheiros drena eclusa Barkley para reparar comportas e válvulas críticas",
     "url": "https://www.vaelithlabs.com.br/assets/editorial/barkley-usace-9938032.jpg"
   },
+  "epe-dlr-linha-transmissao-mogi-guacu-sao-joao-2026": {
+    "title": "EPE recomenda sensores para elevar capacidade de linha de transmissão em SP",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/cb8d3063346142c892670b5e5a3217912d2255a5-1468x617.png",
+    "alt": "Gráfico original da EPE compara os limites estáticos SLR e dinâmicos DLR da linha entre São João da Boa Vista II e Mogi Guaçu I entre 2023 e 2025",
+    "caption": "Figura 9-5 do relatório EPE-DEE-RE-037-2025, Parte 2, Revisão 1: comparação histórica de SLR e DLR para a linha paulista. É um resultado de estudo, não uma medição da solução já implantada.",
+    "credit": "Empresa de Pesquisa Energética (EPE), figura 9-5",
+    "sourceUrl": "https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/EstudosPlanejamentoTransmissao/EPE-DEE-RE-037-2025-DIT%20Parte%20II_Rev01.pdf",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reviewedAt": "2026-10-04T16:45:15.257Z",
+    "reason": "Figura 9-5, página 56 do relatório oficial EPE-DEE-RE-037-2025 Parte 2 Revisão 1, especificamente sobre a comparação SLR/DLR na LT São João da Boa Vista II–Mogi Guaçu I. Extraída integralmente como figura do PDF, carregada e conferida visualmente no ativo Sanity em 04/10/2026. O portal EPE declara CC BY 4.0 para seu conteúdo. Não é imagem temática nem logotipo.",
+    "presentation": "contain"
+  },
   "everon-t5-construction-data-centers": {
     "reason": "A fotografia externa do campus T5 usada pelo ENR foi conferida no site público em 20 de setembro de 2026 e não carregou após rolagem e espera do lazy-loading. Rejeitada até ser substituída por imagem oficial autorizada do mesmo fato.",
     "reviewedAt": "2026-09-20T11:20:00Z",
@@ -156,6 +193,18 @@
     "reviewedAt": "2026-09-20T12:05:00Z",
     "sourceUrl": "https://www.enr.com/articles/63609-mortenson-tapped-for-450m-hvdc-project-in-north-dakota-and-minnesota",
     "status": "rejected"
+  },
+  "inpe-el-nino-boletim-4-risco-cheias-seca-2026": {
+    "title": "INPE aponta 95% de chance de El Niño muito forte no último trimestre de 2026",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/877ce786efb9c3050045a04471e271c3143c30b9-768x749.jpg",
+    "alt": "Capa azul do boletim mensal número 4 do Painel El Niño 2026-2027, com mapa do Oceano Pacífico Equatorial e indicação Setembro/2026",
+    "caption": "Capa integral do boletim nº 4, referente a setembro de 2026, publicada pelo INPE. É a identidade visual do relatório, não uma fotografia das condições em uma região brasileira.",
+    "credit": "INPE e instituições do Painel El Niño 2026-2027",
+    "sourceUrl": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/painel-el-nino-2026-2027-quarto-boletim-sobre-o-monitoramento-do-fenomeno-no-brasil-e-publicado",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR",
+    "reviewedAt": "2026-10-05T09:19:54.112Z",
+    "reason": "Capa original completa do boletim nº 4 do Painel El Niño 2026-2027, publicada pelo INPE na notícia de 01/10/2026 e visualmente conferida na página original e no ativo Sanity. O rodapé do portal do INPE declara CC BY-ND 3.0 para o conteúdo; a imagem foi copiada sem edição. É a capa do documento noticiado, não fotografia de um evento meteorológico, logo genérico, aviso ou nota oficial."
   },
   "iphan-quilombo-ferreira-diniz-gloria": {
     "alt": "Moradores e visitantes reunidos no quintal do Quilombo Ferreira Diniz, diante de um dos casarões na Glória, Rio de Janeiro",
@@ -253,6 +302,18 @@
     "title": "Painéis de CLT elevam resistência sísmica de pórticos de concreto em ensaio de escala real",
     "url": "https://cdn.sanity.io/images/s2xosuea/production/116e8f9bc856809fafd0b42a1fc8618a694c0901-685x278.png"
   },
+  "petrobras-morpho-segundo-intervalo-petroleo-amapa-2026": {
+    "title": "Petrobras encontra segundo intervalo com petróleo no poço Morpho, no Amapá",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/c2542d1b4717ab6ed1ac5f5cae866dca59f72674-1170x700.webp",
+    "alt": "Magda Chambriard e dirigentes da Petrobras apresentam a descoberta no poço Morpho em coletiva de imprensa, diante de tela com imagem da sonda",
+    "caption": "Coletiva da Petrobras em 2 de outubro de 2026 sobre a segunda descoberta no poço Morpho, na costa do Amapá. A foto registra o anúncio, não a jazida submarina.",
+    "credit": "Rovena Rosa / Agência Brasil",
+    "sourceUrl": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/nova-descoberta-aumenta-expectativa-da-petrobras-na-foz-do-amazonas",
+    "licenseUrl": "https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente",
+    "reviewedAt": "2026-10-04T16:36:45.043Z",
+    "reason": "Fotografia da coletiva de 02/10/2026 sobre a segunda descoberta do poço Morpho, produzida por Rovena Rosa/Agência Brasil e exibida na própria reportagem. Conferida carregada na fonte e na cópia Sanity em 04/10/2026: dirigentes da Petrobras e tela do poço, não imagem temática, aviso ou logotipo. O serviço oficial autoriza uso fotojornalístico das imagens próprias da Agência Brasil com crédito."
+  },
   "pix-novas-regras-fraudes-cobranca-hibrida": {
     "alt": "Pessoa usa aplicativo bancário em um telefone celular para realizar pagamento por Pix",
     "caption": "Aplicativo bancário usado para pagamento por Pix, em Brasília, em janeiro de 2025.",
@@ -300,42 +361,6 @@
     "sourceUrl": "https://www.archdaily.com/1184152/souvinha-house-parto",
     "status": "rejected"
   },
-  "usina-construcao-coletiva-brasil": {
-    "reason": "A fotografia externa da publicação sobre a USINA não carregou na editoria Arquitetura após a rolagem completa em 20 de setembro de 2026. Rejeitada até haver imagem autorizada diretamente ligada ao mesmo conteúdo.",
-    "reviewedAt": "2026-09-20T12:05:00Z",
-    "sourceUrl": "https://www.archdaily.com/pt/1184491/construir-como-pratica-politica-a-usina-e-o-legado-da-construcao-coletiva-no-brasil",
-    "status": "rejected"
-  },
-  "wyre-ia-preconstrucao-documentos": {
-    "reason": "A captura externa da plataforma Wyre continua sem carregar no site público em 20 de setembro de 2026. Sem autorização verificável para copiar a imagem protegida do ENR, a capa permanece rejeitada e fora das áreas visuais de destaque.",
-    "reviewedAt": "2026-09-20T11:20:00Z",
-    "sourceUrl": "https://www.enr.com/articles/63636-ai-powered-preconstruction-analysis-platform-wyre-raises-5m-in-funding",
-    "status": "rejected"
-  },
-  "petrobras-morpho-segundo-intervalo-petroleo-amapa-2026": {
-    "title": "Petrobras encontra segundo intervalo com petróleo no poço Morpho, no Amapá",
-    "status": "approved",
-    "url": "https://cdn.sanity.io/images/s2xosuea/production/c2542d1b4717ab6ed1ac5f5cae866dca59f72674-1170x700.webp",
-    "alt": "Magda Chambriard e dirigentes da Petrobras apresentam a descoberta no poço Morpho em coletiva de imprensa, diante de tela com imagem da sonda",
-    "caption": "Coletiva da Petrobras em 2 de outubro de 2026 sobre a segunda descoberta no poço Morpho, na costa do Amapá. A foto registra o anúncio, não a jazida submarina.",
-    "credit": "Rovena Rosa / Agência Brasil",
-    "sourceUrl": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/nova-descoberta-aumenta-expectativa-da-petrobras-na-foz-do-amazonas",
-    "licenseUrl": "https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente",
-    "reviewedAt": "2026-10-04T16:36:45.043Z",
-    "reason": "Fotografia da coletiva de 02/10/2026 sobre a segunda descoberta do poço Morpho, produzida por Rovena Rosa/Agência Brasil e exibida na própria reportagem. Conferida carregada na fonte e na cópia Sanity em 04/10/2026: dirigentes da Petrobras e tela do poço, não imagem temática, aviso ou logotipo. O serviço oficial autoriza uso fotojornalístico das imagens próprias da Agência Brasil com crédito."
-  },
-  "inpe-el-nino-boletim-4-risco-cheias-seca-2026": {
-    "title": "INPE aponta 95% de chance de El Niño muito forte no último trimestre de 2026",
-    "status": "approved",
-    "url": "https://cdn.sanity.io/images/s2xosuea/production/877ce786efb9c3050045a04471e271c3143c30b9-768x749.jpg",
-    "alt": "Capa azul do boletim mensal número 4 do Painel El Niño 2026-2027, com mapa do Oceano Pacífico Equatorial e indicação Setembro/2026",
-    "caption": "Capa integral do boletim nº 4, referente a setembro de 2026, publicada pelo INPE. É a identidade visual do relatório, não uma fotografia das condições em uma região brasileira.",
-    "credit": "INPE e instituições do Painel El Niño 2026-2027",
-    "sourceUrl": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/painel-el-nino-2026-2027-quarto-boletim-sobre-o-monitoramento-do-fenomeno-no-brasil-e-publicado",
-    "licenseUrl": "https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR",
-    "reviewedAt": "2026-10-05T09:19:54.112Z",
-    "reason": "Capa original completa do boletim nº 4 do Painel El Niño 2026-2027, publicada pelo INPE na notícia de 01/10/2026 e visualmente conferida na página original e no ativo Sanity. O rodapé do portal do INPE declara CC BY-ND 3.0 para o conteúdo; a imagem foi copiada sem edição. É a capa do documento noticiado, não fotografia de um evento meteorológico, logo genérico, aviso ou nota oficial."
-  },
   "ufmt-moradias-rurais-amazonia-revisao-2026": {
     "title": "Revisão da UFMT mapeia 22 estudos de moradias amazônicas e propõe 13 soluções",
     "status": "approved",
@@ -349,17 +374,16 @@
     "reason": "Figura 2 original criada pelos autores da revisão sistemática da UFMT, mostrando o território e os 22 estudos que fundamentam a notícia de Arquitetura. A figura foi aberta integralmente no periódico e na cópia Sanity, sem fotos temáticas, logotipo ou aviso. O artigo declara CC BY; não há crédito de terceiro para esta figura.",
     "presentation": "contain"
   },
-  "epe-dlr-linha-transmissao-mogi-guacu-sao-joao-2026": {
-    "title": "EPE recomenda sensores para elevar capacidade de linha de transmissão em SP",
-    "status": "approved",
-    "url": "https://cdn.sanity.io/images/s2xosuea/production/cb8d3063346142c892670b5e5a3217912d2255a5-1468x617.png",
-    "alt": "Gráfico original da EPE compara os limites estáticos SLR e dinâmicos DLR da linha entre São João da Boa Vista II e Mogi Guaçu I entre 2023 e 2025",
-    "caption": "Figura 9-5 do relatório EPE-DEE-RE-037-2025, Parte 2, Revisão 1: comparação histórica de SLR e DLR para a linha paulista. É um resultado de estudo, não uma medição da solução já implantada.",
-    "credit": "Empresa de Pesquisa Energética (EPE), figura 9-5",
-    "sourceUrl": "https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/EstudosPlanejamentoTransmissao/EPE-DEE-RE-037-2025-DIT%20Parte%20II_Rev01.pdf",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "reviewedAt": "2026-10-04T16:45:15.257Z",
-    "reason": "Figura 9-5, página 56 do relatório oficial EPE-DEE-RE-037-2025 Parte 2 Revisão 1, especificamente sobre a comparação SLR/DLR na LT São João da Boa Vista II–Mogi Guaçu I. Extraída integralmente como figura do PDF, carregada e conferida visualmente no ativo Sanity em 04/10/2026. O portal EPE declara CC BY 4.0 para seu conteúdo. Não é imagem temática nem logotipo.",
-    "presentation": "contain"
+  "usina-construcao-coletiva-brasil": {
+    "reason": "A fotografia externa da publicação sobre a USINA não carregou na editoria Arquitetura após a rolagem completa em 20 de setembro de 2026. Rejeitada até haver imagem autorizada diretamente ligada ao mesmo conteúdo.",
+    "reviewedAt": "2026-09-20T12:05:00Z",
+    "sourceUrl": "https://www.archdaily.com/pt/1184491/construir-como-pratica-politica-a-usina-e-o-legado-da-construcao-coletiva-no-brasil",
+    "status": "rejected"
+  },
+  "wyre-ia-preconstrucao-documentos": {
+    "reason": "A captura externa da plataforma Wyre continua sem carregar no site público em 20 de setembro de 2026. Sem autorização verificável para copiar a imagem protegida do ENR, a capa permanece rejeitada e fora das áreas visuais de destaque.",
+    "reviewedAt": "2026-09-20T11:20:00Z",
+    "sourceUrl": "https://www.enr.com/articles/63636-ai-powered-preconstruction-analysis-platform-wyre-raises-5m-in-funding",
+    "status": "rejected"
   }
 }
