@@ -106,3 +106,9 @@ test('scientific figures are identified so generic cards display them without cr
   assert.match(scientific,/data-scientific-figure="true"/);
   assert.doesNotMatch(editorial,/data-scientific-figure/);
 });
+test('reviewed non-derivative document covers retain their full image in cards', () => {
+  const review=require('../lib/image-overrides.json')['inpe-el-nino-boletim-4-risco-cheias-seca-2026'];
+  const article=resolveImage({slug:'inpe-el-nino-boletim-4-risco-cheias-seca-2026',title:review.title});
+  assert.equal(article.imagePreserveFull,true);
+  assert.match(card({...article,category:'Sustentabilidade',region:'Brasil',dek:'Boletim',dateDisplay:'05 out 2026'}),/data-preserve-full="true"/);
+});
