@@ -35,3 +35,14 @@ test('an applied journal study in Architecture stays in the editoria but does no
     content.articles.pop();content.articles.pop();
   }
 });
+
+test('latest news includes six distinct recently published editorial stories',()=>{
+  const fixtures=Array.from({length:6},(_,i)=>({slug:`regression-six-${i}`,title:`Pauta ${i}`,dek:'Notícia geral',category:'Engenharia',categorySlug:'engenharia',region:'Brasil',date:`2031-01-0${6-i}`,dateDisplay:`0${6-i} jan 2031`,contentType:'news',image:`https://example.org/${i}.jpg`,sourceUrl:'https://www.gov.br/fato'}));
+  content.articles.push(...fixtures);
+  try{
+    const latest=renderHome().split('<h2>Últimas notícias</h2>')[1].split('<section class="section alt" id="news-radar"')[0];
+    for(const article of fixtures)assert.match(latest,new RegExp(`noticias/${article.slug}`));
+  }finally{
+    content.articles.splice(-fixtures.length);
+  }
+});
