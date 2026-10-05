@@ -14,6 +14,12 @@
 .editorial-lead img[data-scientific-figure="true"],
 .editorial-stack img[data-scientific-figure="true"],
 .side-story img[data-scientific-figure="true"]{object-fit:contain!important;object-position:center!important;background:#fff!important}
+.list-grid img[data-preserve-full="true"],
+.daily-cards img[data-preserve-full="true"],
+.editorial-lead img[data-preserve-full="true"],
+.editorial-stack img[data-preserve-full="true"],
+.side-story img[data-preserve-full="true"],
+.hero-story img[data-preserve-full="true"]{object-fit:contain!important;object-position:center!important;background:#fff!important}
 
 /* Sem imagem validada: card textual limpo, sem placeholder nem aviso técnico. */
 .card.no-image>a,.side-story.no-image>a{position:relative!important;background:#f9faf7!important}
