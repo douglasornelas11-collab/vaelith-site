@@ -1,6 +1,85 @@
 [
   {
     "runDate": "2026-10-05",
+    "window": "mesmo dia e últimas 24 horas; ampliação até sete dias por editoria",
+    "published": [
+      "br470-sc-viaduto-km4-navegantes-2026",
+      "br230-pb-oito-quilometros-duplicados-2026"
+    ],
+    "sections": {
+      "engenharia": {
+        "researched": [
+          "DNIT: BR-470/SC, fonte 03/10/2026 10h02",
+          "DNIT: BR-230/PB, fonte 03/10/2026 11h52",
+          "obras federais brasileiras"
+        ],
+        "status": "published",
+        "reason": "Duas matérias novas com fotografias originais do DNIT copiadas ao Sanity, autorizações CC BY-ND 3.0 e revisões completas; editoria pública mostra três publicações recentes incluindo a BR-020 anterior."
+      },
+      "arquitetura": {
+        "researched": [
+          "Iphan: consulta preliminar de inovação de 30/09/2026",
+          "Iphan: Prêmio Rodrigo de 02/10/2026",
+          "CAU/BR: concurso Arquitetura Indígena e Amazônia Legal"
+        ],
+        "status": "pending",
+        "reason": "As imagens principais examinadas eram peças promocionais ou a fotografia do CAU não tinha permissão de reutilização comprovada; nenhuma pauta nova publicada nesta triagem."
+      },
+      "tecnologia": {
+        "researched": [
+          "EPE: POTEE 2026 e BESS de Cruzeiro do Sul, 02/10/2026",
+          "ANEEL/ONS/EPE: nota técnica de conexão de armazenamento, 30/09/2026",
+          "Iphan: consulta de inovação"
+        ],
+        "status": "pending",
+        "reason": "A página da EPE não trazia imagem principal; a ANEEL mostrava capa de documento sem estudo técnico completo acessível para matéria factual independente. Não se aprovou imagem por mera semelhança."
+      },
+      "mercado": {
+        "researched": [
+          "Indaiatuba: Construind 2026, fonte 02/10/2026 14h30",
+          "Agência Brasil: Focus de 05/10/2026 09h25",
+          "Petrobras/Agência Brasil: notícia já publicada"
+        ],
+        "status": "pending",
+        "reason": "Foto da Construind é do próprio evento, porém marcada apenas como Divulgação sem licença ou autorização verificável para republicação; o Focus não trata diretamente do setor e a pauta Petrobras seria duplicata."
+      },
+      "gestao": {
+        "researched": [
+          "ANA: Resolução 305/2026 sobre governança do saneamento, 05/10/2026 10h19",
+          "ANTT: simulado BR-040 já publicado",
+          "EPE: planejamento de transmissão"
+        ],
+        "status": "pending",
+        "reason": "Pauta da ANA tinha somente logotipo como capa, vedado pela política visual; o simulado já consta no acervo. Nenhuma nova pauta qualificada publicada."
+      },
+      "sustentabilidade": {
+        "researched": [
+          "MMA: edital Águas do São Francisco, 02/10/2026 20h10",
+          "ANA: limiar CERTOH, 01/10/2026",
+          "EPE: resiliência de transmissão"
+        ],
+        "status": "pending",
+        "reason": "A imagem do edital MMA mostrava acervo de Mauriti/CE de 2025, fora da área do anúncio BA/PE; as demais candidatas não forneceram imagem factual autorizada do mesmo fato."
+      }
+    },
+    "siteMaintenance": [
+      {
+        "issue": "Meta de três pautas recentes por editoria",
+        "status": "partial-verified",
+        "scope": [
+          "Engenharia",
+          "Arquitetura",
+          "Tecnologia",
+          "Mercado",
+          "Gestão",
+          "Sustentabilidade"
+        ],
+        "verification": "Sanity publicado registra três notícias de Engenharia entre 04 e 05/10 e as duas novas foram conferidas visualmente na listagem e URL individual após deploy READY; Arquitetura e Sustentabilidade tinham duas, Tecnologia, Mercado e Gestão uma cada. Não se declarou outras editorias atualizadas nesta triagem. O navegador passou a devolver 502 do proxy ao final; não foi tratado como falha comprovada do site."
+      }
+    ]
+  },
+  {
+    "runDate": "2026-10-05",
     "window": "triagem por editoria em 05/10, fontes dos últimos sete dias quando não houve pauta qualificada do mesmo dia",
     "published": [
       "br020-audiencias-projeto-go-ba-2026",
