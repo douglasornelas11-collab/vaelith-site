@@ -748,5 +748,46 @@
     "reason": "Figura específica original do estudo; licença CC BY4.0 verificada no periódico, sem exceção na legenda. Arquivo baixado e conferido visualmente.",
     "reviewedAt": "2026-10-08T04:17:41.631Z",
     "presentation": "contain"
+  },
+  "thorold-biocarbono-comissionamento-fase-1": {
+    "title": "Thorold entra em comissionamento para produzir biocarbono industrial",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/21636faf5376cb599bf472d7b5ab712905571385-1600x900.png",
+    "alt": "Etapas em escada distinguem conclusão das instalações, comissionamento, aprovações e produção gradual de biocarbono; gás renovável aparece separado como fase futura.",
+    "caption": "Marcos distintos do avanço de Thorold, sem apresentar capacidade anunciada como produção já realizada. Ilustração VAELITH; esquema conceitual, não é imagem do projeto.",
+    "credit": "Ilustração original VAELITH.",
+    "sourceUrl": "https://www.vaelithlabs.com.br/noticias/thorold-biocarbono-comissionamento-fase-1",
+    "licenseUrl": "https://www.vaelithlabs.com.br/noticias/thorold-biocarbono-comissionamento-fase-1",
+    "reason": "Desenho SVG original por código, exportado em PNG. Nenhuma fotografia, renderização, figura ou identidade visual de terceiros foi reproduzida. Diagrama original de marcos baseado no comunicado empresarial. Não representa a planta industrial nem um cronograma em escala.",
+    "reviewedAt": "2026-10-08T06:26:14.881Z",
+    "presentation": "contain",
+    "imageRightsType": "original"
+  },
+  "pesquisa-ar-solo-infiltracao-chuva-2026": {
+    "title": "Ar retido no solo modifica a infiltração da chuva em simulações e ensaios",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/a01bed0c704ae1d31625c1c0a9ef720797829ca9-927x676.webp",
+    "alt": "Aparato experimental com coluna de solo e instrumentos para ensaios de infiltração de chuva.",
+    "caption": "Aparato de laboratório empregado nos ensaios de infiltração. Figura 16 do estudo; não representa uma obra em campo.",
+    "credit": "Tian et al. (2026), Frontiers in Built Environment, Figura 16. CC BY 4.0.",
+    "sourceUrl": "https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2026.1979851/full",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reason": "Figura 16 original do artigo, licença CC BY 4.0 confirmada, sem restrição de terceiro na legenda; imagem visualmente inspecionada.",
+    "reviewedAt": "2026-10-08T06:26:14.881Z",
+    "presentation": "contain"
+  },
+  "pesquisa-telhados-hong-kong-potencial-solar-2026": {
+    "title": "Mapa de 338 mil edifícios refina potencial solar dos telhados de Hong Kong",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/584e8b7d2dd2d64fbd565fa2605adef16d24c0cb-1600x900.png",
+    "alt": "Dados de 338.550 edifícios e observações meteorológicas de 2016 a 2024 alimentam um modelo de radiação ajustada por sombra e nuvens e efeitos de temperatura, com potencial estimado de 3,77 TWh anuais.",
+    "caption": "Fluxo editorial original da avaliação do potencial solar em Hong Kong. O resultado é estimativa de modelo e não geração instalada. Ilustração VAELITH; esquema conceitual, não é imagem do projeto.",
+    "credit": "Ilustração original VAELITH.",
+    "sourceUrl": "https://www.vaelithlabs.com.br/noticias/pesquisa-telhados-hong-kong-potencial-solar-2026",
+    "licenseUrl": "https://www.vaelithlabs.com.br/noticias/pesquisa-telhados-hong-kong-potencial-solar-2026",
+    "reason": "Desenho SVG original por código, exportado em PNG. Nenhuma fotografia, renderização, figura ou identidade visual de terceiros foi reproduzida. Desenho independente feito a partir da descrição e dos números do estudo. Não reproduz, recorta, traduz ou adapta qualquer mapa, fotografia ou figura da publicação.",
+    "reviewedAt": "2026-10-08T06:26:14.881Z",
+    "presentation": "contain",
+    "imageRightsType": "original"
   }
 }
