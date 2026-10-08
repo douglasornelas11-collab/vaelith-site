@@ -421,5 +421,33 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR",
     "reviewedAt": "2026-10-07T23:49:00Z",
     "reason": "A fotografia original mostra os cinco participantes no palco identificado como Fórum Brasil Export 2026. A imagem foi conferida carregada no site da ANTT, baixada sem edição e verificada novamente no ativo Sanity; não é aviso, logotipo ou foto genérica. O rodapé da página oficial indica CC BY-ND 3.0."
+  },
+  "autodesk-forma-planejamento-4d-dados-orcamento-2026": {
+    "status": "approved",
+    "title": "Autodesk amplia planejamento 4D no Forma e prepara mudança nos dados de orçamento",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/0af224a510cffcb3d0a87f97b7cfddb0afe90e7b-5000x2650.jpg",
+    "alt": "Vista tridimensional de um edifício de biblioteca, com cobertura, fachadas e estacionamento modelados.",
+    "caption": "Modelo arquitetônico BIM de uma biblioteca nos Estados Unidos. Imagem ilustrativa; não representa a interface do Autodesk Forma. Imagem: Archdraw / Wikimedia Commons, CC BY-SA 4.0.",
+    "credit": "Archdraw / Wikimedia Commons, CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Architectural_BIM_3D_Modeling.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "reviewedAt": "2026-10-08T03:40:00Z",
+    "reason": "Exceção ilustrativa específica aprovada pelo proprietário após revisão do documento com esta imagem e legenda. A legenda identifica expressamente que não retrata a interface Autodesk Forma; modelo BIM de biblioteca. Não representa registro factual do produto ou instalação noticiados.",
+    "presentation": "contain",
+    "usage": "owner-approved-illustrative-exception"
+  },
+  "bouygues-scale-one-robotica-ia-impressao-3d-2026": {
+    "status": "approved",
+    "title": "Bouygues inaugura laboratório-canteiro para testar robótica, IA e impressão 3D",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/d8c10923cade78b535d8d67bc69da64020c0820b-7728x4354.jpg",
+    "alt": "Impressora 3D de grande porte instalada em laboratório, com peças de concreto sobre a área de trabalho.",
+    "caption": "Impressora 3D de concreto utilizada em pesquisas na Universidade Tecnológica de Eindhoven, fotografada em 2016. Imagem ilustrativa; não retrata o Scale One. Foto: Misanthropic One / Wikimedia Commons, CC BY 2.0.",
+    "credit": "Misanthropic One / Wikimedia Commons, CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:3D_Concrete_Printer.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "reviewedAt": "2026-10-08T03:40:00Z",
+    "reason": "Exceção ilustrativa específica aprovada pelo proprietário após revisão do documento com esta imagem e legenda. A legenda identifica expressamente que não retrata o Scale One; fotografia de pesquisa em Eindhoven em 2016. Não representa registro factual do produto ou instalação noticiados.",
+    "presentation": "contain",
+    "usage": "owner-approved-illustrative-exception"
   }
 }
