@@ -87,3 +87,9 @@ h1,h2,h3,h4{font-weight:700}
  .article-shell{padding-top:24px}.article-header h1{font-size:30px}.article-body{font-size:16px;line-height:1.78}.footer{padding-top:36px}.footer-grid{gap:28px}
 }
 @media(max-width:360px){.hero-story h1,.article-header h1{font-size:28px}.side-story>a{grid-template-columns:76px minmax(0,1fr);gap:12px}.side-story .thumb{width:76px;height:76px}.card>a{padding:16px}.wordmark{font-size:15px}}
+
+/* Keep every menu item reachable on short phone viewports. */
+@media(max-width:760px){
+ .site-header.open .navbar{max-height:calc(100vh - 72px);max-height:calc(100dvh - 72px);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+}
+.hero-feature-media[hidden],.image-expand-link[hidden]{display:none!important}
