@@ -474,5 +474,18 @@
     "reason": "Imagem oficial 1580x457 retornou HTTP 200 e foi inspecionada visualmente. É um infográfico panorâmico, não fotografia; preservar proporção e legibilidade, preferencialmente dentro do artigo.",
     "reviewedAt": "2026-10-08T03:45:51.799Z",
     "presentation": "contain"
+  },
+  "containers-patios-luz-natural-estudo-istambul-2026": {
+    "title": "Simulação compara sete arranjos de contêineres para moradia pós-desastre",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/87157d8b99493d22793dbe8a3390ad851c6a8b20-926x850.webp",
+    "alt": "Planta e fachada do contêiner de referência de sete por três metros, com sala, banheiro e quarto.",
+    "caption": "Figura 1 do estudo: planta e elevação do módulo usado nas simulações. Trata-se de desenho técnico, não de uma habitação construída.",
+    "credit": "Yılmaz e Safarkhani (2026), Frontiers in Built Environment — CC BY 4.0",
+    "sourceUrl": "https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2026.1916525/full",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reason": "Figura1 original do próprio artigo; CC BY4.0 explícita na seção Copyright, sem crédito terceiro; arquivo baixado e visualmente conferido, planta/elevação idênticos à legenda da fonte.",
+    "reviewedAt": "2026-10-08T03:50:46.845Z",
+    "presentation": "contain"
   }
 }
