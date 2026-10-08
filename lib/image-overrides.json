@@ -295,12 +295,12 @@
     "caption": "Figura 1 do estudo: componentes do amortecedor por atrito e instalação do painel e-CLT no pórtico de concreto armado ensaiado em escala real.",
     "credit": "Pozza et al. / Bulletin of Earthquake Engineering — CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "reason": "Figura 1 do próprio estudo, mostrando o detalhamento do amortecedor por atrito e a instalação do painel e-CLT no protótipo de concreto armado ensaiado. A figura foi conferida visualmente no navegador em 28 de setembro de 2026, não é aviso nem logotipo, não duplica imagens do acervo e está coberta pela licença CC BY 4.0 do artigo. A cópia foi armazenada no Sanity para evitar dependência de hotlink.",
-    "reviewedAt": "2026-09-28T12:42:00Z",
+    "reason": "Figura 1 do próprio estudo, mostrando o detalhamento do amortecedor por atrito e a instalação do painel e-CLT no protótipo de concreto armado ensaiado. A figura foi conferida visualmente no navegador em 28 de setembro de 2026, não é aviso nem logotipo, não duplica imagens do acervo e está coberta pela licença CC BY 4.0 do artigo. A cópia foi armazenada no Sanity para evitar dependência de hotlink. Em 08/10/2026, a mesma Figura 1 foi conferida na versão original de maior resolução (1441 × 585) publicada pelo periódico sob CC BY 4.0, sem exceção de terceiro na legenda, e copiada ao Sanity sem alteração visual. Legenda, crédito e licença preservados.",
+    "reviewedAt": "2026-10-08T17:57:34Z",
     "sourceUrl": "https://link.springer.com/article/10.1007/s10518-026-02690-8",
     "status": "approved",
     "title": "Painéis de CLT elevam resistência sísmica de pórticos de concreto em ensaio de escala real",
-    "url": "https://cdn.sanity.io/images/s2xosuea/production/116e8f9bc856809fafd0b42a1fc8618a694c0901-685x278.png"
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/aafe4c8b4e64889514a519aac54bcb3e69a69bbe-1441x585.png"
   },
   "petrobras-morpho-segundo-intervalo-petroleo-amapa-2026": {
     "title": "Petrobras encontra segundo intervalo com petróleo no poço Morpho, no Amapá",
@@ -713,14 +713,14 @@
   "pesquisa-asfalto-mamona-cinza-arroz-limites-calor-2026": {
     "title": "Óleo de mamona e cinza de arroz alteram ligante asfáltico, com menor tolerância ao calor",
     "status": "approved",
-    "url": "https://cdn.sanity.io/images/s2xosuea/production/848cccd91711592a5c64f0e2fac77f58232ca3cd-685x327.png",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/52feb0c642dcb789fde4766ff8e0476aab375562-1794x857.png",
     "alt": "Esquema de preparação de ligantes com óleo de mamona e cinza de casca de arroz, com fotos dos componentes e setas das etapas.",
     "caption": "Preparação dos ligantes modificados estudados. Figura original do estudo, reproduzida sem alteração.",
     "credit": "Kumar, Suman e Dwivedi (2026), Scientific Reports, Fig. 2. CC BY 4.0.",
     "sourceUrl": "https://www.nature.com/articles/s41598-026-71778-7",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "reason": "Figura específica original do estudo; licença CC BY4.0 verificada no periódico, sem exceção na legenda. Arquivo baixado e conferido visualmente.",
-    "reviewedAt": "2026-10-08T04:17:41.631Z",
+    "reason": "Figura específica original do estudo; licença CC BY4.0 verificada no periódico, sem exceção na legenda. Arquivo baixado e conferido visualmente. Em 08/10/2026, a mesma Figura 2 foi conferida na versão original de maior resolução (1794 × 857) publicada pelo periódico sob CC BY 4.0, sem exceção de terceiro na legenda, e copiada ao Sanity sem alteração visual. Legenda, crédito e licença preservados.",
+    "reviewedAt": "2026-10-08T17:57:34Z",
     "presentation": "contain"
   },
   "pesquisa-inerters-amortecimento-sismico-revisao-2026": {
