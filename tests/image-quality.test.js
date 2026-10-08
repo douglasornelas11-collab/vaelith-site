@@ -21,5 +21,5 @@ test('radar cards use the padded full-card link structure and never add unreview
  assert.equal(section.hidden,false);const article=list.children[0];assert.equal(article.className,'card radar-card');assert.equal(article.children.length,1);const link=article.children[0];assert.equal(link.tagName,'a');assert.deepEqual(Array.from(link.children,x=>x.tagName),['div','h3','p']);assert.equal(link.children[2].className,'meta');
 });
 test('native-ratio and mobile card rules override legacy fixed frames',()=>{
- const css=fs.readFileSync('assets/image-quality.css','utf8');assert.match(css,/\.article-figure \.article-hero\{aspect-ratio:auto!important/);assert.match(css,/\.side-story>a\{display:flex!important/);assert.match(css,/\.card>a,\.card.no-image>a\{padding:32px!important/);assert.match(css,/@media\(max-width:760px\)/);
+ const css=fs.readFileSync('assets/image-quality.css','utf8');assert.match(css,/\.article-figure \.article-hero\{aspect-ratio:auto!important/);assert.match(css,/\.side-story>a\{display:flex!important/);assert.match(css,/\.card>a,\.card.no-image>a\{padding:36px!important/);assert.match(css,/@media\(max-width:760px\)/);assert.match(css,/grid-template-areas:"rank" "media" "copy"!important/);assert.match(css,/grid-area:media!important/);
 });
