@@ -1,0 +1,38 @@
+/* Approved VTH composition: generous two-column cards and native-ratio editorial images. */
+.container{width:min(1200px,calc(100% - 96px))}
+.masthead{height:88px}
+.hero{padding-top:76px;padding-bottom:64px}.hero-story>a{gap:60px}
+.section{padding:104px 0}.section-head{margin-bottom:48px}
+.section-head h2{font-size:clamp(32px,3.2vw,44px)}
+.list-grid,.category-strip{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+.card>a,.card.no-image>a{padding:32px!important}.card h3{font-size:23px;line-height:1.35;margin:14px 0}
+.card .meta{margin-top:auto;padding-top:18px;line-height:1.6}
+.radar-card>a{height:100%;min-height:220px;gap:0}.radar-card .tag{margin:0}.radar-card h3{margin:18px 0}.radar-card .meta{display:block!important;-webkit-line-clamp:unset;overflow:visible}
+.side-story{padding:32px}.side-story>a{display:flex!important;flex-direction:column;width:100%;gap:0}
+.side-story .thumb{width:100%!important;max-width:100%!important;height:auto!important;max-height:none!important;aspect-ratio:auto!important;margin:0 0 24px!important;object-fit:contain!important}
+.side-story h2{font-size:23px;line-height:1.35;margin:12px 0 16px}.side-story .tag,.side-story .meta,.side-story h2{width:100%;min-width:0;grid-column:auto;grid-row:auto}
+.editorial-stack .card>a{display:flex!important;flex-direction:column!important;padding:28px!important}
+.editorial-stack .card .image{width:100%!important;max-width:100%!important;height:auto!important;max-height:none!important;aspect-ratio:auto!important;margin:0 0 20px!important;grid-column:auto!important;grid-row:auto!important}
+.editorial-stack .card .tag,.editorial-stack .card h3,.editorial-stack .card p,.editorial-stack .card .meta{grid-column:auto!important;width:100%!important}
+.hero-story .cover[data-preserve-full="true"],.hero-story .cover[data-scientific-figure="true"],
+.card .image[data-preserve-full="true"],.card .image[data-scientific-figure="true"],
+.research-feature-media .research-feature-image,.article-figure .article-hero{aspect-ratio:auto!important;height:auto!important;max-height:none!important;object-fit:contain!important}
+.hero-feature-media{background:transparent}.article-image-link{display:block;cursor:zoom-in}
+.article-figure .article-hero{width:100%;max-width:100%}
+.research-ranked-list{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px!important;border-top:0!important}
+.research-ranked-item{display:grid!important;grid-template-columns:minmax(0,1fr)!important;gap:18px!important;padding:28px!important;border:1px solid var(--line)!important;border-radius:4px;background:var(--white)}
+.research-rank-block{grid-column:1;grid-row:1;flex-direction:row!important;align-items:baseline!important;gap:12px!important;width:auto!important;max-width:none!important}
+.research-ranked-image{grid-column:1;grid-row:2;width:100%!important;min-width:0!important;max-width:none!important;background:transparent!important}
+.research-ranked-image img,.research-ranked-image .research-thumb{width:100%!important;max-width:100%!important;height:auto!important;max-height:none!important;aspect-ratio:auto!important;object-fit:contain!important}
+.research-ranked-copy{grid-column:1;grid-row:3}.research-ranked-copy h3{font-size:21px!important;line-height:1.35!important}
+@media(min-width:761px){.list-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}}
+@media(max-width:1050px){.container{width:calc(100% - 56px)}.section{padding:80px 0}.hero-story>a{gap:30px}}
+@media(max-width:760px){
+ .container{width:calc(100% - 40px)}.masthead{height:72px}.hero{padding:44px 0 40px}.hero-story>a{gap:35px}
+ .section{padding:60px 0}.section-head{margin-bottom:30px}.section-head h2{font-size:31px}
+ .list-grid,.category-strip,.research-ranked-list{grid-template-columns:minmax(0,1fr)!important;gap:18px!important}
+ .card>a,.card.no-image>a{padding:24px!important}.card h3,.side-story h2{font-size:22px;line-height:1.35}
+ .side-story{padding:24px}.side-story .thumb{margin-bottom:20px!important}.radar-card>a{min-height:0}
+ .editorial-stack .card>a{padding:24px!important}.research-ranked-item{padding:24px!important}
+ .research-feature{grid-template-columns:minmax(0,1fr)!important}.research-feature-media{max-width:none!important}
+}

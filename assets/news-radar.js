@@ -6,13 +6,13 @@
     const list=section.querySelector('.list-grid');
     for(const item of data.items){
       const url=new URL(item.url);if(url.protocol!=='https:')continue;
-      const article=document.createElement('article');article.className='card';
+      const article=document.createElement('article');article.className='card radar-card';
       const source=document.createElement('div');source.className='tag';source.textContent=item.source;
-      const heading=document.createElement('h3'),link=document.createElement('a');link.href=url.href;link.target='_blank';link.rel='noopener noreferrer';link.textContent=item.title;heading.append(link);
-      const meta=document.createElement('p');meta.textContent=new Intl.DateTimeFormat('pt-BR',{day:'2-digit',month:'short',timeZone:'America/Sao_Paulo'}).format(new Date(item.publishedAt))+' · Leia na fonte ↗';
-      if(item.image){const imageUrl=new URL(item.image);if(imageUrl.protocol==='https:'){const media=document.createElement('a');media.href=url.href;media.target='_blank';media.rel='noopener noreferrer';const img=document.createElement('img');img.className='image';img.src=imageUrl.href;img.alt=item.title;img.width=960;img.height=540;img.loading='lazy';img.decoding='async';img.addEventListener('error',()=>media.remove(),{once:true});media.append(img);article.append(media);}}
-      article.append(source,heading,meta);list.append(article);
+      const heading=document.createElement('h3'),link=document.createElement('a');link.href=url.href;link.target='_blank';link.rel='noopener noreferrer';heading.textContent=item.title;
+      const meta=document.createElement('p');meta.className='meta';meta.textContent=new Intl.DateTimeFormat('pt-BR',{day:'2-digit',month:'short',timeZone:'America/Sao_Paulo'}).format(new Date(item.publishedAt))+' · Leia na fonte ↗';
+      link.append(source,heading,meta);article.append(link);list.append(article);
     }
     section.hidden=false;
   }catch{}
 })();
+
