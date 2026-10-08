@@ -449,5 +449,30 @@
     "reason": "Exceção ilustrativa específica aprovada pelo proprietário após revisão do documento com esta imagem e legenda. A legenda identifica expressamente que não retrata o Scale One; fotografia de pesquisa em Eindhoven em 2016. Não representa registro factual do produto ou instalação noticiados.",
     "presentation": "contain",
     "usage": "owner-approved-illustrative-exception"
+  },
+  "cascavel-licenca-ampliacao-central-residuos-biogas": {
+    "status": "approved",
+    "title": "Cascavel recebe licença para ampliar central de resíduos e incorporar usina de biogás",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/8a75c8c709b37e55fae8685bbe9637c93b06936c-960x640.jpg",
+    "alt": "Instalação industrial da central de resíduos de Cascavel, com tanques, tubulações azuis e passarelas com guarda-corpos amarelos.",
+    "caption": "Estruturas da central de resíduos de Cascavel, em imagem divulgada pelo IAT.",
+    "credit": "IAT / Agência Estadual de Notícias do Paraná",
+    "sourceUrl": "https://www.iat.pr.gov.br/Noticia/IAT-autoriza-ampliacao-da-central-de-tratamento-de-residuos-que-atende-50-cidades-do-Oeste",
+    "licenseUrl": "https://www.parana.pr.gov.br/aen/Galerias?page=0",
+    "reason": "Imagem e galeria retornaram HTTP 200; imagem 960x640 inspecionada visualmente. Declaração CC0 confirmada no HTML da listagem.",
+    "reviewedAt": "2026-10-08T03:45:51.799Z"
+  },
+  "epe-2026-producao-petroleo-gas-reservas-2025": {
+    "status": "approved",
+    "title": "EPE aponta produção recorde de petróleo e gás e pressão sobre reposição de reservas",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/f1ae6b41b126ed3210c38e5120b13440bbeef069-1580x457.png",
+    "alt": "Painel da EPE reúne seis indicadores de petróleo e gás para 2025, incluindo relação reserva/produção, reposição de reservas, investimento, sucesso exploratório, produção e exportações.",
+    "caption": "Painel de indicadores do Informe de Monitoramento da Política de E&P 2026, com ano-base 2025.",
+    "credit": "Empresa de Pesquisa Energética (EPE), CC BY 4.0",
+    "sourceUrl": "https://www.epe.gov.br/pt/imprensa/noticias/epe-publica-edicao-de-2026-do-informe-de-monitoramento-sobre-a-politica-de-e-p-de-petroleo-e-gas",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "reason": "Imagem oficial 1580x457 retornou HTTP 200 e foi inspecionada visualmente. É um infográfico panorâmico, não fotografia; preservar proporção e legibilidade, preferencialmente dentro do artigo.",
+    "reviewedAt": "2026-10-08T03:45:51.799Z",
+    "presentation": "contain"
   }
 }
