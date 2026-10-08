@@ -16,3 +16,7 @@ test('failed article image preserves attribution and does not leave broken enlar
  const document={addEventListener(t,fn){handler=fn},querySelectorAll(){return []},createElement(){return {}}};vm.runInNewContext(fs.readFileSync('assets/image-fallback.js','utf8'),{document,HTMLImageElement:Image});const image=new Image();handler({target:image});handler({target:image});assert.equal(expand.hidden,true);assert.equal(caption.textContent,'Original author · CC BY 4.0');assert.equal(children.length,1);
 });
 test('mobile menu has bounded scroll height and supports Escape',()=>{const css=fs.readFileSync('assets/editorial-model.css','utf8');assert.match(css,/max-height:calc\(100dvh - 72px\);overflow-y:auto/);const html=require('../lib/layout').shell({});assert.match(html,/event.key==='Escape'/);assert.match(html,/b.focus\(\)/);});
+test('side-story outer card cannot form a nested mobile grid that crushes its title',()=>{
+ const css=fs.readFileSync('assets/editorial-model.css','utf8');assert.match(css,/\.side-story\{display:block!important;width:100%;/);assert.match(css,/\.side-story>a\{display:grid;width:100%;min-width:0;grid-template-columns:112px minmax\(0,1fr\)/);
+ const html=require('../lib/cards').side({slug:'long-title',title:'Intertechne vence prêmio Bentley com modelagem digital de barragens de rejeitos',category:'Tecnologia',region:'Brasil e Internacional',image:'https://example.org/image.png'});assert.match(html,/<article class="side-story"><a/);assert.equal((html.match(/<h2>/g)||[]).length,1);
+});
