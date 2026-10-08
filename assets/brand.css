@@ -1,0 +1,32 @@
+/* Approved VAELITH identity. The existing logo geometry and editorial layout stay intact. */
+:root{
+  --paper:#F1F6F3;--white:#FFFFFF;--ink:#172B29;--text:#172B29;
+  --muted:#52635E;--soft:#52635E;--line:#CAD8D1;--line-strong:#849B90;
+  --accent:#087F6D;--accent-dark:#087F6D;--header:#172B29;
+  --font:Arial,"Helvetica Neue",Helvetica,sans-serif;
+}
+body{background:var(--paper);color:var(--text);font-family:var(--font)}
+.site-header{background:rgba(255,255,255,.98)}
+.brand,.mark,.wordmark{color:var(--ink)}
+.navbar{background:var(--header);color:var(--paper);border-top-color:var(--header)}
+.navbar a:hover,.navbar a.active{color:var(--white);text-decoration:underline;text-underline-offset:5px;text-decoration-thickness:2px}
+.menu-btn,.search-form button{background:var(--accent);color:var(--white)}
+.menu-btn:hover,.search-form button:hover{background:var(--ink)}
+.article-body,.insight p{color:var(--text)}
+.article-body a,.image-expand-link,.article-next-links a{color:var(--accent-dark)}
+.insight,.key-facts,.source-box,.ad-slot{background:var(--paper)}
+.insight{border-left-color:var(--accent)}
+.card.no-image>a,.side-story.no-image>a{background:var(--paper)!important}
+.card.no-image>a,.editorial-stack .card.no-image>a{border-color:var(--accent)!important}
+.rank-item>span,.research-ranked-meta{color:var(--muted)}
+.research-score-badge,.research-archive-row em{color:var(--accent-dark)}
+.footer{background:var(--header);color:var(--paper)}
+.footer .brand,.footer .mark,.footer .wordmark,.footer h4{color:var(--white)}
+.footer p,.footer a,.footer-bottom{color:var(--paper)}
+.footer-bottom{border-color:var(--line-strong)}
+.site-header.open .navbar a{border-bottom-color:var(--line-strong)}
+a:focus-visible,button:focus-visible,input:focus-visible{outline:3px solid var(--accent);outline-offset:4px}
+.navbar a:focus-visible,.footer a:focus-visible{outline-color:var(--white)}
+.skip-link{position:fixed;top:-100px;left:16px;z-index:1000;background:var(--ink);color:var(--white);padding:12px 16px;text-decoration:underline}
+.skip-link:focus{top:12px;outline:3px solid var(--white)}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important;animation:none!important}}

@@ -1,0 +1,5 @@
+const test=require('node:test');const assert=require('node:assert/strict');const fs=require('node:fs');const {shell}=require('../lib/layout');
+function luminance(hex){const c=[1,3,5].map(i=>parseInt(hex.slice(i,i+2),16)/255).map(x=>x<=.04045?x/12.92:((x+.055)/1.055)**2.4);return c[0]*.2126+c[1]*.7152+c[2]*.0722;}
+function contrast(a,b){const x=luminance(a),y=luminance(b);return(Math.max(x,y)+.05)/(Math.min(x,y)+.05);}
+test('approved brand text pairs meet WCAG AA normal-text contrast',()=>{for(const [a,b] of [['#087F6D','#FFFFFF'],['#087F6D','#F1F6F3'],['#172B29','#F1F6F3'],['#52635E','#F1F6F3']])assert.ok(contrast(a,b)>=4.5,`${a}/${b}`);});
+test('brand stylesheet is last, logo geometry preserved, and keyboard skip target exists',()=>{const html=shell({body:'<main><h1>Test</h1></main>'});assert.ok(html.indexOf('/assets/brand.css')>html.indexOf('/assets/visual-fixes.css'));assert.match(html,/M240 276H332L632 787L938 276H1022L632 923Z/);assert.match(html,/href="#main-content"/);assert.match(html,/<main id="main-content">/);assert.match(fs.readFileSync('assets/brand.css','utf8'),/prefers-reduced-motion/);});

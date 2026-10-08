@@ -141,3 +141,8 @@
 .article-grid>article,.article-grid>.sidebar{min-width:0}
 .article-body,.article-body a,.article-figure figcaption{overflow-wrap:anywhere;word-break:normal}
 .article-body img{max-width:100%;height:auto}
+
+.image-expand-link{display:inline-block;margin-top:10px;min-height:44px;padding:10px 0;font-size:13px;font-weight:700;text-decoration:underline;text-underline-offset:3px}
+.article-next-links{display:flex;flex-wrap:wrap;gap:8px 20px;margin-top:20px;padding-top:16px;border-top:1px solid var(--line)}
+.article-next-links a{display:inline-flex;align-items:center;min-height:44px;font-size:13px;font-weight:700;text-decoration:underline;text-underline-offset:3px}
+.article-info{flex-wrap:wrap}
