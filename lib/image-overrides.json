@@ -487,5 +487,31 @@
     "reason": "Figura1 original do próprio artigo; CC BY4.0 explícita na seção Copyright, sem crédito terceiro; arquivo baixado e visualmente conferido, planta/elevação idênticos à legenda da fonte.",
     "reviewedAt": "2026-10-08T03:50:46.845Z",
     "presentation": "contain"
+  },
+  "analise-ia-projetos-evidencia-antes-da-decisao": {
+    "title": "IA na revisão de projetos: quem confere a resposta antes que ela vire decisão?",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/fc685275774c2905dca2a82629797788a13412d7-1600x900.png",
+    "alt": "Diagrama conceitual conecta uma dúvida em uma prancha à evidência localizada e à revisão técnica.",
+    "caption": "Da indicação à revisão: esquema conceitual original da VAELITH. Ilustração, sem dados de um projeto real.",
+    "credit": "Ilustração editorial original VAELITH",
+    "sourceUrl": "https://www.vaelithlabs.com.br/noticias/analise-ia-projetos-evidencia-antes-da-decisao",
+    "licenseUrl": "https://www.vaelithlabs.com.br/noticias/analise-ia-projetos-evidencia-antes-da-decisao",
+    "reason": "Original VAELITH: desenho editorial de geometria e texto criado para este artigo, sem material de terceiros. PNG1600x900 inspecionado visualmente. licenseUrl documenta autoria na própria publicação; não representa concessão CC ao público.",
+    "reviewedAt": "2026-10-08T03:59:27.268Z",
+    "presentation": "contain"
+  },
+  "analise-sombra-trajetos-cidades-calor": {
+    "title": "A cidade precisa de sombra no caminho, não apenas de verde no mapa",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/453eee70dd49d3e963527b41787876c8a4448159-1600x900.png",
+    "alt": "Malha urbana fictícia mostra um parque e árvores ao longo de um trajeto de pedestres, com sombra distribuída de maneiras diferentes.",
+    "caption": "O percurso como unidade de projeto: ilustração conceitual original da VAELITH, sem escala e sem dados de uma cidade real.",
+    "credit": "Ilustração editorial original VAELITH",
+    "sourceUrl": "https://www.vaelithlabs.com.br/noticias/analise-sombra-trajetos-cidades-calor",
+    "licenseUrl": "https://www.vaelithlabs.com.br/noticias/analise-sombra-trajetos-cidades-calor",
+    "reason": "Original VAELITH: desenho editorial de geometria e texto criado para este artigo, sem material de terceiros. PNG1600x900 inspecionado visualmente. licenseUrl documenta autoria na própria publicação; não representa concessão CC ao público.",
+    "reviewedAt": "2026-10-08T03:59:27.268Z",
+    "presentation": "contain"
   }
 }

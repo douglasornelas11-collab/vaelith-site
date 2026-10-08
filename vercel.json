@@ -9,6 +9,7 @@
     {"source":"/categoria/infraestrutura","destination":"/categoria/engenharia","permanent":true}
   ],
   "rewrites": [
+    {"source":"/editorial","destination":"/api/page?type=editorial"},
     {"source":"/sitemap.xml","destination":"/api/sitemap"},
     {"source":"/news-sitemap.xml","destination":"/api/news-sitemap"},
     {"source":"/rss.xml","destination":"/api/rss"},
@@ -36,3 +37,4 @@
     ]}
   ]
 }
+

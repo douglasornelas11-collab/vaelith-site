@@ -125,3 +125,19 @@
   .research-archive-title{grid-column:1!important;font-size:13.5px!important;line-height:1.38!important}
   .research-archive-score{grid-column:2!important;align-self:center!important;font-size:10.5px!important}
 }
+
+/* Original editorial collection, scoped to avoid changing existing articles. */
+.original-editorial .list-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.original-editorial .card{min-width:0}
+.original-editorial .card h2{font-size:24px;line-height:1.22;margin:12px 0}
+.original-editorial p,.original-editorial a{overflow-wrap:anywhere}
+@media(max-width:760px){.original-editorial .list-grid{grid-template-columns:minmax(0,1fr)}.original-editorial .card h2{font-size:22px}}
+
+.original-editorial-article .article-grid>article{min-width:0}
+.original-editorial-article .article-body,.original-editorial-article .article-body a{overflow-wrap:anywhere}
+
+.navbar a.mobile-utility{display:none}
+@media(max-width:760px){.site-header.open .navbar a.mobile-utility{display:block}}
+.article-grid>article,.article-grid>.sidebar{min-width:0}
+.article-body,.article-body a,.article-figure figcaption{overflow-wrap:anywhere;word-break:normal}
+.article-body img{max-width:100%;height:auto}
