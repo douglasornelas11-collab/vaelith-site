@@ -513,5 +513,61 @@
     "reason": "Original VAELITH: desenho editorial de geometria e texto criado para este artigo, sem material de terceiros. PNG1600x900 inspecionado visualmente. licenseUrl documenta autoria na própria publicação; não representa concessão CC ao público.",
     "reviewedAt": "2026-10-08T03:59:27.268Z",
     "presentation": "contain"
+  },
+  "wonderwoods-premio-breeam-resiliencia-utrecht-2026": {
+    "title": "Wonderwoods recebe prêmio BREEAM por resiliência climática em Utrecht",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/bd883cdf9f7c21b0ce54660282303babfb861d5f-1600x900.png",
+    "alt": "Diagrama circular relaciona água, vegetação, manutenção e uso cotidiano ao projeto e à operação de um edifício.",
+    "caption": "Questões de operação a investigar em edifícios com vegetação integrada, a partir do reconhecimento ao Wonderwoods. Ilustração VAELITH; esquema conceitual, não é imagem do projeto.",
+    "credit": "Ilustração original VAELITH.",
+    "sourceUrl": "https://www.vaelithlabs.com.br/noticias/wonderwoods-premio-breeam-resiliencia-utrecht-2026",
+    "licenseUrl": "https://www.vaelithlabs.com.br/noticias/wonderwoods-premio-breeam-resiliencia-utrecht-2026",
+    "reason": "Desenho SVG original por código, exportado em PNG. Nenhuma fotografia, renderização, figura ou identidade visual de terceiros foi reproduzida. Síntese editorial dos eixos de avaliação propostos no texto; sem representação geométrica do Wonderwoods.",
+    "reviewedAt": "2026-10-08T04:10:54.836Z",
+    "presentation": "contain",
+    "imageRightsType": "original"
+  },
+  "dymak-dalum-premio-arquitetura-odense-2026": {
+    "title": "Odense premia sede circular da Dymak e reconversão de antiga fábrica de papel",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/99e661c0e6c94de274eeb6778d1dcfb15029051f-1600x900.png",
+    "alt": "Dois percursos paralelos mostram a reconversão da Dalum e a construção nova da Dymak, unidos por critérios de uso, manutenção e adaptação.",
+    "caption": "Comparação conceitual entre transformar o edifício existente e organizar um novo programa em torno do espaço comum. Ilustração VAELITH; esquema conceitual, não é imagem do projeto.",
+    "credit": "Ilustração original VAELITH.",
+    "sourceUrl": "https://www.vaelithlabs.com.br/noticias/dymak-dalum-premio-arquitetura-odense-2026",
+    "licenseUrl": "https://www.vaelithlabs.com.br/noticias/dymak-dalum-premio-arquitetura-odense-2026",
+    "reason": "Desenho SVG original por código, exportado em PNG. Nenhuma fotografia, renderização, figura ou identidade visual de terceiros foi reproduzida. Organização editorial dos programas descritos pelas fontes; não é planta, volumetria ou imagem de qualquer dos projetos.",
+    "reviewedAt": "2026-10-08T04:10:54.837Z",
+    "presentation": "contain",
+    "imageRightsType": "original"
+  },
+  "big-concurso-tirana-fountain-tower-parque-2026": {
+    "title": "BIG vence concurso que propõe elevar usos privados para ampliar espaço público em Tirana",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/05b4dff5f274fc913c804a802c73d76a0c4a7691-1600x900.png",
+    "alt": "Diagrama separa programa elevado e rede de espaços públicos; ao lado, mostra captação, armazenamento e reaproveitamento da chuva.",
+    "caption": "Relações de uso e ciclo hídrico descritos na proposta vencedora para Tirana. Ilustração VAELITH; esquema conceitual, não é imagem do projeto.",
+    "credit": "Ilustração original VAELITH.",
+    "sourceUrl": "https://www.vaelithlabs.com.br/noticias/big-concurso-tirana-fountain-tower-parque-2026",
+    "licenseUrl": "https://www.vaelithlabs.com.br/noticias/big-concurso-tirana-fountain-tower-parque-2026",
+    "reason": "Desenho SVG original por código, exportado em PNG. Nenhuma fotografia, renderização, figura ou identidade visual de terceiros foi reproduzida. Diagrama abstrato das intenções do concurso, sem copiar a volumetria ou representar resultados ambientais medidos.",
+    "reviewedAt": "2026-10-08T04:10:54.837Z",
+    "presentation": "contain",
+    "imageRightsType": "original"
+  },
+  "bentonville-institute-campus-inicio-obras-2026": {
+    "title": "Novo campus de Bentonville inicia obras no antigo escritório central do Walmart",
+    "status": "approved",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/d74e9256ac01fc1ad46182f58ef6525bedccc291-1600x900.png",
+    "alt": "Rede conceitual liga ensino, moradia e makerspace aos acessos ao centro da cidade, parques e espaços públicos.",
+    "caption": "Articulação dos três núcleos previstos para a primeira fase do novo campus e suas interfaces urbanas. Ilustração VAELITH; esquema conceitual, não é imagem do projeto.",
+    "credit": "Ilustração original VAELITH.",
+    "sourceUrl": "https://www.vaelithlabs.com.br/noticias/bentonville-institute-campus-inicio-obras-2026",
+    "licenseUrl": "https://www.vaelithlabs.com.br/noticias/bentonville-institute-campus-inicio-obras-2026",
+    "reason": "Desenho SVG original por código, exportado em PNG. Nenhuma fotografia, renderização, figura ou identidade visual de terceiros foi reproduzida. Rede de relações do programa anunciado; não representa a implantação, os edifícios ou a arquitetura final do campus.",
+    "reviewedAt": "2026-10-08T04:10:54.837Z",
+    "presentation": "contain",
+    "imageRightsType": "original"
   }
 }
