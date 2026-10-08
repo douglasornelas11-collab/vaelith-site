@@ -8,7 +8,7 @@ test('original section only identifies explicitly curated exact-title originals'
 test('editorial route is linked in both main navigation and footer',()=>{const html=shell({});assert.equal((html.match(/href="\/editorial"/g)||[]).length,2);const routes=require('../vercel.json');assert.ok(routes.rewrites.some(r=>r.source==='/editorial'));});
 test('rich source links work in news and original editorial',()=>{
  const renderArticle=require('../lib/render-article');
- const a={slug:'scope-test',title:'Original test',date:'2099-01-01',category:'Gestão',categorySlug:'gestao',body:['Plain source'],richBody:[{_type:'block',markDefs:[{_key:'x',_type:'link',href:'https://example.org/source'}],children:[{text:'Source',marks:['x']}]}]};
+ const a={slug:'scope-test',title:'Original test',date:'2099-01-01',category:'Gestão',categorySlug:'gestao',sourceUrl:'https://example.org/primary',body:['Plain source'],richBody:[{_type:'block',markDefs:[{_key:'x',_type:'link',href:'https://example.org/source'}],children:[{text:'Source',marks:['x']}]}]};
  content.articles.push(a);
- try {assert.match(renderArticle(a.slug),/href="https:\/\/example.org\/source"/);registry[a.slug]={title:a.title,format:'Análise'};assert.match(renderArticle(a.slug),/href="https:\/\/example.org\/source"/);}finally{content.articles.pop();delete registry[a.slug];}
+ try {assert.doesNotMatch(renderArticle(a.slug),/Fonte original: null/);assert.match(renderArticle(a.slug),/Consultar fonte original/);assert.match(renderArticle(a.slug),/href="https:\/\/example.org\/source"/);registry[a.slug]={title:a.title,format:'Análise'};assert.match(renderArticle(a.slug),/href="https:\/\/example.org\/source"/);}finally{content.articles.pop();delete registry[a.slug];}
 });
