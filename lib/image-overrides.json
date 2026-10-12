@@ -859,5 +859,33 @@
     "reason": "Diagrama original produzido pela VAELITH para esta matéria, sem reprodução de imagens externas. Arte 1600x900 conferida visualmente em 09/10/2026.",
     "reviewedAt": "2026-10-09T11:17:18.938Z",
     "presentation": "contain"
+  },
+  "hidrosis-estuda-rotas-eclusas-embarcacoes-hidrovia-tiete-parana": {
+    "status": "approved",
+    "title": "Hidrosis estuda rotas, eclusas e embarcações para ampliar o uso da hidrovia Tietê–Paraná",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/deba83cd94d3d1723c50fac37b822579763f73ad-1920x1080.jpg",
+    "alt": "Ilustração conceitual VAELITH de uma embarcação genérica em canal fluvial, com linhas gráficas de monitoramento.",
+    "caption": "Ilustração conceitual original VAELITH, gerada com IA, de navegação fluvial e monitoramento do canal. Não retrata hidrovia, embarcação, medição ou resultado operacional real.",
+    "credit": "VAELITH — ilustração conceitual gerada com IA",
+    "sourceUrl": "https://jornal.usp.br/atualidades/parceria-da-usp-visa-desenvolver-sistemas-hidroviarios-interiores/",
+    "licenseUrl": "https://www.vaelithlabs.com.br/sobre",
+    "reviewedAt": "2026-10-12T11:38:20.283276Z",
+    "reason": "Ilustração editorial original criada para esta publicação e conferida visualmente em 12/10/2026. Arte conceitual gerada com IA e marca VAELITH original; não reproduz fotos, mapas, desenhos ou identidade visual de terceiros. A legenda distingue explicitamente a ilustração de registro factual. URL de autoria institucional, sem atribuir licença Creative Commons.",
+    "imageRightsType": "original",
+    "presentation": "contain"
+  },
+  "retomada-obras-recursos-captados-pagamentos-servico-ufpb": {
+    "status": "approved",
+    "title": "Retomada de obras exige separar recursos captados, pagamentos e serviço entregue",
+    "url": "https://cdn.sanity.io/images/s2xosuea/production/33a11b01dbdc4da083cfdf4fa7de4f91cbd58224-1920x1080.jpg",
+    "alt": "Ilustração conceitual VAELITH de uma edificação pública imaginária em transição entre construção e uso.",
+    "caption": "Ilustração conceitual original VAELITH, gerada com IA, de uma edificação pública imaginária em transição entre construção e uso. Não retrata o campus da UFPB, uma obra específica ou uma entrega real.",
+    "credit": "VAELITH — ilustração conceitual gerada com IA",
+    "sourceUrl": "https://www.ufpb.br/noticias/ufpb-apresenta-a-cgu-plano-de-acao-sobre-obras-paralisadas-e-retomadas/",
+    "licenseUrl": "https://www.vaelithlabs.com.br/sobre",
+    "reviewedAt": "2026-10-12T11:38:20.283322Z",
+    "reason": "Ilustração editorial original criada para esta publicação e conferida visualmente em 12/10/2026. Arte conceitual gerada com IA e marca VAELITH original; não reproduz fotos, mapas, desenhos ou identidade visual de terceiros. A legenda distingue explicitamente a ilustração de registro factual. URL de autoria institucional, sem atribuir licença Creative Commons.",
+    "imageRightsType": "original",
+    "presentation": "contain"
   }
 }
