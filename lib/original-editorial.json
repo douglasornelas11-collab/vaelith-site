@@ -14,5 +14,9 @@
   "retomada-obras-recursos-captados-pagamentos-servico-ufpb": {
     "title": "Retomada de obras exige separar recursos captados, pagamentos e serviço entregue",
     "format": "Análise"
+  },
+  "analise-causas-obras-paralisadas-quantidade-valores-tcu": {
+    "title": "Por que obras param: contar empreendimentos e somar valores produz retratos diferentes",
+    "format": "Análise"
   }
 }
