@@ -18,5 +18,9 @@
   "analise-causas-obras-paralisadas-quantidade-valores-tcu": {
     "title": "Por que obras param: contar empreendimentos e somar valores produz retratos diferentes",
     "format": "Análise"
+  },
+  "analise-matriz-riscos-obra-responsaveis-decisoes": {
+    "title": "Matriz de riscos precisa explicar quem decide quando a obra sai do previsto",
+    "format": "Análise"
   }
 }
