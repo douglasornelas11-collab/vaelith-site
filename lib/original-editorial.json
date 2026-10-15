@@ -22,5 +22,9 @@
   "analise-matriz-riscos-obra-responsaveis-decisoes": {
     "title": "Matriz de riscos precisa explicar quem decide quando a obra sai do previsto",
     "format": "Análise"
+  },
+  "analise-obra-escolar-concluida-vagas-funcionamento": {
+    "title": "Obra escolar concluída não equivale automaticamente a vaga em funcionamento",
+    "format": "Análise"
   }
 }
