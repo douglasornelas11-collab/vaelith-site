@@ -26,5 +26,9 @@
   "analise-obra-escolar-concluida-vagas-funcionamento": {
     "title": "Obra escolar concluída não equivale automaticamente a vaga em funcionamento",
     "format": "Análise"
+  },
+  "retomada-obras-custo-concluir-servico-populacao-editorial-2026": {
+    "title": "Retomar obras exige comparar o custo de concluir com o serviço que falta à população",
+    "format": "Análise"
   }
 }
