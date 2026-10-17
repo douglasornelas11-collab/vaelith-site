@@ -19,10 +19,22 @@
     "imageCaption": "Área anteriormente usada como pasto e reflorestada pelo Projeto Guapiaçu na Fazenda Vital Brazil, em Cachoeiras de Macacu (RJ), em novembro de 2024.",
     "imageCredit": "Fernando Frazão / Agência Brasil",
     "keyFacts": [
-      {"label": "Perda de vegetação madura", "value": "9,7 milhões de ha"},
-      {"label": "Expansão agrícola", "value": "11 milhões de ha"},
-      {"label": "Vegetação nativa em 2025", "value": "32% do bioma"},
-      {"label": "Uso agropecuário em 2025", "value": "63% do bioma"}
+      {
+        "label": "Perda de vegetação madura",
+        "value": "9,7 milhões de ha"
+      },
+      {
+        "label": "Expansão agrícola",
+        "value": "11 milhões de ha"
+      },
+      {
+        "label": "Vegetação nativa em 2025",
+        "value": "32% do bioma"
+      },
+      {
+        "label": "Uso agropecuário em 2025",
+        "value": "63% do bioma"
+      }
     ],
     "body": [
       "A Mata Atlântica perdeu 9,7 milhões de hectares de vegetação madura entre 1985 e 2025, enquanto as áreas agrícolas avançaram 11 milhões de hectares. Os dados fazem parte de um levantamento do MapBiomas divulgado em 21 de setembro e mostram uma transformação profunda do uso do solo no bioma ao longo de quatro décadas.",
@@ -55,10 +67,22 @@
     "imageCaption": "Aplicativo bancário usado para pagamento por Pix, em Brasília, em janeiro de 2025.",
     "imageCredit": "Bruno Peres / Agência Brasil",
     "keyFacts": [
-      {"label": "Cobrança híbrida", "value": "fevereiro de 2027"},
-      {"label": "Contas-salário", "value": "julho de 2027"},
-      {"label": "Escopo", "value": "segurança e participação"},
-      {"label": "Liquidação extrajudicial", "value": "suspensão imediata"}
+      {
+        "label": "Cobrança híbrida",
+        "value": "fevereiro de 2027"
+      },
+      {
+        "label": "Contas-salário",
+        "value": "julho de 2027"
+      },
+      {
+        "label": "Escopo",
+        "value": "segurança e participação"
+      },
+      {
+        "label": "Liquidação extrajudicial",
+        "value": "suspensão imediata"
+      }
     ],
     "body": [
       "O Banco Central aprovou mudanças nas regras do Pix para ampliar as formas de cobrança, permitir o uso do Pix Automático em contas-salário e reforçar mecanismos de segurança. As medidas foram divulgadas em 18 de setembro e entram em vigor em etapas ao longo de 2027.",
@@ -90,10 +114,22 @@
     "imageCaption": "Chongqing, metrópole chinesa de 32 milhões de habitantes e centro logístico da Nova Rota da Seda, em setembro de 2026.",
     "imageCredit": "Lucas Pordeus León / Agência Brasil",
     "keyFacts": [
-      {"label": "População", "value": "32 milhões"},
-      {"label": "Área municipal", "value": "82,4 mil km²"},
-      {"label": "Distritos", "value": "37"},
-      {"label": "Fabricantes de veículos", "value": "19"}
+      {
+        "label": "População",
+        "value": "32 milhões"
+      },
+      {
+        "label": "Área municipal",
+        "value": "82,4 mil km²"
+      },
+      {
+        "label": "Distritos",
+        "value": "37"
+      },
+      {
+        "label": "Fabricantes de veículos",
+        "value": "19"
+      }
     ],
     "body": [
       "Chongqing tornou-se uma das expressões mais visíveis da transformação urbana e industrial chinesa. O município reúne 32 milhões de habitantes em 82,4 mil quilômetros quadrados, área quase duas vezes maior que a do estado do Rio de Janeiro, e articula um centro urbano denso a dezenas de distritos distribuídos por uma região montanhosa cortada pelos rios Yangtzé e Jialing.",
@@ -126,10 +162,22 @@
     "imageCaption": "Edifícios na cidade de São Paulo, em agosto de 2026. O novo painel permite comparar indicadores das 27 unidades da Federação.",
     "imageCredit": "Rafa Neddermeyer / Agência Brasil",
     "keyFacts": [
-      {"label": "Indicadores", "value": "228"},
-      {"label": "Temas", "value": "12"},
-      {"label": "Unidades comparadas", "value": "27"},
-      {"label": "Cobertura", "value": "social, econômica e fiscal"}
+      {
+        "label": "Indicadores",
+        "value": "228"
+      },
+      {
+        "label": "Temas",
+        "value": "12"
+      },
+      {
+        "label": "Unidades comparadas",
+        "value": "27"
+      },
+      {
+        "label": "Cobertura",
+        "value": "social, econômica e fiscal"
+      }
     ],
     "body": [
       "O Instituto Mobilidade e Desenvolvimento Social lançou uma plataforma que reúne 228 indicadores para comparar as 27 unidades da Federação. O painel, chamado IMDS – Eleições: Panorama Estadual, organiza séries e resultados em 12 temas para permitir que diferenças regionais e mudanças ao longo do tempo sejam analisadas com uma base comum.",
@@ -162,10 +210,22 @@
     "imageCaption": "Apresentação da carteira de chamamentos públicos e terminais logísticos na B3, em São Paulo, em setembro de 2026.",
     "imageCredit": "Jerônimo Gonzalez / Ministério dos Transportes",
     "keyFacts": [
-      {"label": "Malha potencial", "value": "cerca de 10 mil km"},
-      {"label": "Shortlines", "value": "7 projetos"},
-      {"label": "Terminais", "value": "5 áreas na Norte-Sul"},
-      {"label": "Leilões", "value": "3 e 17 de dezembro"}
+      {
+        "label": "Malha potencial",
+        "value": "cerca de 10 mil km"
+      },
+      {
+        "label": "Shortlines",
+        "value": "7 projetos"
+      },
+      {
+        "label": "Terminais",
+        "value": "5 áreas na Norte-Sul"
+      },
+      {
+        "label": "Leilões",
+        "value": "3 e 17 de dezembro"
+      }
     ],
     "body": [
       "O Ministério dos Transportes apresentou na B3, em São Paulo, uma carteira destinada a recolocar em operação trechos ferroviários ociosos e implantar novos terminais logísticos. Segundo a pasta, aproximadamente 10 mil quilômetros de linhas atualmente subutilizadas poderão voltar à rede de transportes por meio da participação privada. A divulgação original foi feita em 15 de setembro de 2026 e atualizada no dia seguinte.",
@@ -177,211 +237,437 @@
     ],
     "technicalTakeaway": "A oportunidade central está menos na extensão anunciada isoladamente e mais na capacidade de integrar trechos curtos, terminais e corredores troncais. Para engenharia e construção, o avanço dependerá de diagnósticos consistentes da via permanente, pontes, drenagem, sinalização e pátios, além de projetos executivos que transformem autorizações longas em cronogramas financiáveis e operação segura."
   },
-{
-  "title": "Pesquisa compara custos e benefícios para escolher novos parques em São Paulo",
-  "dek": "Estudo de 211 propostas combina recreação, regulação térmica e infiltração; os resultados são cenários de planejamento, não benefícios já medidos em parques entregues.",
-  "region": "Brasil",
-  "technicalTakeaway": "Um acompanhamento posterior deveria comparar o desempenho observado com as hipóteses de projeto. Sem essa etapa, um resultado promissor de simulação continua sendo apoio ao planejamento, e não comprovação de que a cidade já obteve os benefícios estimados.",
-  "sourceUrl": "https://ods.fapesp.br/ferramenta-ajuda-a-escolher-os-melhores-locais-para-novos-parques-em-sao-paulo/13996",
-  "sourceLanguage": "pt",
-  "slug": "parques-sao-paulo-211-projetos-custos-beneficios-pesquisa-2026",
-  "category": "Sustentabilidade",
-  "categorySlug": "sustentabilidade",
-  "contentType": "research",
-  "date": "2026-10-16",
-  "dateDisplay": "16 out 2026",
-  "publishedAt": "2026-10-16T13:13:15.637924Z",
-  "modifiedAt": "2026-10-16T13:13:15.637924Z",
-  "image": "https://cdn.sanity.io/images/s2xosuea/production/32ff1dd96665c71c01b989f7f8f18155ae24460d-1600x900.jpg",
-  "imageAlt": "Modelo conceitual de áreas verdes conectadas ao tecido urbano.",
-  "imageCaption": "Ilustração conceitual original gerada com IA. Não representa fotografia documental de obra, exposição, equipamento ou resultado experimental específico.",
-  "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
-  "sourceName": "FAPESP / Urban Forestry & Urban Greening",
-  "authorName": "Editorial VAELITH",
-  "richBody": [
-    {
-      "_key": "b0",
-      "_type": "block",
-      "children": [
-        {
-          "_key": "s0",
-          "_type": "span",
-          "marks": [],
-          "text": "EXPLICAÇÃO DE PESQUISA • Estudo publicado em 2026 e divulgado pela FAPESP em 10 de setembro. Esta análise não anuncia a construção de novos parques."
-        }
-      ],
-      "markDefs": [],
-      "style": "normal"
-    },
-    {
-      "_key": "b1",
-      "_type": "block",
-      "children": [
-        {
-          "_key": "s1",
-          "_type": "span",
-          "marks": [],
-          "text": "Pesquisadores da USP, em parceria com a Secretaria Municipal do Verde e do Meio Ambiente de São Paulo, estudaram 211 propostas de parques. O trabalho foi publicado no periódico Urban Forestry & Urban Greening e reúne avaliação de serviços ecossistêmicos com otimização espacial."
-        }
-      ],
-      "markDefs": [],
-      "style": "normal"
-    },
-    {
-      "_key": "b2",
-      "_type": "block",
-      "children": [
-        {
-          "_key": "s2",
-          "_type": "span",
-          "marks": [],
-          "text": "Os cenários consideram recreação, regulação térmica e infiltração de água, relacionando oferta, demanda e fluxo desses serviços. Do lado dos custos, incluem desapropriação, implantação e manutenção. A pergunta é quais combinações de áreas podem oferecer benefícios dentro dos recursos disponíveis."
-        }
-      ],
-      "markDefs": [],
-      "style": "normal"
-    },
-    {
-      "_key": "b3",
-      "_type": "block",
-      "children": [
-        {
-          "_key": "s3",
-          "_type": "span",
-          "marks": [],
-          "text": "A divulgação institucional descreve simulações, não um ensaio em que 211 parques tenham sido construídos e monitorados. Também não apresenta um orçamento único aplicável a qualquer cidade brasileira."
-        }
-      ],
-      "markDefs": [],
-      "style": "normal"
-    },
-    {
-      "_key": "b4",
-      "_type": "block",
-      "children": [
-        {
-          "_key": "s4",
-          "_type": "span",
-          "marks": [],
-          "text": "Por que a escolha do local muda a decisão"
-        }
-      ],
-      "markDefs": [],
-      "style": "h2"
-    },
-    {
-      "_key": "b5",
-      "_type": "block",
-      "children": [
-        {
-          "_key": "s5",
-          "_type": "span",
-          "marks": [],
-          "text": "A leitura VAELITH é que uma área barata de adquirir pode não ser a melhor resposta à necessidade de uma população. Inversamente, um local de elevado benefício potencial pode exigir recursos de implantação e conservação que precisam aparecer na decisão desde o início."
-        }
-      ],
-      "markDefs": [],
-      "style": "normal"
-    },
-    {
-      "_key": "b6",
-      "_type": "block",
-      "children": [
-        {
-          "_key": "s6",
-          "_type": "span",
-          "marks": [],
-          "text": "O valor do método está em tornar essas escolhas comparáveis e discutíveis. Uma apresentação pública útil mostraria quais objetivos receberam maior peso, quais dados têm maior incerteza e quem seria atendido por cada alternativa."
-        }
-      ],
-      "markDefs": [],
-      "style": "normal"
-    },
-    {
-      "_key": "b7",
-      "_type": "block",
-      "children": [
-        {
-          "_key": "s7",
-          "_type": "span",
-          "marks": [],
-          "text": "Para transferir a abordagem a outro município, seria necessário levantar custos fundiários locais, condições ambientais, demanda da população e capacidade de manutenção. A escolha também precisa de participação social: otimização não resolve sozinha conflitos de acesso, uso e prioridades."
-        }
-      ],
-      "markDefs": [],
-      "style": "normal"
-    },
-    {
-      "_key": "b8",
-      "_type": "block",
-      "children": [
-        {
-          "_key": "s8",
-          "_type": "span",
-          "marks": [],
-          "text": "Um acompanhamento posterior deveria comparar o desempenho observado com as hipóteses de projeto. Sem essa etapa, um resultado promissor de simulação continua sendo apoio ao planejamento, e não comprovação de que a cidade já obteve os benefícios estimados."
-        }
-      ],
-      "markDefs": [],
-      "style": "normal"
-    },
-    {
-      "_key": "src0",
-      "_type": "block",
-      "children": [
-        {
-          "_key": "ls0",
-          "_type": "span",
-          "marks": [
-            "l0"
-          ],
-          "text": "FAPESP — divulgação do estudo, 10/09/2026"
-        }
-      ],
-      "markDefs": [
-        {
-          "_key": "l0",
-          "_type": "link",
-          "href": "https://ods.fapesp.br/ferramenta-ajuda-a-escolher-os-melhores-locais-para-novos-parques-em-sao-paulo/13996"
-        }
-      ],
-      "style": "normal"
-    },
-    {
-      "_key": "src1",
-      "_type": "block",
-      "children": [
-        {
-          "_key": "ls1",
-          "_type": "span",
-          "marks": [
-            "l1"
-          ],
-          "text": "Artigo científico — Integrating ecosystem services and optimization analyses to prioritize green spaces implementation in a Global South megacity"
-        }
-      ],
-      "markDefs": [
-        {
-          "_key": "l1",
-          "_type": "link",
-          "href": "https://doi.org/10.1016/j.ufug.2026.129314"
-        }
-      ],
-      "style": "normal"
-    }
-  ],
-  "body": [
-    "EXPLICAÇÃO DE PESQUISA • Estudo publicado em 2026 e divulgado pela FAPESP em 10 de setembro. Esta análise não anuncia a construção de novos parques.",
-    "Pesquisadores da USP, em parceria com a Secretaria Municipal do Verde e do Meio Ambiente de São Paulo, estudaram 211 propostas de parques. O trabalho foi publicado no periódico Urban Forestry & Urban Greening e reúne avaliação de serviços ecossistêmicos com otimização espacial.",
-    "Os cenários consideram recreação, regulação térmica e infiltração de água, relacionando oferta, demanda e fluxo desses serviços. Do lado dos custos, incluem desapropriação, implantação e manutenção. A pergunta é quais combinações de áreas podem oferecer benefícios dentro dos recursos disponíveis.",
-    "A divulgação institucional descreve simulações, não um ensaio em que 211 parques tenham sido construídos e monitorados. Também não apresenta um orçamento único aplicável a qualquer cidade brasileira.",
-    "Por que a escolha do local muda a decisão",
-    "A leitura VAELITH é que uma área barata de adquirir pode não ser a melhor resposta à necessidade de uma população. Inversamente, um local de elevado benefício potencial pode exigir recursos de implantação e conservação que precisam aparecer na decisão desde o início.",
-    "O valor do método está em tornar essas escolhas comparáveis e discutíveis. Uma apresentação pública útil mostraria quais objetivos receberam maior peso, quais dados têm maior incerteza e quem seria atendido por cada alternativa.",
-    "Para transferir a abordagem a outro município, seria necessário levantar custos fundiários locais, condições ambientais, demanda da população e capacidade de manutenção. A escolha também precisa de participação social: otimização não resolve sozinha conflitos de acesso, uso e prioridades.",
-    "Um acompanhamento posterior deveria comparar o desempenho observado com as hipóteses de projeto. Sem essa etapa, um resultado promissor de simulação continua sendo apoio ao planejamento, e não comprovação de que a cidade já obteve os benefícios estimados.",
-    "FAPESP — divulgação do estudo, 10/09/2026",
-    "Artigo científico — Integrating ecosystem services and optimization analyses to prioritize green spaces implementation in a Global South megacity"
-  ]
-}
+  {
+    "title": "Pesquisa compara custos e benefícios para escolher novos parques em São Paulo",
+    "dek": "Estudo de 211 propostas combina recreação, regulação térmica e infiltração; os resultados são cenários de planejamento, não benefícios já medidos em parques entregues.",
+    "region": "Brasil",
+    "technicalTakeaway": "Um acompanhamento posterior deveria comparar o desempenho observado com as hipóteses de projeto. Sem essa etapa, um resultado promissor de simulação continua sendo apoio ao planejamento, e não comprovação de que a cidade já obteve os benefícios estimados.",
+    "sourceUrl": "https://ods.fapesp.br/ferramenta-ajuda-a-escolher-os-melhores-locais-para-novos-parques-em-sao-paulo/13996",
+    "sourceLanguage": "pt",
+    "slug": "parques-sao-paulo-211-projetos-custos-beneficios-pesquisa-2026",
+    "category": "Sustentabilidade",
+    "categorySlug": "sustentabilidade",
+    "contentType": "research",
+    "date": "2026-10-16",
+    "dateDisplay": "16 out 2026",
+    "publishedAt": "2026-10-16T13:13:15.637924Z",
+    "modifiedAt": "2026-10-16T13:13:15.637924Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/32ff1dd96665c71c01b989f7f8f18155ae24460d-1600x900.jpg",
+    "imageAlt": "Modelo conceitual de áreas verdes conectadas ao tecido urbano.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não representa fotografia documental de obra, exposição, equipamento ou resultado experimental específico.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "sourceName": "FAPESP / Urban Forestry & Urban Greening",
+    "authorName": "Editorial VAELITH",
+    "richBody": [
+      {
+        "_key": "b0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "marks": [],
+            "text": "EXPLICAÇÃO DE PESQUISA • Estudo publicado em 2026 e divulgado pela FAPESP em 10 de setembro. Esta análise não anuncia a construção de novos parques."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s1",
+            "_type": "span",
+            "marks": [],
+            "text": "Pesquisadores da USP, em parceria com a Secretaria Municipal do Verde e do Meio Ambiente de São Paulo, estudaram 211 propostas de parques. O trabalho foi publicado no periódico Urban Forestry & Urban Greening e reúne avaliação de serviços ecossistêmicos com otimização espacial."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s2",
+            "_type": "span",
+            "marks": [],
+            "text": "Os cenários consideram recreação, regulação térmica e infiltração de água, relacionando oferta, demanda e fluxo desses serviços. Do lado dos custos, incluem desapropriação, implantação e manutenção. A pergunta é quais combinações de áreas podem oferecer benefícios dentro dos recursos disponíveis."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s3",
+            "_type": "span",
+            "marks": [],
+            "text": "A divulgação institucional descreve simulações, não um ensaio em que 211 parques tenham sido construídos e monitorados. Também não apresenta um orçamento único aplicável a qualquer cidade brasileira."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s4",
+            "_type": "span",
+            "marks": [],
+            "text": "Por que a escolha do local muda a decisão"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s5",
+            "_type": "span",
+            "marks": [],
+            "text": "A leitura VAELITH é que uma área barata de adquirir pode não ser a melhor resposta à necessidade de uma população. Inversamente, um local de elevado benefício potencial pode exigir recursos de implantação e conservação que precisam aparecer na decisão desde o início."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s6",
+            "_type": "span",
+            "marks": [],
+            "text": "O valor do método está em tornar essas escolhas comparáveis e discutíveis. Uma apresentação pública útil mostraria quais objetivos receberam maior peso, quais dados têm maior incerteza e quem seria atendido por cada alternativa."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b7",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s7",
+            "_type": "span",
+            "marks": [],
+            "text": "Para transferir a abordagem a outro município, seria necessário levantar custos fundiários locais, condições ambientais, demanda da população e capacidade de manutenção. A escolha também precisa de participação social: otimização não resolve sozinha conflitos de acesso, uso e prioridades."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s8",
+            "_type": "span",
+            "marks": [],
+            "text": "Um acompanhamento posterior deveria comparar o desempenho observado com as hipóteses de projeto. Sem essa etapa, um resultado promissor de simulação continua sendo apoio ao planejamento, e não comprovação de que a cidade já obteve os benefícios estimados."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "src0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "ls0",
+            "_type": "span",
+            "marks": [
+              "l0"
+            ],
+            "text": "FAPESP — divulgação do estudo, 10/09/2026"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://ods.fapesp.br/ferramenta-ajuda-a-escolher-os-melhores-locais-para-novos-parques-em-sao-paulo/13996"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "src1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "ls1",
+            "_type": "span",
+            "marks": [
+              "l1"
+            ],
+            "text": "Artigo científico — Integrating ecosystem services and optimization analyses to prioritize green spaces implementation in a Global South megacity"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l1",
+            "_type": "link",
+            "href": "https://doi.org/10.1016/j.ufug.2026.129314"
+          }
+        ],
+        "style": "normal"
+      }
+    ],
+    "body": [
+      "EXPLICAÇÃO DE PESQUISA • Estudo publicado em 2026 e divulgado pela FAPESP em 10 de setembro. Esta análise não anuncia a construção de novos parques.",
+      "Pesquisadores da USP, em parceria com a Secretaria Municipal do Verde e do Meio Ambiente de São Paulo, estudaram 211 propostas de parques. O trabalho foi publicado no periódico Urban Forestry & Urban Greening e reúne avaliação de serviços ecossistêmicos com otimização espacial.",
+      "Os cenários consideram recreação, regulação térmica e infiltração de água, relacionando oferta, demanda e fluxo desses serviços. Do lado dos custos, incluem desapropriação, implantação e manutenção. A pergunta é quais combinações de áreas podem oferecer benefícios dentro dos recursos disponíveis.",
+      "A divulgação institucional descreve simulações, não um ensaio em que 211 parques tenham sido construídos e monitorados. Também não apresenta um orçamento único aplicável a qualquer cidade brasileira.",
+      "Por que a escolha do local muda a decisão",
+      "A leitura VAELITH é que uma área barata de adquirir pode não ser a melhor resposta à necessidade de uma população. Inversamente, um local de elevado benefício potencial pode exigir recursos de implantação e conservação que precisam aparecer na decisão desde o início.",
+      "O valor do método está em tornar essas escolhas comparáveis e discutíveis. Uma apresentação pública útil mostraria quais objetivos receberam maior peso, quais dados têm maior incerteza e quem seria atendido por cada alternativa.",
+      "Para transferir a abordagem a outro município, seria necessário levantar custos fundiários locais, condições ambientais, demanda da população e capacidade de manutenção. A escolha também precisa de participação social: otimização não resolve sozinha conflitos de acesso, uso e prioridades.",
+      "Um acompanhamento posterior deveria comparar o desempenho observado com as hipóteses de projeto. Sem essa etapa, um resultado promissor de simulação continua sendo apoio ao planejamento, e não comprovação de que a cidade já obteve os benefícios estimados.",
+      "FAPESP — divulgação do estudo, 10/09/2026",
+      "Artigo científico — Integrating ecosystem services and optimization analyses to prioritize green spaces implementation in a Global South megacity"
+    ]
+  },
+  {
+    "title": "Regeneração florestal pode conter espécies exóticas, mas exige acompanhamento",
+    "dek": "Estudo de 1.561 parcelas em dez países relaciona o amadurecimento da floresta à queda de espécies não nativas; resultado não dispensa diagnóstico local nem manejo.",
+    "region": "Brasil",
+    "technicalTakeaway": "Regeneração natural é uma estratégia a avaliar com diagnóstico e monitoramento. A queda média de espécies não nativas no conjunto estudado não comprova que todo terreno dispensará manejo.",
+    "keyFacts": [
+      {
+        "label": "Amostra",
+        "value": "1.561 parcelas"
+      },
+      {
+        "label": "Abrangência",
+        "value": "10 países"
+      },
+      {
+        "label": "Publicação científica",
+        "value": "24/07/2026"
+      }
+    ],
+    "sourceUrl": "https://agencia.fapesp.br/regeneracao-natural-de-florestas-ajuda-a-conter-o-avanco-de-especies-invasoras/59411",
+    "sourceLanguage": "pt",
+    "slug": "regeneracao-florestal-especies-exoticas-estudo-1561-parcelas-2026",
+    "category": "Sustentabilidade",
+    "categorySlug": "sustentabilidade",
+    "contentType": "research",
+    "date": "2026-10-17",
+    "dateDisplay": "17 out 2026",
+    "publishedAt": "2026-10-17T11:47:08.533Z",
+    "modifiedAt": "2026-10-17T11:47:08.533Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/6ca91eafad5ec8914758abe2de1ea5f1b98f9c71-1600x900.jpg",
+    "imageAlt": "Ilustração conceitual de regeneração, de vegetação jovem a dossel fechado.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia documental, representação de obra específica ou desenho técnico executivo.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "sourceName": "FAPESP / Nature Plants / Wageningen",
+    "authorName": "Editorial VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "EXPLICAÇÃO DE PESQUISA • Publicada em 17/10/2026 a partir de divulgação da FAPESP de 16/10. O artigo científico saiu on-line em 24/07/2026; esta publicação não apresenta o estudo como descoberta anunciada hoje.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Uma pesquisa publicada na Nature Plants analisou 1.561 parcelas e 58 sequências de áreas com diferentes idades de regeneração em dez países neotropicais. O trabalho classificou 3.735 espécies lenhosas por origem e potencial invasor. Nas florestas estudadas, espécies não nativas foram frequentes nas fases iniciais e perderam participação conforme a vegetação amadureceu.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": "Nos primeiros dez a vinte anos, essas espécies chegaram a representar 28% dos indivíduos e 22% das espécies em florestas úmidas; nas secas, os dois indicadores atingiram 9%. O fechamento da copa e o aumento do sombreamento são mecanismos sugeridos pelos autores. Espécies não nativas continuaram presentes em estágios avançados: redução não significa eliminação.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s3",
+            "text": "O registro dos autores informa uma correção publicada em agosto: foi acrescentada a indicação de porcentagem aos rótulos de eixos de duas figuras. A correção consultada trata da apresentação da unidade, não anuncia substituição das conclusões.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s4",
+            "text": "O que pode mudar em projetos brasileiros",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s5",
+            "text": "A divulgação da FAPESP destaca a regeneração natural como aliada da recuperação de áreas degradadas. A leitura VAELITH é que projetos de compensação ambiental e recuperação de margens precisam avaliar a trajetória da vegetação, além de contar mudas plantadas. A resposta útil depende de quais espécies estão presentes, do entorno e da capacidade de proteger a área ao longo dos anos.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s6",
+            "text": "Não é uma receita para abandonar o manejo. O estudo compara áreas de diferentes idades e condições; não equivale a acompanhar cada parcela desde seu início, nem demonstra que toda espécie invasora desaparecerá sem intervenção. O resumo e a divulgação consultados não fornecem custo por hectare ou orçamento transferível para uma obra brasileira.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s7",
+            "text": "Para aplicação, propomos um acompanhamento com inventário inicial, identificação das espécies problemáticas, registro de cobertura e sobrevivência e critérios explícitos para intervenção. Trata-se de orientação editorial para organizar a decisão, não de protocolo experimental validado por este estudo. Benefícios, despesas de manutenção e necessidade de controle devem ser verificados em cada projeto.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://agencia.fapesp.br/regeneracao-natural-de-florestas-ajuda-a-conter-o-avanco-de-especies-invasoras/59411"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ls0",
+            "text": "FAPESP — divulgação de 16/10/2026",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l1",
+            "href": "https://research.wur.nl/en/publications/non-native-and-invasive-tree-species-are-abundant-in-neotropical-/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ls1",
+            "text": "Wageningen — resumo e registro do artigo científico",
+            "marks": [
+              "l1"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l2",
+            "href": "https://research.wur.nl/en/publications/author-correction-non-native-and-invasive-tree-species-are-abunda/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ls2",
+            "text": "Correção dos autores — unidades das figuras",
+            "marks": [
+              "l2"
+            ]
+          }
+        ]
+      }
+    ],
+    "body": [
+      "EXPLICAÇÃO DE PESQUISA • Publicada em 17/10/2026 a partir de divulgação da FAPESP de 16/10. O artigo científico saiu on-line em 24/07/2026; esta publicação não apresenta o estudo como descoberta anunciada hoje.",
+      "Uma pesquisa publicada na Nature Plants analisou 1.561 parcelas e 58 sequências de áreas com diferentes idades de regeneração em dez países neotropicais. O trabalho classificou 3.735 espécies lenhosas por origem e potencial invasor. Nas florestas estudadas, espécies não nativas foram frequentes nas fases iniciais e perderam participação conforme a vegetação amadureceu.",
+      "Nos primeiros dez a vinte anos, essas espécies chegaram a representar 28% dos indivíduos e 22% das espécies em florestas úmidas; nas secas, os dois indicadores atingiram 9%. O fechamento da copa e o aumento do sombreamento são mecanismos sugeridos pelos autores. Espécies não nativas continuaram presentes em estágios avançados: redução não significa eliminação.",
+      "O registro dos autores informa uma correção publicada em agosto: foi acrescentada a indicação de porcentagem aos rótulos de eixos de duas figuras. A correção consultada trata da apresentação da unidade, não anuncia substituição das conclusões.",
+      "O que pode mudar em projetos brasileiros",
+      "A divulgação da FAPESP destaca a regeneração natural como aliada da recuperação de áreas degradadas. A leitura VAELITH é que projetos de compensação ambiental e recuperação de margens precisam avaliar a trajetória da vegetação, além de contar mudas plantadas. A resposta útil depende de quais espécies estão presentes, do entorno e da capacidade de proteger a área ao longo dos anos.",
+      "Não é uma receita para abandonar o manejo. O estudo compara áreas de diferentes idades e condições; não equivale a acompanhar cada parcela desde seu início, nem demonstra que toda espécie invasora desaparecerá sem intervenção. O resumo e a divulgação consultados não fornecem custo por hectare ou orçamento transferível para uma obra brasileira.",
+      "Para aplicação, propomos um acompanhamento com inventário inicial, identificação das espécies problemáticas, registro de cobertura e sobrevivência e critérios explícitos para intervenção. Trata-se de orientação editorial para organizar a decisão, não de protocolo experimental validado por este estudo. Benefícios, despesas de manutenção e necessidade de controle devem ser verificados em cada projeto."
+    ]
+  }
 ]
