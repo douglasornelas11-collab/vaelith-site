@@ -669,5 +669,242 @@
       "Não é uma receita para abandonar o manejo. O estudo compara áreas de diferentes idades e condições; não equivale a acompanhar cada parcela desde seu início, nem demonstra que toda espécie invasora desaparecerá sem intervenção. O resumo e a divulgação consultados não fornecem custo por hectare ou orçamento transferível para uma obra brasileira.",
       "Para aplicação, propomos um acompanhamento com inventário inicial, identificação das espécies problemáticas, registro de cobertura e sobrevivência e critérios explícitos para intervenção. Trata-se de orientação editorial para organizar a decisão, não de protocolo experimental validado por este estudo. Benefícios, despesas de manutenção e necessidade de controle devem ser verificados em cada projeto."
     ]
+  },
+  {
+    "title": "Teste de cinco minutos amplia validação para argilas usadas no cimento",
+    "slug": "teste-cinco-minutos-argilas-calcinadas-validacao-illinois-outubro-2026",
+    "dek": "Grupo da Universidade de Illinois anuncia estudo com mais de 140 amostras; método pode acelerar a seleção de materiais, mas não substitui a avaliação do concreto.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "research",
+    "region": "Internacional / aplicação no Brasil",
+    "technicalTakeaway": "O ensaio pode acelerar a triagem de argilas, desde que sua resposta seja validada com matérias-primas locais e não substitua a qualificação do concreto.",
+    "keyFacts": [
+      {
+        "_key": "k0",
+        "label": "Anúncio",
+        "value": "09/10/2026; edição prevista para dezembro"
+      },
+      {
+        "_key": "k1",
+        "label": "Validação anunciada",
+        "value": "Mais de 140 argilas"
+      },
+      {
+        "_key": "k2",
+        "label": "Método original",
+        "value": "47 amostras em 2025"
+      },
+      {
+        "_key": "k3",
+        "label": "Aplicação",
+        "value": "Triagem laboratorial; validação brasileira necessária"
+      }
+    ],
+    "sourceUrl": "https://garg.cee.illinois.edu/2026/10/09/validation-of-5-minute-ur2-on-a-dataset-of-140-calcined-clays-via-low-cost-colorimetry/",
+    "sourceLanguage": "en",
+    "sourceName": "Universidade de Illinois / Garg Group / estudo científico",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-10-18",
+    "dateDisplay": "18 out 2026",
+    "publishedAt": "2026-10-18T11:32:51.478698Z",
+    "modifiedAt": "2026-10-18T11:32:51.478698Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/0d6ec5ac129e6e49505c485d01e6ceeee5ed28d0-1600x900.jpg",
+    "imageAlt": "Ilustração conceitual de laboratório com amostras de argila e ensaio colorimétrico.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia documental, representação de obra específica ou desenho técnico executivo.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "intro",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sintro",
+            "text": "notícia de pesquisa com análise de aplicação • Publicação VAELITH: 18/10/2026.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb0",
+            "text": "O Garg Group, da Universidade de Illinois Urbana-Champaign, anunciou em 9 de outubro um estudo que amplia a validação do UR², ensaio de cinco minutos destinado a avaliar a reatividade de argilas calcinadas. O trabalho reúne mais de 140 amostras e emprega colorimetria de baixo custo. A equipe informa que o artigo integra a edição de dezembro de 2026 da Cement and Concrete Research. A novidade é a ampliação da base experimental de um método já apresentado em 2025, não o lançamento de um cimento pronto para qualquer obra.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb1",
+            "text": "No estudo original, publicado em 2025, os pesquisadores analisaram 47 amostras. A proposta é dissolver componentes da argila em condições controladas e relacionar os resultados à sua capacidade de reagir em sistemas cimentícios. A medição de cor oferece uma alternativa à instrumentação mais sofisticada para estimar concentrações químicas. Os cinco minutos caracterizam a etapa rápida do ensaio; não significam que coleta, preparação, calibração e liberação de um lote industrial desapareçam.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb2",
+            "text": "Essa distinção importa porque reatividade é uma propriedade intermediária. Uma argila promissora no laboratório ainda precisa funcionar na composição efetivamente usada pela fábrica e pela central de concreto. Resistência, comportamento no estado fresco e durabilidade continuam sendo perguntas próprias. No artigo de 2025, os autores reconhecem menor precisão em argilas de baixa pureza e apontam limitações associadas à composição mineralógica. A expansão anunciada em outubro aumenta o conjunto examinado, mas não autoriza presumir desempenho universal.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb3",
+            "text": "O interesse ambiental está na possibilidade de substituir parte do clínquer. O projeto LC³, ligado à pesquisa da EPFL e a parceiros internacionais, trabalha com combinações de argila calcinada e calcário. Seu guia de 2026 informa que determinadas formulações podem reduzir em até 40% a pegada de carbono por quilograma de ligante. Esse potencial pertence à rota e às condições de produção avaliadas; não é uma redução de emissões demonstrada pelo ensaio UR², nem um desconto automático na pegada de toda estrutura.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb4",
+            "text": "Para a cadeia brasileira, a aplicação a investigar é uma triagem mais ágil das matérias-primas disponíveis perto das unidades produtoras. Como análise de implantação, faria sentido começar com amostras locais e comparar o teste rápido com ensaios de referência já empregados pelo laboratório. O objetivo seria verificar se ele identifica mudanças relevantes entre lotes antes de comprometer uma produção maior. A decisão de aceitar material continuaria vinculada aos requisitos do produto e da obra.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb5",
+            "text": "O custo também precisa ser medido no processo completo. Uma câmera acessível não elimina reagentes, treinamento, segurança química, manutenção da bancada e controle de iluminação. Da mesma forma, argila próxima não garante menor custo final se exigir tratamento energético ou transporte adicional. As fontes consultadas não estabelecem preço de implantação do UR² no Brasil ou prazo de retorno para uma fábrica brasileira. A oportunidade concreta é encurtar ciclos de investigação e controle, com validação local e rastreabilidade, antes de prometer economia ou maior vida útil da infraestrutura.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "sources",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssources",
+            "text": "Fontes consultadas",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://garg.cee.illinois.edu/2026/10/09/validation-of-5-minute-ur2-on-a-dataset-of-140-calcined-clays-via-low-cost-colorimetry/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc0",
+            "text": "Garg Group — anúncio da ampliação da validação do UR², 9 de outubro de 2026",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l1",
+            "href": "https://www.osti.gov/servlets/purl/2526253"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc1",
+            "text": "Min e colaboradores — UR²: Ultra-rapid reactivity test for real-time, low-cost quality control of calcined clays, 2025",
+            "marks": [
+              "l1"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l2",
+            "href": "https://lc3.ch/wp-content/uploads/2026/05/LC3-brochure_supported-by-UNIDO.pdf"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc2",
+            "text": "LC³ — A Guide to Best Practices for Scalable, Affordable, and Sustainable Low-Carbon Building, 2026",
+            "marks": [
+              "l2"
+            ]
+          }
+        ]
+      }
+    ],
+    "body": [
+      "notícia de pesquisa com análise de aplicação • Publicação VAELITH: 18/10/2026.",
+      "O Garg Group, da Universidade de Illinois Urbana-Champaign, anunciou em 9 de outubro um estudo que amplia a validação do UR², ensaio de cinco minutos destinado a avaliar a reatividade de argilas calcinadas. O trabalho reúne mais de 140 amostras e emprega colorimetria de baixo custo. A equipe informa que o artigo integra a edição de dezembro de 2026 da Cement and Concrete Research. A novidade é a ampliação da base experimental de um método já apresentado em 2025, não o lançamento de um cimento pronto para qualquer obra.",
+      "No estudo original, publicado em 2025, os pesquisadores analisaram 47 amostras. A proposta é dissolver componentes da argila em condições controladas e relacionar os resultados à sua capacidade de reagir em sistemas cimentícios. A medição de cor oferece uma alternativa à instrumentação mais sofisticada para estimar concentrações químicas. Os cinco minutos caracterizam a etapa rápida do ensaio; não significam que coleta, preparação, calibração e liberação de um lote industrial desapareçam.",
+      "Essa distinção importa porque reatividade é uma propriedade intermediária. Uma argila promissora no laboratório ainda precisa funcionar na composição efetivamente usada pela fábrica e pela central de concreto. Resistência, comportamento no estado fresco e durabilidade continuam sendo perguntas próprias. No artigo de 2025, os autores reconhecem menor precisão em argilas de baixa pureza e apontam limitações associadas à composição mineralógica. A expansão anunciada em outubro aumenta o conjunto examinado, mas não autoriza presumir desempenho universal.",
+      "O interesse ambiental está na possibilidade de substituir parte do clínquer. O projeto LC³, ligado à pesquisa da EPFL e a parceiros internacionais, trabalha com combinações de argila calcinada e calcário. Seu guia de 2026 informa que determinadas formulações podem reduzir em até 40% a pegada de carbono por quilograma de ligante. Esse potencial pertence à rota e às condições de produção avaliadas; não é uma redução de emissões demonstrada pelo ensaio UR², nem um desconto automático na pegada de toda estrutura.",
+      "Para a cadeia brasileira, a aplicação a investigar é uma triagem mais ágil das matérias-primas disponíveis perto das unidades produtoras. Como análise de implantação, faria sentido começar com amostras locais e comparar o teste rápido com ensaios de referência já empregados pelo laboratório. O objetivo seria verificar se ele identifica mudanças relevantes entre lotes antes de comprometer uma produção maior. A decisão de aceitar material continuaria vinculada aos requisitos do produto e da obra.",
+      "O custo também precisa ser medido no processo completo. Uma câmera acessível não elimina reagentes, treinamento, segurança química, manutenção da bancada e controle de iluminação. Da mesma forma, argila próxima não garante menor custo final se exigir tratamento energético ou transporte adicional. As fontes consultadas não estabelecem preço de implantação do UR² no Brasil ou prazo de retorno para uma fábrica brasileira. A oportunidade concreta é encurtar ciclos de investigação e controle, com validação local e rastreabilidade, antes de prometer economia ou maior vida útil da infraestrutura.",
+      "Fontes consultadas",
+      "Garg Group — anúncio da ampliação da validação do UR², 9 de outubro de 2026",
+      "Min e colaboradores — UR²: Ultra-rapid reactivity test for real-time, low-cost quality control of calcined clays, 2025",
+      "LC³ — A Guide to Best Practices for Scalable, Affordable, and Sustainable Low-Carbon Building, 2026"
+    ]
   }
 ]
