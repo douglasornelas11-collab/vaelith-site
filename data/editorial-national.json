@@ -906,5 +906,252 @@
       "Min e colaboradores — UR²: Ultra-rapid reactivity test for real-time, low-cost quality control of calcined clays, 2025",
       "LC³ — A Guide to Best Practices for Scalable, Affordable, and Sustainable Low-Carbon Building, 2026"
     ]
+  },
+  {
+    "title": "Enzima da cana amplia liberação de açúcares do bagaço em teste da USP",
+    "slug": "usp-enzima-cana-bagaco-acucares-etanol-laboratorio-2026",
+    "dek": "Resultado de laboratório reforça uma rota de pesquisa para o etanol de segunda geração; rendimento industrial e custo por litro ainda precisam ser demonstrados.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Resultado de laboratório reforça uma rota de pesquisa para o etanol de segunda geração; rendimento industrial e custo por litro ainda precisam ser demonstrados.",
+    "keyFacts": [
+      {
+        "_key": "k0",
+        "label": "Natureza",
+        "value": "Pesquisa brasileira com contextualização de engenharia"
+      },
+      {
+        "_key": "k1",
+        "label": "Base da análise",
+        "value": "2026-04-19"
+      },
+      {
+        "_key": "k2",
+        "label": "Aplicação",
+        "value": "Resultado de laboratório reforça uma rota de pesquisa para o etanol de segunda geração; rendimento industrial e custo por litro ainda precisam ser demonstrados."
+      }
+    ],
+    "sourceUrl": "https://academic.oup.com/jxb/advance-article-abstract/doi/10.1093/jxb/erag174/8658895",
+    "sourceLanguage": "pt",
+    "sourceName": "Universidade de São Paulo / estudo científico",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-10-19",
+    "dateDisplay": "19 out 2026",
+    "publishedAt": "2026-10-19T11:59:49.026625Z",
+    "modifiedAt": "2026-10-19T11:59:49.026625Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/4c86193f4154997a07688aa06b92e91c7820d8f4-1600x900.jpg",
+    "imageAlt": "Ilustração conceitual de laboratório e bagaço de cana; não representa o experimento da USP.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia documental, representação de obra específica ou desenho técnico executivo.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "intro",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sintro",
+            "text": "Análise • Publicação VAELITH: 19/10/2026.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb0",
+            "text": "Uma enzima identificada na própria cana-de-açúcar melhorou a liberação de açúcares do bagaço quando combinada a um coquetel comercial em laboratório. O estudo da Universidade de São Paulo foi publicado em 19 de abril de 2026 no Journal of Experimental Botany e ganhou divulgação da Agência FAPESP em 7 de outubro. O achado interessa à infraestrutura de bioenergia porque atua em uma etapa anterior à fermentação do etanol de segunda geração.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb1",
+            "text": "A investigação partiu dos aerênquimas, espaços de circulação de ar que se formam nas raízes. Os pesquisadores compararam quatro segmentos radiculares, correspondentes a diferentes estágios desse desenvolvimento, para identificar genes envolvidos na modificação da parede celular. Entre os candidatos, selecionaram o ScASD1, associado à enzima alfa-L-arabinofuranosidase, e produziram a proteína com a levedura Pichia pastoris para os ensaios.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb2",
+            "text": "Segundo o relato da FAPESP, a adição da enzima elevou em até seis vezes a liberação de açúcar nas condições testadas. Esse multiplicador se refere à etapa de sacarificação investigada. Não significa que uma usina produziria seis vezes mais combustível, nem estabelece quanto custaria produzir e empregar a enzima em operação contínua.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb3",
+            "text": "A distinção muda a leitura de investimento. Antes de transformar a descoberta em especificação industrial, seria necessário conhecer a dose empregada, a quantidade de biomassa processada, o tempo de reação e o desempenho da combinação enzimática em condições representativas. O ganho também precisa sobreviver às etapas seguintes. Açúcar liberado é um indicador intermediário; litros de etanol, consumo de utilidades e custo de operação pertencem a outra escala de avaliação.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb4",
+            "text": "O Brasil dispõe de infraestrutura para estudar essa passagem. A instalação de Desenvolvimento e Escalonamento de Bioprocessos do Laboratório Nacional de Biorrenováveis, no CNPEM, reúne equipamentos de bancada e piloto, incluindo reatores de 300 litros para hidrólise com elevada proporção de sólidos. A estrutura permite integrar pré-tratamento, bioconversão, separações e avaliações técnico-econômicas. Essa capacidade é uma referência nacional de escalonamento, sem constituir evidência de que o estudo da USP já tenha percorrido esse caminho.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb5",
+            "text": "Para o projeto de uma biorrefinaria, a pergunta útil é quais restrições a nova formulação poderia aliviar e quais continuariam presentes. Uma avaliação deveria incorporar produção e armazenamento da enzima, estabilidade durante o processo, necessidades de mistura, limpeza dos equipamentos e regularidade da matéria-prima. São critérios de desenvolvimento propostos aqui, não problemas já quantificados pelos pesquisadores nessa divulgação.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb6",
+            "text": "O resultado mais concreto, portanto, é a identificação e a validação laboratorial de uma candidata vegetal para complementar a hidrólise. Ele amplia as opções científicas brasileiras em uma etapa relevante do etanol 2G. A decisão de engenharia dependerá de demonstrar desempenho integrado, repetibilidade e custo, preservando a diferença entre uma resposta promissora em laboratório e uma solução industrial qualificada.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "sources",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssources",
+            "text": "Fontes consultadas",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://academic.oup.com/jxb/advance-article-abstract/doi/10.1093/jxb/erag174/8658895"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc0",
+            "text": "Journal of Experimental Botany — Aerenchyma in sugarcane roots: a toolbox for tailoring biomass for bioenergy",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l1",
+            "href": "https://agencia.fapesp.br/enzima-encontrada-na-raiz-da-cana-aumenta-em-seis-vezes-a-producao-de-acucar-a-partir-do-bagaco/59348"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc1",
+            "text": "Agência FAPESP — divulgação da pesquisa sobre enzima da cana",
+            "marks": [
+              "l1"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l2",
+            "href": "https://lnbr.cnpem.br/instalacoes-abertas/desenvolvimento-escalonamento-bioprocessos/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc2",
+            "text": "LNBR/CNPEM — Desenvolvimento e Escalonamento de Bioprocessos",
+            "marks": [
+              "l2"
+            ]
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Análise • Publicação VAELITH: 19/10/2026.",
+      "Uma enzima identificada na própria cana-de-açúcar melhorou a liberação de açúcares do bagaço quando combinada a um coquetel comercial em laboratório. O estudo da Universidade de São Paulo foi publicado em 19 de abril de 2026 no Journal of Experimental Botany e ganhou divulgação da Agência FAPESP em 7 de outubro. O achado interessa à infraestrutura de bioenergia porque atua em uma etapa anterior à fermentação do etanol de segunda geração.",
+      "A investigação partiu dos aerênquimas, espaços de circulação de ar que se formam nas raízes. Os pesquisadores compararam quatro segmentos radiculares, correspondentes a diferentes estágios desse desenvolvimento, para identificar genes envolvidos na modificação da parede celular. Entre os candidatos, selecionaram o ScASD1, associado à enzima alfa-L-arabinofuranosidase, e produziram a proteína com a levedura Pichia pastoris para os ensaios.",
+      "Segundo o relato da FAPESP, a adição da enzima elevou em até seis vezes a liberação de açúcar nas condições testadas. Esse multiplicador se refere à etapa de sacarificação investigada. Não significa que uma usina produziria seis vezes mais combustível, nem estabelece quanto custaria produzir e empregar a enzima em operação contínua.",
+      "A distinção muda a leitura de investimento. Antes de transformar a descoberta em especificação industrial, seria necessário conhecer a dose empregada, a quantidade de biomassa processada, o tempo de reação e o desempenho da combinação enzimática em condições representativas. O ganho também precisa sobreviver às etapas seguintes. Açúcar liberado é um indicador intermediário; litros de etanol, consumo de utilidades e custo de operação pertencem a outra escala de avaliação.",
+      "O Brasil dispõe de infraestrutura para estudar essa passagem. A instalação de Desenvolvimento e Escalonamento de Bioprocessos do Laboratório Nacional de Biorrenováveis, no CNPEM, reúne equipamentos de bancada e piloto, incluindo reatores de 300 litros para hidrólise com elevada proporção de sólidos. A estrutura permite integrar pré-tratamento, bioconversão, separações e avaliações técnico-econômicas. Essa capacidade é uma referência nacional de escalonamento, sem constituir evidência de que o estudo da USP já tenha percorrido esse caminho.",
+      "Para o projeto de uma biorrefinaria, a pergunta útil é quais restrições a nova formulação poderia aliviar e quais continuariam presentes. Uma avaliação deveria incorporar produção e armazenamento da enzima, estabilidade durante o processo, necessidades de mistura, limpeza dos equipamentos e regularidade da matéria-prima. São critérios de desenvolvimento propostos aqui, não problemas já quantificados pelos pesquisadores nessa divulgação.",
+      "O resultado mais concreto, portanto, é a identificação e a validação laboratorial de uma candidata vegetal para complementar a hidrólise. Ele amplia as opções científicas brasileiras em uma etapa relevante do etanol 2G. A decisão de engenharia dependerá de demonstrar desempenho integrado, repetibilidade e custo, preservando a diferença entre uma resposta promissora em laboratório e uma solução industrial qualificada.",
+      "Fontes consultadas",
+      "Journal of Experimental Botany — Aerenchyma in sugarcane roots: a toolbox for tailoring biomass for bioenergy",
+      "Agência FAPESP — divulgação da pesquisa sobre enzima da cana",
+      "LNBR/CNPEM — Desenvolvimento e Escalonamento de Bioprocessos"
+    ]
   }
 ]
