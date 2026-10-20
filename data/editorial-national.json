@@ -1153,5 +1153,214 @@
       "Agência FAPESP — divulgação da pesquisa sobre enzima da cana",
       "LNBR/CNPEM — Desenvolvimento e Escalonamento de Bioprocessos"
     ]
+  },
+  {
+    "title": "Estudo com 2.289 municípios identifica lacunas nos alertas de desastres",
+    "slug": "cope-2289-municipios-alertas-desastres-planos-contingencia-2026",
+    "dek": "Levantamento de 2025 aponta falta de planos e equipes pequenas; amostra não probabilística exige cuidado com generalizações.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Levantamento de 2025 aponta falta de planos e equipes pequenas; amostra não probabilística exige cuidado com generalizações.",
+    "keyFacts": [
+      {
+        "_key": "k0",
+        "label": "Municípios respondentes",
+        "value": "2.289"
+      },
+      {
+        "_key": "k1",
+        "label": "Sem plano entre participantes",
+        "value": "30,1%"
+      },
+      {
+        "_key": "k2",
+        "label": "Coleta",
+        "value": "Março a julho de 2025"
+      }
+    ],
+    "sourceUrl": "https://link.springer.com/article/10.1007/s13753-026-00765-3",
+    "sourceLanguage": "pt",
+    "sourceName": "Projeto COPE / Cemaden / artigo científico",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-10-20",
+    "dateDisplay": "20 out 2026",
+    "publishedAt": "2026-10-20T11:37:00.240427Z",
+    "modifiedAt": "2026-10-20T11:37:00.240427Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/feaa59e67fe845fd0299b4d17a3bf9d91083363d-1672x941.png",
+    "imageAlt": "Ilustração conceitual de prevenção municipal de desastres; não representa resultado visual do estudo COPE.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia documental, representação de obra específica ou desenho técnico executivo.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb0",
+            "text": "Pesquisa • Publicação VAELITH: 20/10/2026. Artigo científico publicado em 4 de setembro e divulgado pela Agência FAPESP em 20 de outubro.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb1",
+            "text": "Um levantamento do projeto COPE, liderado pelo Cemaden, reuniu respostas de 2.289 municípios brasileiros sobre preparação para eventos extremos. Entre os participantes, 30,1% relataram não ter plano de contingência e apenas 7,9% informaram possuir planejamento para ondas de calor. Os resultados tratam das respostas coletadas em 2025, não de uma auditoria atual de todas as cidades.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb2",
+            "text": "O questionário foi aplicado entre 25 de março e 1º de julho de 2025 e alcançou 41,1% dos 5.570 municípios considerados na pesquisa. A seleção não foi probabilística: os próprios autores reconhecem possíveis vieses de participação e acesso digital. Por isso, os percentuais não devem ser transferidos automaticamente para o país inteiro.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb3",
+            "text": "A metodologia avalia sete dimensões, incluindo equipes, orçamento, mapeamento, monitoramento, comunicação, participação social e governança. O estudo observa limitações combinadas, em vez de reduzir a capacidade de prevenção à existência de um equipamento ou aplicativo.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb4",
+            "text": "Na divulgação de hoje, a FAPESP destaca que 22% das unidades municipais participantes funcionam com um único agente. Também registra baixa participação frequente dos moradores nas atividades de defesa civil. O quadro ajuda a explicar por que emitir uma mensagem e conseguir uma resposta organizada da população são etapas diferentes.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb5",
+            "text": "Na leitura da VAELITH, projetos de drenagem, contenção e urbanização ganham quando as equipes de obras conhecem esses limites operacionais. A pergunta prática é se os responsáveis por monitorar uma área, comunicar o risco e orientar os moradores conseguem trabalhar com os mesmos dados e responsabilidades.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb6",
+            "text": "A pesquisa oferece um diagnóstico de capacidades, não uma estimativa de quantas mortes ou perdas seriam evitadas por uma intervenção. Transformar o levantamento em prioridade de investimento exige análise local, participação das comunidades e acompanhamento do funcionamento dos sistemas.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "sources",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssources",
+            "text": "Fontes consultadas",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://link.springer.com/article/10.1007/s13753-026-00765-3"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc0",
+            "text": "Implementation Capacity of Local Early Warning Systems — artigo científico (04/09/2026)",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l1",
+            "href": "https://agencia.fapesp.br/tres-em-cada-dez-municipios-brasileiros-nao-tem-plano-de-contingencia-contra-desastres-climaticos/59420"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc1",
+            "text": "Agência FAPESP — divulgação do estudo COPE (20/10/2026)",
+            "marks": [
+              "l1"
+            ]
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Pesquisa • Publicação VAELITH: 20/10/2026. Artigo científico publicado em 4 de setembro e divulgado pela Agência FAPESP em 20 de outubro.",
+      "Um levantamento do projeto COPE, liderado pelo Cemaden, reuniu respostas de 2.289 municípios brasileiros sobre preparação para eventos extremos. Entre os participantes, 30,1% relataram não ter plano de contingência e apenas 7,9% informaram possuir planejamento para ondas de calor. Os resultados tratam das respostas coletadas em 2025, não de uma auditoria atual de todas as cidades.",
+      "O questionário foi aplicado entre 25 de março e 1º de julho de 2025 e alcançou 41,1% dos 5.570 municípios considerados na pesquisa. A seleção não foi probabilística: os próprios autores reconhecem possíveis vieses de participação e acesso digital. Por isso, os percentuais não devem ser transferidos automaticamente para o país inteiro.",
+      "A metodologia avalia sete dimensões, incluindo equipes, orçamento, mapeamento, monitoramento, comunicação, participação social e governança. O estudo observa limitações combinadas, em vez de reduzir a capacidade de prevenção à existência de um equipamento ou aplicativo.",
+      "Na divulgação de hoje, a FAPESP destaca que 22% das unidades municipais participantes funcionam com um único agente. Também registra baixa participação frequente dos moradores nas atividades de defesa civil. O quadro ajuda a explicar por que emitir uma mensagem e conseguir uma resposta organizada da população são etapas diferentes.",
+      "Na leitura da VAELITH, projetos de drenagem, contenção e urbanização ganham quando as equipes de obras conhecem esses limites operacionais. A pergunta prática é se os responsáveis por monitorar uma área, comunicar o risco e orientar os moradores conseguem trabalhar com os mesmos dados e responsabilidades.",
+      "A pesquisa oferece um diagnóstico de capacidades, não uma estimativa de quantas mortes ou perdas seriam evitadas por uma intervenção. Transformar o levantamento em prioridade de investimento exige análise local, participação das comunidades e acompanhamento do funcionamento dos sistemas.",
+      "Fontes consultadas",
+      "Implementation Capacity of Local Early Warning Systems — artigo científico (04/09/2026)",
+      "Agência FAPESP — divulgação do estudo COPE (20/10/2026)"
+    ]
   }
 ]
