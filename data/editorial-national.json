@@ -1362,5 +1362,160 @@
       "Implementation Capacity of Local Early Warning Systems — artigo científico (04/09/2026)",
       "Agência FAPESP — divulgação do estudo COPE (20/10/2026)"
     ]
+  },
+  {
+    "title": "Punção em lajes: pesquisa da UFPA explica por que a ancoragem dos pinos importa",
+    "slug": "explicacao-ufpa-puncao-lajes-ancoragem-studs-2026",
+    "dek": "Método experimental investiga a transferência de esforços; economia de materiais em ensaios não equivale à mesma redução no consumo de uma edificação.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Método experimental investiga a transferência de esforços; economia de materiais em ensaios não equivale à mesma redução no consumo de uma edificação.",
+    "keyFacts": [],
+    "sourceUrl": "https://ufpa.br/pesquisa-desenvolve-metodo-para-avaliar-resistencia-de-lajes-de-concreto-a-puncao/",
+    "sourceLanguage": "pt",
+    "sourceName": "UFPA / artigo científico",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-10-21",
+    "dateDisplay": "21 out 2026",
+    "publishedAt": "2026-10-21T11:52:25.947795Z",
+    "modifiedAt": "2026-10-21T11:52:25.947795Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/7c62d188a0a9232d6a5314d9fb33e34c3218f850-1672x941.png",
+    "imageAlt": "Ilustração conceitual de ligação laje-pilar; não é desenho técnico executivo nem registro do ensaio.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia documental, representação de obra específica ou desenho técnico executivo.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb0",
+            "text": "Explicação • Publicação VAELITH: 21/10/2026. A ligação entre laje e pilar pode romper por punção, de maneira abrupta. Uma pesquisa da Universidade Federal do Pará, divulgada em 7 de outubro, ajuda a explicar por que colocar armadura nessa região não basta: sua contribuição depende também da ancoragem no concreto.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb1",
+            "text": "A tese de Aaron Kadima Lukanu Lwa Nzambi, orientada por Dênio Ramam Carvalho de Oliveira, investigou pinos de aço com cabeças nas duas extremidades, conhecidos como studs. Fissuras de flexão podem alterar sua ancoragem e limitar a transferência de esforços.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb2",
+            "text": "O trabalho propôs o método CAC, sigla inglesa para capacidade de ancoragem do concreto, combinando a parcela resistente do concreto com a resistência ao arrancamento dos pinos. A UFPA relata maior precisão e menor dispersão frente aos métodos comparados, mas o comunicado não apresenta os indicadores numéricos dessa comparação.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb3",
+            "text": "Também foi desenvolvido um corpo de prova representando uma faixa da laje. Segundo o pesquisador, determinados ensaios consumiram aproximadamente 90% menos materiais. O número se refere ao procedimento de laboratório: não significa uma redução de 90% no aço ou no concreto de edifícios.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb4",
+            "text": "Na leitura da VAELITH, a contribuição prática começa pela qualidade da pergunta de projeto: o mecanismo que transmite os esforços está sendo representado adequadamente? Um resultado experimental promissor deve ser examinado junto de suas condições de ensaio e limites de aplicação antes de orientar uma estrutura real.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb5",
+            "text": "A divulgação consultada não demonstra economia por metro quadrado construído nem substitui a avaliação de um responsável técnico. O avanço está em tornar o comportamento físico mais explícito e produzir uma ferramenta para investigá-lo, não em oferecer uma receita universal de dimensionamento.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "sources",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssources",
+            "text": "Fontes consultadas",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://ufpa.br/pesquisa-desenvolve-metodo-para-avaliar-resistencia-de-lajes-de-concreto-a-puncao/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc0",
+            "text": "UFPA: pesquisa sobre desempenho de studs e resistência à punção, 07/10/2026",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Explicação • Publicação VAELITH: 21/10/2026. A ligação entre laje e pilar pode romper por punção, de maneira abrupta. Uma pesquisa da Universidade Federal do Pará, divulgada em 7 de outubro, ajuda a explicar por que colocar armadura nessa região não basta: sua contribuição depende também da ancoragem no concreto.",
+      "A tese de Aaron Kadima Lukanu Lwa Nzambi, orientada por Dênio Ramam Carvalho de Oliveira, investigou pinos de aço com cabeças nas duas extremidades, conhecidos como studs. Fissuras de flexão podem alterar sua ancoragem e limitar a transferência de esforços.",
+      "O trabalho propôs o método CAC, sigla inglesa para capacidade de ancoragem do concreto, combinando a parcela resistente do concreto com a resistência ao arrancamento dos pinos. A UFPA relata maior precisão e menor dispersão frente aos métodos comparados, mas o comunicado não apresenta os indicadores numéricos dessa comparação.",
+      "Também foi desenvolvido um corpo de prova representando uma faixa da laje. Segundo o pesquisador, determinados ensaios consumiram aproximadamente 90% menos materiais. O número se refere ao procedimento de laboratório: não significa uma redução de 90% no aço ou no concreto de edifícios.",
+      "Na leitura da VAELITH, a contribuição prática começa pela qualidade da pergunta de projeto: o mecanismo que transmite os esforços está sendo representado adequadamente? Um resultado experimental promissor deve ser examinado junto de suas condições de ensaio e limites de aplicação antes de orientar uma estrutura real.",
+      "A divulgação consultada não demonstra economia por metro quadrado construído nem substitui a avaliação de um responsável técnico. O avanço está em tornar o comportamento físico mais explícito e produzir uma ferramenta para investigá-lo, não em oferecer uma receita universal de dimensionamento.",
+      "Fontes consultadas",
+      "UFPA: pesquisa sobre desempenho de studs e resistência à punção, 07/10/2026"
+    ]
   }
 ]
