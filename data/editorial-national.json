@@ -1517,5 +1517,183 @@
       "Fontes consultadas",
       "UFPA: pesquisa sobre desempenho de studs e resistência à punção, 07/10/2026"
     ]
+  },
+  {
+    "title": "Distribuição da chuva no tempo muda o pico de vazão em simulação brasileira",
+    "slug": "explicacao-curvas-huff-brasil-chuvas-pico-vazao-preprint-2026",
+    "dek": "Pré-publicação analisa registros nacionais e testa sensibilidade de projetos; resultado não é uma margem universal para ampliar galerias.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Pré-publicação analisa registros nacionais e testa sensibilidade de projetos; resultado não é uma margem universal para ampliar galerias.",
+    "keyFacts": [],
+    "sourceUrl": "https://arxiv.org/html/2609.25315v1",
+    "sourceLanguage": "pt",
+    "sourceName": "arXiv / pré-publicação",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-10-22",
+    "dateDisplay": "22 out 2026",
+    "publishedAt": "2026-10-22T11:43:50.319603Z",
+    "modifiedAt": "2026-10-22T11:43:50.319603Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/b3be5676c9d5f535931c94c8bf2e61210848e5e1-1672x941.png",
+    "imageAlt": "Ilustração conceitual original; não representa fotografia de obra específica nem desenho técnico executivo.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia documental, representação de obra específica ou desenho técnico executivo.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb0",
+            "text": "Explicação • Publicação VAELITH: 22/10/2026. Um manuscrito disponibilizado no arXiv em 21 de setembro investiga o efeito da distribuição temporal da chuva no dimensionamento hidráulico. Trata-se de uma pré-publicação, sem confirmação de revisão por pares na versão consultada, e não de uma descoberta anunciada hoje.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb1",
+            "text": "Marcus Nobrega Gomes Junior, André Simões Ballarin e Paulo Tarso Sanches de Oliveira analisaram 290.164 eventos de 1.045 estações, com registros de 2010 a 2025. O trabalho inclui participação da USP e propõe curvas brasileiras para representar como o volume de chuva se distribui durante cada evento.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb2",
+            "text": "Em simulações de 579 pequenas bacias de cabeceira, trocar a referência de Illinois pelas curvas brasileiras elevou a vazão de pico em mediana de 8%. O experimento excluiu Amazônia e Pantanal e não calibrou os picos absolutos com hidrogramas observados. Seu resultado é uma comparação de cenários, não uma validação de obras.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb3",
+            "text": "Na interpretação da VAELITH, a pergunta útil para um projeto é quanto a decisão muda quando a hipótese de distribuição temporal é alterada. Concentrar a revisão apenas no total precipitado pode esconder uma premissa importante do cálculo. O responsável técnico precisa explicar quais hipóteses foram adotadas e como elas influenciam a alternativa escolhida.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb4",
+            "text": "Isso não autoriza aumentar uma tubulação em 8%, nem implica igual acréscimo no orçamento. Vazão calculada, geometria da rede, armazenamento e condições de descarga são questões diferentes. A comparação deve permanecer no nível em que foi produzida até que uma análise específica conecte os cenários ao sistema que se pretende projetar ou verificar.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb5",
+            "text": "Para a gestão de ativos, o ganho possível está em tornar explícita a incerteza antes de decidir uma intervenção. O estudo não calcula custos de construção ou manutenção. Sua leitura pode orientar novas verificações, mas não substitui levantamento local, diagnóstico do funcionamento da rede ou demonstração da efetividade de uma solução.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "sources",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssources",
+            "text": "Fontes consultadas",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://arxiv.org/html/2609.25315v1"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc0",
+            "text": "Gomes Junior, Ballarin e Oliveira: manuscrito sobre curvas de Huff brasileiras, versão 1 de 21/09/2026",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l1",
+            "href": "https://arxiv.org/abs/2609.25315"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc1",
+            "text": "arXiv: registro da pré-publicação e data de submissão",
+            "marks": [
+              "l1"
+            ]
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Explicação • Publicação VAELITH: 22/10/2026. Um manuscrito disponibilizado no arXiv em 21 de setembro investiga o efeito da distribuição temporal da chuva no dimensionamento hidráulico. Trata-se de uma pré-publicação, sem confirmação de revisão por pares na versão consultada, e não de uma descoberta anunciada hoje.",
+      "Marcus Nobrega Gomes Junior, André Simões Ballarin e Paulo Tarso Sanches de Oliveira analisaram 290.164 eventos de 1.045 estações, com registros de 2010 a 2025. O trabalho inclui participação da USP e propõe curvas brasileiras para representar como o volume de chuva se distribui durante cada evento.",
+      "Em simulações de 579 pequenas bacias de cabeceira, trocar a referência de Illinois pelas curvas brasileiras elevou a vazão de pico em mediana de 8%. O experimento excluiu Amazônia e Pantanal e não calibrou os picos absolutos com hidrogramas observados. Seu resultado é uma comparação de cenários, não uma validação de obras.",
+      "Na interpretação da VAELITH, a pergunta útil para um projeto é quanto a decisão muda quando a hipótese de distribuição temporal é alterada. Concentrar a revisão apenas no total precipitado pode esconder uma premissa importante do cálculo. O responsável técnico precisa explicar quais hipóteses foram adotadas e como elas influenciam a alternativa escolhida.",
+      "Isso não autoriza aumentar uma tubulação em 8%, nem implica igual acréscimo no orçamento. Vazão calculada, geometria da rede, armazenamento e condições de descarga são questões diferentes. A comparação deve permanecer no nível em que foi produzida até que uma análise específica conecte os cenários ao sistema que se pretende projetar ou verificar.",
+      "Para a gestão de ativos, o ganho possível está em tornar explícita a incerteza antes de decidir uma intervenção. O estudo não calcula custos de construção ou manutenção. Sua leitura pode orientar novas verificações, mas não substitui levantamento local, diagnóstico do funcionamento da rede ou demonstração da efetividade de uma solução.",
+      "Fontes consultadas",
+      "Gomes Junior, Ballarin e Oliveira: manuscrito sobre curvas de Huff brasileiras, versão 1 de 21/09/2026",
+      "arXiv: registro da pré-publicação e data de submissão"
+    ]
   }
 ]
