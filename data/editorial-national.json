@@ -1695,5 +1695,191 @@
       "Gomes Junior, Ballarin e Oliveira: manuscrito sobre curvas de Huff brasileiras, versão 1 de 21/09/2026",
       "arXiv: registro da pré-publicação e data de submissão"
     ]
+  },
+  {
+    "title": "IFPB investiga compósitos leves para impressão 3D e começa a medir deformações por imagem",
+    "slug": "ifpb-compositos-leves-impressao-3d-deformacoes-imagem-2026",
+    "dek": "Pesquisa de João Pessoa combina materiais cimentícios e fibras de polipropileno; divulgação ainda não apresenta resultados numéricos de resistência, custo ou durabilidade.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Pesquisa de João Pessoa combina materiais cimentícios e fibras de polipropileno; divulgação ainda não apresenta resultados numéricos de resistência, custo ou durabilidade.",
+    "keyFacts": [
+      {
+        "_key": "k0",
+        "label": "Origem",
+        "value": "LABI-MACC, IFPB João Pessoa"
+      },
+      {
+        "_key": "k1",
+        "label": "Material investigado",
+        "value": "Compósito cimentício leve com fibras de polipropileno"
+      },
+      {
+        "_key": "k2",
+        "label": "Estágio",
+        "value": "Pesquisa; divulgação sem resultados quantitativos de desempenho"
+      }
+    ],
+    "sourceUrl": "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2026/10/estudante-do-ifpb-apresenta-pesquisa-sobre-impressao-3d-em-conferencia-internacional-na-china",
+    "sourceLanguage": "pt",
+    "sourceName": "IFPB / pesquisa",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-10-23",
+    "dateDisplay": "23 out 2026",
+    "publishedAt": "2026-10-23T12:06:17.053986Z",
+    "modifiedAt": "2026-10-23T12:06:17.053986Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/c348b77f85779423a967a6378e5d5a6e5d39abcd-1672x941.png",
+    "imageAlt": "Ilustração conceitual original; não representa fotografia de obra específica nem desenho técnico executivo.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia documental, representação de obra específica ou desenho técnico executivo.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "intro",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sintro",
+            "text": "Reportagem • Publicação VAELITH: 23/10/2026.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb0",
+            "text": "O IFPB divulgou em 20 de outubro de 2026 uma pesquisa do Campus João Pessoa sobre compósitos cimentícios leves impressos em 3D e reforçados com fibras de polipropileno. O trabalho de Mariah Xavier e Moisés Rondenell Silva Lima integra o LABI-MACC, sob orientação de Marcos Alyssandro Soares dos Anjos.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb1",
+            "text": "O estudo foi levado à programação da Digital Concrete, realizada de 18 a 21 de outubro em Nanjing, na China. Seu objeto é brasileiro: compreender materiais e processos que possam ser adaptados à construção no país. A participação em congresso não constitui certificação de um produto construtivo.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb2",
+            "text": "Um passo relatado é o início do uso de Correlação de Imagens Digitais, ou DIC. A técnica acompanha deslocamentos e deformações na superfície sem contato com a peça. O laboratório também desenvolve equipamentos de impressão e considera disponibilidade local de componentes e materiais.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb3",
+            "text": "A comunicação institucional não fornece valores de resistência, quantidade de amostras, dosagem ótima de fibras, custo por componente ou desempenho de longa duração. Portanto, não permite afirmar superioridade sobre concreto convencional nem liberação para uso estrutural. O resultado documentado aqui é a atividade de pesquisa, não uma solução comercial validada.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb4",
+            "text": "Como explicação técnica, imprimir uma geometria e comprovar o desempenho de um elemento são etapas diferentes. Para avaliar uma futura aplicação, interessa conhecer condições de ensaio, repetibilidade, comportamento das ligações entre camadas e critérios de aceitação. Imagens de uma peça pronta não respondem, sozinhas, a essas perguntas.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb5",
+            "text": "Na avaliação editorial da VAELITH, a transferência para obras brasileiras deve exigir evidência compatível com o uso pretendido. A comparação econômica precisa incluir preparação, equipamento, controle de qualidade e eventuais reparos, não apenas o consumo de material. Até que esses dados sejam apresentados, a leitura responsável é de investigação em desenvolvimento.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "sources",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssources",
+            "text": "Fontes consultadas",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2026/10/estudante-do-ifpb-apresenta-pesquisa-sobre-impressao-3d-em-conferencia-internacional-na-china"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc0",
+            "text": "IFPB: pesquisa sobre impressão 3D na construção civil, 20/10/2026",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Reportagem • Publicação VAELITH: 23/10/2026.",
+      "O IFPB divulgou em 20 de outubro de 2026 uma pesquisa do Campus João Pessoa sobre compósitos cimentícios leves impressos em 3D e reforçados com fibras de polipropileno. O trabalho de Mariah Xavier e Moisés Rondenell Silva Lima integra o LABI-MACC, sob orientação de Marcos Alyssandro Soares dos Anjos.",
+      "O estudo foi levado à programação da Digital Concrete, realizada de 18 a 21 de outubro em Nanjing, na China. Seu objeto é brasileiro: compreender materiais e processos que possam ser adaptados à construção no país. A participação em congresso não constitui certificação de um produto construtivo.",
+      "Um passo relatado é o início do uso de Correlação de Imagens Digitais, ou DIC. A técnica acompanha deslocamentos e deformações na superfície sem contato com a peça. O laboratório também desenvolve equipamentos de impressão e considera disponibilidade local de componentes e materiais.",
+      "A comunicação institucional não fornece valores de resistência, quantidade de amostras, dosagem ótima de fibras, custo por componente ou desempenho de longa duração. Portanto, não permite afirmar superioridade sobre concreto convencional nem liberação para uso estrutural. O resultado documentado aqui é a atividade de pesquisa, não uma solução comercial validada.",
+      "Como explicação técnica, imprimir uma geometria e comprovar o desempenho de um elemento são etapas diferentes. Para avaliar uma futura aplicação, interessa conhecer condições de ensaio, repetibilidade, comportamento das ligações entre camadas e critérios de aceitação. Imagens de uma peça pronta não respondem, sozinhas, a essas perguntas.",
+      "Na avaliação editorial da VAELITH, a transferência para obras brasileiras deve exigir evidência compatível com o uso pretendido. A comparação econômica precisa incluir preparação, equipamento, controle de qualidade e eventuais reparos, não apenas o consumo de material. Até que esses dados sejam apresentados, a leitura responsável é de investigação em desenvolvimento.",
+      "Fontes consultadas",
+      "IFPB: pesquisa sobre impressão 3D na construção civil, 20/10/2026"
+    ]
   }
 ]
