@@ -1881,5 +1881,252 @@
       "Fontes consultadas",
       "IFPB: pesquisa sobre impressão 3D na construção civil, 20/10/2026"
     ]
+  },
+  {
+    "title": "Estudo do Inpe separa o peso do fogo e da seca no carbono da Amazônia",
+    "slug": "inpe-amazonia-carbono-fogo-seca-15-anos-nature-2026",
+    "dek": "Artigo publicado na Nature em 21 de outubro reúne 1.017 perfis aéreos de 2010 a 2024; média regional não deve ser confundida com medição de uma obra ou município.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Artigo publicado na Nature em 21 de outubro reúne 1.017 perfis aéreos de 2010 a 2024; média regional não deve ser confundida com medição de uma obra ou município.",
+    "keyFacts": [
+      {
+        "_key": "k0",
+        "label": "Período estudado",
+        "value": "2010–2024"
+      },
+      {
+        "_key": "k1",
+        "label": "Base observacional",
+        "value": "1.017 perfis verticais de amostragem aérea"
+      },
+      {
+        "_key": "k2",
+        "label": "Balanço médio",
+        "value": "0,32 ± 0,08 Pg de carbono por ano, emissão líquida"
+      }
+    ],
+    "sourceUrl": "https://www.nature.com/articles/s41586-026-11168-1",
+    "sourceLanguage": "pt",
+    "sourceName": "Inpe / Nature",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-10-24",
+    "dateDisplay": "24 out 2026",
+    "publishedAt": "2026-10-24T11:49:33.627166Z",
+    "modifiedAt": "2026-10-24T11:49:33.627166Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/5d06ad2f225a25b59bef2d1b61de70999f41609d-1672x941.png",
+    "imageAlt": "Ilustração conceitual original; não representa fotografia de obra específica nem desenho técnico executivo.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia documental, representação de obra específica ou desenho técnico executivo.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "intro",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sintro",
+            "text": "Reportagem • Publicação VAELITH: 24/10/2026.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb0",
+            "text": "Uma pesquisa liderada por Luciana Gatti, do Instituto Nacional de Pesquisas Espaciais, publicada na Nature em 21 de outubro de 2026, analisou 15 anos de medições para investigar por que a Amazônia emite mais carbono do que absorve. O estudo relaciona o desequilíbrio às ações humanas e mostra como as secas amplificam seus efeitos.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb1",
+            "text": "O artigo reúne 1.017 perfis verticais obtidos por aviões entre 2010 e 2024. Amostras de ar coletadas em diferentes alturas foram analisadas para dióxido de carbono e monóxido de carbono. A combinação dessas observações com a circulação atmosférica permite estimar o balanço regional; não é uma medição individual de todas as árvores ou de cada ponto do território.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb2",
+            "text": "A média estimada foi de emissão líquida de 0,32 ± 0,08 petagrama de carbono por ano. Segundo a divulgação do Inpe, o valor central corresponde a aproximadamente 1,17 bilhão de toneladas de CO₂ anuais. Carbono e dióxido de carbono não são unidades intercambiáveis: a massa de CO₂ inclui também o oxigênio. O número é uma média de 2010–2024, não um inventário já encerrado de 2026.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb3",
+            "text": "Para examinar as diferenças, os pesquisadores agruparam os anos por condições climáticas e intensidade das atividades humanas. O Inpe informa que 2019–2022 combinaram baixo estresse climático com maior desmatamento e queimadas, enquanto 2010, 2015, 2016, 2023 e 2024 reuniram condições quentes e secas. A comparação ajuda a evitar a explicação simplista de atribuir todo aumento de emissões apenas à falta de chuva.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb4",
+            "text": "O estudo também tem limites de observação relevantes. A série aérea teve interrupções em 2015 e cobertura de apenas dois locais em 2016, descritas no método. O cálculo regional depende de ponderação espacial e da estimativa da contribuição de áreas não diretamente cobertas. A incerteza declarada e a variabilidade entre sub-regiões devem acompanhar qualquer uso dos resultados.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb5",
+            "text": "Na avaliação dos autores divulgada pelo Inpe, reduzir desmatamento, combater queimadas e restaurar áreas degradadas são medidas complementares. A degradação altera chuvas e temperaturas e enfraquece a capacidade de absorção da floresta. A pesquisa apresenta evidências para orientar políticas, mas não calcula o custo de implantação de cada programa nem comprova o resultado futuro de uma intervenção específica.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb6",
+            "text": "Para o planejamento de infraestrutura, a leitura da VAELITH é que séries ambientais longas precisam fazer parte da avaliação de riscos. O balanço amazônico não substitui estudos locais de disponibilidade hídrica, drenagem ou licenciamento e não fornece, sozinho, uma vazão de projeto. Ele reforça a importância de explicitar período, escala e incerteza antes de converter um achado científico em decisão de investimento.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "sources",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssources",
+            "text": "Fontes consultadas",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.nature.com/articles/s41586-026-11168-1"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc0",
+            "text": "Gatti e colaboradores — Amazon carbon emissions driven by human actions amplified by droughts, Nature, 21/10/2026",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l1",
+            "href": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/estudo-do-inpe-publicado-na-nature-aponta-atividades-humanas-como-principal-fator-das-emissoes-de-carbono-na-amazonia"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc1",
+            "text": "Inpe — Estudo aponta atividades humanas como principal fator das emissões de carbono, 21/10/2026",
+            "marks": [
+              "l1"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l2",
+            "href": "https://agencia.fapesp.br/fogo-e-desmatamento-transformam-amazonia-em-fonte-de-carbono-para-a-atmosfera/59446"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc2",
+            "text": "Agência FAPESP — Fogo e desmatamento transformam Amazônia em fonte de carbono, 21/10/2026",
+            "marks": [
+              "l2"
+            ]
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Reportagem • Publicação VAELITH: 24/10/2026.",
+      "Uma pesquisa liderada por Luciana Gatti, do Instituto Nacional de Pesquisas Espaciais, publicada na Nature em 21 de outubro de 2026, analisou 15 anos de medições para investigar por que a Amazônia emite mais carbono do que absorve. O estudo relaciona o desequilíbrio às ações humanas e mostra como as secas amplificam seus efeitos.",
+      "O artigo reúne 1.017 perfis verticais obtidos por aviões entre 2010 e 2024. Amostras de ar coletadas em diferentes alturas foram analisadas para dióxido de carbono e monóxido de carbono. A combinação dessas observações com a circulação atmosférica permite estimar o balanço regional; não é uma medição individual de todas as árvores ou de cada ponto do território.",
+      "A média estimada foi de emissão líquida de 0,32 ± 0,08 petagrama de carbono por ano. Segundo a divulgação do Inpe, o valor central corresponde a aproximadamente 1,17 bilhão de toneladas de CO₂ anuais. Carbono e dióxido de carbono não são unidades intercambiáveis: a massa de CO₂ inclui também o oxigênio. O número é uma média de 2010–2024, não um inventário já encerrado de 2026.",
+      "Para examinar as diferenças, os pesquisadores agruparam os anos por condições climáticas e intensidade das atividades humanas. O Inpe informa que 2019–2022 combinaram baixo estresse climático com maior desmatamento e queimadas, enquanto 2010, 2015, 2016, 2023 e 2024 reuniram condições quentes e secas. A comparação ajuda a evitar a explicação simplista de atribuir todo aumento de emissões apenas à falta de chuva.",
+      "O estudo também tem limites de observação relevantes. A série aérea teve interrupções em 2015 e cobertura de apenas dois locais em 2016, descritas no método. O cálculo regional depende de ponderação espacial e da estimativa da contribuição de áreas não diretamente cobertas. A incerteza declarada e a variabilidade entre sub-regiões devem acompanhar qualquer uso dos resultados.",
+      "Na avaliação dos autores divulgada pelo Inpe, reduzir desmatamento, combater queimadas e restaurar áreas degradadas são medidas complementares. A degradação altera chuvas e temperaturas e enfraquece a capacidade de absorção da floresta. A pesquisa apresenta evidências para orientar políticas, mas não calcula o custo de implantação de cada programa nem comprova o resultado futuro de uma intervenção específica.",
+      "Para o planejamento de infraestrutura, a leitura da VAELITH é que séries ambientais longas precisam fazer parte da avaliação de riscos. O balanço amazônico não substitui estudos locais de disponibilidade hídrica, drenagem ou licenciamento e não fornece, sozinho, uma vazão de projeto. Ele reforça a importância de explicitar período, escala e incerteza antes de converter um achado científico em decisão de investimento.",
+      "Fontes consultadas",
+      "Gatti e colaboradores — Amazon carbon emissions driven by human actions amplified by droughts, Nature, 21/10/2026",
+      "Inpe — Estudo aponta atividades humanas como principal fator das emissões de carbono, 21/10/2026",
+      "Agência FAPESP — Fogo e desmatamento transformam Amazônia em fonte de carbono, 21/10/2026"
+    ]
   }
 ]
