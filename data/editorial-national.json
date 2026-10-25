@@ -2128,5 +2128,237 @@
       "Inpe — Estudo aponta atividades humanas como principal fator das emissões de carbono, 21/10/2026",
       "Agência FAPESP — Fogo e desmatamento transformam Amazônia em fonte de carbono, 21/10/2026"
     ]
+  },
+  {
+    "title": "Espumas vegetais: ensaio brasileiro mede biodegradação sem prometer desaparecimento total",
+    "slug": "explicacao-ufscar-cnpem-espumas-vegetais-biodegradacao-119-dias-2026",
+    "dek": "Pesquisa com bagaço de cana e resíduos de eucalipto registrou até 21% de biodegradação em 119 dias. Resultado diz respeito às condições do ensaio e não comprova desempenho em sistemas construtivos.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Pesquisa com bagaço de cana e resíduos de eucalipto registrou até 21% de biodegradação em 119 dias. Resultado diz respeito às condições do ensaio e não comprova desempenho em sistemas construtivos.",
+    "keyFacts": [
+      {
+        "_key": "k0",
+        "label": "Ensaio de biodegradação",
+        "value": "119 dias em solo"
+      },
+      {
+        "_key": "k1",
+        "label": "Maior valor relatado",
+        "value": "21%, para cana com amido"
+      },
+      {
+        "_key": "k2",
+        "label": "Compressão máxima relatada",
+        "value": "0,27 MPa"
+      }
+    ],
+    "sourceUrl": "https://www.ufscar.br/noticia?codigo=17205&id=pesquisa-desenvolve-espuma-biodegradavel-a-partir-de-residuos",
+    "sourceLanguage": "pt",
+    "sourceName": "UFSCar / CNPEM",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-10-25",
+    "dateDisplay": "25 out 2026",
+    "publishedAt": "2026-10-25T11:55:46.905440Z",
+    "modifiedAt": "2026-10-25T11:55:46.905440Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/4ef292e48bb3ef04fc1b0171910d908b64ab529f-1672x941.png",
+    "imageAlt": "Ilustração conceitual original; não representa fotografia de obra específica nem desenho técnico executivo.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia documental, representação de obra específica ou desenho técnico executivo.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "intro",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sintro",
+            "text": "Explicação • Publicação VAELITH: 25/10/2026.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb0",
+            "text": "A divulgação de uma espuma como biodegradável pede duas perguntas: em quais condições e em quanto tempo? Esta explicação, publicada em 25 de outubro de 2026, examina um estudo da UFSCar e do CNPEM divulgado pela universidade em 6 de outubro. A pesquisa produziu espumas com resíduos vegetais e biopolímeros, avaliando características mecânicas e decomposição em solo. O resultado oferece uma alternativa em investigação para embalagens, não uma licença para descartar o material no ambiente.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb1",
+            "text": "O artigo científico descreve o emprego de partículas não refinadas de bagaço de cana-de-açúcar ou resíduos industriais de eucalipto, combinadas com amido ou pectina. Na fabricação, ar é incorporado mecanicamente à dispersão aquosa, que depois passa por secagem térmica. A escolha preserva partículas da biomassa em vez de depender da extração de celulose refinada. A composição funciona como variável de projeto para alterar a estrutura porosa e o comportamento do material.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb2",
+            "text": "A trajetória é anterior à divulgação deste mês. O repositório da UFSCar registra o trabalho de conclusão de curso de Victória Barros Pinheiro da Silva em 27 de janeiro de 2025, sob orientação de Daniel Baron e coorientação de Elisa Silva Ferreira. Já a universidade informa que o artigo na ACS Sustainable Resource Management foi publicado em 4 de setembro de 2026. Separar essas datas evita apresentar o anúncio institucional como o início de uma tecnologia recém-criada.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb3",
+            "text": "Segundo os resultados relatados pela UFSCar, as espumas tiveram densidades de 0,13 a 0,19 grama por centímetro cúbico; a maior resistência à compressão foi de 0,27 MPa, na combinação de cana e amido. Após 119 dias, a biodegradação atingiu 21% nessa formulação, 19% em eucalipto com amido, 17% em cana com pectina e 15,6% em eucalipto com pectina. São resultados de formulações e condições específicas, não taxas universais.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb4",
+            "text": "A biodegradação foi acompanhada por respirometria, com medição do dióxido de carbono produzido pela atividade microbiana. O artigo explica por que isso importa: perda de massa pode incluir fragmentos que continuam no ambiente, sem terem sido consumidos biologicamente. O ensaio procura medir transformação, e não apenas desintegração visível. Mesmo assim, o valor de 21% não significa decomposição completa no período e não permite calcular, por simples extrapolação, uma data em que todo o material desaparecerá.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb5",
+            "text": "Para a cadeia da construção, a leitura prudente é distinguir proteção de produtos no transporte de aplicação em um edifício. A hipótese de usar a espuma como embalagem não demonstra que ela possa substituir isolantes ou outros componentes construtivos. Na avaliação da VAELITH, qualquer avanço nessa direção teria de apresentar evidências próprias de desempenho para o uso pretendido, além de produção e durabilidade. A origem renovável é uma característica relevante, mas não responde sozinha a essas perguntas.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "sources",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssources",
+            "text": "Fontes consultadas",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.ufscar.br/noticia?codigo=17205&id=pesquisa-desenvolve-espuma-biodegradavel-a-partir-de-residuos"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc0",
+            "text": "UFSCar: Pesquisa desenvolve espuma biodegradável a partir de resíduos, 06/10/2026",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l1",
+            "href": "https://pubs.acs.org/asrmcd/article/doi/10.1021/acssusresmgt.6c00353/5420243/Using-Biomass-Particles-and-Biopolymers-to-Control"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc1",
+            "text": "ACS Sustainable Resource Management: Using Biomass Particles and Biopolymers to Control the Mechanical Properties and Biodegradability of Renewable Foams",
+            "marks": [
+              "l1"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l2",
+            "href": "https://repositorio.ufscar.br/items/b4f3f3ee-00df-454a-a41e-d2133d405341/full"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc2",
+            "text": "Repositório UFSCar: Uso de biomassas não refinadas no desenvolvimento de espumas renováveis, TCC de 2025",
+            "marks": [
+              "l2"
+            ]
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Explicação • Publicação VAELITH: 25/10/2026.",
+      "A divulgação de uma espuma como biodegradável pede duas perguntas: em quais condições e em quanto tempo? Esta explicação, publicada em 25 de outubro de 2026, examina um estudo da UFSCar e do CNPEM divulgado pela universidade em 6 de outubro. A pesquisa produziu espumas com resíduos vegetais e biopolímeros, avaliando características mecânicas e decomposição em solo. O resultado oferece uma alternativa em investigação para embalagens, não uma licença para descartar o material no ambiente.",
+      "O artigo científico descreve o emprego de partículas não refinadas de bagaço de cana-de-açúcar ou resíduos industriais de eucalipto, combinadas com amido ou pectina. Na fabricação, ar é incorporado mecanicamente à dispersão aquosa, que depois passa por secagem térmica. A escolha preserva partículas da biomassa em vez de depender da extração de celulose refinada. A composição funciona como variável de projeto para alterar a estrutura porosa e o comportamento do material.",
+      "A trajetória é anterior à divulgação deste mês. O repositório da UFSCar registra o trabalho de conclusão de curso de Victória Barros Pinheiro da Silva em 27 de janeiro de 2025, sob orientação de Daniel Baron e coorientação de Elisa Silva Ferreira. Já a universidade informa que o artigo na ACS Sustainable Resource Management foi publicado em 4 de setembro de 2026. Separar essas datas evita apresentar o anúncio institucional como o início de uma tecnologia recém-criada.",
+      "Segundo os resultados relatados pela UFSCar, as espumas tiveram densidades de 0,13 a 0,19 grama por centímetro cúbico; a maior resistência à compressão foi de 0,27 MPa, na combinação de cana e amido. Após 119 dias, a biodegradação atingiu 21% nessa formulação, 19% em eucalipto com amido, 17% em cana com pectina e 15,6% em eucalipto com pectina. São resultados de formulações e condições específicas, não taxas universais.",
+      "A biodegradação foi acompanhada por respirometria, com medição do dióxido de carbono produzido pela atividade microbiana. O artigo explica por que isso importa: perda de massa pode incluir fragmentos que continuam no ambiente, sem terem sido consumidos biologicamente. O ensaio procura medir transformação, e não apenas desintegração visível. Mesmo assim, o valor de 21% não significa decomposição completa no período e não permite calcular, por simples extrapolação, uma data em que todo o material desaparecerá.",
+      "Para a cadeia da construção, a leitura prudente é distinguir proteção de produtos no transporte de aplicação em um edifício. A hipótese de usar a espuma como embalagem não demonstra que ela possa substituir isolantes ou outros componentes construtivos. Na avaliação da VAELITH, qualquer avanço nessa direção teria de apresentar evidências próprias de desempenho para o uso pretendido, além de produção e durabilidade. A origem renovável é uma característica relevante, mas não responde sozinha a essas perguntas.",
+      "Fontes consultadas",
+      "UFSCar: Pesquisa desenvolve espuma biodegradável a partir de resíduos, 06/10/2026",
+      "ACS Sustainable Resource Management: Using Biomass Particles and Biopolymers to Control the Mechanical Properties and Biodegradability of Renewable Foams",
+      "Repositório UFSCar: Uso de biomassas não refinadas no desenvolvimento de espumas renováveis, TCC de 2025"
+    ]
   }
 ]
