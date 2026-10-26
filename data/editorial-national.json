@@ -2360,5 +2360,214 @@
       "ACS Sustainable Resource Management: Using Biomass Particles and Biopolymers to Control the Mechanical Properties and Biodegradability of Renewable Foams",
       "Repositório UFSCar: Uso de biomassas não refinadas no desenvolvimento de espumas renováveis, TCC de 2025"
     ]
+  },
+  {
+    "title": "Tensão mecânica amplia possibilidades do silício em pesquisa da Unicamp",
+    "slug": "explicacao-unicamp-nanofios-silicio-tensao-mecanica-sensores-2026",
+    "dek": "Trabalho investiga nanofios suspensos para estudar a relação entre deformação e resistência elétrica. Tensão estimada de 2,9 GPa em amostras e valor simulado de 8 GPa correspondem a evidências distintas.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Trabalho investiga nanofios suspensos para estudar a relação entre deformação e resistência elétrica. Tensão estimada de 2,9 GPa em amostras e valor simulado de 8 GPa correspondem a evidências distintas.",
+    "keyFacts": [
+      {
+        "_key": "k0",
+        "label": "Tensão estimada por Raman",
+        "value": "Aproximadamente 2,9 GPa"
+      },
+      {
+        "_key": "k1",
+        "label": "Valor em simulação",
+        "value": "8 GPa, em geometria otimizada"
+      },
+      {
+        "_key": "k2",
+        "label": "Estágio descrito",
+        "value": "Pesquisa de material e prototipagem"
+      }
+    ],
+    "sourceUrl": "https://jornal.unicamp.br/edicao/752/nanofios-tensionados-ampliam-possibilidades-para-o-silicio/",
+    "sourceLanguage": "pt",
+    "sourceName": "Unicamp / American Vacuum Society",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-10-26",
+    "dateDisplay": "26 out 2026",
+    "publishedAt": "2026-10-26T11:40:18.266708Z",
+    "modifiedAt": "2026-10-26T11:40:18.266708Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/7871e44ee24c7ab1cc6c6f5d08a29d4ef541688b-1672x941.png",
+    "imageAlt": "Ilustração conceitual original; não representa fotografia de obra específica nem desenho técnico executivo.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia documental, representação de obra específica ou desenho técnico executivo.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "intro",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sintro",
+            "text": "Explicação • Publicação VAELITH: 26/10/2026.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb0",
+            "text": "Explicação publicada em 26 de outubro de 2026. Pesquisadores da Faculdade de Engenharia Elétrica e de Computação da Unicamp investigam como a tensão mecânica altera propriedades de nanofios de silício. O projeto, coordenado por Marcos Vinicius Puydinger dos Santos, foi apresentado na edição de 12 a 25 de outubro do Jornal da Unicamp. A linha de pesquisa mira novas possibilidades para semicondutores, sem anunciar um sensor pronto para instalação industrial.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb1",
+            "text": "O princípio em estudo é a piezorresistência: a resistência elétrica de um material muda quando ele sofre deformação. Essa relação permite investigar maneiras de transformar uma solicitação mecânica em sinal elétrico. No caso dos nanofios, a geometria e a condição de apoio ajudam a modificar o estado de tensão. A questão científica não é simplesmente produzir um fio pequeno, mas compreender e controlar a resposta do material nessas condições.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb2",
+            "text": "Um resumo apresentado pelos pesquisadores no simpósio da American Vacuum Society, em novembro de 2024, descreve o caminho experimental. Os fios foram fabricados a partir de filmes de silício tensionado sobre isolante. A remoção da camada de óxido deixou as estruturas suspensas e alterou suas condições de contorno, ampliando a tensão ao longo do comprimento. A proposta de prototipagem dispensava atuadores externos e etapas adicionais de deposição metálica para os contatos usados na caracterização.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb3",
+            "text": "Nesse trabalho, a espectroscopia Raman indicou tensão uniaxial de aproximadamente 2,9 gigapascals em nanofios de 200 nanômetros de largura. Os autores registram que o valor depende das dimensões. Já a divulgação de outubro relata simulações de geometrias otimizadas que chegaram a 8 GPa. Não são dois resultados intercambiáveis: o primeiro está associado à caracterização de amostras; o segundo pertence ao modelo computacional. Nenhum deles, isoladamente, informa a precisão de um sensor completo.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb4",
+            "text": "A universidade também apresenta perspectivas para transistores e aplicações ópticas, mas condiciona avanços comerciais à reprodutibilidade e à viabilidade do processo. A distinção é importante para equipes que acompanham tecnologias de medição: uma propriedade promissora do material não comprova durabilidade do dispositivo, estabilidade de leitura ou desempenho em operação. As fontes consultadas não apresentam uma implantação de sensores dessa pesquisa em pontes, edifícios ou redes de infraestrutura.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sb5",
+            "text": "Na avaliação da VAELITH, a relevância para a engenharia está na investigação de novos elementos de transdução, e não em substituir instrumentos existentes antes de sua validação. Para avaliar uma futura aplicação, seria necessário conhecer a faixa de medição, a calibração, a repetibilidade e os efeitos das condições de uso. Esses critérios não são resultados atribuídos ao projeto: são perguntas para a próxima etapa. Preservar essa separação permite acompanhar a inovação sem transformar uma possibilidade de laboratório em especificação de compra.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "sources",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssources",
+            "text": "Fontes consultadas",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://jornal.unicamp.br/edicao/752/nanofios-tensionados-ampliam-possibilidades-para-o-silicio/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc0",
+            "text": "Jornal da Unicamp: nanofios tensionados de silício, edição de 12–25/10/2026",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "src1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l1",
+            "href": "https://www.avsconferences.org/AVS2024/Topics/ProgramBookDownload?topicCode=NS"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ssrc1",
+            "text": "AVS 2024: resumo NS1-TuM-5, caracterização de nanofios, página 8",
+            "marks": [
+              "l1"
+            ]
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Explicação • Publicação VAELITH: 26/10/2026.",
+      "Explicação publicada em 26 de outubro de 2026. Pesquisadores da Faculdade de Engenharia Elétrica e de Computação da Unicamp investigam como a tensão mecânica altera propriedades de nanofios de silício. O projeto, coordenado por Marcos Vinicius Puydinger dos Santos, foi apresentado na edição de 12 a 25 de outubro do Jornal da Unicamp. A linha de pesquisa mira novas possibilidades para semicondutores, sem anunciar um sensor pronto para instalação industrial.",
+      "O princípio em estudo é a piezorresistência: a resistência elétrica de um material muda quando ele sofre deformação. Essa relação permite investigar maneiras de transformar uma solicitação mecânica em sinal elétrico. No caso dos nanofios, a geometria e a condição de apoio ajudam a modificar o estado de tensão. A questão científica não é simplesmente produzir um fio pequeno, mas compreender e controlar a resposta do material nessas condições.",
+      "Um resumo apresentado pelos pesquisadores no simpósio da American Vacuum Society, em novembro de 2024, descreve o caminho experimental. Os fios foram fabricados a partir de filmes de silício tensionado sobre isolante. A remoção da camada de óxido deixou as estruturas suspensas e alterou suas condições de contorno, ampliando a tensão ao longo do comprimento. A proposta de prototipagem dispensava atuadores externos e etapas adicionais de deposição metálica para os contatos usados na caracterização.",
+      "Nesse trabalho, a espectroscopia Raman indicou tensão uniaxial de aproximadamente 2,9 gigapascals em nanofios de 200 nanômetros de largura. Os autores registram que o valor depende das dimensões. Já a divulgação de outubro relata simulações de geometrias otimizadas que chegaram a 8 GPa. Não são dois resultados intercambiáveis: o primeiro está associado à caracterização de amostras; o segundo pertence ao modelo computacional. Nenhum deles, isoladamente, informa a precisão de um sensor completo.",
+      "A universidade também apresenta perspectivas para transistores e aplicações ópticas, mas condiciona avanços comerciais à reprodutibilidade e à viabilidade do processo. A distinção é importante para equipes que acompanham tecnologias de medição: uma propriedade promissora do material não comprova durabilidade do dispositivo, estabilidade de leitura ou desempenho em operação. As fontes consultadas não apresentam uma implantação de sensores dessa pesquisa em pontes, edifícios ou redes de infraestrutura.",
+      "Na avaliação da VAELITH, a relevância para a engenharia está na investigação de novos elementos de transdução, e não em substituir instrumentos existentes antes de sua validação. Para avaliar uma futura aplicação, seria necessário conhecer a faixa de medição, a calibração, a repetibilidade e os efeitos das condições de uso. Esses critérios não são resultados atribuídos ao projeto: são perguntas para a próxima etapa. Preservar essa separação permite acompanhar a inovação sem transformar uma possibilidade de laboratório em especificação de compra.",
+      "Fontes consultadas",
+      "Jornal da Unicamp: nanofios tensionados de silício, edição de 12–25/10/2026",
+      "AVS 2024: resumo NS1-TuM-5, caracterização de nanofios, página 8"
+    ]
   }
 ]
