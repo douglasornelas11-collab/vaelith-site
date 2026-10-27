@@ -46,3 +46,11 @@ test('latest news includes six distinct recently published editorial stories',()
     content.articles.splice(-fixtures.length);
   }
 });
+
+test('editoria directory includes all eight editorial destinations exactly once',()=>{
+  const strip=renderHome().split('<div class="category-strip">')[1].split('</div>')[0];
+  for(const path of ['/categoria/engenharia','/categoria/arquitetura','/categoria/tecnologia','/categoria/mercado','/categoria/gestao','/categoria/sustentabilidade','/artigos-cientificos','/editorial']) {
+    assert.equal(strip.split('href="'+path+'"').length-1,1);
+  }
+  assert.equal((strip.match(/class="cat-tile"/g)||[]).length,8);
+});

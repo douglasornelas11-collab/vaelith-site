@@ -9,3 +9,9 @@ test('RSS notices and arbitrary thumbnails cannot bypass editorial image review'
   assert.equal(items[0].image,'');
   assert.equal(items[0].url,'https://example.org/news');
 });
+
+test('automatic radar keeps domestic sources and leaves international selection to editors', () => {
+  const {feeds}=require('../lib/news-radar');
+  assert.deepEqual(feeds.map(f=>f.host),['cbic.org.br','agenciabrasil.ebc.com.br']);
+  assert.equal(feeds.some(f=>f.host==='constructiondive.com'),false);
+});
