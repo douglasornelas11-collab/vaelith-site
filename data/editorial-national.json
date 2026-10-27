@@ -2569,5 +2569,357 @@
       "Jornal da Unicamp: nanofios tensionados de silício, edição de 12–25/10/2026",
       "AVS 2024: resumo NS1-TuM-5, caracterização de nanofios, página 8"
     ]
+  },
+  {
+    "title": "Pesquisa da UTFPR testa resíduos de construção em concreto de ultra-alto desempenho",
+    "slug": "explicacao-utfpr-rcc-areia-concreto-ultra-alto-desempenho-2026",
+    "dek": "Dissertação compara substituições de areia de 10%, 20% e 30%. Ganhos em alguns indicadores coexistem com redução da resistência máxima à flexão aos 90 dias.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Dissertação compara substituições de areia de 10%, 20% e 30%. Ganhos em alguns indicadores coexistem com redução da resistência máxima à flexão aos 90 dias.",
+    "sourceUrl": "https://riut.utfpr.edu.br/jspui/handle/1/40597",
+    "sourceLanguage": "pt",
+    "sourceName": "UTFPR / npj Materials Sustainability",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-10-27",
+    "dateDisplay": "27 out 2026",
+    "publishedAt": "2026-10-27T11:23:22.587146Z",
+    "modifiedAt": "2026-10-27T11:23:22.587146Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/e2c3a21fbd757033dc253cdf7540355fc127437c-1672x941.png",
+    "imageAlt": "Ilustração conceitual original; não representa fotografia de obra específica nem desenho técnico executivo.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia documental, representação de obra específica ou desenho técnico executivo.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0z",
+            "text": "Explicação • Publicação VAELITH: 27/10/2026.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1-0a",
+            "text": "Explicação | 27 de outubro de 2026. Uma dissertação da UTFPR, de Maria Eduarda Almeida Gomes, testa resíduos de construção como substitutos de areia em concreto de ultra-alto desempenho com fibras metálicas. O trabalho, datado de 25 de março de 2026, é retomado aqui como pesquisa existente, não como lançamento comercial. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1-0b",
+            "text": "Registro da UTFPR",
+            "marks": [
+              "l1-0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s1z",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l1-0",
+            "href": "https://riut.utfpr.edu.br/jspui/handle/1/40597"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2-0a",
+            "text": "O programa experimental comparou uma mistura de referência e outras três com substituições de 10%, 20% e 30% por resíduos cinza de Classe A. As avaliações mecânicas ocorreram aos 7, 28 e 90 dias. Segundo o resumo institucional, a mistura com 20% melhorou o limite de proporcionalidade, enquanto a de 30% apresentou maior tenacidade e sustentação de carga depois do pico. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s2-0b",
+            "text": "Resumo da pesquisa",
+            "marks": [
+              "l2-0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2z",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l2-0",
+            "href": "https://riut.utfpr.edu.br/jspui/handle/1/40597"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s3-0a",
+            "text": "O quadro não foi uniforme: aos 90 dias, os teores elevados tiveram redução na resistência máxima à flexão. O estudo considera a substituição tecnicamente viável nas condições investigadas, sem transformar todos os indicadores em ganhos simultâneos. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s3-0b",
+            "text": "Resumo da pesquisa",
+            "marks": [
+              "l3-0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s3z",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l3-0",
+            "href": "https://riut.utfpr.edu.br/jspui/handle/1/40597"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s4z",
+            "text": "Por que ler mais de um indicador",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s5z",
+            "text": "Para interpretar o ensaio, convém separar três perguntas: qual carga máxima o material suporta, como começa a perder a resposta proporcional e como continua respondendo quando a deformação aumenta. Essa leitura evita escolher um traço apenas pelo melhor número de uma tabela. Para o projetista, a propriedade relevante depende da função do elemento e do comportamento exigido em serviço.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b6",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s6-0a",
+            "text": "Uma revisão publicada em janeiro de 2026 na revista npj Materials Sustainability oferece o contexto dessa decisão. Seus autores destacam que o alto consumo de cimento e energia pesa no impacto inicial desses concretos. A vantagem ambiental precisa considerar o projeto estrutural, a eventual redução de volume, a durabilidade e as necessidades de manutenção, além da composição por metro cúbico. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s6-0b",
+            "text": "Revisão científica",
+            "marks": [
+              "l6-0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s6z",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l6-0",
+            "href": "https://www.nature.com/articles/s44296-025-00093-5"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b7",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s7z",
+            "text": "Do ensaio à especificação",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b8",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s8-0a",
+            "text": "A mesma revisão aponta barreiras de custo, disponibilidade regional dos insumos e ampliação de escala. Também recomenda avaliar consequências ambientais e desempenho de longo prazo, em vez de tomar resistência à compressão como medida suficiente de sustentabilidade. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s8-0b",
+            "text": "Revisão científica",
+            "marks": [
+              "l8-0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s8z",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l8-0",
+            "href": "https://www.nature.com/articles/s44296-025-00093-5"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b9",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s9z",
+            "text": "Para uma aplicação brasileira, a conclusão editorial é pedir uma comparação completa: origem e regularidade do resíduo, processamento necessário, transporte, controle de qualidade e comportamento do elemento pretendido. A economia obtida pela compra de menos areia deve ser confrontada com essas etapas. O resumo da dissertação consultado não fornece orçamento comercial nem percentual de redução de carbono; por isso, não há base para anunciar preço inferior ou descarbonização quantificada.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b10",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s10z",
+            "text": "O resultado interessa como evidência experimental de que o agregado reciclado merece avaliação em materiais exigentes. A passagem ao canteiro requer especificação e validação próprias, preservando tanto os ganhos observados quanto os limites registrados no ensaio.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b11",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s11z",
+            "text": "Fontes consultadas",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b12",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s12-0b",
+            "text": "UTFPR — dissertação de Maria Eduarda Almeida Gomes sobre RCC em concreto com fibras — 2026-03-25",
+            "marks": [
+              "l12-0"
+            ]
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l12-0",
+            "href": "https://riut.utfpr.edu.br/jspui/handle/1/40597"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b13",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s13-0b",
+            "text": "npj Materials Sustainability — revisão de concretos de ultra-alto desempenho de baixo carbono — 2026-01-13",
+            "marks": [
+              "l13-0"
+            ]
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l13-0",
+            "href": "https://www.nature.com/articles/s44296-025-00093-5"
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Explicação • Publicação VAELITH: 27/10/2026.",
+      "Explicação | 27 de outubro de 2026. Uma dissertação da UTFPR, de Maria Eduarda Almeida Gomes, testa resíduos de construção como substitutos de areia em concreto de ultra-alto desempenho com fibras metálicas. O trabalho, datado de 25 de março de 2026, é retomado aqui como pesquisa existente, não como lançamento comercial. Registro da UTFPR.",
+      "O programa experimental comparou uma mistura de referência e outras três com substituições de 10%, 20% e 30% por resíduos cinza de Classe A. As avaliações mecânicas ocorreram aos 7, 28 e 90 dias. Segundo o resumo institucional, a mistura com 20% melhorou o limite de proporcionalidade, enquanto a de 30% apresentou maior tenacidade e sustentação de carga depois do pico. Resumo da pesquisa.",
+      "O quadro não foi uniforme: aos 90 dias, os teores elevados tiveram redução na resistência máxima à flexão. O estudo considera a substituição tecnicamente viável nas condições investigadas, sem transformar todos os indicadores em ganhos simultâneos. Resumo da pesquisa.",
+      "Por que ler mais de um indicador",
+      "Para interpretar o ensaio, convém separar três perguntas: qual carga máxima o material suporta, como começa a perder a resposta proporcional e como continua respondendo quando a deformação aumenta. Essa leitura evita escolher um traço apenas pelo melhor número de uma tabela. Para o projetista, a propriedade relevante depende da função do elemento e do comportamento exigido em serviço.",
+      "Uma revisão publicada em janeiro de 2026 na revista npj Materials Sustainability oferece o contexto dessa decisão. Seus autores destacam que o alto consumo de cimento e energia pesa no impacto inicial desses concretos. A vantagem ambiental precisa considerar o projeto estrutural, a eventual redução de volume, a durabilidade e as necessidades de manutenção, além da composição por metro cúbico. Revisão científica.",
+      "Do ensaio à especificação",
+      "A mesma revisão aponta barreiras de custo, disponibilidade regional dos insumos e ampliação de escala. Também recomenda avaliar consequências ambientais e desempenho de longo prazo, em vez de tomar resistência à compressão como medida suficiente de sustentabilidade. Revisão científica.",
+      "Para uma aplicação brasileira, a conclusão editorial é pedir uma comparação completa: origem e regularidade do resíduo, processamento necessário, transporte, controle de qualidade e comportamento do elemento pretendido. A economia obtida pela compra de menos areia deve ser confrontada com essas etapas. O resumo da dissertação consultado não fornece orçamento comercial nem percentual de redução de carbono; por isso, não há base para anunciar preço inferior ou descarbonização quantificada.",
+      "O resultado interessa como evidência experimental de que o agregado reciclado merece avaliação em materiais exigentes. A passagem ao canteiro requer especificação e validação próprias, preservando tanto os ganhos observados quanto os limites registrados no ensaio.",
+      "Fontes consultadas",
+      "UTFPR — dissertação de Maria Eduarda Almeida Gomes sobre RCC em concreto com fibras — 2026-03-25",
+      "npj Materials Sustainability — revisão de concretos de ultra-alto desempenho de baixo carbono — 2026-01-13"
+    ]
   }
 ]
