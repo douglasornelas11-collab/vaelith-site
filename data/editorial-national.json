@@ -2923,14 +2923,14 @@
     ]
   },
   {
-    "title": "Cloro residual no Agreste: estudo liga qualidade da água a notificações, sem provar causalidade",
+    "title": "Cloro residual no Agreste: estudo compara qualidade da água e notificações de diarreia",
     "slug": "explicacao-upe-cloro-residual-agreste-dados-2022-causalidade-2026",
-    "dek": "Artigo publicado em setembro usa dados de 2022 de 70 municípios; a leitura para obras de saneamento exige distinguir associação estatística, diagnóstico atual e efeito de uma intervenção.",
+    "dek": "Artigo publicado em setembro usa dados de 2022 de 70 municípios; diferenças descritivas entre grupos não demonstram causalidade nem diagnosticam a água de hoje.",
     "category": "Engenharia",
     "categorySlug": "engenharia",
     "contentType": "research",
     "region": "Brasil",
-    "technicalTakeaway": "Artigo publicado em setembro usa dados de 2022 de 70 municípios; a leitura para obras de saneamento exige distinguir associação estatística, diagnóstico atual e efeito de uma intervenção.",
+    "technicalTakeaway": "Artigo publicado em setembro usa dados de 2022 de 70 municípios; diferenças descritivas entre grupos não demonstram causalidade nem diagnosticam a água de hoje.",
     "sourceUrl": "https://periodicos.ufrn.br/revistadoregne/article/view/43514",
     "sourceLanguage": "pt",
     "sourceName": "UPE / Revista de Geociências do Nordeste",
@@ -3022,7 +3022,7 @@
           {
             "_type": "span",
             "_key": "s5z",
-            "text": "O próprio artigo ressalva que não investigou causa e efeito. Essa distinção deve acompanhar qualquer uso dos resultados. Uma associação municipal pode indicar onde aprofundar o diagnóstico, mas não identifica, sozinha, qual mecanismo produziu cada ocorrência.",
+            "text": "O próprio artigo ressalva que não investigou causa e efeito. Essa distinção deve acompanhar qualquer uso dos resultados. Diferenças entre indicadores municipais podem orientar novas investigações, mas não demonstram, por si, uma relação estatisticamente confirmada nem identificam o mecanismo de cada ocorrência.",
             "marks": []
           }
         ],
@@ -3191,7 +3191,7 @@
       "Assinado por Maurício Costa Goldfarb, Alessandra Maria Barbosa de Souza Nascimento, Simone Rosa da Silva e Willames de Albuquerque Soares, o trabalho reúne indicadores do SNIS, notificações da vigilância em saúde e população do Censo de 2022. Dos 71 municípios da região, Tacaimbó foi excluído por falta de dados necessários, deixando 70 no universo analisado.",
       "O que foi comparado",
       "Os autores separam 51 municípios sem amostras de cloro residual fora do padrão e 19 com alguma desconformidade. O trabalho relata médias de 32,7 e 43,9 notificações por mil habitantes, respectivamente, na comparação após retirar um valor extremo de cada grupo. Esses números são taxas de notificações nos conjuntos estudados; não são a probabilidade individual de adoecer ao abrir uma torneira.",
-      "O próprio artigo ressalva que não investigou causa e efeito. Essa distinção deve acompanhar qualquer uso dos resultados. Uma associação municipal pode indicar onde aprofundar o diagnóstico, mas não identifica, sozinha, qual mecanismo produziu cada ocorrência.",
+      "O próprio artigo ressalva que não investigou causa e efeito. Essa distinção deve acompanhar qualquer uso dos resultados. Diferenças entre indicadores municipais podem orientar novas investigações, mas não demonstram, por si, uma relação estatisticamente confirmada nem identificam o mecanismo de cada ocorrência.",
       "O que a obra precisa investigar antes de prometer resultado",
       "A leitura da VAELITH é que uma intervenção não deve ser escolhida apenas porque dois indicadores variam juntos. Antes de decidir entre medidas operacionais, manutenção ou expansão, cabe verificar o problema atual no sistema correspondente. Uma tabela histórica não substitui inspeção, amostragem e registros recentes do prestador e da vigilância.",
       "Para um plano de acompanhamento, seria útil separar o indicador da água, a regularidade do fornecimento e a resposta sanitária. Também seria necessário registrar o período das medições e a cobertura da coleta. Comparar municípios ou anos com bases diferentes, sem explicitar as mudanças, pode atribuir à infraestrutura uma diferença decorrente do próprio registro.",
