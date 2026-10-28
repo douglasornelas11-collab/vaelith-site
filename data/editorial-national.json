@@ -2921,5 +2921,287 @@
       "UTFPR — dissertação de Maria Eduarda Almeida Gomes sobre RCC em concreto com fibras — 2026-03-25",
       "npj Materials Sustainability — revisão de concretos de ultra-alto desempenho de baixo carbono — 2026-01-13"
     ]
+  },
+  {
+    "title": "Cloro residual no Agreste: estudo liga qualidade da água a notificações, sem provar causalidade",
+    "slug": "explicacao-upe-cloro-residual-agreste-dados-2022-causalidade-2026",
+    "dek": "Artigo publicado em setembro usa dados de 2022 de 70 municípios; a leitura para obras de saneamento exige distinguir associação estatística, diagnóstico atual e efeito de uma intervenção.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Artigo publicado em setembro usa dados de 2022 de 70 municípios; a leitura para obras de saneamento exige distinguir associação estatística, diagnóstico atual e efeito de uma intervenção.",
+    "sourceUrl": "https://periodicos.ufrn.br/revistadoregne/article/view/43514",
+    "sourceLanguage": "pt",
+    "sourceName": "UPE / Revista de Geociências do Nordeste",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-10-28",
+    "dateDisplay": "28 out 2026",
+    "publishedAt": "2026-10-28T11:20:31.649378Z",
+    "modifiedAt": "2026-10-28T11:20:31.649378Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/46737704ca703aa90dcc3bd7f3b2b176a64bfb4d-1536x1024.png",
+    "imageAlt": "Ilustração conceitual original; não representa fotografia de obra específica nem desenho técnico executivo.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia documental, representação de obra específica ou desenho técnico executivo.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0z",
+            "text": "Explicação • Publicação VAELITH: 28/10/2026.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1z",
+            "text": "Um artigo de pesquisadores da Universidade de Pernambuco, publicado em 2 de setembro de 2026 na Revista de Geociências do Nordeste, compara indicadores de cloro residual e notificações de doenças diarreicas agudas no Agreste pernambucano. A pesquisa usa dados de 2022: não é um boletim da qualidade da água de outubro de 2026. Esta explicação apresenta o alcance e os limites da evidência para quem planeja infraestrutura de abastecimento.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2z",
+            "text": "Assinado por Maurício Costa Goldfarb, Alessandra Maria Barbosa de Souza Nascimento, Simone Rosa da Silva e Willames de Albuquerque Soares, o trabalho reúne indicadores do SNIS, notificações da vigilância em saúde e população do Censo de 2022. Dos 71 municípios da região, Tacaimbó foi excluído por falta de dados necessários, deixando 70 no universo analisado.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s3z",
+            "text": "O que foi comparado",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s4z",
+            "text": "Os autores separam 51 municípios sem amostras de cloro residual fora do padrão e 19 com alguma desconformidade. O trabalho relata médias de 32,7 e 43,9 notificações por mil habitantes, respectivamente, na comparação após retirar um valor extremo de cada grupo. Esses números são taxas de notificações nos conjuntos estudados; não são a probabilidade individual de adoecer ao abrir uma torneira.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s5z",
+            "text": "O próprio artigo ressalva que não investigou causa e efeito. Essa distinção deve acompanhar qualquer uso dos resultados. Uma associação municipal pode indicar onde aprofundar o diagnóstico, mas não identifica, sozinha, qual mecanismo produziu cada ocorrência.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b6",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s6z",
+            "text": "O que a obra precisa investigar antes de prometer resultado",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b7",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s7z",
+            "text": "A leitura da VAELITH é que uma intervenção não deve ser escolhida apenas porque dois indicadores variam juntos. Antes de decidir entre medidas operacionais, manutenção ou expansão, cabe verificar o problema atual no sistema correspondente. Uma tabela histórica não substitui inspeção, amostragem e registros recentes do prestador e da vigilância.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b8",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s8z",
+            "text": "Para um plano de acompanhamento, seria útil separar o indicador da água, a regularidade do fornecimento e a resposta sanitária. Também seria necessário registrar o período das medições e a cobertura da coleta. Comparar municípios ou anos com bases diferentes, sem explicitar as mudanças, pode atribuir à infraestrutura uma diferença decorrente do próprio registro.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b9",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s9z",
+            "text": "A retirada de valores extremos faz parte do tratamento estatístico adotado pelos autores e precisa permanecer visível. Este texto não transforma a conclusão do teste de hipótese em certeza causal nem reproduz uma garantia de redução de doenças. Trata-se de estudo observacional, não de um ensaio que tenha implantado uma solução e medido seu efeito contra um grupo de controle.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b10",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s10z",
+            "text": "Como avaliar uma melhoria",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b11",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s11z",
+            "text": "Como recomendação editorial, um projeto poderia definir previamente quais parâmetros serão observados antes e depois da intervenção, em quais pontos e durante quanto tempo. A análise deveria considerar mudanças simultâneas e investigar se a coleta de dados se manteve comparável. Sem isso, uma melhora posterior pode ser indevidamente atribuída à obra.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b12",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s12z",
+            "text": "O artigo não fornece um orçamento executivo para corrigir cada sistema nem um custo por caso evitado. Portanto, não sustenta promessa de economia ou retorno financeiro para uma solução específica. A contribuição prática é reforçar que a entrega do saneamento deve ser acompanhada por desempenho do serviço, com evidência atual e responsabilidade técnica, e não apenas por extensão de tubulação instalada.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b13",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s13z",
+            "text": "Fontes consultadas",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b14",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s14-0b",
+            "text": "Goldfarb e colaboradores — Qualidade da água de abastecimento e implicações à saúde da população na mesorregião do Agreste Pernambucano, Revista de Geociências do Nordeste, v.12 n.2; CC BY 4.0 — 02/09/2026; dados de 2022",
+            "marks": [
+              "l14-0"
+            ]
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l14-0",
+            "href": "https://periodicos.ufrn.br/revistadoregne/article/view/43514"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b15",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s15-0b",
+            "text": "Texto integral do artigo — metodologia, resultados e limites, pp.158–169; DOI 10.21680/2447-3359.2026v12n2ID43514 — 02/09/2026; consultado em 28/10/2026",
+            "marks": [
+              "l15-0"
+            ]
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l15-0",
+            "href": "https://periodicos.ufrn.br/revistadoregne/article/download/43514/22616"
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Explicação • Publicação VAELITH: 28/10/2026.",
+      "Um artigo de pesquisadores da Universidade de Pernambuco, publicado em 2 de setembro de 2026 na Revista de Geociências do Nordeste, compara indicadores de cloro residual e notificações de doenças diarreicas agudas no Agreste pernambucano. A pesquisa usa dados de 2022: não é um boletim da qualidade da água de outubro de 2026. Esta explicação apresenta o alcance e os limites da evidência para quem planeja infraestrutura de abastecimento.",
+      "Assinado por Maurício Costa Goldfarb, Alessandra Maria Barbosa de Souza Nascimento, Simone Rosa da Silva e Willames de Albuquerque Soares, o trabalho reúne indicadores do SNIS, notificações da vigilância em saúde e população do Censo de 2022. Dos 71 municípios da região, Tacaimbó foi excluído por falta de dados necessários, deixando 70 no universo analisado.",
+      "O que foi comparado",
+      "Os autores separam 51 municípios sem amostras de cloro residual fora do padrão e 19 com alguma desconformidade. O trabalho relata médias de 32,7 e 43,9 notificações por mil habitantes, respectivamente, na comparação após retirar um valor extremo de cada grupo. Esses números são taxas de notificações nos conjuntos estudados; não são a probabilidade individual de adoecer ao abrir uma torneira.",
+      "O próprio artigo ressalva que não investigou causa e efeito. Essa distinção deve acompanhar qualquer uso dos resultados. Uma associação municipal pode indicar onde aprofundar o diagnóstico, mas não identifica, sozinha, qual mecanismo produziu cada ocorrência.",
+      "O que a obra precisa investigar antes de prometer resultado",
+      "A leitura da VAELITH é que uma intervenção não deve ser escolhida apenas porque dois indicadores variam juntos. Antes de decidir entre medidas operacionais, manutenção ou expansão, cabe verificar o problema atual no sistema correspondente. Uma tabela histórica não substitui inspeção, amostragem e registros recentes do prestador e da vigilância.",
+      "Para um plano de acompanhamento, seria útil separar o indicador da água, a regularidade do fornecimento e a resposta sanitária. Também seria necessário registrar o período das medições e a cobertura da coleta. Comparar municípios ou anos com bases diferentes, sem explicitar as mudanças, pode atribuir à infraestrutura uma diferença decorrente do próprio registro.",
+      "A retirada de valores extremos faz parte do tratamento estatístico adotado pelos autores e precisa permanecer visível. Este texto não transforma a conclusão do teste de hipótese em certeza causal nem reproduz uma garantia de redução de doenças. Trata-se de estudo observacional, não de um ensaio que tenha implantado uma solução e medido seu efeito contra um grupo de controle.",
+      "Como avaliar uma melhoria",
+      "Como recomendação editorial, um projeto poderia definir previamente quais parâmetros serão observados antes e depois da intervenção, em quais pontos e durante quanto tempo. A análise deveria considerar mudanças simultâneas e investigar se a coleta de dados se manteve comparável. Sem isso, uma melhora posterior pode ser indevidamente atribuída à obra.",
+      "O artigo não fornece um orçamento executivo para corrigir cada sistema nem um custo por caso evitado. Portanto, não sustenta promessa de economia ou retorno financeiro para uma solução específica. A contribuição prática é reforçar que a entrega do saneamento deve ser acompanhada por desempenho do serviço, com evidência atual e responsabilidade técnica, e não apenas por extensão de tubulação instalada.",
+      "Fontes consultadas",
+      "Goldfarb e colaboradores — Qualidade da água de abastecimento e implicações à saúde da população na mesorregião do Agreste Pernambucano, Revista de Geociências do Nordeste, v.12 n.2; CC BY 4.0 — 02/09/2026; dados de 2022",
+      "Texto integral do artigo — metodologia, resultados e limites, pp.158–169; DOI 10.21680/2447-3359.2026v12n2ID43514 — 02/09/2026; consultado em 28/10/2026"
+    ]
   }
 ]
