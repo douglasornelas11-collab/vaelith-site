@@ -3203,5 +3203,297 @@
       "Goldfarb e colaboradores — Qualidade da água de abastecimento e implicações à saúde da população na mesorregião do Agreste Pernambucano, Revista de Geociências do Nordeste, v.12 n.2; CC BY 4.0 — 02/09/2026; dados de 2022",
       "Texto integral do artigo — metodologia, resultados e limites, pp.158–169; DOI 10.21680/2447-3359.2026v12n2ID43514 — 02/09/2026; consultado em 28/10/2026"
     ]
+  },
+  {
+    "title": "Material de conchas e resíduo siderúrgico testa duas rotas de fotocatálise",
+    "slug": "explicacao-hap-oxido-ferro-conchas-fotocatalise-hidrogenio-limites-2026",
+    "dek": "Ensaios brasileiros avaliaram remoção de azul de metileno e geração de hidrogênio; a medição do gás ainda pede confirmação analítica mais rigorosa.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Ensaios brasileiros avaliaram remoção de azul de metileno e geração de hidrogênio; a medição do gás ainda pede confirmação analítica mais rigorosa.",
+    "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0360319926040310",
+    "sourceLanguage": "pt",
+    "sourceName": "Castro e colaboradores — Solar-driven photocatalytic degradation of methylene blue and hydrogen production using an eco-friendly HAp/Fe2O3 heterojunction; DOI 10.1016/j.ijhydene.2026.157393",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-10-29",
+    "dateDisplay": "29 out 2026",
+    "publishedAt": "2026-10-29T11:50:18.659554Z",
+    "modifiedAt": "2026-10-29T11:50:18.659554Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/50d598dd800bd6d593e29a06d4f06f15bcd74a63-1536x1024.png",
+    "imageAlt": "Ilustração conceitual original; não representa fotografia de obra específica nem desenho técnico executivo.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia documental, representação de obra específica ou desenho técnico executivo.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0z",
+            "text": "Explicação • Publicação VAELITH: 29/10/2026.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1z",
+            "text": "Explicação de pesquisa • 29/10/2026. Um material produzido com resíduos de conchas marinhas e da siderurgia foi estudado por pesquisadores da UFRN e da UFSCar para duas aplicações: degradação de um corante em água e geração de hidrogênio sob luz solar. A análise retoma resultados divulgados em setembro de 2026, sem apresentá-los como instalação industrial ou novidade anunciada hoje.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2-0a",
+            "text": "O ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s2-0b",
+            "text": "resumo do artigo no International Journal of Hydrogen Energy",
+            "marks": [
+              "l2-0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2z",
+            "text": " descreve a associação entre hidroxiapatita e óxido de ferro. Entre formulações com 20%, 40% e 60% de óxido, a composição de 40% apresentou o melhor resultado na degradação do azul de metileno, com remoção próxima de 75%. A pesquisa também examinou propriedades do material e sua estabilidade após reutilização.",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l2-0",
+            "href": "https://www.sciencedirect.com/science/article/pii/S0360319926040310"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s3z",
+            "text": "Dois ensaios, condições que precisam acompanhar o resultado",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s4-0a",
+            "text": "A ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s4-0b",
+            "text": "comunicação técnica do CDMF",
+            "marks": [
+              "l4-0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s4z",
+            "text": ", centro participante da pesquisa, informa que a remoção do corante foi medida após 150 minutos de exposição solar. No ensaio de hidrogênio, foram usados 20 miligramas do material em 20 mililitros de solução com 10% de ácido lático, que atuou como agente sacrificial. A presença desse reagente importa: o resultado não descreve simplesmente água pura transformada em combustível.",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l4-0",
+            "href": "https://cdmf.org.br/2026/09/14/residuos-de-siderurgia-e-conchas-marinhas-sao-transformados-em-material-que-produz-hidrogenio-e-remove-poluente/"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s5z",
+            "text": "O CDMF relata produção superior a 25 micromols de hidrogênio por grama de material após quatro horas. O gás foi acompanhado por sensor, e os autores tratam o valor como estimativa para comparação experimental. A quantificação mais rigorosa, por técnicas como cromatografia gasosa, não estava disponível naquela etapa. Também são apontadas necessidades de testes mais longos, efluentes reais e avaliação em escala maior.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b6",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s6z",
+            "text": "O que ainda não se pode concluir",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b7",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s7z",
+            "text": "Na leitura da VAELITH, um ensaio com um corante-modelo responde a uma pergunta delimitada. Não demonstra que qualquer efluente será tratado, que a água resultante é potável ou que todas as substâncias presentes foram eliminadas. Da mesma forma, comparar as formulações dentro do experimento não resolve automaticamente a comparação econômica com outros processos.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b8",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s8z",
+            "text": "Para transformar essa rota em uma proposta de engenharia, seria importante apresentar uma fronteira de avaliação: quais insumos entram, como o material é recuperado, quais resíduos saem e quanto desempenho permanece ao longo da operação. Essas perguntas são critérios editoriais para acompanhar a evolução da tecnologia, não resultados adicionais atribuídos aos pesquisadores.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b9",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s9z",
+            "text": "O mérito do trabalho está em explorar materiais residuais como matéria-prima funcional. A evidência disponível aponta uma possibilidade de pesquisa e informa os limites da medição. Preservar esses limites torna o resultado mais útil: permite que quem projeta ou opera sistemas diferencie uma hipótese promissora de uma solução já validada para contratação.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b10",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s10z",
+            "text": "Nota de método editorial: foram consultados o resumo indexado do artigo e a comunicação técnica da instituição participante. O texto integral não pôde ser acessado; os detalhes experimentais acima são atribuídos ao CDMF e não constituem verificação independente do protocolo.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b11",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s11z",
+            "text": "Fontes consultadas",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b12",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s12-0b",
+            "text": "Castro e colaboradores — Solar-driven photocatalytic degradation of methylene blue and hydrogen production using an eco-friendly HAp/Fe2O3 heterojunction; DOI 10.1016/j.ijhydene.2026.157393 — Volume 272, 28/09/2026; resumo indexado consultado em 29/10/2026",
+            "marks": [
+              "l12-0"
+            ]
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l12-0",
+            "href": "https://www.sciencedirect.com/science/article/pii/S0360319926040310"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b13",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s13-0b",
+            "text": "CDMF/UFSCar — divulgação técnica dos métodos, resultados e limites — 14/09/2026",
+            "marks": [
+              "l13-0"
+            ]
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l13-0",
+            "href": "https://cdmf.org.br/2026/09/14/residuos-de-siderurgia-e-conchas-marinhas-sao-transformados-em-material-que-produz-hidrogenio-e-remove-poluente/"
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Explicação • Publicação VAELITH: 29/10/2026.",
+      "Explicação de pesquisa • 29/10/2026. Um material produzido com resíduos de conchas marinhas e da siderurgia foi estudado por pesquisadores da UFRN e da UFSCar para duas aplicações: degradação de um corante em água e geração de hidrogênio sob luz solar. A análise retoma resultados divulgados em setembro de 2026, sem apresentá-los como instalação industrial ou novidade anunciada hoje.",
+      "O resumo do artigo no International Journal of Hydrogen Energy descreve a associação entre hidroxiapatita e óxido de ferro. Entre formulações com 20%, 40% e 60% de óxido, a composição de 40% apresentou o melhor resultado na degradação do azul de metileno, com remoção próxima de 75%. A pesquisa também examinou propriedades do material e sua estabilidade após reutilização.",
+      "Dois ensaios, condições que precisam acompanhar o resultado",
+      "A comunicação técnica do CDMF, centro participante da pesquisa, informa que a remoção do corante foi medida após 150 minutos de exposição solar. No ensaio de hidrogênio, foram usados 20 miligramas do material em 20 mililitros de solução com 10% de ácido lático, que atuou como agente sacrificial. A presença desse reagente importa: o resultado não descreve simplesmente água pura transformada em combustível.",
+      "O CDMF relata produção superior a 25 micromols de hidrogênio por grama de material após quatro horas. O gás foi acompanhado por sensor, e os autores tratam o valor como estimativa para comparação experimental. A quantificação mais rigorosa, por técnicas como cromatografia gasosa, não estava disponível naquela etapa. Também são apontadas necessidades de testes mais longos, efluentes reais e avaliação em escala maior.",
+      "O que ainda não se pode concluir",
+      "Na leitura da VAELITH, um ensaio com um corante-modelo responde a uma pergunta delimitada. Não demonstra que qualquer efluente será tratado, que a água resultante é potável ou que todas as substâncias presentes foram eliminadas. Da mesma forma, comparar as formulações dentro do experimento não resolve automaticamente a comparação econômica com outros processos.",
+      "Para transformar essa rota em uma proposta de engenharia, seria importante apresentar uma fronteira de avaliação: quais insumos entram, como o material é recuperado, quais resíduos saem e quanto desempenho permanece ao longo da operação. Essas perguntas são critérios editoriais para acompanhar a evolução da tecnologia, não resultados adicionais atribuídos aos pesquisadores.",
+      "O mérito do trabalho está em explorar materiais residuais como matéria-prima funcional. A evidência disponível aponta uma possibilidade de pesquisa e informa os limites da medição. Preservar esses limites torna o resultado mais útil: permite que quem projeta ou opera sistemas diferencie uma hipótese promissora de uma solução já validada para contratação.",
+      "Nota de método editorial: foram consultados o resumo indexado do artigo e a comunicação técnica da instituição participante. O texto integral não pôde ser acessado; os detalhes experimentais acima são atribuídos ao CDMF e não constituem verificação independente do protocolo.",
+      "Fontes consultadas",
+      "Castro e colaboradores — Solar-driven photocatalytic degradation of methylene blue and hydrogen production using an eco-friendly HAp/Fe2O3 heterojunction; DOI 10.1016/j.ijhydene.2026.157393 — Volume 272, 28/09/2026; resumo indexado consultado em 29/10/2026",
+      "CDMF/UFSCar — divulgação técnica dos métodos, resultados e limites — 14/09/2026"
+    ]
   }
 ]
