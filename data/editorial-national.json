@@ -3495,5 +3495,242 @@
       "Castro e colaboradores — Solar-driven photocatalytic degradation of methylene blue and hydrogen production using an eco-friendly HAp/Fe2O3 heterojunction; DOI 10.1016/j.ijhydene.2026.157393 — Volume 272, 28/09/2026; resumo indexado consultado em 29/10/2026",
       "CDMF/UFSCar — divulgação técnica dos métodos, resultados e limites — 14/09/2026"
     ]
+  },
+  {
+    "title": "Pesquisa premiada testa argilas regionais para cimento LC3; aplicação em obra exige novas verificações",
+    "slug": "pesquisa-premiada-argilas-regionais-cimento-lc3-20261030",
+    "dek": "Unioeste anunciou o reconhecimento em 27 de outubro. Ensaios com pastas mostram potencial, mas não comprovam durabilidade em obra nem economia comercial.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Unioeste anunciou o reconhecimento em 27 de outubro. Ensaios com pastas mostram potencial, mas não comprovam durabilidade em obra nem economia comercial.",
+    "sourceUrl": "https://www.unioeste.br/portal/central-de-noticias/86147-artigo-do-ano-pesquisa-desenvolvida-na-unioeste-vence-premio-no-maior-congresso-de-concreto-do-pais",
+    "sourceLanguage": "pt",
+    "sourceName": "Unioeste: pesquisa vence prêmio no Congresso Brasileiro do Concreto",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-10-30",
+    "dateDisplay": "30 out 2026",
+    "publishedAt": "2026-10-30T11:49:25.357070Z",
+    "modifiedAt": "2026-10-30T11:49:25.357070Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/44b23b20aaac2e25ec68096b58738cdc74996435-1536x1024.png",
+    "imageAlt": "Ilustração conceitual original; não representa fotografia de obra específica nem desenho técnico executivo.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia documental, representação de obra específica ou desenho técnico executivo.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0z",
+            "text": "Reportagem • Publicação VAELITH: 30/10/2026.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1z",
+            "text": "A Unioeste informou em 27 de outubro de 2026 que Allan Thierry Branco Torres recebeu o Prêmio Maria Alba Cincotto no 67º Congresso Brasileiro do Concreto, em Natal. O trabalho premiado investiga pastas de cimento LC3 produzidas com argilas do oeste do Paraná. A novidade é o reconhecimento divulgado pela universidade, não o lançamento de um produto para uso imediato nos canteiros.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2z",
+            "text": "Segundo a instituição, o artigo deriva de pesquisa orientada por Cleber Antônio Lindino. Uma versão ampliada ainda seria submetida à revista Construction and Building Materials. Portanto, essa publicação internacional não deve ser apresentada como concluída.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s3z",
+            "text": "O que foi efetivamente estudado",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s4z",
+            "text": "A dissertação, defendida em dezembro de 2025, analisou seis argilas, calcinadas a 850 °C. Foram produzidos corpos de prova de pasta cimentícia, com cura em água saturada com cal e ensaios aos sete e 28 dias. Não se trata de acompanhamento de uma edificação em serviço. Aos 28 dias, cinco formulações regionais apresentaram resistência estatisticamente compatível com a referência no teste empregado.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s5z",
+            "text": "A estimativa ambiental combina consumo de materiais e fatores de emissão. Há, entretanto, divergências numéricas entre resumo, discussão e tabela ambiental da dissertação. Por isso, esta reportagem não adota um percentual único de redução de carbono. Também não transforma ganho de resistência entre duas idades em superioridade sobre o cimento de referência.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b6",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s6z",
+            "text": "Leitura técnica da VAELITH",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b7",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s7z",
+            "text": "O interesse para a construção brasileira está em investigar matérias-primas locais com caracterização documentada. Isso pode ampliar opções de fornecimento, mas disponibilidade geológica, desempenho de laboratório e viabilidade comercial são perguntas diferentes. Um prêmio reconhece a pesquisa; não substitui a qualificação de um material para determinada aplicação.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b8",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s8z",
+            "text": "Para uma decisão de compra, a análise precisa avançar para especificação, consistência dos lotes, comportamento do concreto completo, durabilidade no ambiente de exposição e custo entregue na obra. Transporte, processamento, controle e eventuais adaptações de produção também entram nessa comparação. Essas são verificações propostas pela VAELITH, não resultados já demonstrados pelo trabalho.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b9",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s9z",
+            "text": "As fontes consultadas não fornecem um orçamento comercial auditado nem dados de manutenção em estruturas executadas com essas formulações. A conclusão responsável é reconhecer uma linha promissora de pesquisa e manter explícita a distância entre ensaio, fornecimento industrial e desempenho ao longo da vida útil.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b10",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s10z",
+            "text": "Fontes consultadas",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "b11",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s11-0b",
+            "text": "Unioeste: pesquisa vence prêmio no Congresso Brasileiro do Concreto — 2026-10-27",
+            "marks": [
+              "l11-0"
+            ]
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l11-0",
+            "href": "https://www.unioeste.br/portal/central-de-noticias/86147-artigo-do-ano-pesquisa-desenvolvida-na-unioeste-vence-premio-no-maior-congresso-de-concreto-do-pais"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b12",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s12-0b",
+            "text": "Torres: dissertação sobre propriedades de pastas LC3, Unioeste — 2025-12-19",
+            "marks": [
+              "l12-0"
+            ]
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l12-0",
+            "href": "https://tede.unioeste.br/bitstream/tede/8225/2/Allan_Torres_2025.pdf"
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Reportagem • Publicação VAELITH: 30/10/2026.",
+      "A Unioeste informou em 27 de outubro de 2026 que Allan Thierry Branco Torres recebeu o Prêmio Maria Alba Cincotto no 67º Congresso Brasileiro do Concreto, em Natal. O trabalho premiado investiga pastas de cimento LC3 produzidas com argilas do oeste do Paraná. A novidade é o reconhecimento divulgado pela universidade, não o lançamento de um produto para uso imediato nos canteiros.",
+      "Segundo a instituição, o artigo deriva de pesquisa orientada por Cleber Antônio Lindino. Uma versão ampliada ainda seria submetida à revista Construction and Building Materials. Portanto, essa publicação internacional não deve ser apresentada como concluída.",
+      "O que foi efetivamente estudado",
+      "A dissertação, defendida em dezembro de 2025, analisou seis argilas, calcinadas a 850 °C. Foram produzidos corpos de prova de pasta cimentícia, com cura em água saturada com cal e ensaios aos sete e 28 dias. Não se trata de acompanhamento de uma edificação em serviço. Aos 28 dias, cinco formulações regionais apresentaram resistência estatisticamente compatível com a referência no teste empregado.",
+      "A estimativa ambiental combina consumo de materiais e fatores de emissão. Há, entretanto, divergências numéricas entre resumo, discussão e tabela ambiental da dissertação. Por isso, esta reportagem não adota um percentual único de redução de carbono. Também não transforma ganho de resistência entre duas idades em superioridade sobre o cimento de referência.",
+      "Leitura técnica da VAELITH",
+      "O interesse para a construção brasileira está em investigar matérias-primas locais com caracterização documentada. Isso pode ampliar opções de fornecimento, mas disponibilidade geológica, desempenho de laboratório e viabilidade comercial são perguntas diferentes. Um prêmio reconhece a pesquisa; não substitui a qualificação de um material para determinada aplicação.",
+      "Para uma decisão de compra, a análise precisa avançar para especificação, consistência dos lotes, comportamento do concreto completo, durabilidade no ambiente de exposição e custo entregue na obra. Transporte, processamento, controle e eventuais adaptações de produção também entram nessa comparação. Essas são verificações propostas pela VAELITH, não resultados já demonstrados pelo trabalho.",
+      "As fontes consultadas não fornecem um orçamento comercial auditado nem dados de manutenção em estruturas executadas com essas formulações. A conclusão responsável é reconhecer uma linha promissora de pesquisa e manter explícita a distância entre ensaio, fornecimento industrial e desempenho ao longo da vida útil.",
+      "Fontes consultadas",
+      "Unioeste: pesquisa vence prêmio no Congresso Brasileiro do Concreto — 2026-10-27",
+      "Torres: dissertação sobre propriedades de pastas LC3, Unioeste — 2025-12-19"
+    ]
   }
 ]
