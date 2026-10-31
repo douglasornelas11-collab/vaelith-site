@@ -3732,5 +3732,129 @@
       "Unioeste: pesquisa vence prêmio no Congresso Brasileiro do Concreto — 2026-10-27",
       "Torres: dissertação sobre propriedades de pastas LC3, Unioeste — 2025-12-19"
     ]
+  },
+  {
+    "title": "Bioincrustação: projeto brasileiro estudará organismos em aço submerso",
+    "dek": "Pesquisa em andamento prevê observar organismos em placas de aço submersas; ainda não há resultado de redução de consumo ou manutenção.",
+    "region": "Brasil",
+    "technicalTakeaway": "Pesquisa em andamento prevê observar organismos em placas de aço submersas; ainda não há resultado de redução de consumo ou manutenção.",
+    "sourceUrl": "https://agencia.fapesp.br/index.php/algas-revelam-impactos-da-mudanca-climatica-do-litoral-brasileiro-a-antartica/59519",
+    "sourceLanguage": "pt",
+    "publishedAt": "2026-10-31T11:46:17.725840+00:00",
+    "modifiedAt": "2026-10-31T11:46:17.725840+00:00",
+    "slug": "bioincrustacao-algas-clima-aco-submerso-pesquisa-20261031",
+    "category": "Tecnologia",
+    "categorySlug": "tecnologia",
+    "contentType": "research",
+    "sourceName": "Agência FAPESP — Algas & Clima",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-10-31",
+    "dateDisplay": "31 out 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/567d8af71f7f07680b2ca0dc9f6b10824babad8c-1672x941.jpg",
+    "imageAlt": "Ilustração conceitual de placas de aço submersas para estudo de bioincrustação. Não representa experimento real.",
+    "imageCaption": "Ilustração conceitual de placas de aço submersas para estudo de bioincrustação. Não representa experimento real.",
+    "imageCredit": "VAELITH — ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "marks": [],
+            "text": "Pesquisa em andamento • Publicado em 31/10/2026. Fonte principal de 2026-10-30."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "marks": [],
+            "text": "O projeto Algas & Clima pretende investigar a formação de biofilmes e a fixação de organismos em superfícies submersas. Segundo reportagem da Agência FAPESP publicada em 30 de outubro, estão previstos ensaios com placas de aço no canal de Beagle, no sul do Chile."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2",
+            "marks": [],
+            "text": "A investigação integra uma iniciativa coordenada na USP, com 35 grupos de pesquisa. A primeira expedição partiu de Florianópolis em 26 de outubro para estudar o litoral catarinense."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s3",
+            "marks": [],
+            "text": "O interesse para a engenharia marítima está na bioincrustação: o acúmulo de organismos em cascos aumenta a resistência ao deslocamento e exige limpeza periódica. Observar esse processo poderá ampliar o conhecimento necessário para discutir manutenção."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s4",
+            "marks": [],
+            "text": "Ainda se trata de pesquisa em andamento. A divulgação não demonstra redução de combustível, frequência de limpeza ou custo de manutenção obtida com uma solução nova. Também não apresenta revestimento pronto para aplicação. A contribuição possível para o Brasil deve ser acompanhada pelos resultados dos experimentos, sem converter expectativa científica em desempenho comprovado."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "fonte",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "linkfonte",
+            "_type": "link",
+            "href": "https://agencia.fapesp.br/index.php/algas-revelam-impactos-da-mudanca-climatica-do-litoral-brasileiro-a-antartica/59519"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "fontespan",
+            "marks": [
+              "linkfonte"
+            ],
+            "text": "Fonte: Agência FAPESP — Algas & Clima, 30/10/2026"
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Pesquisa em andamento • Publicado em 31/10/2026. Fonte principal de 2026-10-30.",
+      "O projeto Algas & Clima pretende investigar a formação de biofilmes e a fixação de organismos em superfícies submersas. Segundo reportagem da Agência FAPESP publicada em 30 de outubro, estão previstos ensaios com placas de aço no canal de Beagle, no sul do Chile.",
+      "A investigação integra uma iniciativa coordenada na USP, com 35 grupos de pesquisa. A primeira expedição partiu de Florianópolis em 26 de outubro para estudar o litoral catarinense.",
+      "O interesse para a engenharia marítima está na bioincrustação: o acúmulo de organismos em cascos aumenta a resistência ao deslocamento e exige limpeza periódica. Observar esse processo poderá ampliar o conhecimento necessário para discutir manutenção.",
+      "Ainda se trata de pesquisa em andamento. A divulgação não demonstra redução de combustível, frequência de limpeza ou custo de manutenção obtida com uma solução nova. Também não apresenta revestimento pronto para aplicação. A contribuição possível para o Brasil deve ser acompanhada pelos resultados dos experimentos, sem converter expectativa científica em desempenho comprovado.",
+      "Fonte: Agência FAPESP — Algas & Clima, 30/10/2026"
+    ]
   }
 ]
