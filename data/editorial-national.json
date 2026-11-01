@@ -3856,5 +3856,164 @@
       "Ainda se trata de pesquisa em andamento. A divulgação não demonstra redução de combustível, frequência de limpeza ou custo de manutenção obtida com uma solução nova. Também não apresenta revestimento pronto para aplicação. A contribuição possível para o Brasil deve ser acompanhada pelos resultados dos experimentos, sem converter expectativa científica em desempenho comprovado.",
       "Fonte: Agência FAPESP — Algas & Clima, 30/10/2026"
     ]
+  },
+  {
+    "title": "Mais cimento não garante tijolo de solo-cimento mais eficiente",
+    "slug": "pesquisa-usp-solo-cimento-eficiencia-ligante-20261101",
+    "dek": "Dissertação do IAU-USP relaciona consumo de ligante e resistência mecânica para testar uma promessa comum da construção sustentável.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Dissertação do IAU-USP relaciona consumo de ligante e resistência mecânica para testar uma promessa comum da construção sustentável.",
+    "sourceUrl": "https://teses.usp.br/teses/disponiveis/102/102131/tde-07042026-153310/pt-br.html",
+    "sourceLanguage": "pt",
+    "sourceName": "IAU-USP",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-11-01",
+    "dateDisplay": "01 nov 2026",
+    "publishedAt": "2026-11-01T11:46:21.132911Z",
+    "modifiedAt": "2026-11-01T11:46:21.132911Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/27a0f5f4de18520ec6697e833a9d11a842cf94a6-1122x1402.png",
+    "imageAlt": "Ilustração conceitual sobre Pesquisa & Ciência, com a marca VAELITH; não representa obra específica.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia de obra, projeto vencedor, local estudado ou resultado experimental específico.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "format",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s",
+            "text": "Explicação de pesquisa publicada em abril de 2026. Esta matéria não anuncia uma descoberta nova desta semana.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Usar terra como principal matéria-prima não torna um tijolo automaticamente sustentável. Essa é uma das conclusões da dissertação de Beatriz Santos Silva Betette, defendida no Instituto de Arquitetura e Urbanismo da USP em 20 de fevereiro de 2026 e disponibilizada no repositório em 9 de abril. O trabalho foi orientado por Bruno Luís Daminelli.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "A pesquisa reuniu dosagens da literatura nacional e internacional publicadas entre 1993 e 2024 e realizou uma etapa experimental com tijolos prensados. Foram caracterizados os materiais e feitos ensaios de resistência à compressão e absorção de água.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://teses.usp.br/teses/disponiveis/102/102131/tde-07042026-153310/pt-br.html"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0a",
+            "text": "Para comparar as misturas, a autora utilizou o Índice de Ligante, que relaciona consumo de ligante e desempenho mecânico. Os resultados indicaram que elevar a quantidade de cimento não assegura melhora proporcional da resistência. Ajustes na distribuição dos tamanhos das partículas também influenciaram o desempenho e a eficiência do material. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s0b",
+            "text": "Dissertação — IAU-USP",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://abcp.org.br/wp-content/uploads/2016/01/ET-35_Solo_cimento_Normas_dosagem_metodos_ensaios.pdf"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0a",
+            "text": "O resultado dialoga com um princípio técnico anterior. A publicação ET-35 da Associação Brasileira de Cimento Portland descreve a dosagem de solo-cimento como uma sequência de ensaios e interpretação, considerando cimento, água e massa específica após a compactação. É uma referência histórica de método, não uma atualização de requisitos normativos para tijolos. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s0b",
+            "text": "ET-35 — ABCP",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "A leitura prática da VAELITH é evitar dois atalhos: escolher a mistura apenas pelo menor consumo de cimento ou assumir que a mais rica em cimento será sempre a melhor. A comparação precisa relacionar recursos empregados e desempenho obtido.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "O índice estudado tampouco deve ser confundido com uma avaliação ambiental completa da edificação. A dissertação fornece evidência experimental e um critério de análise, não uma certificação universal do produto nem uma receita pronta para qualquer solo. Para especificação, continuam necessárias a caracterização dos materiais e a verificação das exigências aplicáveis ao uso pretendido.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Explicação de pesquisa publicada em abril de 2026. Esta matéria não anuncia uma descoberta nova desta semana.",
+      "Usar terra como principal matéria-prima não torna um tijolo automaticamente sustentável. Essa é uma das conclusões da dissertação de Beatriz Santos Silva Betette, defendida no Instituto de Arquitetura e Urbanismo da USP em 20 de fevereiro de 2026 e disponibilizada no repositório em 9 de abril. O trabalho foi orientado por Bruno Luís Daminelli.",
+      "A pesquisa reuniu dosagens da literatura nacional e internacional publicadas entre 1993 e 2024 e realizou uma etapa experimental com tijolos prensados. Foram caracterizados os materiais e feitos ensaios de resistência à compressão e absorção de água.",
+      "Para comparar as misturas, a autora utilizou o Índice de Ligante, que relaciona consumo de ligante e desempenho mecânico. Os resultados indicaram que elevar a quantidade de cimento não assegura melhora proporcional da resistência. Ajustes na distribuição dos tamanhos das partículas também influenciaram o desempenho e a eficiência do material. Dissertação — IAU-USP",
+      "O resultado dialoga com um princípio técnico anterior. A publicação ET-35 da Associação Brasileira de Cimento Portland descreve a dosagem de solo-cimento como uma sequência de ensaios e interpretação, considerando cimento, água e massa específica após a compactação. É uma referência histórica de método, não uma atualização de requisitos normativos para tijolos. ET-35 — ABCP",
+      "A leitura prática da VAELITH é evitar dois atalhos: escolher a mistura apenas pelo menor consumo de cimento ou assumir que a mais rica em cimento será sempre a melhor. A comparação precisa relacionar recursos empregados e desempenho obtido.",
+      "O índice estudado tampouco deve ser confundido com uma avaliação ambiental completa da edificação. A dissertação fornece evidência experimental e um critério de análise, não uma certificação universal do produto nem uma receita pronta para qualquer solo. Para especificação, continuam necessárias a caracterização dos materiais e a verificação das exigências aplicáveis ao uso pretendido."
+    ]
   }
 ]
