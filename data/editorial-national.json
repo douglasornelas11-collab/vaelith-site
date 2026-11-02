@@ -4015,5 +4015,176 @@
       "A leitura prática da VAELITH é evitar dois atalhos: escolher a mistura apenas pelo menor consumo de cimento ou assumir que a mais rica em cimento será sempre a melhor. A comparação precisa relacionar recursos empregados e desempenho obtido.",
       "O índice estudado tampouco deve ser confundido com uma avaliação ambiental completa da edificação. A dissertação fornece evidência experimental e um critério de análise, não uma certificação universal do produto nem uma receita pronta para qualquer solo. Para especificação, continuam necessárias a caracterização dos materiais e a verificação das exigências aplicáveis ao uso pretendido."
     ]
+  },
+  {
+    "title": "Sirius acompanha células solares em funcionamento para investigar como os materiais mudam",
+    "slug": "pesquisa-sirius-celulas-solares-operando-20261102",
+    "dek": "Plataforma do CNPEM acompanha materiais durante a operação; resultado amplia a investigação, não comprova durabilidade comercial.",
+    "category": "Tecnologia",
+    "categorySlug": "tecnologia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Plataforma do CNPEM acompanha materiais durante a operação; resultado amplia a investigação, não comprova durabilidade comercial.",
+    "sourceUrl": "https://pubs.acs.org/psabes/article/doi/10.1021/photonsci.6c00013/5250982",
+    "sourceLanguage": "pt",
+    "sourceName": "CNPEM / Photon Science / Agência FAPESP",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-11-02",
+    "dateDisplay": "02 nov 2026",
+    "publishedAt": "2026-11-02T12:05:15.295028Z",
+    "modifiedAt": "2026-11-02T12:05:15.295028Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/cb002f71fe1eb88ec88cdeb6af64fb9e0f2769bd-1672x941.jpg",
+    "imageAlt": "Ilustração conceitual sobre Tecnologia, com a logo VAELITH; não representa obra específica.",
+    "imageCaption": "Ilustração conceitual original gerada com IA. Não é fotografia de obra, local estudado ou instalação experimental específica.",
+    "imageCredit": "VAELITH / ilustração conceitual gerada com IA",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Pesquisa e tecnologia — artigo científico publicado em 10 de agosto de 2026; divulgação da FAPESP em 2 de outubro.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://pubs.acs.org/psabes/article/doi/10.1021/photonsci.6c00013/5250982"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0a",
+            "text": "Observar um material antes e depois de um teste nem sempre revela o que aconteceu no caminho. Uma plataforma desenvolvida no Laboratório Nacional de Luz Síncrotron, integrante do CNPEM, permite estudar células solares completas enquanto operam, combinando controle ambiental e microscopia de raios X no Sirius, em Campinas. O trabalho, publicado na revista Photon Science, descreve um suporte instalado na estação Tarumã da linha de luz Carnaúba. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s0b",
+            "text": "Fonte: artigo científico",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "O aparato controla temperatura, iluminação, atmosfera e condições elétricas. A engenharia do suporte procura minimizar deslocamentos térmicos para que uma região microscópica continue acessível durante as medições. Na demonstração, os pesquisadores utilizaram uma célula de perovskita e combinaram caracterização elétrica com mapas químicos e estruturais. Entre os resultados apresentados está a observação da expansão da estrutura cristalina quando a temperatura foi elevada de 40 para 65 graus Celsius.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Esse tipo de experimento é chamado de operando: o dispositivo é examinado enquanto trabalha. Sua relevância não está em anunciar imediatamente uma placa solar comercial superior, mas em permitir perguntas mais precisas sobre a relação entre alterações do material e desempenho. Para a cadeia fotovoltaica, entender um mecanismo é uma etapa diferente de demonstrar durabilidade em um produto.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://agencia.fapesp.br/novo-instrumento-no-acelerador-sirius-permite-observar-celulas-solares-em-funcionamento/59318"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0a",
+            "text": "A reportagem da Agência FAPESP informa que o equipamento já está disponível para uso da comunidade científica. Também explicita uma limitação importante: para deixar livre determinada geometria de passagem dos raios X, a iluminação lateral entrega aproximadamente 30% da radiação solar de referência. Melhorar esse arranjo aparece entre os próximos passos. Portanto, “condições de operação” não deve ser entendido como reprodução perfeita de todos os fatores de uma instalação ao ar livre. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s0b",
+            "text": "Fonte: Agência FAPESP",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Na análise da VAELITH, a notícia interessa à construção pela infraestrutura científica que pode apoiar futuras decisões sobre materiais fotovoltaicos. Não autoriza, entretanto, substituir uma especificação de projeto por uma promessa de laboratório. O artigo não estabelece garantia comercial, custo de implantação em edifícios ou vida útil de um sistema instalado.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "O avanço verificado é uma capacidade de investigação: acompanhar transformações químicas e estruturais sem depender apenas de fotografias do início e do fim do experimento. A distância entre esse conhecimento e uma aplicação construtiva deve ser tratada como agenda de desenvolvimento, não escondida como detalhe.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Pesquisa e tecnologia — artigo científico publicado em 10 de agosto de 2026; divulgação da FAPESP em 2 de outubro.",
+      "Observar um material antes e depois de um teste nem sempre revela o que aconteceu no caminho. Uma plataforma desenvolvida no Laboratório Nacional de Luz Síncrotron, integrante do CNPEM, permite estudar células solares completas enquanto operam, combinando controle ambiental e microscopia de raios X no Sirius, em Campinas. O trabalho, publicado na revista Photon Science, descreve um suporte instalado na estação Tarumã da linha de luz Carnaúba. Fonte: artigo científico.",
+      "O aparato controla temperatura, iluminação, atmosfera e condições elétricas. A engenharia do suporte procura minimizar deslocamentos térmicos para que uma região microscópica continue acessível durante as medições. Na demonstração, os pesquisadores utilizaram uma célula de perovskita e combinaram caracterização elétrica com mapas químicos e estruturais. Entre os resultados apresentados está a observação da expansão da estrutura cristalina quando a temperatura foi elevada de 40 para 65 graus Celsius.",
+      "Esse tipo de experimento é chamado de operando: o dispositivo é examinado enquanto trabalha. Sua relevância não está em anunciar imediatamente uma placa solar comercial superior, mas em permitir perguntas mais precisas sobre a relação entre alterações do material e desempenho. Para a cadeia fotovoltaica, entender um mecanismo é uma etapa diferente de demonstrar durabilidade em um produto.",
+      "A reportagem da Agência FAPESP informa que o equipamento já está disponível para uso da comunidade científica. Também explicita uma limitação importante: para deixar livre determinada geometria de passagem dos raios X, a iluminação lateral entrega aproximadamente 30% da radiação solar de referência. Melhorar esse arranjo aparece entre os próximos passos. Portanto, “condições de operação” não deve ser entendido como reprodução perfeita de todos os fatores de uma instalação ao ar livre. Fonte: Agência FAPESP.",
+      "Na análise da VAELITH, a notícia interessa à construção pela infraestrutura científica que pode apoiar futuras decisões sobre materiais fotovoltaicos. Não autoriza, entretanto, substituir uma especificação de projeto por uma promessa de laboratório. O artigo não estabelece garantia comercial, custo de implantação em edifícios ou vida útil de um sistema instalado.",
+      "O avanço verificado é uma capacidade de investigação: acompanhar transformações químicas e estruturais sem depender apenas de fotografias do início e do fim do experimento. A distância entre esse conhecimento e uma aplicação construtiva deve ser tratada como agenda de desenvolvimento, não escondida como detalhe."
+    ]
   }
 ]
