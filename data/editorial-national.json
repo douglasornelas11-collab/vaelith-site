@@ -4187,5 +4187,221 @@
       "O avanço verificado é uma capacidade de investigação: acompanhar transformações químicas e estruturais sem depender apenas de fotografias do início e do fim do experimento. A distância entre esse conhecimento e uma aplicação construtiva deve ser tratada como agenda de desenvolvimento, não escondida como detalhe."
     ],
     "showInPrimaryCategory": true
+  },
+  {
+    "title": "Tomografia ultrassônica investiga o interior do concreto sem abrir a peça",
+    "slug": "tomografia-ultrassonica-concreto-ufsc-limites-diagnostico",
+    "dek": "Trabalho da UFSC registrado em setembro de 2026 explora reconstrução tridimensional, enquanto estudos anteriores ajudam a definir os limites do diagnóstico.",
+    "category": "Tecnologia",
+    "categorySlug": "tecnologia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Para a inspeção, isso reforça o papel da interpretação técnica: a imagem é uma evidência a ser analisada junto às condições do ensaio e à pergunta investigada. A tecnologia pode apoiar o diagnóstico e o planejamento da manutenção, sem transformar um único exame em atestado automático de segurança estrutural.",
+    "sourceUrl": "https://repositorio.ufsc.br/xmlui/handle/123456789/276222?show=full",
+    "sourceLanguage": "pt",
+    "sourceName": "UFSC / UFG",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-11-03",
+    "dateDisplay": "03 nov 2026",
+    "publishedAt": "2026-11-03T11:50:50.992Z",
+    "modifiedAt": "2026-11-03T11:50:50.992Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/c39d7ab8dfc4f170d6acb3d3bb24e858fd65cf8d-1080x1350.jpg",
+    "imageAlt": "Tomografia ultrassônica investiga o interior do concreto sem abrir a peça",
+    "imageCaption": "Ilustração conceitual gerada por IA de ensaio ultrassônico em concreto. A visualização interna não corresponde a um resultado experimental real.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "intro",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "introtext",
+            "text": "Explicação técnica — pesquisas de setembro de 2026 e de 2022, com datas e limites indicados abaixo.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Uma superfície aparentemente uniforme não revela, sozinha, tudo o que existe dentro de um elemento de concreto. A tomografia ultrassônica busca ampliar essa leitura reunindo medições de propagação de ondas e processamento computacional. Em vez de apresentar apenas valores isolados, a técnica permite reconstruir imagens que ajudam a localizar regiões com comportamento diferente no interior da peça.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Um trabalho de Renata Da Rosa Lunkes, orientado por Lourenço Panosso Perlin na Universidade Federal de Santa Catarina, explora essa abordagem em três dimensões. O registro institucional é datado de 10 de setembro de 2026 e foi disponibilizado no repositório em 14 de setembro. Trata-se de uma apresentação de pesquisa cadastrada como vídeo, acompanhada de resumo técnico.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": "O experimento descrito utilizou dois corpos de prova, um deles com uma falha. Transdutores foram posicionados em diferentes faces, com medições organizadas em uma malha regular. Os dados alimentaram a reconstrução tomográfica e a análise da distribuição das velocidades no concreto, permitindo identificar regiões com possíveis descontinuidades.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s3",
+            "text": "O objetivo informado é contribuir para avaliações nas quais métodos convencionais ou representações bidimensionais encontram limitações. O pequeno conjunto de peças descrito caracteriza uma investigação experimental; o resumo não apresenta um índice universal de acerto nem comprova desempenho em todos os tipos de estrutura.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s4",
+            "text": "O Grupo de Pesquisa em Ensaios Não Destrutivos da UFSC explica que o uso da tomografia procura avançar da percepção de uma possível irregularidade para sua localização. A linha de pesquisa também investiga quais dimensões de defeitos podem ser detectadas e como tornar a aquisição de medições mais eficiente.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s5",
+            "text": "Há limites documentados em outros trabalhos brasileiros. Uma dissertação da Universidade Federal de Goiás, de 2022, avaliou tomografia ultrassônica e radar de penetração em concretos de laboratório. A tomografia foi útil para examinar heterogeneidades e vazios internos, mas nenhuma das duas técnicas identificou com precisão as juntas frias de concretagem naquele programa experimental.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s6",
+            "text": "Para a inspeção, isso reforça o papel da interpretação técnica: a imagem é uma evidência a ser analisada junto às condições do ensaio e à pergunta investigada. A tecnologia pode apoiar o diagnóstico e o planejamento da manutenção, sem transformar um único exame em atestado automático de segurança estrutural.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "f0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://repositorio.ufsc.br/xmlui/handle/123456789/276222?show=full"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "x0",
+            "text": "UFSC: registro da pesquisa de tomografia tridimensional (Registro10/09/2026; disponível14/09/2026)",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "f1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l1",
+            "href": "https://gpend.ufsc.br/tomografia-ultrassonica/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "x1",
+            "text": "UFSC/GPEND: linha de pesquisa em tomografia ultrassônica (Página sem data individual; rodapé de última atualização do site em22/11/2019)",
+            "marks": [
+              "l1"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "f2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l2",
+            "href": "https://repositorio.bc.ufg.br/tede/items/947c9c65-134e-468c-a16a-f0f585bbc7a4/full"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "x2",
+            "text": "UFG: dissertação sobre tomografia e radar em concreto (21/12/2022; repositório17/05/2023)",
+            "marks": [
+              "l2"
+            ]
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Explicação técnica — pesquisas de setembro de 2026 e de 2022, com datas e limites indicados abaixo.",
+      "Uma superfície aparentemente uniforme não revela, sozinha, tudo o que existe dentro de um elemento de concreto. A tomografia ultrassônica busca ampliar essa leitura reunindo medições de propagação de ondas e processamento computacional. Em vez de apresentar apenas valores isolados, a técnica permite reconstruir imagens que ajudam a localizar regiões com comportamento diferente no interior da peça.",
+      "Um trabalho de Renata Da Rosa Lunkes, orientado por Lourenço Panosso Perlin na Universidade Federal de Santa Catarina, explora essa abordagem em três dimensões. O registro institucional é datado de 10 de setembro de 2026 e foi disponibilizado no repositório em 14 de setembro. Trata-se de uma apresentação de pesquisa cadastrada como vídeo, acompanhada de resumo técnico.",
+      "O experimento descrito utilizou dois corpos de prova, um deles com uma falha. Transdutores foram posicionados em diferentes faces, com medições organizadas em uma malha regular. Os dados alimentaram a reconstrução tomográfica e a análise da distribuição das velocidades no concreto, permitindo identificar regiões com possíveis descontinuidades.",
+      "O objetivo informado é contribuir para avaliações nas quais métodos convencionais ou representações bidimensionais encontram limitações. O pequeno conjunto de peças descrito caracteriza uma investigação experimental; o resumo não apresenta um índice universal de acerto nem comprova desempenho em todos os tipos de estrutura.",
+      "O Grupo de Pesquisa em Ensaios Não Destrutivos da UFSC explica que o uso da tomografia procura avançar da percepção de uma possível irregularidade para sua localização. A linha de pesquisa também investiga quais dimensões de defeitos podem ser detectadas e como tornar a aquisição de medições mais eficiente.",
+      "Há limites documentados em outros trabalhos brasileiros. Uma dissertação da Universidade Federal de Goiás, de 2022, avaliou tomografia ultrassônica e radar de penetração em concretos de laboratório. A tomografia foi útil para examinar heterogeneidades e vazios internos, mas nenhuma das duas técnicas identificou com precisão as juntas frias de concretagem naquele programa experimental.",
+      "Para a inspeção, isso reforça o papel da interpretação técnica: a imagem é uma evidência a ser analisada junto às condições do ensaio e à pergunta investigada. A tecnologia pode apoiar o diagnóstico e o planejamento da manutenção, sem transformar um único exame em atestado automático de segurança estrutural.",
+      "UFSC: registro da pesquisa de tomografia tridimensional (Registro10/09/2026; disponível14/09/2026)",
+      "UFSC/GPEND: linha de pesquisa em tomografia ultrassônica (Página sem data individual; rodapé de última atualização do site em22/11/2019)",
+      "UFG: dissertação sobre tomografia e radar em concreto (21/12/2022; repositório17/05/2023)"
+    ],
+    "showInPrimaryCategory": true
   }
 ]
