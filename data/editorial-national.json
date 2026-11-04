@@ -4403,5 +4403,206 @@
       "UFG: dissertação sobre tomografia e radar em concreto (21/12/2022; repositório17/05/2023)"
     ],
     "showInPrimaryCategory": true
+  },
+  {
+    "title": "IA para prever enxurradas chega à final da Enap; pesquisa mostra o peso da antecedência",
+    "slug": "cemaden-floodcastingxai-enxurradas-limites-2026",
+    "dek": "FloodcastingXAI integra dados hidrológicos e explicações do modelo; estudo na bacia do Tamanduateí mostra que prever duas horas adiante é mais difícil que prever dez minutos.",
+    "category": "Tecnologia",
+    "categorySlug": "tecnologia",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Métricas do experimento MLP não auditam a plataforma atual; horizonte maior aumenta a incerteza.",
+    "sourceUrl": "https://www.enap.gov.br/pesquisa-e-conhecimento/concursos-e-premiacoes/concurso-de-inovacao-30/escolha-do-p%C3%BAblico/",
+    "sourceLanguage": "pt",
+    "sourceName": "Cemaden / Enap / SBMAC",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-11-04",
+    "dateDisplay": "04 nov 2026",
+    "publishedAt": "2026-11-04T11:57:25.580Z",
+    "modifiedAt": "2026-11-04T11:57:25.580Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/001ae34d31ad80347e506d907bb6fd07bb36308e-1122x1402.jpg",
+    "imageAlt": "Ilustração conceitual gerada por IA de monitoramento de rio urbano; não é imagem da plataforma FloodcastingXAI.",
+    "imageCaption": "Ilustração conceitual gerada por IA de monitoramento de rio urbano; não é imagem da plataforma FloodcastingXAI.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.gov.br/cemaden/pt-br/assuntos/noticias-cemaden/ia-do-cemaden-que-preve-enxurradas-em-tempo-real-e-finalista-em-concurso-nacional-de-inovacao-publica"
+          },
+          {
+            "_type": "link",
+            "_key": "l1",
+            "href": "https://www.enap.gov.br/pesquisa-e-conhecimento/concursos-e-premiacoes/concurso-de-inovacao-30/escolha-do-p%C3%BAblico/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "O Cemaden informou em 3 de novembro que a plataforma FloodcastingXAI está entre as finalistas do 30º Concurso Inovação no Setor Público da Enap, na categoria Inteligência Artificial para o Bem Público. A votação popular vai até 11 de novembro. A novidade é o reconhecimento no concurso: a ferramenta já opera desde 2025, segundo a descrição apresentada à Enap. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Cemaden",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "t1",
+            "text": ", ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a1",
+            "text": "Enap",
+            "marks": [
+              "l1"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.enap.gov.br/pesquisa-e-conhecimento/concursos-e-premiacoes/concurso-de-inovacao-30/escolha-do-p%C3%BAblico/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "Desenvolvida no projeto iFAST, a plataforma reúne monitoramento em tempo real e inteligência artificial explicável para estimar a evolução do nível dos cursos d'água com até duas horas de antecedência. Sensores, pluviômetros, estações meteorológicas e radares alimentam a proposta. A explicabilidade procura tornar compreensível a contribuição das informações para a previsão, mantendo a ferramenta como apoio à decisão sob supervisão humana. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Enap",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://proceedings.sbmac.emnuvens.com.br/sbmac/article/view/5183"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "Uma pesquisa da mesma rede de instituições ajuda a dimensionar o desafio. Publicado em fevereiro de 2026 nos anais da Sociedade Brasileira de Matemática Aplicada e Computacional, um estudo utilizou rede neural MLP e dados de seis estações da bacia do Tamanduateí, coletados a cada dez minutos nos primeiros trimestres de 2018 a 2022. O alvo foi prever o nível na estação Mercado Municipal. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Estudo na SBMAC",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://proceedings.sbmac.emnuvens.com.br/sbmac/article/view/5183"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "No experimento, o indicador de eficiência Nash–Sutcliffe caiu de 0,9903 para a previsão de dez minutos a 0,6775 para a de 120 minutos. Os autores apontaram perda de desempenho com o aumento do horizonte e propuseram incorporar variáveis ambientais e modelos físicos. Esses resultados pertencem àquele teste, não constituem auditoria da plataforma operacional atual. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Estudo na SBMAC",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Para gestores de infraestrutura, essa distinção é decisiva: antecedência anunciada precisa ser acompanhada de desempenho por local e condição. A apresentação do concurso não quantifica redução de danos nem custo de implantação por município. O avanço documentado está na integração de dados e no apoio à leitura do risco, com limites que precisam permanecer visíveis.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "O Cemaden informou em 3 de novembro que a plataforma FloodcastingXAI está entre as finalistas do 30º Concurso Inovação no Setor Público da Enap, na categoria Inteligência Artificial para o Bem Público. A votação popular vai até 11 de novembro. A novidade é o reconhecimento no concurso: a ferramenta já opera desde 2025, segundo a descrição apresentada à Enap. Cemaden, Enap.",
+      "Desenvolvida no projeto iFAST, a plataforma reúne monitoramento em tempo real e inteligência artificial explicável para estimar a evolução do nível dos cursos d'água com até duas horas de antecedência. Sensores, pluviômetros, estações meteorológicas e radares alimentam a proposta. A explicabilidade procura tornar compreensível a contribuição das informações para a previsão, mantendo a ferramenta como apoio à decisão sob supervisão humana. Enap.",
+      "Uma pesquisa da mesma rede de instituições ajuda a dimensionar o desafio. Publicado em fevereiro de 2026 nos anais da Sociedade Brasileira de Matemática Aplicada e Computacional, um estudo utilizou rede neural MLP e dados de seis estações da bacia do Tamanduateí, coletados a cada dez minutos nos primeiros trimestres de 2018 a 2022. O alvo foi prever o nível na estação Mercado Municipal. Estudo na SBMAC.",
+      "No experimento, o indicador de eficiência Nash–Sutcliffe caiu de 0,9903 para a previsão de dez minutos a 0,6775 para a de 120 minutos. Os autores apontaram perda de desempenho com o aumento do horizonte e propuseram incorporar variáveis ambientais e modelos físicos. Esses resultados pertencem àquele teste, não constituem auditoria da plataforma operacional atual. Estudo na SBMAC.",
+      "Para gestores de infraestrutura, essa distinção é decisiva: antecedência anunciada precisa ser acompanhada de desempenho por local e condição. A apresentação do concurso não quantifica redução de danos nem custo de implantação por município. O avanço documentado está na integração de dados e no apoio à leitura do risco, com limites que precisam permanecer visíveis."
+    ],
+    "showInPrimaryCategory": true
   }
 ]
