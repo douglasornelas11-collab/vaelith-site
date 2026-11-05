@@ -4604,5 +4604,1052 @@
       "Para gestores de infraestrutura, essa distinção é decisiva: antecedência anunciada precisa ser acompanhada de desempenho por local e condição. A apresentação do concurso não quantifica redução de danos nem custo de implantação por município. O avanço documentado está na integração de dados e no apoio à leitura do risco, com limites que precisam permanecer visíveis."
     ],
     "showInPrimaryCategory": true
+  },
+  {
+    "title": "ANTT recebe até 13 de novembro contribuições sobre novo fluxo para obras concedidas",
+    "slug": "antt-contribuicoes-novo-fluxo-obras-concedidas-20261105",
+    "dek": "Proposta experimental prevê projetos executivos certificados e controle por risco; participação é restrita a representantes habilitados.",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "news",
+    "region": "Brasil",
+    "technicalTakeaway": "O fluxo proposto combina projeto executivo certificado, acompanhamento da execução e controle posterior por risco, preservando licenças e responsabilidades técnicas.",
+    "sourceUrl": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias-antt/antt-realiza-reuniao-participativa-no-07-2026-sobre-simplificacao-da-autorizacao-de-obras-rodoviarias",
+    "sourceLanguage": "pt",
+    "sourceName": "ANTT",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-11-05",
+    "dateDisplay": "05 nov 2026",
+    "publishedAt": "2026-11-05T11:50:15.080Z",
+    "modifiedAt": "2026-11-05T11:50:15.080Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/8eeebf7d78c6e0c095a3a817650f35b50bb01e5f-1080x1350.jpg",
+    "imageAlt": "Proposta da ANTT discute certificação e controle por risco na autorização de obras rodoviárias.",
+    "imageCaption": "Proposta da ANTT discute certificação e controle por risco na autorização de obras rodoviárias.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=5411&cod_modulo=161&numeroAto=00000007&orgao=SUROD/ANTT/MT&seqAto=000&tipo=REU&valorAno=2026"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "A Agência Nacional de Transportes Terrestres mantém até 13 de novembro, às 18h, horário de Brasília, o recebimento de contribuições para um procedimento experimental de análise de projetos e autorização de obras rodoviárias. O prazo integra a Reunião Participativa Restrita nº 007/2026, cuja sessão ocorreu em 23 de outubro. A participação não é aberta indistintamente: o aviso prevê representantes de instituições e entidades convidadas, devidamente habilitados. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Aviso oficial",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias-antt/antt-abre-prazo-para-contribuicoes-sobre-novo-procedimento-para-projetos-e-obras-em-rodovias-concedidas"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "O chamado sandbox regulatório pretende testar um caminho alternativo para intervenções obrigatórias previstas nos contratos de concessão e nos Programas de Exploração da Rodovia. Segundo a agência, a proposta busca avaliar procedimentos em ambiente controlado, durante período determinado, sem afastar obrigações contratuais ou a fiscalização. A comunicação inicial foi publicada em 16 de outubro e atualizada em 28 de outubro. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Comunicado de abertura",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Na minuta apresentada, as obras admitidas no experimento poderiam dispensar a análise prévia do anteprojeto pela Gerência de Engenharia Rodoviária. A concessionária entregaria diretamente o projeto executivo certificado por Organismo de Inspeção Acreditado, observadas as condições estabelecidas para obter a autorização de início.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "A mudança proposta desloca parte da atenção regulatória para o acompanhamento da execução e a avaliação posterior de projetos, com critérios de risco. Licenças ambientais e outras autorizações continuam necessárias. Também permanecem as responsabilidades das concessionárias e dos profissionais envolvidos.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Para projetistas e gestores de contratos, o ponto central é acompanhar como certificação, documentação e fiscalização se articulam no novo fluxo. A ANTT pretende observar inclusive fatores externos, como disponibilidade de organismos de inspeção e interferências de terceiros.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias-antt/antt-realiza-reuniao-participativa-no-07-2026-sobre-simplificacao-da-autorizacao-de-obras-rodoviarias"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "Ainda se trata de uma proposta em discussão. Não há, nas fontes consultadas, demonstração de redução efetiva de prazos nem autorização geral para adotar o procedimento. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Relato técnico da reunião",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "A Agência Nacional de Transportes Terrestres mantém até 13 de novembro, às 18h, horário de Brasília, o recebimento de contribuições para um procedimento experimental de análise de projetos e autorização de obras rodoviárias. O prazo integra a Reunião Participativa Restrita nº 007/2026, cuja sessão ocorreu em 23 de outubro. A participação não é aberta indistintamente: o aviso prevê representantes de instituições e entidades convidadas, devidamente habilitados. Aviso oficial.",
+      "O chamado sandbox regulatório pretende testar um caminho alternativo para intervenções obrigatórias previstas nos contratos de concessão e nos Programas de Exploração da Rodovia. Segundo a agência, a proposta busca avaliar procedimentos em ambiente controlado, durante período determinado, sem afastar obrigações contratuais ou a fiscalização. A comunicação inicial foi publicada em 16 de outubro e atualizada em 28 de outubro. Comunicado de abertura.",
+      "Na minuta apresentada, as obras admitidas no experimento poderiam dispensar a análise prévia do anteprojeto pela Gerência de Engenharia Rodoviária. A concessionária entregaria diretamente o projeto executivo certificado por Organismo de Inspeção Acreditado, observadas as condições estabelecidas para obter a autorização de início.",
+      "A mudança proposta desloca parte da atenção regulatória para o acompanhamento da execução e a avaliação posterior de projetos, com critérios de risco. Licenças ambientais e outras autorizações continuam necessárias. Também permanecem as responsabilidades das concessionárias e dos profissionais envolvidos.",
+      "Para projetistas e gestores de contratos, o ponto central é acompanhar como certificação, documentação e fiscalização se articulam no novo fluxo. A ANTT pretende observar inclusive fatores externos, como disponibilidade de organismos de inspeção e interferências de terceiros.",
+      "Ainda se trata de uma proposta em discussão. Não há, nas fontes consultadas, demonstração de redução efetiva de prazos nem autorização geral para adotar o procedimento. Relato técnico da reunião."
+    ]
+  },
+  {
+    "title": "Eleições do CAU mobilizam arquitetos nesta quinta-feira, 5 de novembro",
+    "slug": "eleicoes-cau-arquitetos-votacao-20261105",
+    "dek": "Votação pela internet escolhe conselheiros para o mandato 2027–2029; resultado preliminar está previsto para sexta-feira.",
+    "category": "Arquitetura",
+    "categorySlug": "arquitetura",
+    "contentType": "news",
+    "region": "Brasil",
+    "technicalTakeaway": "A votação escolhe conselheiros; a eleição dos presidentes ocorrerá nos respectivos plenários. Resultados preliminares e homologados são etapas distintas.",
+    "sourceUrl": "https://eleicoes2026.caubr.gov.br/perguntas-frequentes/",
+    "sourceLanguage": "pt",
+    "sourceName": "CAU/BR",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-11-05",
+    "dateDisplay": "05 nov 2026",
+    "publishedAt": "2026-11-05T11:50:15.080Z",
+    "modifiedAt": "2026-11-05T11:50:15.080Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/6ad89e6da156cc0db40a45fd017756757abe8a81-1080x1350.jpg",
+    "imageAlt": "Eleições do CAU definem a representação profissional para o mandato de 2027 a 2029.",
+    "imageCaption": "Eleições do CAU definem a representação profissional para o mandato de 2027 a 2029.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://eleicoes2026.caubr.gov.br/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "Arquitetos e urbanistas participam nesta quinta-feira, 5 de novembro, das eleições para os conselhos estaduais, do Distrito Federal e o Conselho de Arquitetura e Urbanismo do Brasil. A votação é exclusivamente pela internet e, conforme as orientações oficiais, ocorre até 23h59, horário de Brasília. O portal eleitoral reúne os caminhos para consultar chapas, informações estaduais e o sistema eleitoral. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Portal Eleições CAU 2026",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://caubr.gov.br/eleicoes-cau-2026-o-que-arquitetos-e-urbanistas-precisam-saber-para-votar/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "O pleito define os conselheiros que atuarão entre 1º de janeiro de 2027 e 31 de dezembro de 2029. Segundo o CAU/BR, suas atribuições abrangem fiscalização, julgamento de processos éticos, orçamento e políticas de valorização profissional. A escolha, portanto, interfere na condução institucional da profissão para além do dia da votação. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Apresentação do pleito",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "A disputa é organizada por chapas. Nos conselhos estaduais, a distribuição das vagas segue a proporção de votos recebidos. Os presidentes dos conselhos não são escolhidos diretamente pelos profissionais nesta etapa: serão eleitos pelos respectivos plenários. Há ainda votação específica para a representação das instituições de ensino superior.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Antes de participar, o profissional pode consultar as candidaturas e os planos de trabalho divulgados nos canais oficiais. O FAQ informa que a aptidão depende da presença nos colégios eleitorais qualificados, não apenas da inclusão nas listas usadas anteriormente para calcular o número de conselheiros.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "O calendário prevê publicação dos resultados preliminares em 6 de novembro. A divulgação dos resultados homologados, inclusive no Diário Oficial da União, está prevista até 27 de novembro.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://eleicoes2026.caubr.gov.br/perguntas-frequentes/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "Quem não conseguir votar encontra nas orientações do Conselho o procedimento de justificativa pelo SICCAU, com prazo até 31 de dezembro. Para questões individuais sobre habilitação ou acesso, a referência deve ser o atendimento do CAU e a documentação eleitoral vigente. Até a conclusão da apuração, não há base para antecipar vencedores ou a composição definitiva dos plenários. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Perguntas frequentes oficiais",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Arquitetos e urbanistas participam nesta quinta-feira, 5 de novembro, das eleições para os conselhos estaduais, do Distrito Federal e o Conselho de Arquitetura e Urbanismo do Brasil. A votação é exclusivamente pela internet e, conforme as orientações oficiais, ocorre até 23h59, horário de Brasília. O portal eleitoral reúne os caminhos para consultar chapas, informações estaduais e o sistema eleitoral. Portal Eleições CAU 2026.",
+      "O pleito define os conselheiros que atuarão entre 1º de janeiro de 2027 e 31 de dezembro de 2029. Segundo o CAU/BR, suas atribuições abrangem fiscalização, julgamento de processos éticos, orçamento e políticas de valorização profissional. A escolha, portanto, interfere na condução institucional da profissão para além do dia da votação. Apresentação do pleito.",
+      "A disputa é organizada por chapas. Nos conselhos estaduais, a distribuição das vagas segue a proporção de votos recebidos. Os presidentes dos conselhos não são escolhidos diretamente pelos profissionais nesta etapa: serão eleitos pelos respectivos plenários. Há ainda votação específica para a representação das instituições de ensino superior.",
+      "Antes de participar, o profissional pode consultar as candidaturas e os planos de trabalho divulgados nos canais oficiais. O FAQ informa que a aptidão depende da presença nos colégios eleitorais qualificados, não apenas da inclusão nas listas usadas anteriormente para calcular o número de conselheiros.",
+      "O calendário prevê publicação dos resultados preliminares em 6 de novembro. A divulgação dos resultados homologados, inclusive no Diário Oficial da União, está prevista até 27 de novembro.",
+      "Quem não conseguir votar encontra nas orientações do Conselho o procedimento de justificativa pelo SICCAU, com prazo até 31 de dezembro. Para questões individuais sobre habilitação ou acesso, a referência deve ser o atendimento do CAU e a documentação eleitoral vigente. Até a conclusão da apuração, não há base para antecipar vencedores ou a composição definitiva dos plenários. Perguntas frequentes oficiais."
+    ]
+  },
+  {
+    "title": "Obras industriais no Pará colocam gestão e consórcios no centro do debate",
+    "slug": "obras-industriais-para-gestao-consorcios-20261105",
+    "dek": "Fórum realizado em Belém apresenta oportunidades ligadas à mineração e reforça a preparação empresarial para contratos complexos.",
+    "category": "Mercado",
+    "categorySlug": "mercado",
+    "contentType": "analysis",
+    "region": "Brasil",
+    "technicalTakeaway": "Consórcios podem combinar competências para projetos complexos, mas dependem de responsabilidades claras, governança e capacidade de execução.",
+    "sourceUrl": "https://cbic.org.br/cbic-reforca-importancia-da-qualificacao-empresarial-para-novos-investimentos-no-para/",
+    "sourceLanguage": "pt",
+    "sourceName": "CBIC",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-11-05",
+    "dateDisplay": "05 nov 2026",
+    "publishedAt": "2026-11-05T11:50:15.080Z",
+    "modifiedAt": "2026-11-05T11:50:15.080Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/19f08add7f1c54152f50b0fdc4ac66631f8b65a4-1080x1350.jpg",
+    "imageAlt": "Debate em Belém destaca preparação empresarial e governança para obras industriais no Pará.",
+    "imageCaption": "Debate em Belém destaca preparação empresarial e governança para obras industriais no Pará.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "intro-analysis",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s",
+            "text": "Análise VAELITH baseada no relato da CBIC de 4 de novembro de 2026 e na programação oficial do encontro.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "A preparação das construtoras para grandes projetos industriais ganhou destaque no encontro da Câmara Brasileira da Indústria da Construção realizado em Belém em 4 de novembro. Em relato publicado na mesma data, a entidade informou que o Fórum de Obras Industriais e Corporativas discutiu maturidade empresarial, perspectivas da mineração paraense e colaboração entre fornecedores.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Segundo a CBIC, Rafael Raposo, responsável por Suprimentos da Vale Base Metals, apresentou perspectivas de expansão de projetos minerais, com foco no crescimento da produção de cobre até 2035. O debate destacou planejamento, qualificação de fornecedores, conhecimento regional e segurança. Essas manifestações devem ser tratadas como perspectivas apresentadas no evento, e não como comprovação de contratos já adjudicados.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://cbic.org.br/cbic-reforca-importancia-da-qualificacao-empresarial-para-novos-investimentos-no-para/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "O fórum também marcou o lançamento do Guia de Formação e Gestão de Consórcios para Obras Industriais e Corporativas. Na apresentação, a associação entre empresas foi abordada como forma de combinar capacidades técnicas, operacionais e financeiras, acompanhada da necessidade de governança. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Relato da CBIC, de 4 de novembro",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://portal.cbic.org.br/eventos/865M6ZP"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "A programação oficial ajuda a situar esse debate: o encontro de 4 e 5 de novembro, na sede da FIEPA, reservou espaço à demanda de engenharia, construção e montagem vinculada a investimentos industriais no Pará. Para esta quinta-feira, também estavam previstos painéis sobre habitação, sustentabilidade e cadeia de fornecimento da Margem Equatorial. São agendas distintas, que não devem ser somadas como uma carteira única de obras. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Programa do encontro",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Na leitura da VAELITH, o sinal para empresas locais é a importância de preparar capacidade de execução antes de disputar contratos maiores. Um consórcio pode reunir competências complementares, mas exige definição de responsabilidades, processos de decisão e controles.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "O encontro oferece uma indicação dos temas que mobilizam contratantes e fornecedores. Não permite, sozinho, estimar o volume de negócios acessível, garantir demanda futura ou afirmar que a participação em consórcios assegurará contratações.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Análise VAELITH baseada no relato da CBIC de 4 de novembro de 2026 e na programação oficial do encontro.",
+      "A preparação das construtoras para grandes projetos industriais ganhou destaque no encontro da Câmara Brasileira da Indústria da Construção realizado em Belém em 4 de novembro. Em relato publicado na mesma data, a entidade informou que o Fórum de Obras Industriais e Corporativas discutiu maturidade empresarial, perspectivas da mineração paraense e colaboração entre fornecedores.",
+      "Segundo a CBIC, Rafael Raposo, responsável por Suprimentos da Vale Base Metals, apresentou perspectivas de expansão de projetos minerais, com foco no crescimento da produção de cobre até 2035. O debate destacou planejamento, qualificação de fornecedores, conhecimento regional e segurança. Essas manifestações devem ser tratadas como perspectivas apresentadas no evento, e não como comprovação de contratos já adjudicados.",
+      "O fórum também marcou o lançamento do Guia de Formação e Gestão de Consórcios para Obras Industriais e Corporativas. Na apresentação, a associação entre empresas foi abordada como forma de combinar capacidades técnicas, operacionais e financeiras, acompanhada da necessidade de governança. Relato da CBIC, de 4 de novembro.",
+      "A programação oficial ajuda a situar esse debate: o encontro de 4 e 5 de novembro, na sede da FIEPA, reservou espaço à demanda de engenharia, construção e montagem vinculada a investimentos industriais no Pará. Para esta quinta-feira, também estavam previstos painéis sobre habitação, sustentabilidade e cadeia de fornecimento da Margem Equatorial. São agendas distintas, que não devem ser somadas como uma carteira única de obras. Programa do encontro.",
+      "Na leitura da VAELITH, o sinal para empresas locais é a importância de preparar capacidade de execução antes de disputar contratos maiores. Um consórcio pode reunir competências complementares, mas exige definição de responsabilidades, processos de decisão e controles.",
+      "O encontro oferece uma indicação dos temas que mobilizam contratantes e fornecedores. Não permite, sozinho, estimar o volume de negócios acessível, garantir demanda futura ou afirmar que a participação em consórcios assegurará contratações."
+    ]
+  },
+  {
+    "title": "Preço global e unitário: a medição precisa seguir o regime da obra",
+    "slug": "explicacao-medicao-regime-preco-global-unitario-20261105",
+    "dek": "Explicação VAELITH: planilhas de custos e etapas de pagamento cumprem papéis diferentes; critérios devem ser claros antes da execução.",
+    "category": "Gestão",
+    "categorySlug": "gestao",
+    "contentType": "analysis",
+    "region": "Brasil",
+    "technicalTakeaway": "Uma planilha de custos unitários não transforma automaticamente um contrato global em medição por quantidades.",
+    "sourceUrl": "https://licitacoesecontratos.tcu.gov.br/4-4-1-regimes-de-execucao-de-obras-e-servicos-de-engenharia-2/",
+    "sourceLanguage": "pt",
+    "sourceName": "TCU",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-11-05",
+    "dateDisplay": "05 nov 2026",
+    "publishedAt": "2026-11-05T11:50:15.080Z",
+    "modifiedAt": "2026-11-05T11:50:15.080Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/6784ba4ed716347f5424039b0188d6ef09aa478f-1080x1350.jpg",
+    "imageAlt": "Ilustração conceitual gerada por IA de conferência de obra; não retrata empreendimento, fiscalização ou contrato específicos.",
+    "imageCaption": "Ilustração conceitual gerada por IA de conferência de obra; não retrata empreendimento, fiscalização ou contrato específicos.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Explicação | Editorial VAELITH. Publicada em 5 de novembro de 2026, com base no manual de Licitações e Contratos do TCU, atualizado em 29 de agosto de 2025. Este texto organiza conceitos já existentes; não anuncia uma regra nova.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Um contrato pode conter uma planilha detalhada de materiais e serviços e, ainda assim, prever pagamento por etapas concluídas. Confundir esses dois instrumentos cria uma dificuldade prática: a equipe passa a medir o que é fácil contar, em vez de demonstrar a entrega contratualmente prevista.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://licitacoesecontratos.tcu.gov.br/4-4-1-regimes-de-execucao-de-obras-e-servicos-de-engenharia-2/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "O TCU explica que o regime de execução influencia a gestão e a forma de pagamento. Na empreitada por preço global e nos demais regimes indicados no artigo 46, parágrafo 9º, da Lei 14.133/2021, a medição deve acompanhar etapas do cronograma físico-financeiro vinculadas a metas de resultado. A existência de custos unitários continua útil ao orçamento e a ajustes admitidos, mas não autoriza substituir essa lógica por uma remuneração baseada em quantidades de itens. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "TCU: regimes de execução",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "epu",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "epulink",
+            "href": "https://licitacoesecontratos.tcu.gov.br/4-4-1-1-empreitada-por-preco-unitario-epu/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "marks": [],
+            "text": "Na empreitada por preço unitário, a lógica é diferente: os serviços efetivamente executados são aferidos e remunerados pelas unidades contratadas. O TCU associa esse regime a situações em que os quantitativos têm maior incerteza, como reformas ou movimentação de terra. A escolha não elimina o dever de fiscalizar qualidade e conformidade. "
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "marks": [
+              "epulink"
+            ],
+            "text": "TCU: preço unitário"
+          },
+          {
+            "_type": "span",
+            "_key": "s3",
+            "marks": [],
+            "text": "."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Como exemplo hipotético, imagine uma etapa contratual de instalações concluídas e verificadas em uma escola. Registrar que chegaram cabos e equipamentos não basta para demonstrar que a instalação prevista foi entregue. O que comprova a etapa depende do escopo, dos testes e dos critérios de aceitação definidos para aquele contrato. O exemplo não descreve uma obra real.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "A recomendação editorial da VAELITH é organizar cada etapa em três perguntas: o que deve estar pronto, que evidência demonstra isso e quem a confere. Fotografias, registros de ensaio e documentos de fiscalização precisam corresponder ao serviço e ao período analisados. Um percentual isolado, sem memória de aferição, deixa essas perguntas sem resposta.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://licitacoesecontratos.tcu.gov.br/4-3-7-criterios-de-medicao-e-de-pagamento-2/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "Também é necessário separar medição, recebimento, liquidação e pagamento. O manual orienta definir previamente critérios e periodicidade, além das condições e prazos financeiros. A antecipação de pagamento é excepcional e depende de requisitos próprios; não deve ser presumida apenas porque materiais chegaram ao canteiro. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "TCU: critérios de medição e pagamento",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Essa organização não substitui análise técnica e jurídica do contrato aplicável. Seu propósito é evitar que o controle se reduza a preencher uma planilha: medir bem significa demonstrar, de maneira verificável, qual entrega foi efetivamente cumprida.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Explicação | Editorial VAELITH. Publicada em 5 de novembro de 2026, com base no manual de Licitações e Contratos do TCU, atualizado em 29 de agosto de 2025. Este texto organiza conceitos já existentes; não anuncia uma regra nova.",
+      "Um contrato pode conter uma planilha detalhada de materiais e serviços e, ainda assim, prever pagamento por etapas concluídas. Confundir esses dois instrumentos cria uma dificuldade prática: a equipe passa a medir o que é fácil contar, em vez de demonstrar a entrega contratualmente prevista.",
+      "O TCU explica que o regime de execução influencia a gestão e a forma de pagamento. Na empreitada por preço global e nos demais regimes indicados no artigo 46, parágrafo 9º, da Lei 14.133/2021, a medição deve acompanhar etapas do cronograma físico-financeiro vinculadas a metas de resultado. A existência de custos unitários continua útil ao orçamento e a ajustes admitidos, mas não autoriza substituir essa lógica por uma remuneração baseada em quantidades de itens. TCU: regimes de execução.",
+      "Na empreitada por preço unitário, a lógica é diferente: os serviços efetivamente executados são aferidos e remunerados pelas unidades contratadas. O TCU associa esse regime a situações em que os quantitativos têm maior incerteza, como reformas ou movimentação de terra. A escolha não elimina o dever de fiscalizar qualidade e conformidade. TCU: preço unitário.",
+      "Como exemplo hipotético, imagine uma etapa contratual de instalações concluídas e verificadas em uma escola. Registrar que chegaram cabos e equipamentos não basta para demonstrar que a instalação prevista foi entregue. O que comprova a etapa depende do escopo, dos testes e dos critérios de aceitação definidos para aquele contrato. O exemplo não descreve uma obra real.",
+      "A recomendação editorial da VAELITH é organizar cada etapa em três perguntas: o que deve estar pronto, que evidência demonstra isso e quem a confere. Fotografias, registros de ensaio e documentos de fiscalização precisam corresponder ao serviço e ao período analisados. Um percentual isolado, sem memória de aferição, deixa essas perguntas sem resposta.",
+      "Também é necessário separar medição, recebimento, liquidação e pagamento. O manual orienta definir previamente critérios e periodicidade, além das condições e prazos financeiros. A antecipação de pagamento é excepcional e depende de requisitos próprios; não deve ser presumida apenas porque materiais chegaram ao canteiro. TCU: critérios de medição e pagamento.",
+      "Essa organização não substitui análise técnica e jurídica do contrato aplicável. Seu propósito é evitar que o controle se reduza a preencher uma planilha: medir bem significa demonstrar, de maneira verificável, qual entrega foi efetivamente cumprida."
+    ]
+  },
+  {
+    "title": "Pesquisa brasileira abre espaço para plataformas digitais fora dos jardins fechados",
+    "slug": "plataformas-digitais-abertas-fapesp-cgibr-2026",
+    "dek": "Chamada de R$ 21 milhões prevê submissões a partir de 5 de novembro e combina desenvolvimento de software livre, modelos de negócio e impacto socioambiental.",
+    "category": "Tecnologia",
+    "categorySlug": "tecnologia",
+    "contentType": "news",
+    "region": "Brasil",
+    "technicalTakeaway": "Financiamento para pesquisa em software livre e protocolos abertos combina engenharia, viabilidade econômica e impacto socioambiental. O cronograma prevê submissões de 05/11/2026 a 22/02/2027; não representa produtos ou resultados já entregues.",
+    "sourceUrl": "https://fapesp.br/index.php/18444/chamada-de-propostas-fapespmctimcomcgibr-2026-para-auxilio-a-pesquisa-regular-apr-e-projeto-tematico",
+    "sourceLanguage": "pt",
+    "sourceName": "FAPESP / CGI.br",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-11-05",
+    "dateDisplay": "05 nov 2026",
+    "publishedAt": "2026-11-05T11:50:15.080Z",
+    "modifiedAt": "2026-11-05T11:50:15.080Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/c34c8756e8aa2f2509d080ae50338b4ea47afbea-1080x1350.jpg",
+    "imageAlt": "Plataformas abertas: pesquisa, governança e sustentabilidade econômica entram na mesma chamada.",
+    "imageCaption": "Plataformas abertas: pesquisa, governança e sustentabilidade econômica entram na mesma chamada.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Uma plataforma digital pode conectar pessoas sem concentrar toda a operação em uma única empresa? Essa pergunta orienta uma chamada de pesquisa da FAPESP, do CGI.br e dos ministérios da Ciência, Tecnologia e Inovação e das Comunicações. O calendário oficial prevê o início das submissões em 5 de novembro de 2026, com encerramento em 22 de fevereiro de 2027.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.cgi.br/noticia/notas/chamada-abre-financiamento-de-r-21-milhoes-para-pesquisas-e-desenvolvimento-de-plataformas-de-i-software-i-livre/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "O orçamento anunciado é de R$ 21 milhões. Desse total, R$ 6 milhões estão reservados à modalidade Auxílio à Pesquisa Regular e R$ 15 milhões a Projetos Temáticos. O objetivo é apoiar plataformas baseadas em software livre e protocolos abertos, com espaço para parcerias entre instituições de pesquisa, empresas, cooperativas e organizações comunitárias. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Comunicado do CGI.br",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "A proposta vai além da criação de aplicativos. O edital contempla desenvolvimento tecnológico, viabilidade econômica e impactos socioambientais. Na prática, a pergunta não é apenas se um sistema funciona, mas como pode ser mantido, quem participa de suas decisões e quais efeitos produz.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Entre as possibilidades descritas estão redes de produtores, circuitos culturais e mercados digitais cooperativos. Arquiteturas federadas permitem organizar serviços em instâncias autônomas que se comunicam, em vez de depender exclusivamente de uma estrutura central.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://fapesp.br/index.php/18444/chamada-de-propostas-fapespmctimcomcgibr-2026-para-auxilio-a-pesquisa-regular-apr-e-projeto-tematico"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "Pesquisadores de instituições brasileiras, inclusive fora de São Paulo, podem participar conforme os critérios de elegibilidade. Projetos regulares devem durar de dois a três anos; temáticos, cinco anos. O envio ocorre exclusivamente pelo SAGe. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Edital da FAPESP",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Para quem acompanha inovação, o ponto central é tratar infraestrutura digital como objeto de pesquisa, não somente como produto acabado. A abertura do código, por si só, não garante adesão, segurança ou sustentabilidade financeira. São questões que os projetos poderão investigar. O anúncio é de financiamento disponível para seleção, não de recursos já distribuídos nem de resultados comerciais demonstrados.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Uma plataforma digital pode conectar pessoas sem concentrar toda a operação em uma única empresa? Essa pergunta orienta uma chamada de pesquisa da FAPESP, do CGI.br e dos ministérios da Ciência, Tecnologia e Inovação e das Comunicações. O calendário oficial prevê o início das submissões em 5 de novembro de 2026, com encerramento em 22 de fevereiro de 2027.",
+      "O orçamento anunciado é de R$ 21 milhões. Desse total, R$ 6 milhões estão reservados à modalidade Auxílio à Pesquisa Regular e R$ 15 milhões a Projetos Temáticos. O objetivo é apoiar plataformas baseadas em software livre e protocolos abertos, com espaço para parcerias entre instituições de pesquisa, empresas, cooperativas e organizações comunitárias. Comunicado do CGI.br",
+      "A proposta vai além da criação de aplicativos. O edital contempla desenvolvimento tecnológico, viabilidade econômica e impactos socioambientais. Na prática, a pergunta não é apenas se um sistema funciona, mas como pode ser mantido, quem participa de suas decisões e quais efeitos produz.",
+      "Entre as possibilidades descritas estão redes de produtores, circuitos culturais e mercados digitais cooperativos. Arquiteturas federadas permitem organizar serviços em instâncias autônomas que se comunicam, em vez de depender exclusivamente de uma estrutura central.",
+      "Pesquisadores de instituições brasileiras, inclusive fora de São Paulo, podem participar conforme os critérios de elegibilidade. Projetos regulares devem durar de dois a três anos; temáticos, cinco anos. O envio ocorre exclusivamente pelo SAGe. Edital da FAPESP",
+      "Para quem acompanha inovação, o ponto central é tratar infraestrutura digital como objeto de pesquisa, não somente como produto acabado. A abertura do código, por si só, não garante adesão, segurança ou sustentabilidade financeira. São questões que os projetos poderão investigar. O anúncio é de financiamento disponível para seleção, não de recursos já distribuídos nem de resultados comerciais demonstrados."
+    ]
+  },
+  {
+    "title": "Separar o lixo é só o começo: pesquisa rastreia perdas da reciclagem em Guaxupé",
+    "slug": "coleta-seletiva-guaxupe-rejeitos-pesquisa-usp-2026",
+    "dek": "Estudo da USP distingue falhas de triagem, ausência de mercado e materiais fora do escopo da coleta; percentuais retratam uma cooperativa, não o Brasil.",
+    "category": "Sustentabilidade",
+    "categorySlug": "sustentabilidade",
+    "contentType": "research",
+    "region": "Brasil",
+    "technicalTakeaway": "Diagnóstico de uma cooperativa com dados de 2025 e três campanhas. As frações de 23,9%, 9,6% e 66,5% referem-se à média dos percentuais dos rejeitos amostrados, não a toda a coleta nem a uma taxa nacional. Estudo de mestrado confirmado, sem confirmação de depósito público ou leitura integral.",
+    "sourceUrl": "https://eesc.usp.br/noticias/editais_c.php?guid=61827&termid=pesquisa",
+    "sourceLanguage": "pt",
+    "sourceName": "EESC-USP",
+    "authorName": "Editorial VAELITH",
+    "date": "2026-11-05",
+    "dateDisplay": "05 nov 2026",
+    "publishedAt": "2026-11-05T11:50:15.080Z",
+    "modifiedAt": "2026-11-05T11:50:15.080Z",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/e7ed02bbeef46c87ddec9fd7c4c5db7d537371f5-1080x1350.jpg",
+    "imageAlt": "Coletar, recuperar e rejeitar são etapas diferentes: um diagnóstico local ajuda a identificar onde os materiais se perdem.",
+    "imageCaption": "Coletar, recuperar e rejeitar são etapas diferentes: um diagnóstico local ajuda a identificar onde os materiais se perdem.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "A passagem pelo caminhão da coleta seletiva não encerra o caminho de uma embalagem. Em Guaxupé, no sul de Minas Gerais, uma pesquisa identificou materiais que chegaram à cooperativa, mas não retornaram à cadeia produtiva. O trabalho ajuda a separar problemas que costumam aparecer misturados na expressão “lixo não reciclado”.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://eesc.usp.br/noticias/posts_s.php?guid=559&termid=not_gerais&type=defesa"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "O estudo é de Rafael da Cunha Faria, do mestrado em Engenharia Hidráulica e Saneamento da Escola de Engenharia de São Carlos da USP, orientado por Valdir Schalch. O registro institucional marcou a defesa para 16 de setembro de 2026. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Registro acadêmico da EESC",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Segundo divulgação da universidade, publicada em 29 de outubro e atualizada em 2 de novembro, aproximadamente 20% da massa recebida pela Recicla Guaxupé em 2025 seguiu como rejeito.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Três campanhas examinaram o material restante após a triagem. Na média dos percentuais dessas campanhas, 23,9% eram materiais comercializados pela cooperativa que não foram recuperados; 9,6% correspondiam a embalagens sem viabilidade econômica local; e 66,5% ficaram no grupo fora do escopo da coleta seletiva.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://eesc.usp.br/noticias/editais_c.php?guid=61827&termid=pesquisa"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "t0",
+            "text": "O último percentual exige cuidado: inclui fragmentos e misturas que não puderam ser separados individualmente. Não equivale, portanto, à proporção de moradores que descartaram incorretamente. Os números descrevem os rejeitos analisados, não todo o volume coletado. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a0",
+            "text": "Divulgação da pesquisa pela EESC",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "A leitura prática é que medir apenas quanto foi recolhido deixa uma pergunta em aberto: quanto efetivamente encontrou destino produtivo? Para acompanhar o desempenho de um sistema, vale distinguir coleta, recuperação e rejeito, sem transformar indicadores diferentes em uma única taxa.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Também não seria adequado transportar os percentuais diretamente para outras cidades. Compradores, logística e infraestrutura variam. O estudo oferece um diagnóstico local; não demonstra que uma intervenção específica já reduziu perdas. Para a gestão pública, seu interesse está em tornar o problema mais preciso antes de escolher a resposta. Para o cidadão, ajuda a compreender por que participação doméstica e funcionamento da cadeia precisam ser avaliados em conjunto.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "end",
+            "text": "Esta análise utiliza a divulgação institucional e o registro da defesa, sem leitura integral da dissertação.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "A passagem pelo caminhão da coleta seletiva não encerra o caminho de uma embalagem. Em Guaxupé, no sul de Minas Gerais, uma pesquisa identificou materiais que chegaram à cooperativa, mas não retornaram à cadeia produtiva. O trabalho ajuda a separar problemas que costumam aparecer misturados na expressão “lixo não reciclado”.",
+      "O estudo é de Rafael da Cunha Faria, do mestrado em Engenharia Hidráulica e Saneamento da Escola de Engenharia de São Carlos da USP, orientado por Valdir Schalch. O registro institucional marcou a defesa para 16 de setembro de 2026. Registro acadêmico da EESC",
+      "Segundo divulgação da universidade, publicada em 29 de outubro e atualizada em 2 de novembro, aproximadamente 20% da massa recebida pela Recicla Guaxupé em 2025 seguiu como rejeito.",
+      "Três campanhas examinaram o material restante após a triagem. Na média dos percentuais dessas campanhas, 23,9% eram materiais comercializados pela cooperativa que não foram recuperados; 9,6% correspondiam a embalagens sem viabilidade econômica local; e 66,5% ficaram no grupo fora do escopo da coleta seletiva.",
+      "O último percentual exige cuidado: inclui fragmentos e misturas que não puderam ser separados individualmente. Não equivale, portanto, à proporção de moradores que descartaram incorretamente. Os números descrevem os rejeitos analisados, não todo o volume coletado. Divulgação da pesquisa pela EESC",
+      "A leitura prática é que medir apenas quanto foi recolhido deixa uma pergunta em aberto: quanto efetivamente encontrou destino produtivo? Para acompanhar o desempenho de um sistema, vale distinguir coleta, recuperação e rejeito, sem transformar indicadores diferentes em uma única taxa.",
+      "Também não seria adequado transportar os percentuais diretamente para outras cidades. Compradores, logística e infraestrutura variam. O estudo oferece um diagnóstico local; não demonstra que uma intervenção específica já reduziu perdas. Para a gestão pública, seu interesse está em tornar o problema mais preciso antes de escolher a resposta. Para o cidadão, ajuda a compreender por que participação doméstica e funcionamento da cadeia precisam ser avaliados em conjunto.",
+      "Esta análise utiliza a divulgação institucional e o registro da defesa, sem leitura integral da dissertação."
+    ]
   }
 ]
