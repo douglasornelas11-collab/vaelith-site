@@ -54,3 +54,25 @@ test('editoria directory includes all eight editorial destinations exactly once'
   }
   assert.equal((strip.match(/class="cat-tile"/g)||[]).length,8);
 });
+
+
+test('cross-listed research appears in its home editoria and science without taking general news lead',()=>{
+  const news={slug:'regression-news',title:'Notícia geral',dek:'Notícia',category:'Mercado',categorySlug:'mercado',region:'Brasil',date:'2031-01-01',dateDisplay:'01 jan 2031',contentType:'news',image:'https://example.org/news.jpg'};
+  const study={...news,slug:'regression-cross-listed-study',title:'Pesquisa aplicada',category:'Sustentabilidade',categorySlug:'sustentabilidade',contentType:'research',showInPrimaryCategory:true,date:'2031-01-02'};
+  const previousArticles=content.articles.splice(0,content.articles.length,news,study);
+  try{
+    const home=renderHome();
+    const sections=home.match(/<section\b[\s\S]*?<\/section>/g)||[];
+    const sustainability=sections.find(x=>x.includes('<h2>Sustentabilidade</h2>'));
+    const science=sections.find(x=>x.includes('<h2>Artigos científicos em destaque</h2>'));
+    assert.match(sustainability,/noticias\/regression-cross-listed-study/);
+    assert.match(science,/noticias\/regression-cross-listed-study/);
+    assert.match(category('sustentabilidade'),/noticias\/regression-cross-listed-study/);
+    assert.equal(home.match(/<article class="hero-story[^>]*><a href="([^"]+)"/)[1],'/noticias/regression-news');
+    assert.doesNotMatch(home,/imagens são figuras originais ou oficiais validadas|imagem original ou oficial validada/);
+    study.showInPrimaryCategory=false;
+    assert.doesNotMatch(renderHome().match(/<section\b[\s\S]*?<\/section>/g).find(x=>x.includes('<h2>Sustentabilidade</h2>'))||'',/noticias\/regression-cross-listed-study/);
+  }finally{
+    content.articles.splice(0,content.articles.length,...previousArticles);
+  }
+});
