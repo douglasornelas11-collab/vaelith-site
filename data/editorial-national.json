@@ -5652,5 +5652,1163 @@
       "Esta análise utiliza a divulgação institucional e o registro da defesa, sem leitura integral da dissertação."
     ],
     "showInPrimaryCategory": true
+  },
+  {
+    "title": "Guanhães abre licitação de R$ 9,2 milhões para obras civis de nova ETA",
+    "dek": "Propostas começam em 6 de novembro. Lote trata da infraestrutura civil e exclui o fornecimento e o comissionamento da estação compacta de 100 litros por segundo.",
+    "region": "Brasil",
+    "publishedAt": "2026-11-06T11:46:01.331Z",
+    "modifiedAt": "2026-11-06T11:46:01.331Z",
+    "technicalTakeaway": "O lote de obras civis exclui o módulo compacto; investimento estimado e capacidade nominal não equivalem a serviço já entregue.",
+    "keyFacts": [
+      {
+        "_key": "f0",
+        "_type": "object",
+        "label": "Estimativa do lote",
+        "value": "R$ 9.186.289,29"
+      },
+      {
+        "_key": "f1",
+        "_type": "object",
+        "label": "Recebimento de propostas",
+        "value": "6 a 24/11/2026"
+      },
+      {
+        "_key": "f2",
+        "_type": "object",
+        "label": "Módulo compacto",
+        "value": "Excluído deste lote"
+      }
+    ],
+    "sourceUrl": "https://pncp.gov.br/app/editais/18307439000127/2026/49",
+    "sourceLanguage": "pt",
+    "slug": "guanhaes-licitacao-obras-civis-nova-eta-novembro-2026",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "news",
+    "sourceName": "PNCP e SAAE de Guanhães",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-06",
+    "dateDisplay": "06 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/b42dbedab6af9cfd55596007bee3cd8b65ebda9c-1122x1402.png",
+    "imageAlt": "Tubulações azuis em uma vala escorada, com trabalhadores ao fundo e logo branca VAELITH no alto.",
+    "imageCaption": "Imagem conceitual gerada por IA sobre infraestrutura de saneamento; não retrata a obra de Guanhães.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Guanhães, no leste de Minas Gerais, abriu em 6 de novembro o recebimento de propostas para contratar obras civis da infraestrutura de sua nova Estação de Tratamento de Água. O edital nº 0008/2026 foi divulgado em 5 de novembro e apresenta valor estimado de R$ 9.186.289,29. O prazo informado para propostas termina em 24 de novembro, às 14h, pela plataforma Licitar Digital.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://pncp.gov.br/app/editais/18307439000127/2026/49"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A contratação exige atenção ao limite do objeto: o fornecimento, a montagem, a instalação e o comissionamento da ETA compacta de 100 litros por segundo estão excluídos desse lote. O registro identifica as obras civis e os serviços associados como remanescentes do processo licitatório nº 47/2026, vinculado ao Novo PAC. A abertura da disputa não equivale a contrato assinado, ordem de serviço ou início da operação. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Fonte: registro da contratação no PNCP",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.saaeguanhaes.com.br/noticias/nova-eta-bom-sucesso-um-novo-capitulo-no-abastecimento-de-agua-de-guanhaes"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O SAAE já havia detalhado um plano mais amplo para o abastecimento local. Em comunicado publicado em 15 de maio de 2026, o SAAE de Guanhães apresentou o novo sistema com investimento aproximado de R$ 30 milhões, recursos da AGEDOCE e do governo federal, nova captação no Rio Corrente Canoa, adução e implantação da ETA Bom Sucesso. A autarquia informou que a estação foi projetada para ampliar a produção em cerca de 100 litros por segundo. Esses números são de planejamento, não de capacidade já entregue. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Fonte: SAAE de Guanhães",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Os dois valores têm escopos diferentes. A estimativa da concorrência corresponde ao lote em disputa; a cifra divulgada pelo SAAE abrange o sistema apresentado em maio. Somá-las para anunciar um investimento maior seria inadequado sem uma conciliação dos contratos e das fontes de recursos. Também não há, nos registros consultados, base para tratar o orçamento estimado como despesa já realizada.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Do ponto de vista de engenharia, a separação entre infraestrutura civil e equipamento torna a compatibilização uma questão central. Bases, tubulações, energia e acessos precisam funcionar como partes de um mesmo sistema. Essa é uma leitura técnica do formato da contratação, não uma constatação de falha no projeto. A capacidade nominal do módulo, isoladamente, tampouco permite calcular quantas pessoas terão abastecimento adicional.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O próximo marco verificável será o resultado da licitação, seguido da contratação e do cronograma efetivo. Os benefícios esperados de maior segurança hídrica dependerão da entrega conjunta das etapas e das condições de operação. Os documentos consultados não permitem afirmar uma data de inauguração, economia operacional ou redução já obtida nas interrupções de abastecimento.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Guanhães, no leste de Minas Gerais, abriu em 6 de novembro o recebimento de propostas para contratar obras civis da infraestrutura de sua nova Estação de Tratamento de Água. O edital nº 0008/2026 foi divulgado em 5 de novembro e apresenta valor estimado de R$ 9.186.289,29. O prazo informado para propostas termina em 24 de novembro, às 14h, pela plataforma Licitar Digital.",
+      "A contratação exige atenção ao limite do objeto: o fornecimento, a montagem, a instalação e o comissionamento da ETA compacta de 100 litros por segundo estão excluídos desse lote. O registro identifica as obras civis e os serviços associados como remanescentes do processo licitatório nº 47/2026, vinculado ao Novo PAC. A abertura da disputa não equivale a contrato assinado, ordem de serviço ou início da operação. Fonte: registro da contratação no PNCP.",
+      "O SAAE já havia detalhado um plano mais amplo para o abastecimento local. Em comunicado publicado em 15 de maio de 2026, o SAAE de Guanhães apresentou o novo sistema com investimento aproximado de R$ 30 milhões, recursos da AGEDOCE e do governo federal, nova captação no Rio Corrente Canoa, adução e implantação da ETA Bom Sucesso. A autarquia informou que a estação foi projetada para ampliar a produção em cerca de 100 litros por segundo. Esses números são de planejamento, não de capacidade já entregue. Fonte: SAAE de Guanhães.",
+      "Os dois valores têm escopos diferentes. A estimativa da concorrência corresponde ao lote em disputa; a cifra divulgada pelo SAAE abrange o sistema apresentado em maio. Somá-las para anunciar um investimento maior seria inadequado sem uma conciliação dos contratos e das fontes de recursos. Também não há, nos registros consultados, base para tratar o orçamento estimado como despesa já realizada.",
+      "Do ponto de vista de engenharia, a separação entre infraestrutura civil e equipamento torna a compatibilização uma questão central. Bases, tubulações, energia e acessos precisam funcionar como partes de um mesmo sistema. Essa é uma leitura técnica do formato da contratação, não uma constatação de falha no projeto. A capacidade nominal do módulo, isoladamente, tampouco permite calcular quantas pessoas terão abastecimento adicional.",
+      "O próximo marco verificável será o resultado da licitação, seguido da contratação e do cronograma efetivo. Os benefícios esperados de maior segurança hídrica dependerão da entrega conjunta das etapas e das condições de operação. Os documentos consultados não permitem afirmar uma data de inauguração, economia operacional ou redução já obtida nas interrupções de abastecimento."
+    ]
+  },
+  {
+    "title": "Rota Mogiana inicia operação com R$ 544,2 milhões previstos nos primeiros dois anos",
+    "dek": "Concessão de 520 quilômetros no interior paulista combina recuperação inicial da malha com um programa de longo prazo. Valores anunciados ainda precisam se converter em execução.",
+    "region": "Brasil",
+    "publishedAt": "2026-11-06T11:46:01.331Z",
+    "modifiedAt": "2026-11-06T11:46:01.331Z",
+    "technicalTakeaway": "Os R$ 544,2 milhões são previstos para dois anos; duplicações e demais quantitativos citados pertencem ao programa de 30 anos.",
+    "keyFacts": [
+      {
+        "_key": "f0",
+        "_type": "object",
+        "label": "Operação",
+        "value": "Desde 01/11/2026"
+      },
+      {
+        "_key": "f1",
+        "_type": "object",
+        "label": "Primeiros dois anos",
+        "value": "R$ 544,2 milhões previstos"
+      },
+      {
+        "_key": "f2",
+        "_type": "object",
+        "label": "Concessão",
+        "value": "520 km, 30 anos"
+      }
+    ],
+    "sourceUrl": "https://aguai.sp.gov.br/aguai-sedia-treinamento-e-saida-de-frota-da-nova-concessinaria-que-assumiu-rodovias-da-regiao-de-campinas-",
+    "sourceLanguage": "pt",
+    "slug": "rota-mogiana-operacao-investimentos-primeiros-dois-anos-2026",
+    "category": "Mercado",
+    "categorySlug": "mercado",
+    "contentType": "news",
+    "sourceName": "Prefeitura de Aguaí e Governo de São Paulo",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-06",
+    "dateDisplay": "06 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/6456c5cd35be6ad0debbb7077869af7b640fcfca-1122x1402.png",
+    "imageAlt": "Rolo compactador e equipe de manutenção em faixa isolada de rodovia entre colinas verdes, com logo branca VAELITH no alto.",
+    "imageCaption": "Imagem conceitual gerada por IA sobre manutenção rodoviária no Brasil; não retrata uma rodovia ou obra específica.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://aguai.sp.gov.br/aguai-sedia-treinamento-e-saida-de-frota-da-nova-concessinaria-que-assumiu-rodovias-da-regiao-de-campinas-"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A entrada da Rota Mogiana na operação de rodovias do interior paulista abre uma nova etapa de investimentos em conservação e ampliação de capacidade. A transferência foi prevista para 1º de novembro de 2026, e a Prefeitura de Aguaí confirmou, em publicação de 5 de novembro, que a concessionária passou a administrar cerca de 520 quilômetros em 22 municípios das regiões de Campinas e Ribeirão Preto. O município sediou treinamentos e a saída da frota operacional. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Fonte: Prefeitura de Aguaí",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.casacivil.sp.gov.br/sec_casa_civil/noticias/rotamogianainicio"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Para o mercado de engenharia, o recorte mais próximo está nos primeiros dois anos. O governo paulista anunciou R$ 544,2 milhões para recuperação do pavimento, sinalização, drenagem, manutenção de pontes e viadutos, defensas e iluminação. O montante é uma previsão de investimento para esse período, não um balanço de pagamentos ou serviços concluídos. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Fonte: Governo de São Paulo, comunicado de 28 de outubro",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.parceriaseminvestimentos.sp.gov.br/sec-parcerias-investimentos/canaisComunicacao/noticias/concessao%2Brota%2Bmogiana%2Bgoverno%2Bsp%2Bsp340%2Br%2B9%2B4%2Bbi%2Binvestimentos%2Bartesp%2Bder%2Bsp%2Brota%2Bmogiana%2Bspe%2B27%2B08%2B2026"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A escala de longo prazo é maior. Segundo a Secretaria de Parcerias em Investimentos, o contrato formalizado em 27 de agosto prevê R$ 9,4 bilhões ao longo de 30 anos. O programa inclui duplicação de 217 quilômetros, 138 quilômetros de faixas adicionais e 96 quilômetros de vias marginais. Esses quantitativos descrevem compromissos do conjunto da concessão e não devem ser apresentados como entregas dos primeiros 24 meses. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Fonte: SPI, formalização do contrato",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A leitura econômica é de demanda potencial distribuída entre atividades distintas. Recuperar a malha existente exige materiais, equipamentos, equipes de conservação e serviços especializados; ampliar pistas envolve outra combinação de projetos, licenças e mobilização. O anúncio, porém, não informa quais pacotes de fornecedores já foram contratados. Portanto, o valor global não pode ser tratado como carteira imediatamente disponível para qualquer empresa.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.casacivil.sp.gov.br/sec_casa_civil/noticias/rotamogianainicio"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O usuário também precisa acompanhar o vínculo entre cobrança e entrega. O comunicado estadual informa que novos pontos de pedágio dependem da execução e comprovação de melhorias iniciais e da disponibilidade dos serviços previstos, sob fiscalização da Artesp. Isso torna a aferição das obrigações uma parte relevante da análise do contrato, além do total anunciado. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Fonte: Governo de São Paulo",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A operação começou; o desempenho ainda precisará ser medido. Cronogramas realizados, conservação do pavimento, atendimento e segurança permitirão avaliar o resultado para a região. As fontes consultadas não demonstram, por enquanto, redução efetiva de acidentes, economia de frete ou retorno financeiro decorrente da nova concessão. A oportunidade de investimento é concreta como compromisso anunciado, mas os benefícios dependem de execução e fiscalização.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "A entrada da Rota Mogiana na operação de rodovias do interior paulista abre uma nova etapa de investimentos em conservação e ampliação de capacidade. A transferência foi prevista para 1º de novembro de 2026, e a Prefeitura de Aguaí confirmou, em publicação de 5 de novembro, que a concessionária passou a administrar cerca de 520 quilômetros em 22 municípios das regiões de Campinas e Ribeirão Preto. O município sediou treinamentos e a saída da frota operacional. Fonte: Prefeitura de Aguaí.",
+      "Para o mercado de engenharia, o recorte mais próximo está nos primeiros dois anos. O governo paulista anunciou R$ 544,2 milhões para recuperação do pavimento, sinalização, drenagem, manutenção de pontes e viadutos, defensas e iluminação. O montante é uma previsão de investimento para esse período, não um balanço de pagamentos ou serviços concluídos. Fonte: Governo de São Paulo, comunicado de 28 de outubro.",
+      "A escala de longo prazo é maior. Segundo a Secretaria de Parcerias em Investimentos, o contrato formalizado em 27 de agosto prevê R$ 9,4 bilhões ao longo de 30 anos. O programa inclui duplicação de 217 quilômetros, 138 quilômetros de faixas adicionais e 96 quilômetros de vias marginais. Esses quantitativos descrevem compromissos do conjunto da concessão e não devem ser apresentados como entregas dos primeiros 24 meses. Fonte: SPI, formalização do contrato.",
+      "A leitura econômica é de demanda potencial distribuída entre atividades distintas. Recuperar a malha existente exige materiais, equipamentos, equipes de conservação e serviços especializados; ampliar pistas envolve outra combinação de projetos, licenças e mobilização. O anúncio, porém, não informa quais pacotes de fornecedores já foram contratados. Portanto, o valor global não pode ser tratado como carteira imediatamente disponível para qualquer empresa.",
+      "O usuário também precisa acompanhar o vínculo entre cobrança e entrega. O comunicado estadual informa que novos pontos de pedágio dependem da execução e comprovação de melhorias iniciais e da disponibilidade dos serviços previstos, sob fiscalização da Artesp. Isso torna a aferição das obrigações uma parte relevante da análise do contrato, além do total anunciado. Fonte: Governo de São Paulo.",
+      "A operação começou; o desempenho ainda precisará ser medido. Cronogramas realizados, conservação do pavimento, atendimento e segurança permitirão avaliar o resultado para a região. As fontes consultadas não demonstram, por enquanto, redução efetiva de acidentes, economia de frete ou retorno financeiro decorrente da nova concessão. A oportunidade de investimento é concreta como compromisso anunciado, mas os benefícios dependem de execução e fiscalização."
+    ]
+  },
+  {
+    "title": "SITECH e Nokia anunciam IA para máquinas no Brasil; expansão começa pela detecção de fadiga",
+    "dek": "Parceria prevê processamento de dados nas máquinas e integração de redes. Primeiras implantações ampliadas estão previstas para dezembro, após prova de conceito.",
+    "region": "Brasil",
+    "publishedAt": "2026-11-06T11:46:01.331Z",
+    "modifiedAt": "2026-11-06T11:46:01.331Z",
+    "technicalTakeaway": "Prova de conceito e oferta comercial não equivalem a redução de acidentes demonstrada; exigir métricas e critérios de aceitação.",
+    "keyFacts": [
+      {
+        "_key": "f0",
+        "_type": "object",
+        "label": "Expansão anunciada",
+        "value": "Dezembro de 2026"
+      },
+      {
+        "_key": "f1",
+        "_type": "object",
+        "label": "Primeira aplicação",
+        "value": "Detecção de fadiga"
+      }
+    ],
+    "sourceUrl": "https://eaemaq.com.br/noticias-do-mercado/sitech-e-nokia-conectam-a-inteligencia-artificial-a-sua-frota/",
+    "sourceLanguage": "pt",
+    "slug": "sitech-nokia-ia-maquinas-brasil-deteccao-fadiga",
+    "category": "Tecnologia",
+    "categorySlug": "tecnologia",
+    "contentType": "news",
+    "sourceName": "Nokia e comunicado SITECH",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-06",
+    "dateDisplay": "06 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/8f970f2668ff1fb525b63355a86273cc2e1089d4-1122x1402.png",
+    "imageAlt": "Câmera e sensor montados junto à cabine de uma escavadeira, com engenheiro ao fundo e logo branca VAELITH no alto.",
+    "imageCaption": "Imagem conceitual gerada por IA sobre sensores de segurança em máquinas de construção; não retrata equipamento ou sistema comercial específico.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://eaemaq.com.br/noticias-do-mercado/sitech-e-nokia-conectam-a-inteligencia-artificial-a-sua-frota/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A SITECH Brasil e a Nokia anunciaram uma parceria para desenvolver e comercializar aplicações de inteligência artificial em máquinas usadas na mineração e na construção. A primeira aplicação prevista para expansão é a detecção de fadiga dos operadores, com implantações anunciadas para dezembro de 2026. Segundo o comunicado divulgado pela assessoria das empresas em 3 de novembro, a solução passou por uma prova de conceito. Essa etapa não equivale, porém, a resultados comprovados em uma frota inteira. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Comunicado da assessoria",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://eaemaq.com.br/noticias-do-mercado/sitech-e-nokia-conectam-a-inteligencia-artificial-a-sua-frota/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O acordo reúne a plataforma Cognitive Operations e o equipamento Cognitive Edge Node, da Nokia, com a engenharia de aplicação e o suporte da SITECH. A empresa brasileira ficará responsável por comercialização, integração, comissionamento e atendimento técnico local. O anúncio também apresenta análise do consumo de combustível e teleoperação de máquinas entre as aplicações pretendidas, mas não informa um cronograma equivalente para cada uma delas. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Comunicado da parceria",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.nokia.com/newsroom/nokia-launches-ai-and-edge-platform-to-help-mining-and-construction-industries-public-safety-and-defense-organizations-run-safer-more-resilient-field-operations/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A base tecnológica foi lançada comercialmente pela Nokia em 10 de setembro. Ela combina comunicações, computação de borda e ferramentas de IA. O processamento de borda ocorre perto de onde os dados são produzidos, inclusive em veículos e equipamentos, em vez de depender exclusivamente de servidores distantes. Segundo a fabricante, o sistema contempla análise de vídeo, manutenção preditiva e representação digital das operações. São capacidades anunciadas pelo fornecedor, não indicadores independentes de desempenho em obras brasileiras. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Lançamento oficial da Nokia",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.nokia.com/blog/beyond-connectivity-building-the-intelligence-layer-for-mission-critical-operations/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Para gestores de obras e infraestrutura, a proposta aborda um problema concreto: informações de máquinas, segurança e conectividade frequentemente ficam distribuídas em sistemas diferentes. Em texto técnico publicado em junho, a Nokia exemplifica a dificuldade de relacionar condições ruins de uma via de transporte ao desgaste dos caminhões que circulam nela. A integração pretende aproximar essas informações e apoiar decisões operacionais. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Explicação técnica da Nokia",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A leitura prática para uma contratação é exigir critérios de aceitação antes de ampliar o uso. No monitoramento de fadiga, vale perguntar quais situações foram testadas, quantos alertas incorretos ocorreram, quem responde ao aviso e como os dados dos trabalhadores serão tratados. Em aplicações conectadas, também importa verificar o comportamento durante interrupções de comunicação.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Os materiais consultados não apresentam taxas de detecção, tamanho da amostra da prova de conceito, preços ou redução medida de acidentes. O anúncio sinaliza uma nova oferta tecnológica para o mercado brasileiro. Seus benefícios operacionais ainda precisam ser demonstrados nas condições de cada implantação.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "A SITECH Brasil e a Nokia anunciaram uma parceria para desenvolver e comercializar aplicações de inteligência artificial em máquinas usadas na mineração e na construção. A primeira aplicação prevista para expansão é a detecção de fadiga dos operadores, com implantações anunciadas para dezembro de 2026. Segundo o comunicado divulgado pela assessoria das empresas em 3 de novembro, a solução passou por uma prova de conceito. Essa etapa não equivale, porém, a resultados comprovados em uma frota inteira. Comunicado da assessoria.",
+      "O acordo reúne a plataforma Cognitive Operations e o equipamento Cognitive Edge Node, da Nokia, com a engenharia de aplicação e o suporte da SITECH. A empresa brasileira ficará responsável por comercialização, integração, comissionamento e atendimento técnico local. O anúncio também apresenta análise do consumo de combustível e teleoperação de máquinas entre as aplicações pretendidas, mas não informa um cronograma equivalente para cada uma delas. Comunicado da parceria.",
+      "A base tecnológica foi lançada comercialmente pela Nokia em 10 de setembro. Ela combina comunicações, computação de borda e ferramentas de IA. O processamento de borda ocorre perto de onde os dados são produzidos, inclusive em veículos e equipamentos, em vez de depender exclusivamente de servidores distantes. Segundo a fabricante, o sistema contempla análise de vídeo, manutenção preditiva e representação digital das operações. São capacidades anunciadas pelo fornecedor, não indicadores independentes de desempenho em obras brasileiras. Lançamento oficial da Nokia.",
+      "Para gestores de obras e infraestrutura, a proposta aborda um problema concreto: informações de máquinas, segurança e conectividade frequentemente ficam distribuídas em sistemas diferentes. Em texto técnico publicado em junho, a Nokia exemplifica a dificuldade de relacionar condições ruins de uma via de transporte ao desgaste dos caminhões que circulam nela. A integração pretende aproximar essas informações e apoiar decisões operacionais. Explicação técnica da Nokia.",
+      "A leitura prática para uma contratação é exigir critérios de aceitação antes de ampliar o uso. No monitoramento de fadiga, vale perguntar quais situações foram testadas, quantos alertas incorretos ocorreram, quem responde ao aviso e como os dados dos trabalhadores serão tratados. Em aplicações conectadas, também importa verificar o comportamento durante interrupções de comunicação.",
+      "Os materiais consultados não apresentam taxas de detecção, tamanho da amostra da prova de conceito, preços ou redução medida de acidentes. O anúncio sinaliza uma nova oferta tecnológica para o mercado brasileiro. Seus benefícios operacionais ainda precisam ser demonstrados nas condições de cada implantação."
+    ]
+  },
+  {
+    "title": "Pavimento permeável exige conta de longo prazo e manutenção, indicam pesquisas da UFSC",
+    "dek": "Estudo econômico publicado em 2026 encontra vantagens em cenários com aproveitamento da chuva. Outra pesquisa investiga a perda de drenagem causada pelo acúmulo de partículas.",
+    "region": "Brasil",
+    "publishedAt": "2026-11-06T11:46:01.331Z",
+    "modifiedAt": "2026-11-06T11:46:01.331Z",
+    "technicalTakeaway": "Resultados econômicos pertencem a um caso brasileiro; drenagem e retorno dependem de projeto, aproveitamento da chuva e manutenção.",
+    "keyFacts": [
+      {
+        "_key": "f0",
+        "_type": "object",
+        "label": "Artigo econômico",
+        "value": "Publicado on-line em 15/04/2026"
+      },
+      {
+        "_key": "f1",
+        "_type": "object",
+        "label": "Concreto permeável no caso estudado",
+        "value": "Retorno descontado em nove anos"
+      }
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41990590/",
+    "sourceLanguage": "en",
+    "slug": "pavimento-permeavel-ciclo-vida-manutencao-pesquisas-ufsc",
+    "category": "Sustentabilidade",
+    "categorySlug": "sustentabilidade",
+    "contentType": "research",
+    "sourceName": "UFSC, Science of the Total Environment e EPA",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-06",
+    "dateDisplay": "06 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/c884d5342dc3414e9fcb2e60aa91e21d2e78543a-1122x1402.png",
+    "imageAlt": "Pavimento de blocos com juntas de agregado junto a jardim de chuva, molhados após a chuva, com logo branca VAELITH no alto.",
+    "imageCaption": "Imagem conceitual gerada por IA sobre pavimento permeável e drenagem urbana; não retrata um projeto específico.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Análise de pesquisa. Publicada em 6 de novembro de 2026, com estudos de abril e setembro; não se trata de descoberta anunciada hoje.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://pubmed.ncbi.nlm.nih.gov/41990590/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Escolher um pavimento apenas pelo custo de instalação pode esconder diferenças importantes na operação. Um estudo de pesquisadores da Universidade Federal de Santa Catarina, publicado on-line em 15 de abril de 2026 na revista Science of the Total Environment, avaliou economicamente alternativas permeáveis associadas ao aproveitamento de água de chuva em edificações. O trabalho aplica uma metodologia de custo do ciclo de vida a um caso brasileiro. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Registro e resumo do artigo",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://pubmed.ncbi.nlm.nih.gov/41990590/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Os autores Lucas Niehuns Antunes, Taylana Piccinini Scolaro e Enedir Ghisi compararam três modelos permeáveis, com revestimentos asfáltico, de concreto cimentício e de blocos de concreto, com um pavimento asfáltico impermeável. No cenário estudado, o concreto permeável apresentou valor presente líquido positivo de R$ 72.780 e retorno descontado em nove anos. A alternativa convencional, embora tivesse o menor investimento inicial, registrou valor presente líquido negativo de R$ 142.189. Esses valores pertencem ao caso analisado, não são preços por metro quadrado nem retornos garantidos para outras obras. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Artigo científico",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A análise incorpora benefícios durante o uso, incluindo aproveitamento da chuva e efeitos relacionados à drenagem e ao ambiente urbano. A conclusão oferece um argumento para comparar alternativas ao longo da vida útil, mas não autoriza transportar os números diretamente para um orçamento municipal ou empreendimento privado.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://repositorio.ufsc.br/handle/123456789/276738?show=full"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Há também uma condição física que precisa entrar nessa conta: manter os caminhos de passagem da água. Um trabalho de iniciação científica da UFSC, datado de 10 de setembro e disponibilizado no repositório em 22 de setembro de 2026, investiga pavimentos asfálticos drenantes e a colmatação, processo em que partículas acumuladas nos vazios reduzem a permeabilidade. A pesquisa de Ana Maria Fernandes Bleggi da Silva, orientada por Lisiane Padilha Thives, utiliza um simulador de chuvas desenvolvido no LabPav para avaliar a drenagem ao longo do tempo. O registro descreve o experimento, sem apresentar resultados quantitativos de desempenho. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Pesquisa no repositório da UFSC",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.epa.gov/sites/default/files/2021-04/documents/green_streets_design_manual_feb_2021_web_res_small_508.pdf"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A necessidade de conservação também aparece no Green Streets Handbook, da agência ambiental norte-americana EPA. O manual recomenda inspeção, remoção de sedimentos e limpeza dos pavimentos para preservar sua função. Trata-se de referência técnica internacional, não de uma norma brasileira ou de uma frequência de manutenção automaticamente aplicável a qualquer local. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Manual da EPA",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Para quem projeta ou contrata infraestrutura, a consequência é prática: a comparação deve incluir implantação, conservação, desempenho esperado e destino da água captada. Também precisa definir responsáveis e recursos para manutenção. O benefício ambiental não termina na escolha do revestimento; depende de um sistema que continue funcionando depois da entrega da obra.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Análise de pesquisa. Publicada em 6 de novembro de 2026, com estudos de abril e setembro; não se trata de descoberta anunciada hoje.",
+      "Escolher um pavimento apenas pelo custo de instalação pode esconder diferenças importantes na operação. Um estudo de pesquisadores da Universidade Federal de Santa Catarina, publicado on-line em 15 de abril de 2026 na revista Science of the Total Environment, avaliou economicamente alternativas permeáveis associadas ao aproveitamento de água de chuva em edificações. O trabalho aplica uma metodologia de custo do ciclo de vida a um caso brasileiro. Registro e resumo do artigo.",
+      "Os autores Lucas Niehuns Antunes, Taylana Piccinini Scolaro e Enedir Ghisi compararam três modelos permeáveis, com revestimentos asfáltico, de concreto cimentício e de blocos de concreto, com um pavimento asfáltico impermeável. No cenário estudado, o concreto permeável apresentou valor presente líquido positivo de R$ 72.780 e retorno descontado em nove anos. A alternativa convencional, embora tivesse o menor investimento inicial, registrou valor presente líquido negativo de R$ 142.189. Esses valores pertencem ao caso analisado, não são preços por metro quadrado nem retornos garantidos para outras obras. Artigo científico.",
+      "A análise incorpora benefícios durante o uso, incluindo aproveitamento da chuva e efeitos relacionados à drenagem e ao ambiente urbano. A conclusão oferece um argumento para comparar alternativas ao longo da vida útil, mas não autoriza transportar os números diretamente para um orçamento municipal ou empreendimento privado.",
+      "Há também uma condição física que precisa entrar nessa conta: manter os caminhos de passagem da água. Um trabalho de iniciação científica da UFSC, datado de 10 de setembro e disponibilizado no repositório em 22 de setembro de 2026, investiga pavimentos asfálticos drenantes e a colmatação, processo em que partículas acumuladas nos vazios reduzem a permeabilidade. A pesquisa de Ana Maria Fernandes Bleggi da Silva, orientada por Lisiane Padilha Thives, utiliza um simulador de chuvas desenvolvido no LabPav para avaliar a drenagem ao longo do tempo. O registro descreve o experimento, sem apresentar resultados quantitativos de desempenho. Pesquisa no repositório da UFSC.",
+      "A necessidade de conservação também aparece no Green Streets Handbook, da agência ambiental norte-americana EPA. O manual recomenda inspeção, remoção de sedimentos e limpeza dos pavimentos para preservar sua função. Trata-se de referência técnica internacional, não de uma norma brasileira ou de uma frequência de manutenção automaticamente aplicável a qualquer local. Manual da EPA.",
+      "Para quem projeta ou contrata infraestrutura, a consequência é prática: a comparação deve incluir implantação, conservação, desempenho esperado e destino da água captada. Também precisa definir responsáveis e recursos para manutenção. O benefício ambiental não termina na escolha do revestimento; depende de um sistema que continue funcionando depois da entrega da obra."
+    ],
+    "showInPrimaryCategory": true
+  },
+  {
+    "title": "Premiação IAB RJ destaca obras concluídas e abre espaço para habitação e retrofit",
+    "dek": "Inscrições seguem até 20 de novembro. Grande Prêmio retorna com exigência de obra integralmente concluída; categorias incluem habitação para população vulnerável e infraestrutura verde.",
+    "region": "Brasil",
+    "publishedAt": "2026-11-06T11:46:01.331Z",
+    "modifiedAt": "2026-11-06T11:46:01.331Z",
+    "technicalTakeaway": "Obra concluída permite investigar o funcionamento real; premiação não substitui evidências de desempenho.",
+    "keyFacts": [
+      {
+        "_key": "f0",
+        "_type": "object",
+        "label": "Inscrições",
+        "value": "Até 20/11/2026"
+      },
+      {
+        "_key": "f1",
+        "_type": "object",
+        "label": "Resultado previsto",
+        "value": "10/12/2026"
+      }
+    ],
+    "sourceUrl": "https://iabrj.org.br/64a-premiacao-iab-rj-abre-inscricoes-para-reconhecer-a-producao-profissional-de-arquitetura-e-urbanismo/",
+    "sourceLanguage": "pt",
+    "slug": "premiacao-iab-rj-obras-concluidas-habitacao-retrofit-2026",
+    "category": "Arquitetura",
+    "categorySlug": "arquitetura",
+    "contentType": "news",
+    "sourceName": "IAB RJ",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-06",
+    "dateDisplay": "06 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/511e5394b68935eb72f3a6c60e13bf1f1c0ae841-1122x1402.png",
+    "imageAlt": "Conjunto habitacional de baixa altura com pátio arborizado, caminho acessível e logo branca VAELITH no alto.",
+    "imageCaption": "Imagem conceitual gerada por IA sobre moradia e arquitetura social brasileira; não retrata um empreendimento específico.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A 64ª Premiação IAB RJ está com inscrições abertas até 20 de novembro de 2026. Lançada em 31 de outubro, a edição reúne seis eixos e 22 categorias, com espaço para habitação destinada à população em vulnerabilidade, restauro, retrofit e infraestrutura verde. A agenda envolve profissionais de diferentes regiões, não apenas obras de grande escala.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://iabrj.org.br/64a-premiacao-iab-rj-abre-inscricoes-para-reconhecer-a-producao-profissional-de-arquitetura-e-urbanismo/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O Grande Prêmio retorna com um recorte importante: concorrem automaticamente os trabalhos premiados nas categorias da edição que correspondam a obras construídas e integralmente concluídas até a inscrição. Essa condição diferencia uma realização material de uma proposta ainda não executada. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Comunicado do IAB RJ, de 31 de outubro",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A entidade informa que profissionais regularmente associados e adimplentes ao IAB podem participar; o eixo de fotografia tem condições específicas. Cada trabalho deve entrar em apenas uma categoria. O resultado está previsto para 10 de dezembro. Documentação, elegibilidade e apresentação devem ser conferidas no regulamento disponibilizado pelo organizador antes da inscrição.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Para a cobertura da arquitetura, a oportunidade vai além de acompanhar vencedores. Uma obra pronta permite investigar como a solução funciona: acessibilidade no uso diário, conforto, adaptação ao lugar e esforço de conservação. Uma imagem atraente ou um prêmio não substituem essas verificações.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A leitura da VAELITH é que habitação, requalificação e paisagem merecem ser discutidas por sua capacidade de atender pessoas e manter o serviço ao longo do tempo. Em moradias, isso inclui observar a relação com circulação, equipamentos e infraestrutura. Em edifícios existentes, envolve perguntar o que foi preservado, substituído e adaptado, sem presumir que qualquer reforma produza o mesmo benefício.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A inscrição ou premiação, por si só, não demonstra economia, redução de emissões ou desempenho superior. Essas afirmações exigem dados próprios de cada projeto. A seleção ainda está em andamento e não há vencedores anunciados nesta matéria. O interesse público está em transformar a documentação das obras em conhecimento útil, com resultados e limitações identificáveis.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "A 64ª Premiação IAB RJ está com inscrições abertas até 20 de novembro de 2026. Lançada em 31 de outubro, a edição reúne seis eixos e 22 categorias, com espaço para habitação destinada à população em vulnerabilidade, restauro, retrofit e infraestrutura verde. A agenda envolve profissionais de diferentes regiões, não apenas obras de grande escala.",
+      "O Grande Prêmio retorna com um recorte importante: concorrem automaticamente os trabalhos premiados nas categorias da edição que correspondam a obras construídas e integralmente concluídas até a inscrição. Essa condição diferencia uma realização material de uma proposta ainda não executada. Comunicado do IAB RJ, de 31 de outubro.",
+      "A entidade informa que profissionais regularmente associados e adimplentes ao IAB podem participar; o eixo de fotografia tem condições específicas. Cada trabalho deve entrar em apenas uma categoria. O resultado está previsto para 10 de dezembro. Documentação, elegibilidade e apresentação devem ser conferidas no regulamento disponibilizado pelo organizador antes da inscrição.",
+      "Para a cobertura da arquitetura, a oportunidade vai além de acompanhar vencedores. Uma obra pronta permite investigar como a solução funciona: acessibilidade no uso diário, conforto, adaptação ao lugar e esforço de conservação. Uma imagem atraente ou um prêmio não substituem essas verificações.",
+      "A leitura da VAELITH é que habitação, requalificação e paisagem merecem ser discutidas por sua capacidade de atender pessoas e manter o serviço ao longo do tempo. Em moradias, isso inclui observar a relação com circulação, equipamentos e infraestrutura. Em edifícios existentes, envolve perguntar o que foi preservado, substituído e adaptado, sem presumir que qualquer reforma produza o mesmo benefício.",
+      "A inscrição ou premiação, por si só, não demonstra economia, redução de emissões ou desempenho superior. Essas afirmações exigem dados próprios de cada projeto. A seleção ainda está em andamento e não há vencedores anunciados nesta matéria. O interesse público está em transformar a documentação das obras em conhecimento útil, com resultados e limitações identificáveis."
+    ]
+  },
+  {
+    "title": "Risco climático precisa entrar no cronograma e na manutenção das obras",
+    "dek": "TCU e CGU anunciam referencial para auditorias. Análise VAELITH explica por que acompanhar interrupções, serviço prestado e custos separados ajuda a avaliar a resiliência.",
+    "region": "Brasil",
+    "publishedAt": "2026-11-06T11:46:01.331Z",
+    "modifiedAt": "2026-11-06T11:46:01.331Z",
+    "technicalTakeaway": "Resiliência se avalia com risco, continuidade do serviço e custos documentados, sem confundir valor contratado com perda.",
+    "keyFacts": [
+      {
+        "_key": "f0",
+        "_type": "object",
+        "label": "Lançamento previsto",
+        "value": "10/11/2026, 14h30"
+      },
+      {
+        "_key": "f1",
+        "_type": "object",
+        "label": "Natureza",
+        "value": "Referencial orientativo"
+      }
+    ],
+    "sourceUrl": "https://portal.tcu.gov.br/imprensa/noticias/referencial-orienta-auditorias-sobre-resposta-do-governo-a-mudancas-no-clima",
+    "sourceLanguage": "pt",
+    "slug": "analise-risco-climatico-cronograma-manutencao-auditoria-20261106",
+    "category": "Gestão",
+    "categorySlug": "gestao",
+    "contentType": "analysis",
+    "sourceName": "TCU",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-06",
+    "dateDisplay": "06 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/edec95d0cb766b788235435ac4483e4344b63261-1122x1402.png",
+    "imageAlt": "Engenheiro inspeciona canal de drenagem e bacia de detenção após a chuva, com logo branca VAELITH no alto.",
+    "imageCaption": "Imagem conceitual gerada por IA sobre inspeção e planejamento da drenagem urbana; não retrata uma cidade ou intervenção específica.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "b0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Análise | Editorial VAELITH. Publicada em 6 de novembro de 2026, a partir de anúncio institucional do dia anterior. O lançamento do referencial está previsto para 10 de novembro; esta análise não apresenta seus resultados como se já tivessem sido medidos em obras.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://portal.tcu.gov.br/imprensa/noticias/referencial-orienta-auditorias-sobre-resposta-do-governo-a-mudancas-no-clima"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "TCU e CGU anunciaram o Referencial de Auditoria para Adaptação e Resiliência Climática, de caráter orientativo. O documento busca incorporar riscos climáticos à avaliação de políticas de habitação, infraestrutura, energia e outros setores. A apresentação está marcada para 10 de novembro, às 14h30. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Anúncio do TCU, de 5 de novembro",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A estrutura tem cinco eixos: governança e coerência; gestão de riscos; transparência e integridade; justiça climática; e financiamento climático. Uma versão preliminar passou por consulta pública em julho. Segundo os órgãos, o instrumento adapta referências internacionais à atuação do controle público brasileiro. Isso não equivale a uma nova obrigação legal geral imposta a todo contrato.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A leitura prática da VAELITH é que o tema precisa sair da descrição genérica de riscos e chegar à rotina da infraestrutura. Em uma obra de drenagem, por exemplo, o gestor deve conseguir explicar quais condições de chuva afetam a execução, quais atividades podem continuar e quem decide por uma mudança de sequência. Não basta acrescentar a expressão “resiliência” ao projeto.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Na operação, a pergunta muda: o sistema mantém o serviço quando mais é necessário? Para respondê-la, é útil acompanhar dias de interrupção, locais afetados, população atendida e tempo de restabelecimento. Esses registros permitem observar efeitos sociais concretos, como a perda de acesso a equipamentos públicos. São critérios de acompanhamento propostos nesta análise, não resultados de auditoria atribuídos ao TCU.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A leitura financeira também pede contas separadas. Valor contratado é compromisso; pagamento registra desembolso; investimento imobilizado identifica recursos em uma estrutura ainda sem uso. Custo adicional depende de comparação documentada. Prejuízo exige demonstração própria. Uma obra paralisada pode reunir parte dessas situações, mas seu valor total não é automaticamente dinheiro perdido.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Para comparar empreendimentos ou períodos, o cadastro precisa conservar o mesmo universo, as definições de paralisação e a data de referência. Caso contrário, uma mudança de classificação pode parecer melhora ou piora física. O acompanhamento deve ligar cada interrupção a uma causa documentada, às providências adotadas e ao retorno efetivo do serviço.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "b7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O referencial oferece uma agenda de avaliação. Seu efeito dependerá da aplicação, da qualidade dos registros e das decisões tomadas. O anúncio consultado não comprova redução de atrasos, perdas ou riscos em obras específicas, nem fornece uma série quantitativa que permita estimá-la.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "body": [
+      "Análise | Editorial VAELITH. Publicada em 6 de novembro de 2026, a partir de anúncio institucional do dia anterior. O lançamento do referencial está previsto para 10 de novembro; esta análise não apresenta seus resultados como se já tivessem sido medidos em obras.",
+      "TCU e CGU anunciaram o Referencial de Auditoria para Adaptação e Resiliência Climática, de caráter orientativo. O documento busca incorporar riscos climáticos à avaliação de políticas de habitação, infraestrutura, energia e outros setores. A apresentação está marcada para 10 de novembro, às 14h30. Anúncio do TCU, de 5 de novembro.",
+      "A estrutura tem cinco eixos: governança e coerência; gestão de riscos; transparência e integridade; justiça climática; e financiamento climático. Uma versão preliminar passou por consulta pública em julho. Segundo os órgãos, o instrumento adapta referências internacionais à atuação do controle público brasileiro. Isso não equivale a uma nova obrigação legal geral imposta a todo contrato.",
+      "A leitura prática da VAELITH é que o tema precisa sair da descrição genérica de riscos e chegar à rotina da infraestrutura. Em uma obra de drenagem, por exemplo, o gestor deve conseguir explicar quais condições de chuva afetam a execução, quais atividades podem continuar e quem decide por uma mudança de sequência. Não basta acrescentar a expressão “resiliência” ao projeto.",
+      "Na operação, a pergunta muda: o sistema mantém o serviço quando mais é necessário? Para respondê-la, é útil acompanhar dias de interrupção, locais afetados, população atendida e tempo de restabelecimento. Esses registros permitem observar efeitos sociais concretos, como a perda de acesso a equipamentos públicos. São critérios de acompanhamento propostos nesta análise, não resultados de auditoria atribuídos ao TCU.",
+      "A leitura financeira também pede contas separadas. Valor contratado é compromisso; pagamento registra desembolso; investimento imobilizado identifica recursos em uma estrutura ainda sem uso. Custo adicional depende de comparação documentada. Prejuízo exige demonstração própria. Uma obra paralisada pode reunir parte dessas situações, mas seu valor total não é automaticamente dinheiro perdido.",
+      "Para comparar empreendimentos ou períodos, o cadastro precisa conservar o mesmo universo, as definições de paralisação e a data de referência. Caso contrário, uma mudança de classificação pode parecer melhora ou piora física. O acompanhamento deve ligar cada interrupção a uma causa documentada, às providências adotadas e ao retorno efetivo do serviço.",
+      "O referencial oferece uma agenda de avaliação. Seu efeito dependerá da aplicação, da qualidade dos registros e das decisões tomadas. O anúncio consultado não comprova redução de atrasos, perdas ou riscos em obras específicas, nem fornece uma série quantitativa que permita estimá-la."
+    ]
   }
 ]
