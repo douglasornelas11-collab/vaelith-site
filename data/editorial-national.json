@@ -6810,5 +6810,1555 @@
       "Para comparar empreendimentos ou períodos, o cadastro precisa conservar o mesmo universo, as definições de paralisação e a data de referência. Caso contrário, uma mudança de classificação pode parecer melhora ou piora física. O acompanhamento deve ligar cada interrupção a uma causa documentada, às providências adotadas e ao retorno efetivo do serviço.",
       "O referencial oferece uma agenda de avaliação. Seu efeito dependerá da aplicação, da qualidade dos registros e das decisões tomadas. O anúncio consultado não comprova redução de atrasos, perdas ou riscos em obras específicas, nem fornece uma série quantitativa que permita estimá-la."
     ]
+  },
+  {
+    "title": "Ponte do Rio Paraíba tem implosão prevista para domingo; reabertura depende de inspeção",
+    "dek": "Operação na BR-101/PB está programada para 8 de novembro; MPF cobra segurança e clareza sobre as etapas da reconstrução.",
+    "contentType": "news",
+    "region": "Brasil",
+    "publishedAt": "2026-11-07T11:35:14.123176Z",
+    "modifiedAt": "2026-11-07T11:35:14.123176Z",
+    "technicalTakeaway": "Implosão programada, inspeção posterior e entrega da reconstrução são marcos distintos. A previsão de horário não garante liberação.",
+    "keyFacts": [
+      {
+        "_key": "f0",
+        "_type": "object",
+        "label": "Operação programada",
+        "value": "08/11/2026, 14h30"
+      },
+      {
+        "_key": "f1",
+        "_type": "object",
+        "label": "Bloqueio previsto",
+        "value": "13h30 a 17h30"
+      },
+      {
+        "_key": "f2",
+        "_type": "object",
+        "label": "Liberação",
+        "value": "Condicionada à inspeção"
+      }
+    ],
+    "sourceUrl": "https://www.gov.br/dnit/pt-br/assuntos/noticias/nota-implosao-da-ponte-sobre-o-rio-paraiba-na-br-101-pb",
+    "sourceLanguage": "pt",
+    "slug": "ponte-rio-paraiba-implosao-inspecao-br101-novembro-2026",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "sourceName": "DNIT e MPF",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-07",
+    "dateDisplay": "07 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/05c6416dbb9c9495a6b4a3407aaded44d3fa2121-1122x1402.png",
+    "imageAlt": "Engenheiro com equipamento de inspeção observa duas pontes sobre rio, com logo branca VAELITH no alto.",
+    "imageCaption": "Imagem conceitual gerada por IA sobre inspeção de pontes; não retrata as pontes do Rio Paraíba.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_key": "b0",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A ponte interditada sobre o Rio Paraíba, no km 77 da BR-101, em Santa Rita, tem implosão prevista para domingo, 8 de novembro, às 14h30. O DNIT anunciou a programação em 6 de novembro. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Nota do DNIT",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.gov.br/dnit/pt-br/assuntos/noticias/nota-implosao-da-ponte-sobre-o-rio-paraiba-na-br-101-pb"
+          }
+        ]
+      },
+      {
+        "_key": "b1",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O bloqueio está previsto das 13h30 às 17h30, com desvios pela BR-230 e PB-041 e perímetro de segurança de 300 metros, em terra e água. A liberação dependerá de inspeção da ponte paralela, utilizada nos dois sentidos, por especialistas em sismologia e topografia. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Plano operacional divulgado pelo DNIT",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.gov.br/dnit/pt-br/assuntos/noticias/nota-implosao-da-ponte-sobre-o-rio-paraiba-na-br-101-pb"
+          }
+        ]
+      },
+      {
+        "_key": "b2",
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Histórico e cobrança de informações",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b3",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O problema tem antecedentes documentados. Em agosto, o MPF informou que a ponte havia sofrido colapso parcial em 7 de março e fora considerada tecnicamente irrecuperável pelo DNIT. Segundo a manifestação técnica relatada pelo Ministério Público, laudos identificaram perda superior a 70% da seção de partes das estacas metálicas, associada à corrosão e a fatores hidrológicos. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Registro do MPF de 5 de agosto",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.mpf.mp.br/o-mpf/unidades/pr-pb/noticias/mpf-requisita-cronogramas-para-obras-em-pontes-da-br-101-na-paraiba"
+          }
+        ]
+      },
+      {
+        "_key": "b4",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Em outra publicação de 6 de novembro, o MPF apresentou uma nova cobrança, expedida dois dias antes, sobre as pontes dos rios Paraíba e Mamanguape. O DNIT deverá responder em dez dias úteis após receber o ofício. Foram solicitados dados atualizados de segurança, limites de carga, monitoramento, cronogramas e proteção das estruturas vizinhas durante as intervenções. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Nova requisição do MPF",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.mpf.mp.br/o-mpf/unidades/pr-pb/noticias/mpf-segue-acompanhando-pontes-da-br-101-e-reforca-cobranca-ao-dnit-por-solucoes-e-transparencia-nas-obras-na-pb"
+          }
+        ]
+      },
+      {
+        "_key": "b5",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O Ministério Público também relatou problemas de sinalização e sinais de deterioração observados em vistoria de agosto. A própria instituição ressalvou que esse registro foi visual e fotográfico, sem avaliação pericial de engenharia. A ressalva impede tratar fotografias como laudo conclusivo sobre a capacidade atual da ponte em uso. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Escopo da vistoria relatada pelo MPF",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.mpf.mp.br/o-mpf/unidades/pr-pb/noticias/mpf-segue-acompanhando-pontes-da-br-101-e-reforca-cobranca-ao-dnit-por-solucoes-e-transparencia-nas-obras-na-pb"
+          }
+        ]
+      },
+      {
+        "_key": "b6",
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Leitura técnica VAELITH",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b7",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O ponto de controle mais importante para acompanhar a operação é a passagem entre intervenção e liberação. A desmontagem de uma estrutura comprometida, a verificação da travessia vizinha e a entrega de uma nova ponte são resultados diferentes. Cada um precisa de evidência própria, com responsável técnico, data e condição de aceite.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b8",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Para acompanhar a reconstrução, uma atualização útil deve identificar o projeto adotado, a contratação correspondente, a mobilização e o avanço físico. Somar esses marcos em um anúncio genérico de recuperação torna difícil avaliar prazo e responsabilidade. Também convém registrar separadamente a retirada dos materiais e a recomposição das condições de circulação.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b9",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Limite da apuração: as fontes consultadas sustentam a programação da implosão e a existência da cobrança de fiscalização. Não comprovam a realização da operação, a aprovação da inspeção posterior ou a entrega da ponte reconstruída. A previsão horária deve ser conferida nos canais oficiais antes do deslocamento.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      }
+    ],
+    "body": [
+      "A ponte interditada sobre o Rio Paraíba, no km 77 da BR-101, em Santa Rita, tem implosão prevista para domingo, 8 de novembro, às 14h30. O DNIT anunciou a programação em 6 de novembro. Nota do DNIT.",
+      "O bloqueio está previsto das 13h30 às 17h30, com desvios pela BR-230 e PB-041 e perímetro de segurança de 300 metros, em terra e água. A liberação dependerá de inspeção da ponte paralela, utilizada nos dois sentidos, por especialistas em sismologia e topografia. Plano operacional divulgado pelo DNIT.",
+      "Histórico e cobrança de informações",
+      "O problema tem antecedentes documentados. Em agosto, o MPF informou que a ponte havia sofrido colapso parcial em 7 de março e fora considerada tecnicamente irrecuperável pelo DNIT. Segundo a manifestação técnica relatada pelo Ministério Público, laudos identificaram perda superior a 70% da seção de partes das estacas metálicas, associada à corrosão e a fatores hidrológicos. Registro do MPF de 5 de agosto.",
+      "Em outra publicação de 6 de novembro, o MPF apresentou uma nova cobrança, expedida dois dias antes, sobre as pontes dos rios Paraíba e Mamanguape. O DNIT deverá responder em dez dias úteis após receber o ofício. Foram solicitados dados atualizados de segurança, limites de carga, monitoramento, cronogramas e proteção das estruturas vizinhas durante as intervenções. Nova requisição do MPF.",
+      "O Ministério Público também relatou problemas de sinalização e sinais de deterioração observados em vistoria de agosto. A própria instituição ressalvou que esse registro foi visual e fotográfico, sem avaliação pericial de engenharia. A ressalva impede tratar fotografias como laudo conclusivo sobre a capacidade atual da ponte em uso. Escopo da vistoria relatada pelo MPF.",
+      "Leitura técnica VAELITH",
+      "O ponto de controle mais importante para acompanhar a operação é a passagem entre intervenção e liberação. A desmontagem de uma estrutura comprometida, a verificação da travessia vizinha e a entrega de uma nova ponte são resultados diferentes. Cada um precisa de evidência própria, com responsável técnico, data e condição de aceite.",
+      "Para acompanhar a reconstrução, uma atualização útil deve identificar o projeto adotado, a contratação correspondente, a mobilização e o avanço físico. Somar esses marcos em um anúncio genérico de recuperação torna difícil avaliar prazo e responsabilidade. Também convém registrar separadamente a retirada dos materiais e a recomposição das condições de circulação.",
+      "Limite da apuração: as fontes consultadas sustentam a programação da implosão e a existência da cobrança de fiscalização. Não comprovam a realização da operação, a aprovação da inspeção posterior ou a entrega da ponte reconstruída. A previsão horária deve ser conferida nos canais oficiais antes do deslocamento."
+    ]
+  },
+  {
+    "title": "Destrava chega ao RS com 631 obras mapeadas e retomada ainda a comprovar",
+    "dek": "Comitê instalado em 6 de novembro reúne órgãos públicos e entidades para enfrentar paralisações na saúde e na educação; adesão ao programa não transfere novos recursos do CNJ.",
+    "contentType": "news",
+    "region": "Brasil",
+    "publishedAt": "2026-11-07T11:35:14.123176Z",
+    "modifiedAt": "2026-11-07T11:35:14.123176Z",
+    "technicalTakeaway": "O levantamento dimensiona uma demanda potencial, mas não comprova nova contratação, repasse ou reinício físico.",
+    "keyFacts": [
+      {
+        "_key": "f0",
+        "_type": "object",
+        "label": "Obras mapeadas",
+        "value": "631"
+      },
+      {
+        "_key": "f1",
+        "_type": "object",
+        "label": "Municípios no levantamento",
+        "value": "193"
+      },
+      {
+        "_key": "f2",
+        "_type": "object",
+        "label": "Saúde no recorte",
+        "value": "558 obras, cerca de 88,4%"
+      }
+    ],
+    "sourceUrl": "https://famurs.com.br/noticia/4343",
+    "sourceLanguage": "pt",
+    "slug": "destrava-rs-631-obras-mercado-retomada-novembro-2026",
+    "category": "Mercado",
+    "categorySlug": "mercado",
+    "sourceName": "Famurs, Confea e OAB",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-07",
+    "dateDisplay": "07 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/5f41e5c59c651a69e515fa94e77a5d2c839651af-1122x1402.png",
+    "imageAlt": "Estrutura escolar incompleta e cercada, com logo branca VAELITH no alto.",
+    "imageCaption": "Imagem conceitual gerada por IA sobre uma escola em construção; não retrata obra identificada no levantamento do RS.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_key": "b0",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O Rio Grande do Sul instalou, em 6 de novembro, o comitê estadual do Programa Destrava, destinado a enfrentar entraves à conclusão de obras públicas. A Famurs confirmou a participação de 32 municípios na adesão inicial. O levantamento apresentado reúne 631 empreendimentos: 558 na saúde, 43 na educação básica e 30 em instituições federais de ensino. Saúde representa aproximadamente 88,4% desse recorte estadual (558 divididos por 631), não do conjunto nacional de obras paralisadas. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Relato da Famurs sobre a instalação",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://famurs.com.br/noticia/4343"
+          }
+        ]
+      },
+      {
+        "_key": "b1",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Para construtoras, projetistas e fornecedores, o anúncio identifica uma demanda potencial por recuperação e conclusão de ativos. O tamanho desse universo, porém, ainda não permite calcular uma carteira de novos contratos. A participação de um município expressa adesão institucional; a condição de cada empreendimento precisará ser verificada antes de projetar serviços, receitas ou compras.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b2",
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Do levantamento ao plano de cada obra",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b3",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Segundo o Confea, as obras estão distribuídas por 193 municípios. O procedimento apresentado prevê validação dos dados pelas prefeituras em 15 dias úteis e classificação em três grupos. As listas A e B terão metas de início da retomada de até 30 e 60 dias, respectivamente; a lista C permanecerá em monitoramento. Esses intervalos integram o fluxo anunciado e não comprovam que todos os canteiros já tenham ordem de reinício. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Funcionamento informado pelo Confea",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.confea.org.br/sistema-confeacrea-inicia-etapa-do-programa-destrava-no-rs"
+          }
+        ]
+      },
+      {
+        "_key": "b4",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Os empreendimentos prioritários deverão receber planos com marcos de 30%, 60% e 100% de execução. O acompanhamento prevê painel atualizado semanalmente. O mesmo relato esclarece que a adesão não prevê transferência direta de novos recursos financeiros pelo CNJ: a contribuição do programa é técnica e institucional. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Metas e alcance financeiro do programa",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.confea.org.br/sistema-confeacrea-inicia-etapa-do-programa-destrava-no-rs"
+          }
+        ]
+      },
+      {
+        "_key": "b5",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A Famurs informa que o comitê, coordenado regionalmente pelo TCU, reúne 18 instituições e pretende enfrentar obstáculos burocráticos, contratuais, financeiros e jurídicos. Para os municípios, o apoio inclui atualização de informações e elaboração de planos de retomada. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Papel da rede de participantes",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://famurs.com.br/noticia/4343"
+          }
+        ]
+      },
+      {
+        "_key": "b6",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O lançamento estadual sucede a articulação nacional apresentada em 3 de novembro. A OAB, participante do acordo, descreve uma cooperação para compartilhar informações, identificar empreendimentos e desenvolver estudos sobre os obstáculos à conclusão. O instrumento nacional tem vigência inicial de 60 meses. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Registro da OAB",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.oab.org.br/noticia/64752/oab-participa-de-iniciativa-nacional-para-destravar-obras-publicas-paralisadas"
+          }
+        ]
+      },
+      {
+        "_key": "b7",
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Análise VAELITH: quando a retomada vira mercado",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b8",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A primeira informação comercial útil será uma relação validada por empreendimento. Ela deve permitir distinguir o que falta executar, a situação do contrato, os recursos disponíveis e as decisões necessárias. Uma obra próxima do acabamento exige uma estratégia diferente daquela que demanda revisão de projeto ou recuperação de serviços deteriorados.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b9",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Na avaliação de oportunidades, também é importante separar o valor originalmente contratado do custo atualizado para concluir. A diferença entre montante contratado e montante executado, isoladamente, não revela o orçamento da retomada. Quantidades remanescentes, estado de conservação, preços, obrigações pendentes e solução contratual precisam ser examinados em conjunto. Valor contratado, pagamentos, investimento imobilizado, custo adicional e prejuízo comprovado são grandezas diferentes. O valor de uma obra parada não é, por si só, dinheiro perdido.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b10",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O avanço mensurável será a conversão dos planos em providências verificáveis: solução dos impedimentos, definição de recursos, instrumento contratual adequado, mobilização e medições. Até lá, o número de obras mapeadas dimensiona o problema e orienta a prospecção, mas não sustenta previsão de faturamento.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b11",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Limite da apuração: os relatos consultados confirmam a instalação do comitê e seus objetivos. Não apresentam comprovação individual de reinício físico das 631 obras, orçamento consolidado de conclusão ou novas contratações decorrentes do lançamento.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      }
+    ],
+    "body": [
+      "O Rio Grande do Sul instalou, em 6 de novembro, o comitê estadual do Programa Destrava, destinado a enfrentar entraves à conclusão de obras públicas. A Famurs confirmou a participação de 32 municípios na adesão inicial. O levantamento apresentado reúne 631 empreendimentos: 558 na saúde, 43 na educação básica e 30 em instituições federais de ensino. Saúde representa aproximadamente 88,4% desse recorte estadual (558 divididos por 631), não do conjunto nacional de obras paralisadas. Relato da Famurs sobre a instalação.",
+      "Para construtoras, projetistas e fornecedores, o anúncio identifica uma demanda potencial por recuperação e conclusão de ativos. O tamanho desse universo, porém, ainda não permite calcular uma carteira de novos contratos. A participação de um município expressa adesão institucional; a condição de cada empreendimento precisará ser verificada antes de projetar serviços, receitas ou compras.",
+      "Do levantamento ao plano de cada obra",
+      "Segundo o Confea, as obras estão distribuídas por 193 municípios. O procedimento apresentado prevê validação dos dados pelas prefeituras em 15 dias úteis e classificação em três grupos. As listas A e B terão metas de início da retomada de até 30 e 60 dias, respectivamente; a lista C permanecerá em monitoramento. Esses intervalos integram o fluxo anunciado e não comprovam que todos os canteiros já tenham ordem de reinício. Funcionamento informado pelo Confea.",
+      "Os empreendimentos prioritários deverão receber planos com marcos de 30%, 60% e 100% de execução. O acompanhamento prevê painel atualizado semanalmente. O mesmo relato esclarece que a adesão não prevê transferência direta de novos recursos financeiros pelo CNJ: a contribuição do programa é técnica e institucional. Metas e alcance financeiro do programa.",
+      "A Famurs informa que o comitê, coordenado regionalmente pelo TCU, reúne 18 instituições e pretende enfrentar obstáculos burocráticos, contratuais, financeiros e jurídicos. Para os municípios, o apoio inclui atualização de informações e elaboração de planos de retomada. Papel da rede de participantes.",
+      "O lançamento estadual sucede a articulação nacional apresentada em 3 de novembro. A OAB, participante do acordo, descreve uma cooperação para compartilhar informações, identificar empreendimentos e desenvolver estudos sobre os obstáculos à conclusão. O instrumento nacional tem vigência inicial de 60 meses. Registro da OAB.",
+      "Análise VAELITH: quando a retomada vira mercado",
+      "A primeira informação comercial útil será uma relação validada por empreendimento. Ela deve permitir distinguir o que falta executar, a situação do contrato, os recursos disponíveis e as decisões necessárias. Uma obra próxima do acabamento exige uma estratégia diferente daquela que demanda revisão de projeto ou recuperação de serviços deteriorados.",
+      "Na avaliação de oportunidades, também é importante separar o valor originalmente contratado do custo atualizado para concluir. A diferença entre montante contratado e montante executado, isoladamente, não revela o orçamento da retomada. Quantidades remanescentes, estado de conservação, preços, obrigações pendentes e solução contratual precisam ser examinados em conjunto. Valor contratado, pagamentos, investimento imobilizado, custo adicional e prejuízo comprovado são grandezas diferentes. O valor de uma obra parada não é, por si só, dinheiro perdido.",
+      "O avanço mensurável será a conversão dos planos em providências verificáveis: solução dos impedimentos, definição de recursos, instrumento contratual adequado, mobilização e medições. Até lá, o número de obras mapeadas dimensiona o problema e orienta a prospecção, mas não sustenta previsão de faturamento.",
+      "Limite da apuração: os relatos consultados confirmam a instalação do comitê e seus objetivos. Não apresentam comprovação individual de reinício físico das 631 obras, orçamento consolidado de conclusão ou novas contratações decorrentes do lançamento."
+    ]
+  },
+  {
+    "title": "Retrofit no Centro de Curitiba recoloca o diagnóstico do edifício no debate sobre moradia",
+    "dek": "Análise VAELITH: Projeto residencial divulgado em 6 de novembro prevê 110 apartamentos; análise distingue o anúncio imobiliário das condições necessárias para reutilizar construções.",
+    "contentType": "analysis",
+    "region": "Brasil",
+    "publishedAt": "2026-11-07T11:35:14.123176Z",
+    "modifiedAt": "2026-11-07T11:35:14.123176Z",
+    "technicalTakeaway": "O anúncio de moradias não comprova desempenho, acessibilidade econômica ou economia ambiental.",
+    "keyFacts": [
+      {
+        "_key": "f0",
+        "_type": "object",
+        "label": "Programa anunciado",
+        "value": "110 apartamentos"
+      },
+      {
+        "_key": "f1",
+        "_type": "object",
+        "label": "Conclusão prevista",
+        "value": "2028"
+      }
+    ],
+    "sourceUrl": "https://hojepr.com/edificio-abandonado-ha-25-anos-dara-lugar-a-residencial-no-centro-de-curitiba/",
+    "sourceLanguage": "pt",
+    "slug": "retrofit-centro-curitiba-habitacao-diagnostico",
+    "category": "Arquitetura",
+    "categorySlug": "arquitetura",
+    "sourceName": "HojePR, Prefeitura de Curitiba, Instituto de Engenharia",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-07",
+    "dateDisplay": "07 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/4cdc71fe2f80c19cdde399e9b591e362c9627e0e-1122x1402.png",
+    "imageAlt": "Edifício residencial urbano ao lado de fachadas antigas, com acesso e passeio arborizado e logo branca VAELITH.",
+    "imageCaption": "Imagem conceitual gerada por IA sobre adaptação de edifícios; não retrata o Noov Vive nem outro empreendimento específico.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_key": "b0",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Um edifício inacabado próximo à praça Santos Andrade, no Centro de Curitiba, deverá receber 110 apartamentos distribuídos em 21 pavimentos. Segundo informações do empreendimento publicadas pelo HojePR em 6 de novembro, o Noov Vive tem conclusão prevista para 2028 e reúne Gomes Imóveis, Legno e Housi. A notícia descreve uma obra em andamento, com unidades compactas e serviços compartilhados. O prazo é uma previsão dos responsáveis, não uma entrega já realizada. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Notícia do HojePR",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://hojepr.com/edificio-abandonado-ha-25-anos-dara-lugar-a-residencial-no-centro-de-curitiba/"
+          }
+        ]
+      },
+      {
+        "_key": "b1",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O caso oferece uma pergunta útil para cidades com imóveis ociosos: quais condições permitem transformar uma estrutura existente em moradia adequada? A quantidade de unidades ajuda a dimensionar o empreendimento, mas não responde, sozinha, sobre conforto, segurança, custo de operação ou acesso à habitação. Esses resultados dependem do projeto executado e da vida do prédio depois da ocupação.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b2",
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Atualizar o prédio e conhecer o que já existe",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b3",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Em orientação publicada em 2 de setembro de 2026, a Prefeitura de Curitiba apresenta o retrofit como atualização de edifícios antigos para padrões atuais de conforto e funcionalidade, incluindo sistemas e estruturas. O município também diferencia essa intervenção do restauro, voltado à conservação da autenticidade de bens com valor histórico. São enquadramentos que ajudam o leitor a entender por que recuperar um imóvel pode exigir decisões muito além do acabamento da fachada. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Orientação da Prefeitura",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.curitiba.pr.gov.br/noticias/sabe-as-diferencas-entre-reforma-retrofit-e-restauro-confira-aqui/84854"
+          }
+        ]
+      },
+      {
+        "_key": "b4",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A avaliação técnica do existente é parte central desse debate. Em material de orientação divulgado em 2015, o Instituto de Engenharia explica que o laudo de inspeção predial deve ser elaborado por profissional habilitado, capaz de avaliar conservação, funcionamento dos sistemas e criticidade das deficiências. Essa referência trata de inspeção, não certifica o projeto curitibano nem substitui seus estudos específicos. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Orientação sobre inspeção e manutenção",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.institutodeengenharia.org.br/site/2015/05/19/publicacoes-gratuitas-auxiliam-na-manutencao-preventiva-das-edificacoes/"
+          }
+        ]
+      },
+      {
+        "_key": "b5",
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O que pode ser levado a outros projetos",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b6",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Na análise da VAELITH, a experiência merece ser acompanhada por um conjunto de perguntas verificáveis: o que será preservado, quais sistemas serão substituídos, que documentação sustentará a intervenção e como a manutenção será organizada? Para uma conversão residencial, também interessa conhecer a resposta de projeto a iluminação, ventilação, circulação e diferentes necessidades dos moradores. São critérios de acompanhamento, sem conclusão antecipada sobre o desempenho deste edifício.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b7",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A comparação econômica deveria considerar aquisição, diagnóstico, intervenções, operação e manutenção. Avaliar apenas o investimento inicial pode esconder despesas que aparecerão no condomínio. Da mesma forma, atribuir vantagem ambiental ao reaproveitamento exige demonstrar materiais preservados, novas obras necessárias e impactos considerados no cálculo.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b8",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Há ainda uma dimensão urbana: aumentar a oferta residencial no Centro não comprova, automaticamente, que as unidades serão acessíveis a famílias de baixa renda. Preço, forma de ocupação e despesas mensais precisam entrar na avaliação. O anúncio abre uma oportunidade de observação; a qualidade do resultado deverá ser demonstrada ao longo da obra e do uso.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      }
+    ],
+    "body": [
+      "Um edifício inacabado próximo à praça Santos Andrade, no Centro de Curitiba, deverá receber 110 apartamentos distribuídos em 21 pavimentos. Segundo informações do empreendimento publicadas pelo HojePR em 6 de novembro, o Noov Vive tem conclusão prevista para 2028 e reúne Gomes Imóveis, Legno e Housi. A notícia descreve uma obra em andamento, com unidades compactas e serviços compartilhados. O prazo é uma previsão dos responsáveis, não uma entrega já realizada. Notícia do HojePR.",
+      "O caso oferece uma pergunta útil para cidades com imóveis ociosos: quais condições permitem transformar uma estrutura existente em moradia adequada? A quantidade de unidades ajuda a dimensionar o empreendimento, mas não responde, sozinha, sobre conforto, segurança, custo de operação ou acesso à habitação. Esses resultados dependem do projeto executado e da vida do prédio depois da ocupação.",
+      "Atualizar o prédio e conhecer o que já existe",
+      "Em orientação publicada em 2 de setembro de 2026, a Prefeitura de Curitiba apresenta o retrofit como atualização de edifícios antigos para padrões atuais de conforto e funcionalidade, incluindo sistemas e estruturas. O município também diferencia essa intervenção do restauro, voltado à conservação da autenticidade de bens com valor histórico. São enquadramentos que ajudam o leitor a entender por que recuperar um imóvel pode exigir decisões muito além do acabamento da fachada. Orientação da Prefeitura.",
+      "A avaliação técnica do existente é parte central desse debate. Em material de orientação divulgado em 2015, o Instituto de Engenharia explica que o laudo de inspeção predial deve ser elaborado por profissional habilitado, capaz de avaliar conservação, funcionamento dos sistemas e criticidade das deficiências. Essa referência trata de inspeção, não certifica o projeto curitibano nem substitui seus estudos específicos. Orientação sobre inspeção e manutenção.",
+      "O que pode ser levado a outros projetos",
+      "Na análise da VAELITH, a experiência merece ser acompanhada por um conjunto de perguntas verificáveis: o que será preservado, quais sistemas serão substituídos, que documentação sustentará a intervenção e como a manutenção será organizada? Para uma conversão residencial, também interessa conhecer a resposta de projeto a iluminação, ventilação, circulação e diferentes necessidades dos moradores. São critérios de acompanhamento, sem conclusão antecipada sobre o desempenho deste edifício.",
+      "A comparação econômica deveria considerar aquisição, diagnóstico, intervenções, operação e manutenção. Avaliar apenas o investimento inicial pode esconder despesas que aparecerão no condomínio. Da mesma forma, atribuir vantagem ambiental ao reaproveitamento exige demonstrar materiais preservados, novas obras necessárias e impactos considerados no cálculo.",
+      "Há ainda uma dimensão urbana: aumentar a oferta residencial no Centro não comprova, automaticamente, que as unidades serão acessíveis a famílias de baixa renda. Preço, forma de ocupação e despesas mensais precisam entrar na avaliação. O anúncio abre uma oportunidade de observação; a qualidade do resultado deverá ser demonstrada ao longo da obra e do uso."
+    ]
+  },
+  {
+    "title": "Pesquisa sobre BIM na habitação social coloca capacidade das empresas antes das novas exigências",
+    "dek": "Levantamento iniciado em 5 de novembro recebe respostas até o dia 19; diagnóstico pode orientar uma adoção compatível com a realidade do setor.",
+    "contentType": "news",
+    "region": "Brasil",
+    "publishedAt": "2026-11-07T11:35:14.123176Z",
+    "modifiedAt": "2026-11-07T11:35:14.123176Z",
+    "technicalTakeaway": "Pesquisa coleta um diagnóstico; não apresenta resultados nem cria por si novas obrigações.",
+    "keyFacts": [
+      {
+        "_key": "f0",
+        "_type": "object",
+        "label": "Coleta de respostas",
+        "value": "5 a 19/11/2026"
+      },
+      {
+        "_key": "f1",
+        "_type": "object",
+        "label": "Público",
+        "value": "Construtoras e incorporadoras"
+      }
+    ],
+    "sourceUrl": "https://www.abdi.com.br/abdi-e-ministerio-das-cidades-lancam-pesquisa-sobre-maturidade-digital-e-bim-na-habitacao-de-interesse-social/",
+    "sourceLanguage": "pt",
+    "slug": "pesquisa-bim-habitacao-social-maturidade-digital",
+    "category": "Tecnologia",
+    "categorySlug": "tecnologia",
+    "sourceName": "ABDI, BIM Fórum Brasil, Câmara dos Deputados / Decreto 11.888",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-07",
+    "dateDisplay": "07 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/7b0ab5e020b583766bc6a45b0f927c163f8a7d85-1122x1402.png",
+    "imageAlt": "Engenheiro compara modelo digital de edifício no computador com uma maquete, diante de canteiro, com logo VAELITH.",
+    "imageCaption": "Imagem conceitual gerada por IA sobre planejamento digital da habitação; não retrata software, empresa ou obra específica.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_key": "b0",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A ABDI, o Ministério das Cidades e o BIM Fórum Brasil iniciaram em 5 de novembro uma pesquisa sobre maturidade digital na habitação de interesse social, com foco no Minha Casa, Minha Vida. O questionário recebe respostas até 19 de novembro. Segundo a ABDI, o objetivo é conhecer processos de gestão, estágio tecnológico e obstáculos das construtoras e incorporadoras para subsidiar diretrizes públicas. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Anúncio da ABDI",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.abdi.com.br/abdi-e-ministerio-das-cidades-lancam-pesquisa-sobre-maturidade-digital-e-bim-na-habitacao-de-interesse-social/"
+          }
+        ]
+      },
+      {
+        "_key": "b1",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A participação se dirige a profissionais que conheçam a operação da empresa, inclusive organizações pouco informatizadas. As participantes receberão um relatório executivo gratuito, e os dados individuais serão tratados sob sigilo, conforme o anúncio. A divulgação não apresenta resultados: esta é a fase de coleta, anterior a conclusões sobre a capacidade tecnológica do segmento.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b2",
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O que significa adotar BIM",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b3",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A Estratégia BIM BR, instituída pelo Decreto 11.888, de janeiro de 2024, define a modelagem da informação da construção como integração de processos e tecnologias para produzir, atualizar e compartilhar modelos digitais ao longo da vida do empreendimento. Isso inclui colaboração entre participantes e continuidade das informações, em vez de reduzir a discussão à apresentação visual de um projeto.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b4",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O decreto prevê capacitação, apoio à adoção pelo poder público, desenvolvimento de parâmetros para contratações e incentivo a especificações abertas para interoperabilidade. Também relaciona a metodologia à construção industrializada e à sustentabilidade. Esses objetivos oferecem contexto para o levantamento atual, mas não constituem evidência de que uma determinada empresa já alcançou produtividade ou redução de custos. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Decreto 11.888/2024",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www2.camara.leg.br/legin/fed/decret/2024/decreto-11888-22-janeiro-2024-795274-publicacaooriginal-170910-pe.html"
+          }
+        ]
+      },
+      {
+        "_key": "b5",
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Da resposta ao questionário à melhoria do processo",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b6",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Na leitura da VAELITH, o valor do diagnóstico dependerá de sua capacidade de separar dificuldades distintas. Comprar uma ferramenta, formar uma equipe, combinar responsabilidades entre projetistas e manter informações atualizadas são decisões relacionadas, mas exigem recursos e rotinas próprios. Uma política de adoção ganha precisão quando identifica onde está cada obstáculo.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b7",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Para as empresas, um uso possível do relatório será transformar a comparação com o setor em prioridades verificáveis. Que informação precisa chegar à obra? Quem responde por atualizá-la? Como uma alteração será comunicada aos demais participantes? Um projeto piloto pode organizar essas perguntas e permitir que a equipe acompanhe tempo de revisão, inconsistências e retrabalho, sem presumir antecipadamente uma taxa de economia.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b8",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Também será importante examinar a composição dos respondentes quando houver divulgação de resultados. Uma amostra concentrada em empresas maiores ou mais digitalizadas pode retratar mal as dificuldades de outras organizações. A notícia de lançamento não informa resultados consolidados, distribuição regional ou composição final da amostra.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b9",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Para gestores de habitação, a aplicação prática é acompanhar se as futuras orientações ligam requisitos de informação, treinamento e capacidade de contratação. O levantamento pode ajudar nessa discussão; sua abertura não significa que novas obrigações já tenham sido aprovadas. O questionário oficial está vinculado ao anúncio da ABDI, que reúne as condições e o prazo de participação.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      }
+    ],
+    "body": [
+      "A ABDI, o Ministério das Cidades e o BIM Fórum Brasil iniciaram em 5 de novembro uma pesquisa sobre maturidade digital na habitação de interesse social, com foco no Minha Casa, Minha Vida. O questionário recebe respostas até 19 de novembro. Segundo a ABDI, o objetivo é conhecer processos de gestão, estágio tecnológico e obstáculos das construtoras e incorporadoras para subsidiar diretrizes públicas. Anúncio da ABDI.",
+      "A participação se dirige a profissionais que conheçam a operação da empresa, inclusive organizações pouco informatizadas. As participantes receberão um relatório executivo gratuito, e os dados individuais serão tratados sob sigilo, conforme o anúncio. A divulgação não apresenta resultados: esta é a fase de coleta, anterior a conclusões sobre a capacidade tecnológica do segmento.",
+      "O que significa adotar BIM",
+      "A Estratégia BIM BR, instituída pelo Decreto 11.888, de janeiro de 2024, define a modelagem da informação da construção como integração de processos e tecnologias para produzir, atualizar e compartilhar modelos digitais ao longo da vida do empreendimento. Isso inclui colaboração entre participantes e continuidade das informações, em vez de reduzir a discussão à apresentação visual de um projeto.",
+      "O decreto prevê capacitação, apoio à adoção pelo poder público, desenvolvimento de parâmetros para contratações e incentivo a especificações abertas para interoperabilidade. Também relaciona a metodologia à construção industrializada e à sustentabilidade. Esses objetivos oferecem contexto para o levantamento atual, mas não constituem evidência de que uma determinada empresa já alcançou produtividade ou redução de custos. Decreto 11.888/2024.",
+      "Da resposta ao questionário à melhoria do processo",
+      "Na leitura da VAELITH, o valor do diagnóstico dependerá de sua capacidade de separar dificuldades distintas. Comprar uma ferramenta, formar uma equipe, combinar responsabilidades entre projetistas e manter informações atualizadas são decisões relacionadas, mas exigem recursos e rotinas próprios. Uma política de adoção ganha precisão quando identifica onde está cada obstáculo.",
+      "Para as empresas, um uso possível do relatório será transformar a comparação com o setor em prioridades verificáveis. Que informação precisa chegar à obra? Quem responde por atualizá-la? Como uma alteração será comunicada aos demais participantes? Um projeto piloto pode organizar essas perguntas e permitir que a equipe acompanhe tempo de revisão, inconsistências e retrabalho, sem presumir antecipadamente uma taxa de economia.",
+      "Também será importante examinar a composição dos respondentes quando houver divulgação de resultados. Uma amostra concentrada em empresas maiores ou mais digitalizadas pode retratar mal as dificuldades de outras organizações. A notícia de lançamento não informa resultados consolidados, distribuição regional ou composição final da amostra.",
+      "Para gestores de habitação, a aplicação prática é acompanhar se as futuras orientações ligam requisitos de informação, treinamento e capacidade de contratação. O levantamento pode ajudar nessa discussão; sua abertura não significa que novas obrigações já tenham sido aprovadas. O questionário oficial está vinculado ao anúncio da ABDI, que reúne as condições e o prazo de participação."
+    ]
+  },
+  {
+    "title": "Pesquisa na Billings amplia leitura da matéria orgânica por satélite, com validação em campo",
+    "dek": "Método do Inpe divulgado em 6 de novembro ajuda a localizar áreas de atenção; mapas ambientais exigem interpretação e não certificam potabilidade.",
+    "contentType": "research",
+    "region": "Brasil",
+    "publishedAt": "2026-11-07T11:35:14.123176Z",
+    "modifiedAt": "2026-11-07T11:35:14.123176Z",
+    "technicalTakeaway": "Estimativa por satélite complementa a coleta e precisa de validação local; não é atestado de potabilidade.",
+    "keyFacts": [
+      {
+        "_key": "f0",
+        "_type": "object",
+        "label": "Estudo Billings",
+        "value": "Agosto de 2026"
+      },
+      {
+        "_key": "f1",
+        "_type": "object",
+        "label": "Divulgação científica",
+        "value": "06/11/2026"
+      },
+      {
+        "_key": "f2",
+        "_type": "object",
+        "label": "Base BRAZA",
+        "value": "2.895 estações; mais de 128 corpos d’água"
+      }
+    ],
+    "sourceUrl": "https://agencia.fapesp.br/imagens-de-satelite-ajudam-a-rastrear-manchas-de-poluicao-na-represa-billings/59566",
+    "sourceLanguage": "pt",
+    "slug": "billings-satelites-carbono-organico-validacao-campo",
+    "category": "Sustentabilidade",
+    "categorySlug": "sustentabilidade",
+    "sourceName": "Agência FAPESP, INPE / Mapaquali, Scientific Data / repositório Embrapa",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-07",
+    "dateDisplay": "07 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/75d372d9cd33db43269e62f5f413a52dd5b76ef0-1122x1402.png",
+    "imageAlt": "Pesquisadora coleta água em reservatório junto a margem arborizada, com logo branca VAELITH.",
+    "imageCaption": "Imagem conceitual gerada por IA sobre pesquisa de qualidade da água; não retrata a Billings nem coleta real do estudo.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_key": "b0",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Pesquisadores do Instituto Nacional de Pesquisas Espaciais desenvolveram um método para estimar a distribuição de carbono orgânico dissolvido na represa Billings a partir de imagens de satélite. Divulgada pela Agência FAPESP em 6 de novembro, a pesquisa foi publicada em agosto de 2026 no International Journal of Remote Sensing. O avanço oferece uma visão espacial das áreas que merecem investigação, especialmente em um reservatório sujeito a fortes pressões urbanas. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Divulgação científica da FAPESP",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://agencia.fapesp.br/imagens-de-satelite-ajudam-a-rastrear-manchas-de-poluicao-na-represa-billings/59566"
+          }
+        ]
+      },
+      {
+        "_key": "b1",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O procedimento relaciona o sinal luminoso da água à parcela colorida da matéria orgânica dissolvida e, depois, à estimativa de carbono. Segundo os pesquisadores ouvidos pela agência, o modelo ainda precisa de refinamento antes de integrar o monitoramento de carbono da Billings ao Mapaquali. A novidade é metodológica: não representa anúncio de despoluição nem confirmação de um serviço operacional já disponível para esse parâmetro.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b2",
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Um mapa orienta a coleta",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b3",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A documentação do Mapaquali recomenda usar os produtos para reconhecer padrões e orientar investigações. Um pixel corresponde a uma área e contém uma estimativa, não uma amostra local. Nuvens, reflexos e sinais das margens podem prejudicar a leitura.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b4",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O guia também esclarece que indicadores de algas ou cianobactérias não comprovam toxicidade ou segurança para consumo. Decisões regulatórias e sanitárias exigem procedimentos e análises apropriados. O monitoramento remoto complementa o trabalho de campo. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Guia de interpretação do Mapaquali",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://data.inpe.br/mapaquali/faq/"
+          }
+        ]
+      },
+      {
+        "_key": "b5",
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A base para ampliar o monitoramento",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b6",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Um trabalho anterior ajuda a entender a infraestrutura científica necessária. Publicada em 2025, a base BRAZA reuniu contribuições de 17 instituições e registros de 2.895 estações em mais de 128 lagos, rios, reservatórios e áreas costeiras, abrangendo as cinco regiões brasileiras. O artigo descreve a importância de combinar informações de reflectância com medições locais para desenvolver modelos adequados à diversidade óptica das águas. A reunião de ambientes distintos oferece uma referência mais diversa que uma série limitada a um reservatório. Ainda assim, a base apoia pesquisas; sua abrangência não significa cobertura operacional uniforme do território. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Artigo da BRAZA no repositório da Embrapa",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.alice.cnptia.embrapa.br/alice/handle/doc/1184103"
+          }
+        ]
+      },
+      {
+        "_key": "b7",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A transferência para outros reservatórios depende das condições locais. Conforme o Inpe, algoritmos podem precisar de nova calibração e avaliação quando aplicados a ambientes diferentes.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b8",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Na análise da VAELITH, a aplicação mais útil para saneamento e gestão ambiental é construir uma rotina integrada: observar alterações, selecionar pontos de coleta, confirmar o que ocorreu e acompanhar a resposta às intervenções. O mapa pode reduzir a busca às áreas prioritárias, enquanto medições locais esclarecem o problema. Demonstrar uma melhoria ambiental continuará exigindo evidências sobre a água, com contexto, datas e incertezas explícitos.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      }
+    ],
+    "body": [
+      "Pesquisadores do Instituto Nacional de Pesquisas Espaciais desenvolveram um método para estimar a distribuição de carbono orgânico dissolvido na represa Billings a partir de imagens de satélite. Divulgada pela Agência FAPESP em 6 de novembro, a pesquisa foi publicada em agosto de 2026 no International Journal of Remote Sensing. O avanço oferece uma visão espacial das áreas que merecem investigação, especialmente em um reservatório sujeito a fortes pressões urbanas. Divulgação científica da FAPESP.",
+      "O procedimento relaciona o sinal luminoso da água à parcela colorida da matéria orgânica dissolvida e, depois, à estimativa de carbono. Segundo os pesquisadores ouvidos pela agência, o modelo ainda precisa de refinamento antes de integrar o monitoramento de carbono da Billings ao Mapaquali. A novidade é metodológica: não representa anúncio de despoluição nem confirmação de um serviço operacional já disponível para esse parâmetro.",
+      "Um mapa orienta a coleta",
+      "A documentação do Mapaquali recomenda usar os produtos para reconhecer padrões e orientar investigações. Um pixel corresponde a uma área e contém uma estimativa, não uma amostra local. Nuvens, reflexos e sinais das margens podem prejudicar a leitura.",
+      "O guia também esclarece que indicadores de algas ou cianobactérias não comprovam toxicidade ou segurança para consumo. Decisões regulatórias e sanitárias exigem procedimentos e análises apropriados. O monitoramento remoto complementa o trabalho de campo. Guia de interpretação do Mapaquali.",
+      "A base para ampliar o monitoramento",
+      "Um trabalho anterior ajuda a entender a infraestrutura científica necessária. Publicada em 2025, a base BRAZA reuniu contribuições de 17 instituições e registros de 2.895 estações em mais de 128 lagos, rios, reservatórios e áreas costeiras, abrangendo as cinco regiões brasileiras. O artigo descreve a importância de combinar informações de reflectância com medições locais para desenvolver modelos adequados à diversidade óptica das águas. A reunião de ambientes distintos oferece uma referência mais diversa que uma série limitada a um reservatório. Ainda assim, a base apoia pesquisas; sua abrangência não significa cobertura operacional uniforme do território. Artigo da BRAZA no repositório da Embrapa.",
+      "A transferência para outros reservatórios depende das condições locais. Conforme o Inpe, algoritmos podem precisar de nova calibração e avaliação quando aplicados a ambientes diferentes.",
+      "Na análise da VAELITH, a aplicação mais útil para saneamento e gestão ambiental é construir uma rotina integrada: observar alterações, selecionar pontos de coleta, confirmar o que ocorreu e acompanhar a resposta às intervenções. O mapa pode reduzir a busca às áreas prioritárias, enquanto medições locais esclarecem o problema. Demonstrar uma melhoria ambiental continuará exigindo evidências sobre a água, com contexto, datas e incertezas explícitos."
+    ],
+    "showInPrimaryCategory": true
+  },
+  {
+    "title": "PPP precisa de fiscalização e memória técnica depois da assinatura",
+    "dek": "Explicação VAELITH: manual lançado pelo TCESP em 6 de novembro ajuda a separar implantação, operação e controle de resultados.",
+    "contentType": "analysis",
+    "region": "Brasil",
+    "publishedAt": "2026-11-07T11:35:14.123176Z",
+    "modifiedAt": "2026-11-07T11:35:14.123176Z",
+    "technicalTakeaway": "A fiscalização deve ter critérios, evidências e memória das decisões durante toda a execução, não apenas na entrega da obra.",
+    "keyFacts": [
+      {
+        "_key": "f0",
+        "_type": "object",
+        "label": "Manual lançado",
+        "value": "06/11/2026"
+      },
+      {
+        "_key": "f1",
+        "_type": "object",
+        "label": "Natureza",
+        "value": "Orientação técnica"
+      },
+      {
+        "_key": "f2",
+        "_type": "object",
+        "label": "Foco",
+        "value": "Ciclo de vida do contrato"
+      }
+    ],
+    "sourceUrl": "https://www.tce.sp.gov.br/publicacoes/manual-parcerias-publico-privadas-e-concessoes",
+    "sourceLanguage": "pt",
+    "slug": "explicacao-ppp-fiscalizacao-manutencao-memoria-tcesp-20261107",
+    "category": "Gestão",
+    "categorySlug": "gestao",
+    "sourceName": "TCESP",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-07",
+    "dateDisplay": "07 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/c007657e53a46314f59b364f8840ab9a6e8dd460-1122x1402.png",
+    "imageAlt": "Engenheiros inspecionam bombas e tubulações de uma instalação de saneamento, com logo branca VAELITH.",
+    "imageCaption": "Imagem conceitual gerada por IA sobre operação e manutenção de saneamento; não retrata uma concessão ou instalação específica.",
+    "imageCredit": "VAELITH",
+    "richBody": [
+      {
+        "_key": "b0",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O Manual de Parcerias Público-Privadas e Concessões lançado pelo Tribunal de Contas do Estado de São Paulo em 6 de novembro traz uma advertência útil para quem prepara obras e serviços: a assinatura do contrato não encerra o trabalho público de gestão. A publicação é orientativa e aborda planejamento, contratação, fiscalização e transição. Não é anúncio de um novo empreendimento ou promessa de economia já obtida. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Lançamento do TCESP",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://tce.sp.gov.br/6524-tcesp-lanca-manual-ppps-e-concessoes-com-orientacoes-tecnicas-e-nove-cadernos-setoriais"
+          }
+        ]
+      },
+      {
+        "_key": "b1",
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Explicação VAELITH: o contrato precisa continuar verificável",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b2",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O capítulo dedicado à execução distingue administrar a relação contratual de verificar as obrigações assumidas. Também orienta acompanhar manutenção preventiva e corretiva, condição dos ativos e informações que permitam preservar o conhecimento entre equipes. O documento não substitui as normas aplicáveis nem oferece uma solução única para todos os projetos. ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Manual, capítulo 9",
+            "marks": [
+              "l0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "l0",
+            "_type": "link",
+            "href": "https://www.tce.sp.gov.br/sites/default/files/publicacoes/Manual%20PPPs%20-%20vers%C3%A3o%20digital.pdf"
+          }
+        ]
+      },
+      {
+        "_key": "b3",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Uma aplicação prática é desenhar a fiscalização junto com o serviço que se quer receber. Em uma estação elevatória, por exemplo, a entrega dos equipamentos e a continuidade do bombeamento não são a mesma medida. Contar bombas instaladas informa sobre implantação. Registrar indisponibilidades, manutenção e condições de funcionamento ajuda a acompanhar a etapa operacional. Este é um exemplo explicativo, não a avaliação de uma concessão específica.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b4",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Para transformar essa distinção em rotina, a equipe pode organizar quatro perguntas: qual obrigação será verificada, que evidência a demonstra, quem valida o registro e o que acontece quando o resultado não atende ao contrato? A resposta deve remeter a critérios pactuados, sem criar punições ou exigências por improviso durante a execução.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b5",
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Memória técnica também é infraestrutura",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b6",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Um indicador perde utilidade quando ninguém consegue reconstruir como foi calculado. Por isso, a análise VAELITH recomenda guardar a origem dos dados, o período medido, as versões de projeto e as justificativas das decisões. Quando uma equipe muda, esse conjunto permite distinguir defeito recorrente, ocorrência excepcional e alteração de escopo.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b7",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A avaliação financeira precisa acompanhar essa mesma precisão. Investimento previsto, pagamento realizado e despesa de manutenção respondem a perguntas diferentes. Comparar alternativas exige definir o horizonte de operação e os serviços incluídos. Uma contratação que distribui despesas por vários anos não elimina o custo público nem demonstra vantagem sem comparação documentada.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "b8",
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O resultado relevante para o usuário será o serviço disponível e adequado ao longo do tempo. A nova publicação oferece uma referência para estruturar essa avaliação. Não apresenta uma taxa universal de redução de custos ou prazo que possa ser aplicada automaticamente a municípios, redes de saneamento ou sistemas de transporte.",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      }
+    ],
+    "body": [
+      "O Manual de Parcerias Público-Privadas e Concessões lançado pelo Tribunal de Contas do Estado de São Paulo em 6 de novembro traz uma advertência útil para quem prepara obras e serviços: a assinatura do contrato não encerra o trabalho público de gestão. A publicação é orientativa e aborda planejamento, contratação, fiscalização e transição. Não é anúncio de um novo empreendimento ou promessa de economia já obtida. Lançamento do TCESP.",
+      "Explicação VAELITH: o contrato precisa continuar verificável",
+      "O capítulo dedicado à execução distingue administrar a relação contratual de verificar as obrigações assumidas. Também orienta acompanhar manutenção preventiva e corretiva, condição dos ativos e informações que permitam preservar o conhecimento entre equipes. O documento não substitui as normas aplicáveis nem oferece uma solução única para todos os projetos. Manual, capítulo 9.",
+      "Uma aplicação prática é desenhar a fiscalização junto com o serviço que se quer receber. Em uma estação elevatória, por exemplo, a entrega dos equipamentos e a continuidade do bombeamento não são a mesma medida. Contar bombas instaladas informa sobre implantação. Registrar indisponibilidades, manutenção e condições de funcionamento ajuda a acompanhar a etapa operacional. Este é um exemplo explicativo, não a avaliação de uma concessão específica.",
+      "Para transformar essa distinção em rotina, a equipe pode organizar quatro perguntas: qual obrigação será verificada, que evidência a demonstra, quem valida o registro e o que acontece quando o resultado não atende ao contrato? A resposta deve remeter a critérios pactuados, sem criar punições ou exigências por improviso durante a execução.",
+      "Memória técnica também é infraestrutura",
+      "Um indicador perde utilidade quando ninguém consegue reconstruir como foi calculado. Por isso, a análise VAELITH recomenda guardar a origem dos dados, o período medido, as versões de projeto e as justificativas das decisões. Quando uma equipe muda, esse conjunto permite distinguir defeito recorrente, ocorrência excepcional e alteração de escopo.",
+      "A avaliação financeira precisa acompanhar essa mesma precisão. Investimento previsto, pagamento realizado e despesa de manutenção respondem a perguntas diferentes. Comparar alternativas exige definir o horizonte de operação e os serviços incluídos. Uma contratação que distribui despesas por vários anos não elimina o custo público nem demonstra vantagem sem comparação documentada.",
+      "O resultado relevante para o usuário será o serviço disponível e adequado ao longo do tempo. A nova publicação oferece uma referência para estruturar essa avaliação. Não apresenta uma taxa universal de redução de custos ou prazo que possa ser aplicada automaticamente a municípios, redes de saneamento ou sistemas de transporte."
+    ]
   }
 ]
