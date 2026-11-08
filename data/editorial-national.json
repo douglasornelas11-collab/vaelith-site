@@ -8360,5 +8360,915 @@
       "A avaliação financeira precisa acompanhar essa mesma precisão. Investimento previsto, pagamento realizado e despesa de manutenção respondem a perguntas diferentes. Comparar alternativas exige definir o horizonte de operação e os serviços incluídos. Uma contratação que distribui despesas por vários anos não elimina o custo público nem demonstra vantagem sem comparação documentada.",
       "O resultado relevante para o usuário será o serviço disponível e adequado ao longo do tempo. A nova publicação oferece uma referência para estruturar essa avaliação. Não apresenta uma taxa universal de redução de custos ou prazo que possa ser aplicada automaticamente a municípios, redes de saneamento ou sistemas de transporte."
     ]
+  },
+  {
+    "title": "EF-A35 chega a 65,4% do cronograma; trilhos instalados são outra medida de avanço",
+    "dek": "Atualização da ANTT distingue o avanço do empreendimento dos quilômetros de via já montados em Inocência, Mato Grosso do Sul.",
+    "contentType": "news",
+    "region": "Brasil",
+    "publishedAt": "2026-11-08T11:25:11.118444+00:00",
+    "modifiedAt": "2026-11-08T11:25:11.118444+00:00",
+    "technicalTakeaway": "Leitura técnica da VAELITH: um acompanhamento útil precisa mostrar separadamente estruturas, montagem da via e marcos de entrada em serviço. Um percentual agregado, sozinho, não informa quais interfaces ainda condicionam a operação. Tampouco permite deduzir o dinheiro já pago ou a redução efetiva de caminhões nas rodovias.",
+    "sourceUrl": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias-antt/antt-acompanha-avanco-das-obras-da-primeira-ferrovia-autorizada-em-ambito-federal",
+    "sourceLanguage": "pt",
+    "slug": "ef-a35-arauco-cronograma-trilhos-novembro-2026",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "sourceName": "ANTT — atualização publicada em 06/11/2026; Arauco — comunicado de outubro de 2026",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-08",
+    "dateDisplay": "08 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/b9d8ee45c263dda28f868c80f2b284f1f0614f6f-1122x1402.png",
+    "imageAlt": "Via ferroviária em construção com dormentes, trilhos e trabalhadores ao fundo. Logo branca VAELITH.",
+    "imageCaption": "Imagem conceitual gerada por IA; não retrata a obra, instalação ou protótipo específico citado nesta publicação.",
+    "imageCredit": "VAELITH",
+    "body": [
+      "A ferrovia EF-A35, em construção em Inocência (MS), atingiu 65,4% do cronograma previsto até outubro de 2026, informou a ANTT em 6 de novembro. A agência registrou cerca de quatro quilômetros de trilhos e dormentes instalados em um traçado de aproximadamente 46 quilômetros. São indicadores diferentes: o percentual do empreendimento não corresponde à proporção de extensão com trilhos montados.",
+      "A ligação conectará a fábrica de celulose da Arauco à Rumo Malha Norte, permitindo o transporte até o Porto de Santos. Na visita técnica, a equipe reguladora acompanhou a soldagem de trilhos longos e três obras de arte especiais, incluindo uma ponte de 270 metros sobre o São Mateus. Segundo a atualização da agência, a conclusão é prevista para junho de 2027, com operação inicial de um par de trens por dia.",
+      "Em comunicado de outubro, a Arauco informou a previsão de aproximadamente 95 mil dormentes, com cerca de 400 quilos por peça. A empresa descreveu 45 quilômetros de ligação externa e nove quilômetros internos à fábrica. Esses nove quilômetros não devem ser somados ao traçado informado pela ANTT sem explicitar a diferença de escopo.",
+      "O comunicado empresarial também situa a entrada em operação no final de 2027. Portanto, conclusão das obras e início da operação não devem ser tratados como uma única data confirmada. Ambos continuam sendo previsões das fontes, e não entregas realizadas.",
+      "Leitura técnica da VAELITH: um acompanhamento útil precisa mostrar separadamente estruturas, montagem da via e marcos de entrada em serviço. Um percentual agregado, sozinho, não informa quais interfaces ainda condicionam a operação. Tampouco permite deduzir o dinheiro já pago ou a redução efetiva de caminhões nas rodovias."
+    ],
+    "richBody": [
+      {
+        "_key": "p0",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "A ferrovia EF-A35, em construção em Inocência (MS), atingiu 65,4% do cronograma previsto até outubro de 2026, informou a ANTT em 6 de novembro. A agência registrou cerca de quatro quilômetros de trilhos e dormentes instalados em um traçado de aproximadamente 46 quilômetros. São indicadores diferentes: o percentual do empreendimento não corresponde à proporção de extensão com trilhos montados.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p1",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "A ligação conectará a fábrica de celulose da Arauco à Rumo Malha Norte, permitindo o transporte até o Porto de Santos. Na visita técnica, a equipe reguladora acompanhou a soldagem de trilhos longos e três obras de arte especiais, incluindo uma ponte de 270 metros sobre o São Mateus. Segundo a atualização da agência, a conclusão é prevista para junho de 2027, com operação inicial de um par de trens por dia.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p2",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Em comunicado de outubro, a Arauco informou a previsão de aproximadamente 95 mil dormentes, com cerca de 400 quilos por peça. A empresa descreveu 45 quilômetros de ligação externa e nove quilômetros internos à fábrica. Esses nove quilômetros não devem ser somados ao traçado informado pela ANTT sem explicitar a diferença de escopo.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p3",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "O comunicado empresarial também situa a entrada em operação no final de 2027. Portanto, conclusão das obras e início da operação não devem ser tratados como uma única data confirmada. Ambos continuam sendo previsões das fontes, e não entregas realizadas.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p4",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Leitura técnica da VAELITH: um acompanhamento útil precisa mostrar separadamente estruturas, montagem da via e marcos de entrada em serviço. Um percentual agregado, sozinho, não informa quais interfaces ainda condicionam a operação. Tampouco permite deduzir o dinheiro já pago ou a redução efetiva de caminhões nas rodovias.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "source0",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias-antt/antt-acompanha-avanco-das-obras-da-primeira-ferrovia-autorizada-em-ambito-federal"
+          }
+        ],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "ANTT — atualização publicada em 06/11/2026",
+            "marks": [
+              "link"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "source1",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://sucuriu.arauco.com/wp-content/uploads/2026/10/Projeto-Sucuriu-instala-primeiros-dormentes-em-ferrovia-e-avanca-para-nova-etapa-das-obras.pdf"
+          }
+        ],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Arauco — comunicado de outubro de 2026",
+            "marks": [
+              "link"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Disputa da BR-163 prevê R$ 10,78 bilhões em obras; montante ainda não é investimento executado",
+    "dek": "Sessão de 12 de novembro pode mudar o controle da Via Brasil; conservação e atendimento devem continuar durante o processo.",
+    "contentType": "news",
+    "region": "Brasil",
+    "publishedAt": "2026-11-08T11:25:11.118444+00:00",
+    "modifiedAt": "2026-11-08T11:25:11.118444+00:00",
+    "technicalTakeaway": "Até a sessão e as aprovações aplicáveis, não há vencedor nem execução comprovada das novas intervenções. A continuidade da operação é uma obrigação informada pela agência, não um resultado futuro já medido pela VAELITH.",
+    "sourceUrl": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias-antt/antt-realiza-processo-competitivo-que-pode-definir-novo-controlador-da-concessionaria-da-br-163-entre-mato-grosso-e-para",
+    "sourceLanguage": "pt",
+    "slug": "br163-disputa-investimento-operacao-novembro-2026",
+    "category": "Mercado",
+    "categorySlug": "mercado",
+    "sourceName": "ANTT — anúncio de 06/11/2026",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-08",
+    "dateDisplay": "08 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/e981f7da5a3ae7df61d1959cf1fd24cdeb713df2-1122x1402.png",
+    "imageAlt": "Rodovia com caminhões, ponte e drenagem em paisagem brasileira. Logo branca VAELITH.",
+    "imageCaption": "Imagem conceitual gerada por IA; não retrata a obra, instalação ou protótipo específico citado nesta publicação.",
+    "imageCredit": "VAELITH",
+    "body": [
+      "A ANTT anunciou para 12 de novembro de 2026, às 14h, na B3, a disputa por 100% das ações da Via Brasil BR-163, responsável por trechos em Mato Grosso e no Pará. O processo reestrutura uma concessão existente. A troca de controlador não está garantida: a atual controladora pode disputar e permanecer, conforme o resultado e as condições do edital.",
+      "A nota publicada em 6 de novembro informa R$ 10,78 bilhões de investimentos previstos e R$ 3,67 bilhões de custos operacionais no contrato de 2027 a 2046. São categorias distintas, e nenhum dos valores representa, por si só, obra executada, pagamento realizado ou prejuízo.",
+      "O programa prevê 245,80 quilômetros de duplicações, 118,23 quilômetros de faixas adicionais e 30,64 quilômetros de vias marginais. A entrega das propostas está marcada para 9 de novembro; o julgamento considera o maior desconto sobre a tarifa básica. A concessionária atual permanece responsável pelos serviços até a conclusão dos trâmites.",
+      "Análise da VAELITH: o resultado de uma disputa é apenas um marco de um ciclo mais longo. Para acompanhar os efeitos na infraestrutura, será necessário comparar as obrigações formalizadas com o cronograma efetivo de projetos, licenças, obras e recebimentos. A notícia sobre bilhões previstos não substitui essa verificação.",
+      "Na leitura financeira, convém separar o orçamento para intervenções do custo recorrente de operar a rodovia. Na leitura do usuário, importa saber quando cada melhoria estará disponível e como a conservação será mantida enquanto ela não chega. O desempenho deverá ser observado em entregas e serviços, não apenas no valor anunciado.",
+      "Até a sessão e as aprovações aplicáveis, não há vencedor nem execução comprovada das novas intervenções. A continuidade da operação é uma obrigação informada pela agência, não um resultado futuro já medido pela VAELITH."
+    ],
+    "richBody": [
+      {
+        "_key": "p0",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "A ANTT anunciou para 12 de novembro de 2026, às 14h, na B3, a disputa por 100% das ações da Via Brasil BR-163, responsável por trechos em Mato Grosso e no Pará. O processo reestrutura uma concessão existente. A troca de controlador não está garantida: a atual controladora pode disputar e permanecer, conforme o resultado e as condições do edital.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p1",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "A nota publicada em 6 de novembro informa R$ 10,78 bilhões de investimentos previstos e R$ 3,67 bilhões de custos operacionais no contrato de 2027 a 2046. São categorias distintas, e nenhum dos valores representa, por si só, obra executada, pagamento realizado ou prejuízo.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p2",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "O programa prevê 245,80 quilômetros de duplicações, 118,23 quilômetros de faixas adicionais e 30,64 quilômetros de vias marginais. A entrega das propostas está marcada para 9 de novembro; o julgamento considera o maior desconto sobre a tarifa básica. A concessionária atual permanece responsável pelos serviços até a conclusão dos trâmites.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p3",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Análise da VAELITH: o resultado de uma disputa é apenas um marco de um ciclo mais longo. Para acompanhar os efeitos na infraestrutura, será necessário comparar as obrigações formalizadas com o cronograma efetivo de projetos, licenças, obras e recebimentos. A notícia sobre bilhões previstos não substitui essa verificação.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p4",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Na leitura financeira, convém separar o orçamento para intervenções do custo recorrente de operar a rodovia. Na leitura do usuário, importa saber quando cada melhoria estará disponível e como a conservação será mantida enquanto ela não chega. O desempenho deverá ser observado em entregas e serviços, não apenas no valor anunciado.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p5",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Até a sessão e as aprovações aplicáveis, não há vencedor nem execução comprovada das novas intervenções. A continuidade da operação é uma obrigação informada pela agência, não um resultado futuro já medido pela VAELITH.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "source0",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias-antt/antt-realiza-processo-competitivo-que-pode-definir-novo-controlador-da-concessionaria-da-br-163-entre-mato-grosso-e-para"
+          }
+        ],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "ANTT — anúncio de 06/11/2026",
+            "marks": [
+              "link"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Reprogramar a obra exige memória: o que muda no Transferegov em 10 de novembro",
+    "dek": "Explicação da VAELITH sobre a primeira etapa anunciada em 6 de novembro: alterar cronogramas exige análise, sem apagar a diferença entre plano e execução.",
+    "contentType": "analysis",
+    "region": "Brasil",
+    "publishedAt": "2026-11-08T11:25:11.118444+00:00",
+    "modifiedAt": "2026-11-08T11:25:11.118444+00:00",
+    "technicalTakeaway": "O benefício potencial está na rastreabilidade do processo, não numa promessa automática de acelerar canteiros. Sua efetividade dependerá da qualidade dos dados e da análise. A comunicação oficial anuncia recursos do sistema, mas não apresenta uma avaliação de resultados de uso desta etapa.",
+    "sourceUrl": "https://www.gov.br/transferegov/pt-br/comunicados/comunicados-gerais/2026/comunicado-no-34-2026-implantacao-do-modulo-de-reprogramacao-de-obras-no-transferegov.br",
+    "sourceLanguage": "pt",
+    "slug": "explicacao-transferegov-reprogramacao-obras-memoria-20261108",
+    "category": "Gestão",
+    "categorySlug": "gestao",
+    "sourceName": "Transferegov — Comunicado nº 34/2026, 06/11/2026; TCE-PR — balanço de 2025 publicado em 26/01/2026",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-08",
+    "dateDisplay": "08 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/7fd2683022ae6beef24fd5ac2048b352b4f75024-1122x1402.png",
+    "imageAlt": "Engenheiros analisam planejamento diante de edifício em obras. Logo branca VAELITH.",
+    "imageCaption": "Imagem conceitual gerada por IA; não retrata a obra, instalação ou protótipo específico citado nesta publicação.",
+    "imageCredit": "VAELITH",
+    "body": [
+      "Explicação e análise da VAELITH, publicada em 8 de novembro de 2026, com base no Comunicado nº 34/2026 do Transferegov. O Ministério da Gestão anunciou para 10 de novembro a primeira etapa do módulo de Reprogramação de Obras. Na data desta análise, a implantação ainda é futura; não há teste de operação ou ganho de desempenho comprovado por esta reportagem.",
+      "O comunicado prevê ajustes em eventogramas e cronogramas de submetas de convênios, contratos de repasse e termos de compromisso, nas condições cadastrais indicadas pela plataforma. O convenente apresenta documentação e responsáveis técnicos; o concedente ou mandatária analisa e aceita ou rejeita o pedido.",
+      "Entre as alterações previstas estão frentes, prazo, data de início e distribuição de quantidades entre frentes, preservando o total por serviço. A funcionalidade também alcança quantitativos medidos. Isso reforça a importância de conferir a justificativa de cada revisão, em vez de interpretar toda alteração como produção nova.",
+      "Na leitura da VAELITH, uma reprogramação bem documentada deve permitir responder três perguntas: o que mudou, por qual motivo e quem validou. A nova previsão precisa ser comparável à anterior. Sem essa memória, uma curva atualizada pode esconder o atraso que deveria ajudar a explicar, mesmo que os números atuais estejam corretos.",
+      "Para a fiscalização, a recomendação editorial é manter referências claras aos registros de campo, medições e decisões que sustentam a mudança. Quantidade executada, quantidade aceita e desembolso são informações diferentes. Alterar a data planejada não prova que o serviço aconteceu, assim como registrar uma nova previsão não elimina a causa de uma paralisação.",
+      "Um antecedente ajuda a separar atualização administrativa de resultado. Em balanço de 26 de janeiro de 2026, o TCE-PR informou que, das 22 obras municipais paralisadas auditadas em 2025, 13 foram retomadas e três estavam concluídas ao fim do ano. Isso equivale a 59,1% retomadas e 13,6% concluídas dentro daquele grupo, por cálculo da VAELITH. Não é uma taxa de todas as obras do Paraná nem avaliação do novo módulo do Transferegov.",
+      "As três conclusões incluíram uma escola infantil, uma creche e reforma/ampliação hospitalar. A fonte não quantifica vagas ou atendimentos efetivamente disponibilizados. Os R$ 65,2 milhões associados às 22 obras e os R$ 32,2 milhões relativos às 13 retomadas são valores dos conjuntos de empreendimentos, não pagamentos, prejuízo comprovado ou dinheiro recuperado. A lição para o acompanhamento é registrar retomada, conclusão e início do serviço como marcos separados.",
+      "O benefício potencial está na rastreabilidade do processo, não numa promessa automática de acelerar canteiros. Sua efetividade dependerá da qualidade dos dados e da análise. A comunicação oficial anuncia recursos do sistema, mas não apresenta uma avaliação de resultados de uso desta etapa."
+    ],
+    "richBody": [
+      {
+        "_key": "p0",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Explicação e análise da VAELITH, publicada em 8 de novembro de 2026, com base no Comunicado nº 34/2026 do Transferegov. O Ministério da Gestão anunciou para 10 de novembro a primeira etapa do módulo de Reprogramação de Obras. Na data desta análise, a implantação ainda é futura; não há teste de operação ou ganho de desempenho comprovado por esta reportagem.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p1",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "O comunicado prevê ajustes em eventogramas e cronogramas de submetas de convênios, contratos de repasse e termos de compromisso, nas condições cadastrais indicadas pela plataforma. O convenente apresenta documentação e responsáveis técnicos; o concedente ou mandatária analisa e aceita ou rejeita o pedido.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p2",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Entre as alterações previstas estão frentes, prazo, data de início e distribuição de quantidades entre frentes, preservando o total por serviço. A funcionalidade também alcança quantitativos medidos. Isso reforça a importância de conferir a justificativa de cada revisão, em vez de interpretar toda alteração como produção nova.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p3",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Na leitura da VAELITH, uma reprogramação bem documentada deve permitir responder três perguntas: o que mudou, por qual motivo e quem validou. A nova previsão precisa ser comparável à anterior. Sem essa memória, uma curva atualizada pode esconder o atraso que deveria ajudar a explicar, mesmo que os números atuais estejam corretos.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p4",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Para a fiscalização, a recomendação editorial é manter referências claras aos registros de campo, medições e decisões que sustentam a mudança. Quantidade executada, quantidade aceita e desembolso são informações diferentes. Alterar a data planejada não prova que o serviço aconteceu, assim como registrar uma nova previsão não elimina a causa de uma paralisação.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p5",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Um antecedente ajuda a separar atualização administrativa de resultado. Em balanço de 26 de janeiro de 2026, o TCE-PR informou que, das 22 obras municipais paralisadas auditadas em 2025, 13 foram retomadas e três estavam concluídas ao fim do ano. Isso equivale a 59,1% retomadas e 13,6% concluídas dentro daquele grupo, por cálculo da VAELITH. Não é uma taxa de todas as obras do Paraná nem avaliação do novo módulo do Transferegov.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p6",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "As três conclusões incluíram uma escola infantil, uma creche e reforma/ampliação hospitalar. A fonte não quantifica vagas ou atendimentos efetivamente disponibilizados. Os R$ 65,2 milhões associados às 22 obras e os R$ 32,2 milhões relativos às 13 retomadas são valores dos conjuntos de empreendimentos, não pagamentos, prejuízo comprovado ou dinheiro recuperado. A lição para o acompanhamento é registrar retomada, conclusão e início do serviço como marcos separados.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p7",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "O benefício potencial está na rastreabilidade do processo, não numa promessa automática de acelerar canteiros. Sua efetividade dependerá da qualidade dos dados e da análise. A comunicação oficial anuncia recursos do sistema, mas não apresenta uma avaliação de resultados de uso desta etapa.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "source0",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://www.gov.br/transferegov/pt-br/comunicados/comunicados-gerais/2026/comunicado-no-34-2026-implantacao-do-modulo-de-reprogramacao-de-obras-no-transferegov.br"
+          }
+        ],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Transferegov — Comunicado nº 34/2026, 06/11/2026",
+            "marks": [
+              "link"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "source1",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://www.tce.pr.gov.br/noticias/fiscalizacao-em-2025-leva-a-retomada-de-13-obras-municipais-paralisadas-no-parana.htm"
+          }
+        ],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "TCE-PR — balanço de 2025 publicado em 26/01/2026",
+            "marks": [
+              "link"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Salas de aula: reformar a ventilação exige olhar conforto e renovação do ar juntos",
+    "dek": "Análise de pesquisa brasileira mostra por que uma sala mais fresca não é necessariamente uma sala com ar suficientemente renovado.",
+    "contentType": "analysis",
+    "region": "Brasil",
+    "publishedAt": "2026-11-08T11:25:11.118444+00:00",
+    "modifiedAt": "2026-11-08T11:25:11.118444+00:00",
+    "technicalTakeaway": "Antes de transferir a alternativa para outra escola, cabe verificar clima, orientação, ruído externo, segurança das aberturas e manutenção. O resumo consultado não estabelece orçamento nem retorno financeiro universal. Assim, ele orienta perguntas de projeto, mas não substitui diagnóstico local, dimensionamento ou verificação posterior do ambiente em uso.",
+    "sourceUrl": "https://teses.usp.br/teses/disponiveis/102/102131/tde-06072026-113254/pt-br.html",
+    "sourceLanguage": "pt",
+    "slug": "analise-salas-aula-ventilacao-retrofit-usp-20261108",
+    "category": "Arquitetura",
+    "categorySlug": "arquitetura",
+    "sourceName": "USP — dissertação de Gabriela Garrido Pereira",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-08",
+    "dateDisplay": "08 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/97066d32496af399a0c0cb3bd3f0b3f8f76b1a64-1122x1402.png",
+    "imageAlt": "Sala de aula vazia com janelas abertas e ventiladores. Logo branca VAELITH.",
+    "imageCaption": "Imagem conceitual gerada por IA; não retrata a obra, instalação ou protótipo específico citado nesta publicação.",
+    "imageCredit": "VAELITH",
+    "body": [
+      "Análise VAELITH — Uma reforma de escola não deveria terminar na escolha do aparelho de ar-condicionado. É preciso perguntar também como o ar externo chega às salas e como as aberturas serão utilizadas durante as aulas. Uma dissertação de Gabriela Garrido Pereira, do IAU-USP, defendida em abril e disponibilizada em julho de 2026, oferece elementos para essa avaliação. Não se trata de uma descoberta anunciada hoje.",
+      "A pesquisa simulou dois modelos de salas universitárias, com ventilação natural e operação híbrida, em condições atuais e futuras do cenário climático SSP3-7.0. Comparou renovação do ar, horas ocupadas em conforto e demanda de resfriamento. A ampliação da área efetiva de ventilação teve o melhor resultado simultâneo para conforto e renovação; diminuir a absorção de radiação pelas superfícies trouxe ganhos complementares.",
+      "O estudo também encontrou limites: a ventilação natural perdeu eficácia nos cenários futuros, enquanto algumas configurações híbridas melhoraram o conforto com redução da renovação do ar. São resultados de simulação, não uma medição de redução de doenças em estudantes nem comprovação de economia em uma escola específica.",
+      "A leitura prática da VAELITH é que o projeto deve registrar as condições de uso que sustentam a solução: número de ocupantes, horários, operação das janelas e participação da climatização. Isso permite ao gestor conferir se o edifício funciona como foi projetado, em vez de atribuir todo problema a um equipamento.",
+      "Antes de transferir a alternativa para outra escola, cabe verificar clima, orientação, ruído externo, segurança das aberturas e manutenção. O resumo consultado não estabelece orçamento nem retorno financeiro universal. Assim, ele orienta perguntas de projeto, mas não substitui diagnóstico local, dimensionamento ou verificação posterior do ambiente em uso."
+    ],
+    "richBody": [
+      {
+        "_key": "p0",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Análise VAELITH — Uma reforma de escola não deveria terminar na escolha do aparelho de ar-condicionado. É preciso perguntar também como o ar externo chega às salas e como as aberturas serão utilizadas durante as aulas. Uma dissertação de Gabriela Garrido Pereira, do IAU-USP, defendida em abril e disponibilizada em julho de 2026, oferece elementos para essa avaliação. Não se trata de uma descoberta anunciada hoje.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p1",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "A pesquisa simulou dois modelos de salas universitárias, com ventilação natural e operação híbrida, em condições atuais e futuras do cenário climático SSP3-7.0. Comparou renovação do ar, horas ocupadas em conforto e demanda de resfriamento. A ampliação da área efetiva de ventilação teve o melhor resultado simultâneo para conforto e renovação; diminuir a absorção de radiação pelas superfícies trouxe ganhos complementares.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p2",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "O estudo também encontrou limites: a ventilação natural perdeu eficácia nos cenários futuros, enquanto algumas configurações híbridas melhoraram o conforto com redução da renovação do ar. São resultados de simulação, não uma medição de redução de doenças em estudantes nem comprovação de economia em uma escola específica.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p3",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "A leitura prática da VAELITH é que o projeto deve registrar as condições de uso que sustentam a solução: número de ocupantes, horários, operação das janelas e participação da climatização. Isso permite ao gestor conferir se o edifício funciona como foi projetado, em vez de atribuir todo problema a um equipamento.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p4",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Antes de transferir a alternativa para outra escola, cabe verificar clima, orientação, ruído externo, segurança das aberturas e manutenção. O resumo consultado não estabelece orçamento nem retorno financeiro universal. Assim, ele orienta perguntas de projeto, mas não substitui diagnóstico local, dimensionamento ou verificação posterior do ambiente em uso.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "source0",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://teses.usp.br/teses/disponiveis/102/102131/tde-06072026-113254/pt-br.html"
+          }
+        ],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "USP — dissertação de Gabriela Garrido Pereira",
+            "marks": [
+              "link"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Telha fria experimental reduz aquecimento, mas ainda precisa superar ensaios de desempenho",
+    "dek": "Explicação: o resultado térmico de um protótipo não equivale à aprovação de uma telha para uso em obra.",
+    "contentType": "research",
+    "region": "Brasil",
+    "publishedAt": "2026-11-08T11:25:11.118444+00:00",
+    "modifiedAt": "2026-11-08T11:25:11.118444+00:00",
+    "technicalTakeaway": "A leitura editorial é que a avaliação de materiais deve reunir desempenho térmico e requisitos funcionais. Na contratação, cabe pedir a documentação aplicável ao produto efetivamente fornecido, além das condições de instalação e manutenção. Resultados obtidos em amostras pequenas, telhas completas e ambientes internos precisam permanecer separados. Essa distinção evita prometer conforto, vida útil ou economia que os ensaios não demonstraram.",
+    "sourceUrl": "https://zenodo.org/records/21006392",
+    "sourceLanguage": "pt",
+    "slug": "explicacao-telha-fria-usp-ensaios-limites-20261108",
+    "category": "Tecnologia",
+    "categorySlug": "tecnologia",
+    "sourceName": "Silva, Daminelli e Dornelles — registro científico no Zenodo; IAU-USP — reconhecimento no Prêmio ANTAC",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-08",
+    "dateDisplay": "08 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/8997b762e2c87021a20210b63a179732b41e5eed-1122x1402.png",
+    "imageAlt": "Telhado de concreto claro de uma casa em paisagem tropical. Logo branca VAELITH.",
+    "imageCaption": "Imagem conceitual gerada por IA; não retrata a obra, instalação ou protótipo específico citado nesta publicação.",
+    "imageCredit": "VAELITH",
+    "body": [
+      "Explicação VAELITH — Uma telha pode refletir mais radiação solar e, ainda assim, não estar pronta para especificação em obra. Essa é a principal cautela ao interpretar a pesquisa de Wellington Souza Silva, do IAU-USP, sobre uma telha de concreto fria. A tese foi defendida em abril de 2026 e premiada pela ANTAC em setembro; esta publicação examina seus resultados, sem apresentar o prêmio como novidade de novembro.",
+      "O registro científico descreve 157 variações de pequenas amostras, medições e exposição ao tempo por 12 meses. Uma composição foi selecionada para ensaios em telha de tamanho real. Nela, parte da areia foi substituída por mica, com revestimento de dióxido de titânio e proteção transparente.",
+      "A presença de mica esteve associada a uma superfície cerca de 10°C menos quente que a do protótipo de referência. Esse número não representa redução da temperatura interna de uma residência. O resultado decisivo é outro: a telha desenvolvida não foi aprovada nos ensaios de absorção de água e resistência à flexão. Os próprios autores classificam os objetivos como parcialmente atingidos e apontam trabalho adicional sobre composição, durabilidade, desempenho termoenergético e custos.",
+      "Para a construção brasileira, a contribuição está no método de desenvolvimento e na transparência dos limites, não numa recomendação imediata de compra. O reconhecimento acadêmico valoriza a investigação; não transforma automaticamente um protótipo em produto apto ao canteiro.",
+      "A leitura editorial é que a avaliação de materiais deve reunir desempenho térmico e requisitos funcionais. Na contratação, cabe pedir a documentação aplicável ao produto efetivamente fornecido, além das condições de instalação e manutenção. Resultados obtidos em amostras pequenas, telhas completas e ambientes internos precisam permanecer separados. Essa distinção evita prometer conforto, vida útil ou economia que os ensaios não demonstraram."
+    ],
+    "richBody": [
+      {
+        "_key": "p0",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Explicação VAELITH — Uma telha pode refletir mais radiação solar e, ainda assim, não estar pronta para especificação em obra. Essa é a principal cautela ao interpretar a pesquisa de Wellington Souza Silva, do IAU-USP, sobre uma telha de concreto fria. A tese foi defendida em abril de 2026 e premiada pela ANTAC em setembro; esta publicação examina seus resultados, sem apresentar o prêmio como novidade de novembro.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p1",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "O registro científico descreve 157 variações de pequenas amostras, medições e exposição ao tempo por 12 meses. Uma composição foi selecionada para ensaios em telha de tamanho real. Nela, parte da areia foi substituída por mica, com revestimento de dióxido de titânio e proteção transparente.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p2",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "A presença de mica esteve associada a uma superfície cerca de 10°C menos quente que a do protótipo de referência. Esse número não representa redução da temperatura interna de uma residência. O resultado decisivo é outro: a telha desenvolvida não foi aprovada nos ensaios de absorção de água e resistência à flexão. Os próprios autores classificam os objetivos como parcialmente atingidos e apontam trabalho adicional sobre composição, durabilidade, desempenho termoenergético e custos.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p3",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Para a construção brasileira, a contribuição está no método de desenvolvimento e na transparência dos limites, não numa recomendação imediata de compra. O reconhecimento acadêmico valoriza a investigação; não transforma automaticamente um protótipo em produto apto ao canteiro.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p4",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "A leitura editorial é que a avaliação de materiais deve reunir desempenho térmico e requisitos funcionais. Na contratação, cabe pedir a documentação aplicável ao produto efetivamente fornecido, além das condições de instalação e manutenção. Resultados obtidos em amostras pequenas, telhas completas e ambientes internos precisam permanecer separados. Essa distinção evita prometer conforto, vida útil ou economia que os ensaios não demonstraram.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "source0",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://zenodo.org/records/21006392"
+          }
+        ],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Silva, Daminelli e Dornelles — registro científico no Zenodo",
+            "marks": [
+              "link"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "source1",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://www.iau.usp.br/institucional/noticias-instituto/tese-desenvolvida-no-iau-usp-conquista-o-premio-antac-2026/"
+          }
+        ],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "IAU-USP — reconhecimento no Prêmio ANTAC",
+            "marks": [
+              "link"
+            ]
+          }
+        ]
+      }
+    ],
+    "showInPrimaryCategory": true
+  },
+  {
+    "title": "Aço de baixo carbono: estudo compara produzir no Ceará com exportar hidrogênio",
+    "dek": "Pesquisa modela custos e emissões de duas rotas industriais; ganhos estimados não são resultados de uma fábrica já implantada.",
+    "contentType": "research",
+    "region": "Brasil",
+    "publishedAt": "2026-11-08T11:25:11.118444+00:00",
+    "modifiedAt": "2026-11-08T11:25:11.118444+00:00",
+    "technicalTakeaway": "Para o planejamento brasileiro, a questão útil é comparar a cadeia completa antes de escolher o que construir. A leitura da VAELITH é que anúncios devem ser acompanhados de condições de implantação, contratos, cronograma, infraestrutura compartilhada e critérios verificáveis de emissões. O estudo sustenta uma alternativa estratégica; não comprova financiamento, licença, início de obra ou viabilidade de todo projeto que utilize a expressão aço verde.",
+    "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S2590332226000151",
+    "sourceLanguage": "pt",
+    "slug": "analise-aco-ceara-hidrogenio-ciclo-vida-20261108",
+    "category": "Sustentabilidade",
+    "categorySlug": "sustentabilidade",
+    "sourceName": "Caiafa, de Kleijne e de Coninck — One Earth; TU Eindhoven — registro do artigo; Agência FAPESP — divulgação da apresentação",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-08",
+    "dateDisplay": "08 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/e0a33ab35955aff62371f4102724b97f6fa00fb3-1122x1402.png",
+    "imageAlt": "Instalação siderúrgica conceitual com bobinas de aço e energia eólica ao fundo. Logo branca VAELITH.",
+    "imageCaption": "Imagem conceitual gerada por IA; não retrata a obra, instalação ou protótipo específico citado nesta publicação.",
+    "imageCredit": "VAELITH",
+    "body": [
+      "Análise VAELITH — A discussão sobre hidrogênio no Ceará envolve uma escolha de infraestrutura: exportar o combustível ou utilizá-lo perto da geração renovável para fabricar aço e exportar o metal. Uma divulgação da Agência FAPESP de 5 de novembro recolocou o tema em pauta. O estudo científico relacionado, de Clara Caiafa, Kiane de Kleijne e Heleen de Coninck, foi publicado na revista One Earth em 20 de fevereiro de 2026.",
+      "O artigo compara duas cadeias: produzir hidrogênio no Pecém e transportá-lo liquefeito para a siderurgia nos Países Baixos, ou concentrar hidrogênio e siderurgia no Ceará e embarcar o aço. Nas condições modeladas, a segunda alternativa apresentou emissões de ciclo de vida 23% menores e custo do aço 39% inferior. O resumo também estima maiores efeitos econômicos locais.",
+      "Esses percentuais comparam as duas rotas do estudo, não qualquer aço brasileiro com qualquer aço europeu. Tampouco representam economia já medida em uma fábrica em operação. A divulgação da FAPESP menciona redução de 25% nas emissões; aqui são adotados os 23% apresentados no artigo científico, sem tratar os números como equivalentes.",
+      "A dificuldade técnica e energética do transporte marítimo do hidrogênio ajuda a explicar o interesse em aproximar sua produção do consumo industrial. Na divulgação recente, a pesquisadora também ressalta que formação profissional precisa acompanhar o ritmo efetivo dos empreendimentos. O potencial de empregos não é confirmação de vagas abertas.",
+      "Para o planejamento brasileiro, a questão útil é comparar a cadeia completa antes de escolher o que construir. A leitura da VAELITH é que anúncios devem ser acompanhados de condições de implantação, contratos, cronograma, infraestrutura compartilhada e critérios verificáveis de emissões. O estudo sustenta uma alternativa estratégica; não comprova financiamento, licença, início de obra ou viabilidade de todo projeto que utilize a expressão aço verde."
+    ],
+    "richBody": [
+      {
+        "_key": "p0",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Análise VAELITH — A discussão sobre hidrogênio no Ceará envolve uma escolha de infraestrutura: exportar o combustível ou utilizá-lo perto da geração renovável para fabricar aço e exportar o metal. Uma divulgação da Agência FAPESP de 5 de novembro recolocou o tema em pauta. O estudo científico relacionado, de Clara Caiafa, Kiane de Kleijne e Heleen de Coninck, foi publicado na revista One Earth em 20 de fevereiro de 2026.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p1",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "O artigo compara duas cadeias: produzir hidrogênio no Pecém e transportá-lo liquefeito para a siderurgia nos Países Baixos, ou concentrar hidrogênio e siderurgia no Ceará e embarcar o aço. Nas condições modeladas, a segunda alternativa apresentou emissões de ciclo de vida 23% menores e custo do aço 39% inferior. O resumo também estima maiores efeitos econômicos locais.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p2",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Esses percentuais comparam as duas rotas do estudo, não qualquer aço brasileiro com qualquer aço europeu. Tampouco representam economia já medida em uma fábrica em operação. A divulgação da FAPESP menciona redução de 25% nas emissões; aqui são adotados os 23% apresentados no artigo científico, sem tratar os números como equivalentes.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p3",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "A dificuldade técnica e energética do transporte marítimo do hidrogênio ajuda a explicar o interesse em aproximar sua produção do consumo industrial. Na divulgação recente, a pesquisadora também ressalta que formação profissional precisa acompanhar o ritmo efetivo dos empreendimentos. O potencial de empregos não é confirmação de vagas abertas.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "p4",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Para o planejamento brasileiro, a questão útil é comparar a cadeia completa antes de escolher o que construir. A leitura da VAELITH é que anúncios devem ser acompanhados de condições de implantação, contratos, cronograma, infraestrutura compartilhada e critérios verificáveis de emissões. O estudo sustenta uma alternativa estratégica; não comprova financiamento, licença, início de obra ou viabilidade de todo projeto que utilize a expressão aço verde.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_key": "source0",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://www.sciencedirect.com/science/article/pii/S2590332226000151"
+          }
+        ],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Caiafa, de Kleijne e de Coninck — One Earth",
+            "marks": [
+              "link"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "source1",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://research.tue.nl/en/publications/co-locating-green-steel-and-hydrogen-production-in-renewables-ric/"
+          }
+        ],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "TU Eindhoven — registro do artigo",
+            "marks": [
+              "link"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "source2",
+        "_type": "block",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://agencia.fapesp.br/produzir-aco-verde-no-brasil-compensa-mais-do-que-exportar-hidrogenio-para-fabrica-lo-na-europa/59556"
+          }
+        ],
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "text": "Agência FAPESP — divulgação da apresentação",
+            "marks": [
+              "link"
+            ]
+          }
+        ]
+      }
+    ],
+    "showInPrimaryCategory": true
   }
 ]
