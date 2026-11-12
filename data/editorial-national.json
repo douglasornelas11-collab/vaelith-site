@@ -9270,5 +9270,129 @@
       }
     ],
     "showInPrimaryCategory": true
+  },
+  {
+    "title": "Estudo da USP reúne quase 700 áreas contaminadas no Grande ABC",
+    "dek": "Levantamento com dados da Cetesb destaca locais próximos a moradias; exposição efetiva precisa de investigação individual.",
+    "contentType": "research",
+    "region": "Brasil",
+    "publishedAt": "2026-11-12T11:16:40.083Z",
+    "modifiedAt": "2026-11-12T11:16:40.083Z",
+    "technicalTakeaway": "Registro de área contaminada não comprova exposição de moradores; a avaliação deve ser individual.",
+    "sourceUrl": "https://jornal.usp.br/radio-usp/pesquisa-da-usp-identifica-quase-700-areas-contaminadas-no-grande-abc/",
+    "sourceLanguage": "pt",
+    "slug": "usp-areas-contaminadas-abc-pesquisa-20261112",
+    "category": "Sustentabilidade",
+    "categorySlug": "sustentabilidade",
+    "sourceName": "Jornal da USP",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-12",
+    "dateDisplay": "12 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/f4a6dcf7c8c1162abf79db7a93b9098d57a0c1d0-1672x941.png",
+    "imageAlt": "Amostra de solo sobre paisagem urbana industrial conceitual.",
+    "imageCaption": "Amostra de solo sobre paisagem urbana industrial conceitual. Imagem gerada por IA; não é fotografia da obra, instituição ou pesquisa citada.",
+    "imageCredit": "VAELITH / imagem gerada por IA",
+    "body": [
+      "Uma pesquisa da Faculdade de Saúde Pública da USP reuniu quase 700 áreas contaminadas no Grande ABC paulista e examinou sua proximidade com residências. O trabalho de Lucas Souza Venciguerra foi apresentado pelo Jornal da USP em página datada de 11 de novembro.",
+      "A investigação utilizou dados documentais e bibliográficos disponíveis na Cetesb. Portanto, o número não representa a descoberta, nesta semana, de centenas de novas contaminações. O levantamento organiza registros existentes para discutir situações que merecem atenção da vigilância em saúde ambiental.",
+      "Segundo o pesquisador, identificar um cenário potencial de exposição não demonstra que moradores tenham sido efetivamente expostos. A verificação depende de estudos de cada caso. A presença de um registro também não permite atribuir automaticamente doença, dano individual ou responsabilidade a uma empresa.",
+      "O estudo examinou instrumentos de atuação dos órgãos públicos e produziu uma cartilha educativa sobre contaminantes, solo, água subterrânea e canais de orientação. A proposta é aproximar informação técnica e moradores, com participação das estruturas municipais.",
+      "Para o planejamento urbano, o resultado reforça uma pergunta prática: quais informações ambientais precisam acompanhar a avaliação de um território? A resposta exige conferir a situação de cada área e as medidas pertinentes, sem transformar um total regional em diagnóstico de todos os imóveis vizinhos."
+    ],
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Uma pesquisa da Faculdade de Saúde Pública da USP reuniu quase 700 áreas contaminadas no Grande ABC paulista e examinou sua proximidade com residências. O trabalho de Lucas Souza Venciguerra foi apresentado pelo Jornal da USP em página datada de 11 de novembro.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "A investigação utilizou dados documentais e bibliográficos disponíveis na Cetesb. Portanto, o número não representa a descoberta, nesta semana, de centenas de novas contaminações. O levantamento organiza registros existentes para discutir situações que merecem atenção da vigilância em saúde ambiental.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": "Segundo o pesquisador, identificar um cenário potencial de exposição não demonstra que moradores tenham sido efetivamente expostos. A verificação depende de estudos de cada caso. A presença de um registro também não permite atribuir automaticamente doença, dano individual ou responsabilidade a uma empresa.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s3",
+            "text": "O estudo examinou instrumentos de atuação dos órgãos públicos e produziu uma cartilha educativa sobre contaminantes, solo, água subterrânea e canais de orientação. A proposta é aproximar informação técnica e moradores, com participação das estruturas municipais.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s4",
+            "text": "Para o planejamento urbano, o resultado reforça uma pergunta prática: quais informações ambientais precisam acompanhar a avaliação de um território? A resposta exige conferir a situação de cada área e as medidas pertinentes, sem transformar um total regional em diagnóstico de todos os imóveis vizinhos.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "source",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "src",
+            "_type": "link",
+            "href": "https://jornal.usp.br/radio-usp/pesquisa-da-usp-identifica-quase-700-areas-contaminadas-no-grande-abc/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "srctext",
+            "text": "Fonte: Jornal da USP — 11/11/2026, conforme data exibida na página consultada.",
+            "marks": [
+              "src"
+            ]
+          }
+        ]
+      }
+    ],
+    "showInPrimaryCategory": true
   }
 ]
