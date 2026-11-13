@@ -9394,5 +9394,130 @@
       }
     ],
     "showInPrimaryCategory": true
+  },
+  {
+    "title": "USP pesquisa biocarvão de microalgas como suporte para produzir biodiesel",
+    "dek": "Reaproveitamento da biomassa busca melhorar o uso de enzimas; reportagem não demonstra viabilidade industrial.",
+    "contentType": "research",
+    "region": "Brasil",
+    "publishedAt": "2026-11-13T11:29:01.022Z",
+    "modifiedAt": "2026-11-13T11:29:01.022Z",
+    "technicalTakeaway": "Aproveitamento de resíduo, desempenho do catalisador e balanço ambiental exigem avaliações distintas.",
+    "sourceUrl": "https://jornal.usp.br/atualidades/pesquisa-da-usp-transforma-residuo-de-microalgas-em-biocarvao-para-producao-de-biodiesel-sustentavel/",
+    "sourceLanguage": "pt",
+    "slug": "usp-biocarvao-microalgas-biodiesel-20261113",
+    "category": "Sustentabilidade",
+    "categorySlug": "sustentabilidade",
+    "sourceName": "Jornal da USP",
+    "authorName": "Redação VAELITH",
+    "date": "2026-11-13",
+    "dateDisplay": "13 nov 2026",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/ec6a5946ba99ea4c5570983ef0d285009a5fc54a-1672x941.png",
+    "imageAlt": "Biocarvão e cultura de microalgas em composição de laboratório conceitual.",
+    "imageCaption": "Biocarvão e cultura de microalgas em composição de laboratório conceitual. Imagem gerada por IA; não é fotografia da obra, instituição ou pesquisa citada.",
+    "imageCredit": "VAELITH / imagem gerada por IA",
+    "body": [
+      "Pesquisadores da Escola de Engenharia de Lorena da USP desenvolveram biocarvão a partir de biomassa residual de microalgas para aplicação na produção de biodiesel. O trabalho foi apresentado pelo Jornal da USP em 10 de novembro.",
+      "A proposta aproveita o material restante após a extração de compostos de interesse industrial. Por pirólise, a biomassa é convertida em carvão, utilizado como suporte para imobilizar enzimas envolvidas na reação de produção do combustível.",
+      "Segundo o pesquisador entrevistado, enzimas livres podem ser difíceis de recuperar do meio reacional. O suporte busca melhorar seu aproveitamento. A reportagem não apresenta valores de custo, desempenho industrial ou número validado de ciclos de reutilização.",
+      "Na análise da VAELITH, avaliar a transferência dessa solução exige acompanhar tanto a produção do suporte quanto seu comportamento no processo. Consumo energético, estabilidade e recuperação do material são perguntas relevantes para etapas posteriores.",
+      "O aproveitamento de resíduos é promissor, mas não comprova sozinho benefício ambiental líquido. Essa conclusão precisa considerar o conjunto do processo, sem confundir a captura de carbono pelas microalgas com uma redução de emissões já quantificada para a tecnologia.",
+      "Fonte primária consultada"
+    ],
+    "richBody": [
+      {
+        "_key": "p0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "marks": [],
+            "text": "Pesquisadores da Escola de Engenharia de Lorena da USP desenvolveram biocarvão a partir de biomassa residual de microalgas para aplicação na produção de biodiesel. O trabalho foi apresentado pelo Jornal da USP em 10 de novembro."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s1",
+            "_type": "span",
+            "marks": [],
+            "text": "A proposta aproveita o material restante após a extração de compostos de interesse industrial. Por pirólise, a biomassa é convertida em carvão, utilizado como suporte para imobilizar enzimas envolvidas na reação de produção do combustível."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s2",
+            "_type": "span",
+            "marks": [],
+            "text": "Segundo o pesquisador entrevistado, enzimas livres podem ser difíceis de recuperar do meio reacional. O suporte busca melhorar seu aproveitamento. A reportagem não apresenta valores de custo, desempenho industrial ou número validado de ciclos de reutilização."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s3",
+            "_type": "span",
+            "marks": [],
+            "text": "Na análise da VAELITH, avaliar a transferência dessa solução exige acompanhar tanto a produção do suporte quanto seu comportamento no processo. Consumo energético, estabilidade e recuperação do material são perguntas relevantes para etapas posteriores."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s4",
+            "_type": "span",
+            "marks": [],
+            "text": "O aproveitamento de resíduos é promissor, mas não comprova sozinho benefício ambiental líquido. Essa conclusão precisa considerar o conjunto do processo, sem confundir a captura de carbono pelas microalgas com uma redução de emissões já quantificada para a tecnologia."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "fonte",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "sfonte",
+            "_type": "span",
+            "marks": [
+              "source"
+            ],
+            "text": "Fonte primária consultada"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "source",
+            "_type": "link",
+            "href": "https://jornal.usp.br/atualidades/pesquisa-da-usp-transforma-residuo-de-microalgas-em-biocarvao-para-producao-de-biodiesel-sustentavel/"
+          }
+        ],
+        "style": "normal"
+      }
+    ],
+    "showInPrimaryCategory": true
   }
 ]
