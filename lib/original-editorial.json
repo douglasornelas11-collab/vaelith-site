@@ -162,5 +162,25 @@
   "resposta-demanda-horario-consumo-20261113": {
     "title": "Resposta da demanda coloca o horário do consumo no planejamento energético",
     "format": "Explicação"
+  },
+  "analise-casa-represa-aco-declive-manutencao-20261114": {
+    "title": "Construir no declive: o que a Casa da Represa ensina sobre estrutura e manutenção",
+    "format": "Análise"
+  },
+  "explicacao-bim-capacitacao-interoperabilidade-20261114": {
+    "title": "BIM além do modelo: capacitação precisa chegar aos fluxos e à contratação",
+    "format": "Explicação"
+  },
+  "analise-ipea-construcao-agosto-janelas-comparacao-20261114": {
+    "title": "Construção recua no mês e cresce no trimestre: como ler o indicador do Ipea",
+    "format": "Análise"
+  },
+  "analise-priorizacao-obras-piloto-tcu-20261114": {
+    "title": "Retomar obras exige escolher prioridades, não apenas anunciar recursos",
+    "format": "Análise"
+  },
+  "explicacao-agua-alimentacao-saude-infantil-20261114": {
+    "title": "Água segura e alimentação precisam caminhar juntas no planejamento da infraestrutura",
+    "format": "Explicação"
   }
 }

@@ -9519,5 +9519,130 @@
       }
     ],
     "showInPrimaryCategory": true
+  },
+  {
+    "title": "Água segura e alimentação precisam caminhar juntas no planejamento da infraestrutura",
+    "slug": "explicacao-agua-alimentacao-saude-infantil-20261114",
+    "dek": "Estudo com dados de 2004 a 2023 relaciona vulnerabilidades; associação estatística não mede o efeito de uma obra isolada.",
+    "contentType": "research",
+    "category": "Sustentabilidade",
+    "categorySlug": "sustentabilidade",
+    "region": "Brasil",
+    "publishedAt": "2026-11-14T12:01:48.706626Z",
+    "modifiedAt": "2026-11-14T12:01:48.706626Z",
+    "date": "2026-11-14",
+    "dateDisplay": "14 nov 2026",
+    "technicalTakeaway": "Estudo com dados de 2004 a 2023 relaciona vulnerabilidades; associação estatística não mede o efeito de uma obra isolada.",
+    "sourceUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/san/article/view/8681442",
+    "sourceLanguage": "pt",
+    "sourceName": "Segurança Alimentar e Nutricional / USP",
+    "authorName": "Redação VAELITH",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/53fb54e7d58ee7b3f49da32dca61711b9c1929f8-1080x1350.png",
+    "imageAlt": "Ilustração conceitual de água e abastecimento domiciliar, gerada por IA; não representa comunidade ou instalação pesquisada.",
+    "imageCaption": "Ilustração conceitual de água e abastecimento domiciliar, gerada por IA; não representa comunidade ou instalação pesquisada.",
+    "imageCredit": "VAELITH / imagem gerada por IA",
+    "body": [
+      "Explicação VAELITH | Um estudo da USP publicado em 7 de outubro de 2026 na revista Segurança Alimentar e Nutricional examinou a associação entre insegurança alimentar e mortalidade de menores de cinco anos atribuída a água e saneamento inadequados. O recorte é 2004–2023. A pesquisa foi divulgada pelo Jornal da USP em 5 de novembro; não é um levantamento realizado nesta semana.",
+      "O trabalho é ecológico: analisa informações agregadas, não acompanha cada família ou avalia a inauguração de uma rede específica. A regressão quantílica investiga diferentes posições da distribuição da mortalidade. No quantil 90, os autores encontraram associação positiva com insegurança alimentar. O valor médio do Bolsa Família teve associação negativa em outros quantis.",
+      "Isso não permite concluir que determinada porcentagem de mortes seria evitada por uma obra, nem que o aumento de renda dispense saneamento. Os resultados sustentam uma leitura integrada das vulnerabilidades; não fornecem orçamento de infraestrutura, comparação de tecnologias ou cálculo de retorno de um projeto.",
+      "Para o planejamento, a pergunta útil é quem continua sem serviço seguro depois de a infraestrutura entrar em operação. Na leitura da VAELITH, extensão de rede e capacidade instalada devem ser acompanhadas por verificação de ligação, continuidade do abastecimento, qualidade da água e condições de uso no domicílio. São dimensões operacionais a avaliar, não resultados medidos por este estudo.",
+      "Também é importante separar evidência populacional de diagnóstico local. Priorizar um território exige conhecer sua situação concreta e ouvir seus moradores, em vez de aplicar automaticamente uma média regional. O estudo ajuda a formular perguntas melhores para o projeto e a operação; não substitui levantamento de campo, dimensionamento técnico nem avaliação posterior do serviço.",
+      "Fonte primária consultada"
+    ],
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Explicação VAELITH | Um estudo da USP publicado em 7 de outubro de 2026 na revista Segurança Alimentar e Nutricional examinou a associação entre insegurança alimentar e mortalidade de menores de cinco anos atribuída a água e saneamento inadequados. O recorte é 2004–2023. A pesquisa foi divulgada pelo Jornal da USP em 5 de novembro; não é um levantamento realizado nesta semana.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "O trabalho é ecológico: analisa informações agregadas, não acompanha cada família ou avalia a inauguração de uma rede específica. A regressão quantílica investiga diferentes posições da distribuição da mortalidade. No quantil 90, os autores encontraram associação positiva com insegurança alimentar. O valor médio do Bolsa Família teve associação negativa em outros quantis.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": "Isso não permite concluir que determinada porcentagem de mortes seria evitada por uma obra, nem que o aumento de renda dispense saneamento. Os resultados sustentam uma leitura integrada das vulnerabilidades; não fornecem orçamento de infraestrutura, comparação de tecnologias ou cálculo de retorno de um projeto.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s3",
+            "text": "Para o planejamento, a pergunta útil é quem continua sem serviço seguro depois de a infraestrutura entrar em operação. Na leitura da VAELITH, extensão de rede e capacidade instalada devem ser acompanhadas por verificação de ligação, continuidade do abastecimento, qualidade da água e condições de uso no domicílio. São dimensões operacionais a avaliar, não resultados medidos por este estudo.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s4",
+            "text": "Também é importante separar evidência populacional de diagnóstico local. Priorizar um território exige conhecer sua situação concreta e ouvir seus moradores, em vez de aplicar automaticamente uma média regional. O estudo ajuda a formular perguntas melhores para o projeto e a operação; não substitui levantamento de campo, dimensionamento técnico nem avaliação posterior do serviço.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "fonte",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "source",
+            "_type": "link",
+            "href": "https://periodicos.sbu.unicamp.br/ojs/index.php/san/article/view/8681442"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sfonte",
+            "text": "Fonte primária consultada",
+            "marks": [
+              "source"
+            ]
+          }
+        ]
+      }
+    ],
+    "showInPrimaryCategory": true
   }
 ]
