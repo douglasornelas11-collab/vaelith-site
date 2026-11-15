@@ -9644,5 +9644,176 @@
       }
     ],
     "showInPrimaryCategory": true
+  },
+  {
+    "title": "Reciclagem com feixes de elétrons depende do plástico, da dose e da operação",
+    "slug": "explicacao-reciclagem-feixes-eletrons-limites-20261115",
+    "dek": "Pesquisa brasileira e orientação da IAEA mostram por que tratamento por radiação não é solução universal para resíduos plásticos.",
+    "contentType": "research",
+    "category": "Sustentabilidade",
+    "categorySlug": "sustentabilidade",
+    "region": "Brasil",
+    "publishedAt": "2026-11-15T11:14:46.969736Z",
+    "modifiedAt": "2026-11-15T11:14:46.969736Z",
+    "date": "2026-11-15",
+    "dateDisplay": "15 nov 2026",
+    "technicalTakeaway": "Pesquisa brasileira e orientação da IAEA mostram por que tratamento por radiação não é solução universal para resíduos plásticos.",
+    "sourceUrl": "https://doi.org/10.1016/j.radphyschem.2026.113711",
+    "sourceLanguage": "pt",
+    "sourceName": "IPEN / IAEA / Radiation Physics and Chemistry",
+    "authorName": "Redação VAELITH",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/1f7756dad1f1d14f266ffdc7366d4971b86284eb-1080x1350.png",
+    "imageAlt": "Composição conceitual de amostras plásticas e laboratório criada com IA; não representa equipamento, ensaio ou instalação do IPEN.",
+    "imageCaption": "Composição conceitual de amostras plásticas e laboratório criada com IA; não representa equipamento, ensaio ou instalação do IPEN.",
+    "imageCredit": "VAELITH / imagem gerada por IA",
+    "body": [
+      "Explicação VAELITH | O IPEN anunciou em 3 de novembro um encontro sobre reciclagem de polímeros por feixes de elétrons, programado para 9 a 13 de novembro de 2026. O anúncio recoloca uma pergunta técnica: em quais condições a radiação pode ajudar a recuperar materiais? Este texto explica a tecnologia; não apresenta a programação como resultado comprovado do encontro.",
+      "Um estudo de 2026 publicado em Radiation Physics and Chemistry, de Julio Harada e colaboradores, examinou embalagens descartadas de polipropileno submetidas a feixes de elétrons. O resumo e os destaques editoriais registram mudanças nas propriedades mecânicas e térmicas e a ocorrência de quebra e ligação entre cadeias do polímero. Não foi possível consultar o texto integral nesta verificação; por isso, esta explicação não extrapola os resultados para uma receita industrial ou para outros resíduos.",
+      "A IAEA destaca que aceleradores podem tratar materiais rapidamente, mas a penetração dos elétrons é limitada e a distribuição da dose pode ser desigual. A operação também exige alimentação elétrica confiável, manutenção e equipamentos complexos. Essas condições ajudam a entender por que uma amostra bem-sucedida não basta para validar toda uma linha de reciclagem.",
+      "Na análise da VAELITH, a pergunta inicial deve ser qual resíduo entra e qual produto precisa sair. A avaliação deve verificar identificação e variabilidade do plástico, propriedades exigidas, consumo de energia, perdas de processo e destino do produto. Essa lista é um roteiro editorial de avaliação, não uma prescrição de operação do acelerador.",
+      "Para aplicações em construção, recuperar um polímero não comprova automaticamente desempenho como componente de edifício. O produto final ainda precisa ser avaliado para seu uso específico, inclusive durabilidade e manutenção. Também não se pode afirmar benefício ambiental líquido sem comparar o processo completo com alternativas. Tecnologia promissora e solução industrial validada são etapas diferentes.",
+      "Fonte primária consultada",
+      "IPEN: anúncio de 3 de novembro de 2026",
+      "IAEA: aplicações e limites industriais"
+    ],
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Explicação VAELITH | O IPEN anunciou em 3 de novembro um encontro sobre reciclagem de polímeros por feixes de elétrons, programado para 9 a 13 de novembro de 2026. O anúncio recoloca uma pergunta técnica: em quais condições a radiação pode ajudar a recuperar materiais? Este texto explica a tecnologia; não apresenta a programação como resultado comprovado do encontro.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Um estudo de 2026 publicado em Radiation Physics and Chemistry, de Julio Harada e colaboradores, examinou embalagens descartadas de polipropileno submetidas a feixes de elétrons. O resumo e os destaques editoriais registram mudanças nas propriedades mecânicas e térmicas e a ocorrência de quebra e ligação entre cadeias do polímero. Não foi possível consultar o texto integral nesta verificação; por isso, esta explicação não extrapola os resultados para uma receita industrial ou para outros resíduos.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": "A IAEA destaca que aceleradores podem tratar materiais rapidamente, mas a penetração dos elétrons é limitada e a distribuição da dose pode ser desigual. A operação também exige alimentação elétrica confiável, manutenção e equipamentos complexos. Essas condições ajudam a entender por que uma amostra bem-sucedida não basta para validar toda uma linha de reciclagem.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s3",
+            "text": "Na análise da VAELITH, a pergunta inicial deve ser qual resíduo entra e qual produto precisa sair. A avaliação deve verificar identificação e variabilidade do plástico, propriedades exigidas, consumo de energia, perdas de processo e destino do produto. Essa lista é um roteiro editorial de avaliação, não uma prescrição de operação do acelerador.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s4",
+            "text": "Para aplicações em construção, recuperar um polímero não comprova automaticamente desempenho como componente de edifício. O produto final ainda precisa ser avaliado para seu uso específico, inclusive durabilidade e manutenção. Também não se pode afirmar benefício ambiental líquido sem comparar o processo completo com alternativas. Tecnologia promissora e solução industrial validada são etapas diferentes.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "fonte0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "source",
+            "_type": "link",
+            "href": "https://doi.org/10.1016/j.radphyschem.2026.113711"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sfonte",
+            "text": "Fonte primária consultada",
+            "marks": [
+              "source"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "fonte1",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "source",
+            "_type": "link",
+            "href": "https://www.gov.br/ipen/pt-br/assuntos/mais-noticias/encontro-discute-tecnologia-de-radiacao-na-reciclagem"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sfonte",
+            "text": "IPEN: anúncio de 3 de novembro de 2026",
+            "marks": [
+              "source"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "fonte2",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_key": "source",
+            "_type": "link",
+            "href": "https://nucleus.iaea.org/sites/diif/Pages/Radiation-Technologies.aspx"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sfonte",
+            "text": "IAEA: aplicações e limites industriais",
+            "marks": [
+              "source"
+            ]
+          }
+        ]
+      }
+    ],
+    "showInPrimaryCategory": true
   }
 ]
