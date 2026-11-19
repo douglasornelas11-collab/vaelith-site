@@ -9815,5 +9815,563 @@
       }
     ],
     "showInPrimaryCategory": true
+  },
+  {
+    "authorName": "Redação VAELITH",
+    "body": [
+      "A CBIC anunciou para 23 de novembro, às 10h, a divulgação dos Indicadores Imobiliários Nacionais referentes ao terceiro trimestre de 2026. A apresentação será virtual, com transmissão no canal da entidade no YouTube.",
+      "O encontro deverá abordar lançamentos, vendas e oferta de imóveis, acompanhado de análise do desempenho e das perspectivas do setor. O comunicado de 13/11 não antecipa os resultados numéricos da pesquisa. A data indicada é 23/11, e não esta segunda-feira, 16/11.",
+      "Leitura VAELITH: o anúncio marca uma data de acompanhamento, não uma conclusão sobre o mercado. Antes de interpretar crescimento ou retração, será necessário conferir a abrangência da amostra, os períodos comparados e eventuais diferenças entre regiões e segmentos. Expectativa de divulgação não é evidência de recuperação.",
+      "Fonte: CBIC"
+    ],
+    "category": "Mercado",
+    "categorySlug": "mercado",
+    "contentType": "news",
+    "dek": "Divulgação deverá reunir lançamentos, vendas e oferta; resultados ainda não foram apresentados.",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/6f498e4701435d59ba563720311b5e3bea91f19f-1080x1350.png",
+    "imageAlt": "Capa editorial VAELITH: CBIC apresentará indicadores imobiliários do terceiro trimestre em 23 de novembro",
+    "imageCaption": "Ilustração conceitual gerada por IA para a VAELITH; não é registro fotográfico do local, do evento ou da pesquisa citada.",
+    "imageCredit": "VAELITH / imagem gerada por IA",
+    "keyFacts": null,
+    "publishedAt": "2026-11-16T12:07:55.215456Z",
+    "slug": "cbic-indicadores-imobiliarios-agenda-23-novembro-20261116",
+    "sourceName": null,
+    "sourceUrl": "https://cbic.org.br/cbic-apresenta-indicadores-do-mercado-imobiliario-nacional-nesta-segunda/",
+    "technicalTakeaway": "Divulgação deverá reunir lançamentos, vendas e oferta; resultados ainda não foram apresentados.",
+    "title": "CBIC apresentará indicadores imobiliários do terceiro trimestre em 23 de novembro",
+    "richBody": [
+      {
+        "_key": "p0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "marks": [],
+            "text": "A CBIC anunciou para 23 de novembro, às 10h, a divulgação dos Indicadores Imobiliários Nacionais referentes ao terceiro trimestre de 2026. A apresentação será virtual, com transmissão no canal da entidade no YouTube."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s1",
+            "_type": "span",
+            "marks": [],
+            "text": "O encontro deverá abordar lançamentos, vendas e oferta de imóveis, acompanhado de análise do desempenho e das perspectivas do setor. O comunicado de 13/11 não antecipa os resultados numéricos da pesquisa. A data indicada é 23/11, e não esta segunda-feira, 16/11."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s2",
+            "_type": "span",
+            "marks": [],
+            "text": "Leitura VAELITH: o anúncio marca uma data de acompanhamento, não uma conclusão sobre o mercado. Antes de interpretar crescimento ou retração, será necessário conferir a abrangência da amostra, os períodos comparados e eventuais diferenças entre regiões e segmentos. Expectativa de divulgação não é evidência de recuperação."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "source",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "sourcespan",
+            "_type": "span",
+            "marks": [
+              "link"
+            ],
+            "text": "Fonte: CBIC"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://cbic.org.br/cbic-apresenta-indicadores-do-mercado-imobiliario-nacional-nesta-segunda/"
+          }
+        ],
+        "style": "normal"
+      }
+    ],
+    "date": "2026-11-16",
+    "dateDisplay": "16 nov 2026",
+    "region": "Brasil"
+  },
+  {
+    "authorName": "Redação VAELITH",
+    "body": [
+      "O Ministério das Cidades selecionou uma proposta do Novo PAC para modernizar terminais e estações do Corredor Expresso Tiradentes, em São Paulo. O anúncio de 13 de novembro informa investimento previsto de R$ 81,9 milhões, com recursos do FGTS.",
+      "O objetivo divulgado é melhorar a infraestrutura e as condições de atendimento, conforto e segurança dos passageiros. O comunicado não detalha quais intervenções começarão primeiro, seus prazos ou o estágio da contratação. Seleção de proposta não comprova execução física.",
+      "Leitura VAELITH: acompanhar a modernização exige separar projeto, contratação, obra e entrada em operação. Para o usuário do transporte, importa também como o atendimento será mantido durante os serviços. Esses pontos são perguntas de acompanhamento, não falhas já comprovadas do empreendimento.",
+      "Fonte: Secom / Ministério das Cidades"
+    ],
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "news",
+    "dek": "Recursos previstos do FGTS deverão apoiar terminais e estações; comunicado não informa início de execução.",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/dd6e0d29f19c35bf2549724025f950c5d0445288-1080x1350.png",
+    "imageAlt": "Capa editorial VAELITH: Expresso Tiradentes tem proposta de R$ 81,9 milhões selecionada para modernização",
+    "imageCaption": "Ilustração conceitual gerada por IA para a VAELITH; não é registro fotográfico do local, do evento ou da pesquisa citada.",
+    "imageCredit": "VAELITH / imagem gerada por IA",
+    "keyFacts": null,
+    "publishedAt": "2026-11-16T12:07:55.215456Z",
+    "slug": "expresso-tiradentes-proposta-modernizacao-20261116",
+    "sourceName": null,
+    "sourceUrl": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/novo-pac-proposta-de-r-81-9-milhoes-visa-modernizar-transporte-publico-de-sao-paulo",
+    "technicalTakeaway": "Recursos previstos do FGTS deverão apoiar terminais e estações; comunicado não informa início de execução.",
+    "title": "Expresso Tiradentes tem proposta de R$ 81,9 milhões selecionada para modernização",
+    "richBody": [
+      {
+        "_key": "p0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "marks": [],
+            "text": "O Ministério das Cidades selecionou uma proposta do Novo PAC para modernizar terminais e estações do Corredor Expresso Tiradentes, em São Paulo. O anúncio de 13 de novembro informa investimento previsto de R$ 81,9 milhões, com recursos do FGTS."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s1",
+            "_type": "span",
+            "marks": [],
+            "text": "O objetivo divulgado é melhorar a infraestrutura e as condições de atendimento, conforto e segurança dos passageiros. O comunicado não detalha quais intervenções começarão primeiro, seus prazos ou o estágio da contratação. Seleção de proposta não comprova execução física."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s2",
+            "_type": "span",
+            "marks": [],
+            "text": "Leitura VAELITH: acompanhar a modernização exige separar projeto, contratação, obra e entrada em operação. Para o usuário do transporte, importa também como o atendimento será mantido durante os serviços. Esses pontos são perguntas de acompanhamento, não falhas já comprovadas do empreendimento."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "source",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "sourcespan",
+            "_type": "span",
+            "marks": [
+              "link"
+            ],
+            "text": "Fonte: Secom / Ministério das Cidades"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/novo-pac-proposta-de-r-81-9-milhoes-visa-modernizar-transporte-publico-de-sao-paulo"
+          }
+        ],
+        "style": "normal"
+      }
+    ],
+    "date": "2026-11-16",
+    "dateDisplay": "16 nov 2026",
+    "region": "Brasil"
+  },
+  {
+    "authorName": "Redação VAELITH",
+    "body": [
+      "O programa Bota pra Industrializar realizou seu primeiro encontro em Belém, em 10 de novembro. Segundo comunicado da CBIC de 12/11, a iniciativa do Ministério das Cidades, com CBIC e SENAI, pretende aproximar construtoras e desenvolvedores de soluções para o Minha Casa, Minha Vida.",
+      "A proposta contempla componentes produzidos em ambiente industrial e montados posteriormente nos canteiros. Reduzir prazos e desperdícios e ampliar produtividade e controle de qualidade são benefícios esperados. A próxima edição foi anunciada para Salvador em 17/11.",
+      "Leitura VAELITH: industrialização não é apenas substituir um material. Comparar sistemas exige considerar projeto, logística, montagem e controle de qualidade. O comunicado não apresenta indicadores suficientes para quantificar ganhos alcançados pelo programa; a avaliação deve distinguir demonstração, contratação e desempenho verificado em obra.",
+      "Fonte: CBIC / Ministério das Cidades / SENAI"
+    ],
+    "category": "Tecnologia",
+    "categorySlug": "tecnologia",
+    "contentType": "news",
+    "dek": "Após Belém, iniciativa prevê edição em Salvador em 17 de novembro; ganhos são objetivos, não resultados medidos.",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/13738b5c2729f9c3e8f74212611ab4d7c395b7b6-1080x1350.png",
+    "imageAlt": "Capa editorial VAELITH: Programa aproxima construtoras e fornecedores para industrializar habitação social",
+    "imageCaption": "Ilustração conceitual gerada por IA para a VAELITH; não é registro fotográfico do local, do evento ou da pesquisa citada.",
+    "imageCredit": "VAELITH / imagem gerada por IA",
+    "keyFacts": null,
+    "publishedAt": "2026-11-16T12:07:55.215456Z",
+    "slug": "industrializacao-habitacao-encontro-salvador-20261116",
+    "sourceName": null,
+    "sourceUrl": "https://cbic.org.br/cbic-ministerio-das-cidades-e-senai-mobilizam-setor-para-ampliar-industrializacao-no-minha-casa-minha-vida/",
+    "technicalTakeaway": "Após Belém, iniciativa prevê edição em Salvador em 17 de novembro; ganhos são objetivos, não resultados medidos.",
+    "title": "Programa aproxima construtoras e fornecedores para industrializar habitação social",
+    "richBody": [
+      {
+        "_key": "p0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "marks": [],
+            "text": "O programa Bota pra Industrializar realizou seu primeiro encontro em Belém, em 10 de novembro. Segundo comunicado da CBIC de 12/11, a iniciativa do Ministério das Cidades, com CBIC e SENAI, pretende aproximar construtoras e desenvolvedores de soluções para o Minha Casa, Minha Vida."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s1",
+            "_type": "span",
+            "marks": [],
+            "text": "A proposta contempla componentes produzidos em ambiente industrial e montados posteriormente nos canteiros. Reduzir prazos e desperdícios e ampliar produtividade e controle de qualidade são benefícios esperados. A próxima edição foi anunciada para Salvador em 17/11."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s2",
+            "_type": "span",
+            "marks": [],
+            "text": "Leitura VAELITH: industrialização não é apenas substituir um material. Comparar sistemas exige considerar projeto, logística, montagem e controle de qualidade. O comunicado não apresenta indicadores suficientes para quantificar ganhos alcançados pelo programa; a avaliação deve distinguir demonstração, contratação e desempenho verificado em obra."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "source",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "sourcespan",
+            "_type": "span",
+            "marks": [
+              "link"
+            ],
+            "text": "Fonte: CBIC / Ministério das Cidades / SENAI"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://cbic.org.br/cbic-ministerio-das-cidades-e-senai-mobilizam-setor-para-ampliar-industrializacao-no-minha-casa-minha-vida/"
+          }
+        ],
+        "style": "normal"
+      }
+    ],
+    "date": "2026-11-16",
+    "dateDisplay": "16 nov 2026",
+    "region": "Brasil"
+  },
+  {
+    "authorName": "Redação VAELITH",
+    "body": [
+      "Análise VAELITH: o calendário da iniciativa Brasil rumo à Conferência da ONU sobre a água prevê, de 16 a 30 de novembro, a consolidação e análise das contribuições recebidas. O período de questionários informado terminou em 15/11, e a devolutiva está prevista a partir de 1º de dezembro. O calendário não comprova, sozinho, que cada atividade já começou ou foi concluída.",
+      "A escuta busca reunir prioridades, experiências e propostas para segurança hídrica e saneamento, subsidiando um documento-base para a participação brasileira na Conferência da Água da ONU. A página informa organização dos resultados por temas, territórios e outros recortes. Não apresenta, nesta consulta, uma carteira de obras contratadas decorrente do processo.",
+      "Leitura VAELITH: participação só se torna verificável quando a devolutiva permite entender o destino das propostas. O acompanhamento deve perguntar quais prioridades foram incorporadas, quais dependem de análise e que decisões ainda exigem financiamento. Contribuição recebida, prioridade escolhida e serviço entregue são etapas diferentes.",
+      "Fonte: Brasil Participativo"
+    ],
+    "category": "Gestão",
+    "categorySlug": "gestao",
+    "contentType": "analysis",
+    "dek": "Calendário oficial marca análise de 16 a 30 de novembro; resultado está previsto a partir de 1º de dezembro.",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/d908fa7d6c7e54135df338518715ab9dcd414bf1-1080x1350.png",
+    "imageAlt": "Capa editorial VAELITH: Agenda da água entra na fase prevista de consolidação das contribuições",
+    "imageCaption": "Ilustração conceitual gerada por IA para a VAELITH; não é registro fotográfico do local, do evento ou da pesquisa citada.",
+    "imageCredit": "VAELITH / imagem gerada por IA",
+    "keyFacts": null,
+    "publishedAt": "2026-11-16T12:07:55.215456Z",
+    "slug": "agenda-agua-consolidacao-consulta-decisao-20261116",
+    "sourceName": null,
+    "sourceUrl": "https://brasilparticipativo.presidencia.gov.br/processes/brasilonuagua",
+    "technicalTakeaway": "Calendário oficial marca análise de 16 a 30 de novembro; resultado está previsto a partir de 1º de dezembro.",
+    "title": "Agenda da água entra na fase prevista de consolidação das contribuições",
+    "richBody": [
+      {
+        "_key": "p0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "marks": [],
+            "text": "Análise VAELITH: o calendário da iniciativa Brasil rumo à Conferência da ONU sobre a água prevê, de 16 a 30 de novembro, a consolidação e análise das contribuições recebidas. O período de questionários informado terminou em 15/11, e a devolutiva está prevista a partir de 1º de dezembro. O calendário não comprova, sozinho, que cada atividade já começou ou foi concluída."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s1",
+            "_type": "span",
+            "marks": [],
+            "text": "A escuta busca reunir prioridades, experiências e propostas para segurança hídrica e saneamento, subsidiando um documento-base para a participação brasileira na Conferência da Água da ONU. A página informa organização dos resultados por temas, territórios e outros recortes. Não apresenta, nesta consulta, uma carteira de obras contratadas decorrente do processo."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s2",
+            "_type": "span",
+            "marks": [],
+            "text": "Leitura VAELITH: participação só se torna verificável quando a devolutiva permite entender o destino das propostas. O acompanhamento deve perguntar quais prioridades foram incorporadas, quais dependem de análise e que decisões ainda exigem financiamento. Contribuição recebida, prioridade escolhida e serviço entregue são etapas diferentes."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "source",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "sourcespan",
+            "_type": "span",
+            "marks": [
+              "link"
+            ],
+            "text": "Fonte: Brasil Participativo"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://brasilparticipativo.presidencia.gov.br/processes/brasilonuagua"
+          }
+        ],
+        "style": "normal"
+      }
+    ],
+    "date": "2026-11-16",
+    "dateDisplay": "16 nov 2026",
+    "region": "Brasil"
+  },
+  {
+    "authorName": "Redação VAELITH",
+    "body": [
+      "Pesquisadores reunidos pelo PROASA em 4 de novembro defenderam uma rede permanente de observação costeira em São Paulo. A reportagem da Agência FAPESP, publicada em 10/11, relata falta de integração e continuidade dos dados necessários ao planejamento. Trata-se de uma proposta discutida no encontro, não do anúncio de um sistema já implantado.",
+      "O debate destacou a combinação de medições no mar, observações por satélites e modelos computacionais. Também abordou a necessidade de financiamento contínuo e de traduzir informações científicas em riscos e decisões úteis para a sociedade. Esta matéria acompanha uma agenda de pesquisa, não apresenta um novo experimento com desempenho validado.",
+      "Leitura VAELITH: para a infraestrutura costeira, medir uma vez não substitui conhecer a evolução do ambiente. Um plano de monitoramento precisa prever quem mantém os equipamentos, como os dados são conferidos e quem responde aos sinais observados. Isso não permite usar uma discussão geral como parâmetro automático para dimensionar uma obra específica.",
+      "Fonte: Agência FAPESP / PROASA"
+    ],
+    "category": "Sustentabilidade",
+    "categorySlug": "sustentabilidade",
+    "contentType": "news",
+    "dek": "Debate do PROASA aponta fragmentação de dados; proposta não significa sistema implantado.",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/c170ccb6bae6fb3bb48c27bcedc985e24aec5f0b-1080x1350.png",
+    "imageAlt": "Capa editorial VAELITH: Pesquisadores defendem rede permanente de observação costeira em São Paulo",
+    "imageCaption": "Ilustração conceitual gerada por IA para a VAELITH; não é registro fotográfico do local, do evento ou da pesquisa citada.",
+    "imageCredit": "VAELITH / imagem gerada por IA",
+    "keyFacts": null,
+    "publishedAt": "2026-11-16T12:07:55.215456Z",
+    "slug": "observacao-costeira-rede-permanente-20261116",
+    "sourceName": null,
+    "sourceUrl": "https://agencia.fapesp.br/index.php/pesquisadores-defendem-criacao-de-rede-permanente-de-observacao-costeira-em-sao-paulo/59580",
+    "technicalTakeaway": "Debate do PROASA aponta fragmentação de dados; proposta não significa sistema implantado.",
+    "title": "Pesquisadores defendem rede permanente de observação costeira em São Paulo",
+    "richBody": [
+      {
+        "_key": "p0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "marks": [],
+            "text": "Pesquisadores reunidos pelo PROASA em 4 de novembro defenderam uma rede permanente de observação costeira em São Paulo. A reportagem da Agência FAPESP, publicada em 10/11, relata falta de integração e continuidade dos dados necessários ao planejamento. Trata-se de uma proposta discutida no encontro, não do anúncio de um sistema já implantado."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s1",
+            "_type": "span",
+            "marks": [],
+            "text": "O debate destacou a combinação de medições no mar, observações por satélites e modelos computacionais. Também abordou a necessidade de financiamento contínuo e de traduzir informações científicas em riscos e decisões úteis para a sociedade. Esta matéria acompanha uma agenda de pesquisa, não apresenta um novo experimento com desempenho validado."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s2",
+            "_type": "span",
+            "marks": [],
+            "text": "Leitura VAELITH: para a infraestrutura costeira, medir uma vez não substitui conhecer a evolução do ambiente. Um plano de monitoramento precisa prever quem mantém os equipamentos, como os dados são conferidos e quem responde aos sinais observados. Isso não permite usar uma discussão geral como parâmetro automático para dimensionar uma obra específica."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "source",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "sourcespan",
+            "_type": "span",
+            "marks": [
+              "link"
+            ],
+            "text": "Fonte: Agência FAPESP / PROASA"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://agencia.fapesp.br/index.php/pesquisadores-defendem-criacao-de-rede-permanente-de-observacao-costeira-em-sao-paulo/59580"
+          }
+        ],
+        "style": "normal"
+      }
+    ],
+    "date": "2026-11-16",
+    "dateDisplay": "16 nov 2026",
+    "region": "Brasil"
+  },
+  {
+    "authorName": "Redação VAELITH",
+    "body": [
+      "A CBIC e o Ministério das Cidades realizarão, em 25 de novembro, um workshop sobre parcerias público-privadas para requalificação urbana. Anunciado em 11/11, o encontro integra o projeto Se Essa Rua Fosse Minha e reunirá representantes públicos e da construção em Brasília.",
+      "A programação prevê modelos de negócio, financiamento, garantias e possibilidades de uso de ativos públicos. Também deverão ser discutidas propostas municipais em estruturação, capacidade fiscal e desafios jurídicos.",
+      "Leitura VAELITH: uma proposta de transformação urbana precisa ser distinguida de uma obra contratada. Acompanhar o amadurecimento técnico, a viabilidade financeira e os compromissos de operação ajuda a avaliar o que poderá sair do planejamento. A qualidade do espaço público precisa permanecer um critério explícito, e não apenas o volume de recursos mobilizados.",
+      "Fonte: CBIC / Ministério das Cidades"
+    ],
+    "category": "Arquitetura",
+    "categorySlug": "arquitetura",
+    "contentType": "news",
+    "dek": "Encontro de 25 de novembro tratará de estruturação; anúncio não representa contratação de obras.",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/b66f1c28cba1f3010f96f29bbfc9f56058fe3e05-1080x1350.png",
+    "imageAlt": "Capa editorial VAELITH: Requalificação urbana: workshop discutirá PPPs e capacidade dos municípios",
+    "imageCaption": "Ilustração conceitual gerada por IA para a VAELITH; não é registro fotográfico do local, do evento ou da pesquisa citada.",
+    "imageCredit": "VAELITH / imagem gerada por IA",
+    "keyFacts": null,
+    "publishedAt": "2026-11-16T12:07:55.215456Z",
+    "slug": "ppp-requalificacao-urbana-workshop-20261116",
+    "sourceName": null,
+    "sourceUrl": "https://cbic.org.br/cbic-e-ministerio-das-cidades-promovem-workshop-sobre-requalificacao-de-areas-urbanas-pelo-projeto-se-essa-rua-fosse-minha/",
+    "technicalTakeaway": "Encontro de 25 de novembro tratará de estruturação; anúncio não representa contratação de obras.",
+    "title": "Requalificação urbana: workshop discutirá PPPs e capacidade dos municípios",
+    "richBody": [
+      {
+        "_key": "p0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s0",
+            "_type": "span",
+            "marks": [],
+            "text": "A CBIC e o Ministério das Cidades realizarão, em 25 de novembro, um workshop sobre parcerias público-privadas para requalificação urbana. Anunciado em 11/11, o encontro integra o projeto Se Essa Rua Fosse Minha e reunirá representantes públicos e da construção em Brasília."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s1",
+            "_type": "span",
+            "marks": [],
+            "text": "A programação prevê modelos de negócio, financiamento, garantias e possibilidades de uso de ativos públicos. Também deverão ser discutidas propostas municipais em estruturação, capacidade fiscal e desafios jurídicos."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "p2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s2",
+            "_type": "span",
+            "marks": [],
+            "text": "Leitura VAELITH: uma proposta de transformação urbana precisa ser distinguida de uma obra contratada. Acompanhar o amadurecimento técnico, a viabilidade financeira e os compromissos de operação ajuda a avaliar o que poderá sair do planejamento. A qualidade do espaço público precisa permanecer um critério explícito, e não apenas o volume de recursos mobilizados."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "source",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "sourcespan",
+            "_type": "span",
+            "marks": [
+              "link"
+            ],
+            "text": "Fonte: CBIC / Ministério das Cidades"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "link",
+            "_type": "link",
+            "href": "https://cbic.org.br/cbic-e-ministerio-das-cidades-promovem-workshop-sobre-requalificacao-de-areas-urbanas-pelo-projeto-se-essa-rua-fosse-minha/"
+          }
+        ],
+        "style": "normal"
+      }
+    ],
+    "date": "2026-11-16",
+    "dateDisplay": "16 nov 2026",
+    "region": "Brasil"
   }
 ]
