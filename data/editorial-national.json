@@ -11184,5 +11184,749 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "ponte-pr427-proposta-projeto-execucao-20261121",
+    "category": "Engenharia",
+    "categorySlug": "engenharia",
+    "contentType": "news",
+    "region": "Brasil",
+    "title": "Nova ponte na PR-427 tem proposta de R$ 32,4 milhões; contrato ainda não foi confirmado",
+    "dek": "DER/PR realizou a disputa para projetos e execução da travessia sobre o Rio da Várzea, entre Lapa e Campo do Tenente.",
+    "technicalTakeaway": "DER/PR realizou a disputa para projetos e execução da travessia sobre o Rio da Várzea, entre Lapa e Campo do Tenente.",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/fb5dac0aa80f07a050a0cee402e9ebad2376c4d7-1400x900.jpg",
+    "imageAlt": "Ilustração de uma ponte rodoviária de concreto ao lado de uma antiga ponte metálica",
+    "imageCaption": "Ilustração conceitual gerada com IA pela VAELITH. Não retrata a PR-427 nem o projeto anunciado.",
+    "imageCredit": "VAELITH / ilustração gerada com IA",
+    "publishedAt": "2026-11-21T11:33:00.000Z",
+    "modifiedAt": "2026-11-21T11:33:00.000Z",
+    "date": "2026-11-21",
+    "dateDisplay": "21 nov 2026",
+    "sourceName": "Agência Estadual de Notícias / DER-PR, 19/11/2026",
+    "sourceUrl": "https://www.parana.pr.gov.br/aen/Noticia/Edital-de-nova-ponte-entre-Lapa-e-Campo-do-Tenente-tem-proposta-de-R-324-milhoes",
+    "sourceLanguage": "pt",
+    "authorName": "Redação VAELITH",
+    "body": [
+      "O Departamento de Estradas de Rodagem do Paraná realizou em 18 de novembro a disputa da licitação para uma nova ponte na PR-427. Entre quatro participantes, a Engemass Engenharia e Construção apresentou a melhor proposta negociada, de R$ 32.442.250,16. No comunicado de 19 de novembro, o DER/PR informou que a comissão ainda analisaria a documentação de habilitação e a planilha atualizada. Proposta classificada não é contrato assinado nem autorização de início.",
+      "O edital prevê uma estrutura de concreto armado de cerca de 150 metros, com duas faixas de rolamento e acostamentos. O escopo inclui a adequação dos acessos, com correção de geometria de curva. O plano prevê manter a ponte metálica ao lado para uso exclusivo de pedestres.",
+      "A contratação integrada reúne os projetos básico e executivo e a execução no mesmo objeto. O cronograma anunciado separa oito meses para os projetos e 14 para as obras. Para acompanhar a entrega, vale verificar a contratação, a aprovação dos projetos e a ordem de início antes de tratar esses prazos como datas de calendário."
+    ],
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O Departamento de Estradas de Rodagem do Paraná realizou em 18 de novembro a disputa da licitação para uma nova ponte na PR-427. Entre quatro participantes, a Engemass Engenharia e Construção apresentou a melhor proposta negociada, de R$ 32.442.250,16. No comunicado de 19 de novembro, o DER/PR informou que a comissão ainda analisaria a documentação de habilitação e a planilha atualizada. Proposta classificada não é contrato assinado nem autorização de início.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "O edital prevê uma estrutura de concreto armado de cerca de 150 metros, com duas faixas de rolamento e acostamentos. O escopo inclui a adequação dos acessos, com correção de geometria de curva. O plano prevê manter a ponte metálica ao lado para uso exclusivo de pedestres.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": "A contratação integrada reúne os projetos básico e executivo e a execução no mesmo objeto. O cronograma anunciado separa oito meses para os projetos e 14 para as obras. Para acompanhar a entrega, vale verificar a contratação, a aprovação dos projetos e a ordem de início antes de tratar esses prazos como datas de calendário.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "f0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.parana.pr.gov.br/aen/Noticia/Edital-de-nova-ponte-entre-Lapa-e-Campo-do-Tenente-tem-proposta-de-R-324-milhoes"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sf0",
+            "text": "Fonte: Agência Estadual de Notícias / DER-PR, 19/11/2026",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "guarulhos-interceptor-caracol-esgoto-20261121",
+    "category": "Sustentabilidade",
+    "categorySlug": "sustentabilidade",
+    "contentType": "news",
+    "region": "Brasil",
+    "title": "Interceptor Caracol prepara novo caminho para o esgoto de Guarulhos",
+    "dek": "A obra de R$ 47 milhões integra a rede que conduzirá efluentes à estação Parque Novo Mundo, também em ampliação.",
+    "technicalTakeaway": "A obra de R$ 47 milhões integra a rede que conduzirá efluentes à estação Parque Novo Mundo, também em ampliação.",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/accd63c5682474d9fc7751c247a39e3090233801-1080x1350.jpg",
+    "imageAlt": "Diagrama conceitual de interceptor de esgoto em seção e estruturas de tratamento.",
+    "imageCaption": "Ilustração vetorial conceitual original da VAELITH. Não representa uma obra, um projeto ou um resultado de pesquisa específico.",
+    "imageCredit": "VAELITH / ilustração vetorial original",
+    "publishedAt": "2026-11-21T11:33:00.000Z",
+    "modifiedAt": "2026-11-21T11:33:00.000Z",
+    "date": "2026-11-21",
+    "dateDisplay": "21 nov 2026",
+    "sourceName": "Semil-SP, 19/11/2026",
+    "sourceUrl": "https://semil.sp.gov.br/2026/11/governo-de-sp-avanca-em-obra-de-saneamento-de-r-47-milhoes-em-guarulhos/",
+    "sourceLanguage": "pt",
+    "authorName": "Redação VAELITH",
+    "body": [
+      "A Secretaria de Meio Ambiente, Infraestrutura e Logística de São Paulo informou em 19 de novembro que o Interceptor Caracol, em Guarulhos, tem conclusão prevista para dezembro de 2026. A obra iniciou em março; o investimento divulgado pela pasta é de R$ 47 milhões. A estimativa de alcance é de 136 mil economias, ou aproximadamente 408 mil pessoas, não uma medição de atendimento já realizado.",
+      "A estrutura terá cerca de 1,2 quilômetro de extensão e 1,8 metro de diâmetro. Sua função é conduzir o esgoto coletado para a ETE Parque Novo Mundo, não tratá-lo. Em obra distinta, a estação tem ampliação prevista de 2,5 para 6,2 metros cúbicos por segundo, segundo a secretaria.",
+      "A conclusão da tubulação é um marco de construção. Para verificar o ganho ambiental, é preciso acompanhar a entrada em operação do sistema, a vazão de esgoto efetivamente encaminhada e tratada e os indicadores de qualidade da água a jusante. São dados diferentes da estimativa de população beneficiada."
+    ],
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A Secretaria de Meio Ambiente, Infraestrutura e Logística de São Paulo informou em 19 de novembro que o Interceptor Caracol, em Guarulhos, tem conclusão prevista para dezembro de 2026. A obra iniciou em março; o investimento divulgado pela pasta é de R$ 47 milhões. A estimativa de alcance é de 136 mil economias, ou aproximadamente 408 mil pessoas, não uma medição de atendimento já realizado.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "A estrutura terá cerca de 1,2 quilômetro de extensão e 1,8 metro de diâmetro. Sua função é conduzir o esgoto coletado para a ETE Parque Novo Mundo, não tratá-lo. Em obra distinta, a estação tem ampliação prevista de 2,5 para 6,2 metros cúbicos por segundo, segundo a secretaria.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": "A conclusão da tubulação é um marco de construção. Para verificar o ganho ambiental, é preciso acompanhar a entrada em operação do sistema, a vazão de esgoto efetivamente encaminhada e tratada e os indicadores de qualidade da água a jusante. São dados diferentes da estimativa de população beneficiada.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "f0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://semil.sp.gov.br/2026/11/governo-de-sp-avanca-em-obra-de-saneamento-de-r-47-milhoes-em-guarulhos/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sf0",
+            "text": "Fonte: Semil-SP, 19/11/2026",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "teresina-esgoto-frentes-noturnas-20261121",
+    "category": "Gestão",
+    "categorySlug": "gestao",
+    "contentType": "news",
+    "region": "Brasil",
+    "title": "Teresina usa janelas noturnas em vias com obras de esgoto",
+    "dek": "Programação anunciada para 16 a 21 de novembro separa frentes noturnas em dois bairros de serviços diurnos em outras regiões.",
+    "technicalTakeaway": "Programação anunciada para 16 a 21 de novembro separa frentes noturnas em dois bairros de serviços diurnos em outras regiões.",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/a4fbb3d68f16b8090771cd8c40300696800e3ead-1080x1350.jpg",
+    "imageAlt": "Ilustração conceitual de uma via sinalizada com iluminação de obra noturna.",
+    "imageCaption": "Ilustração vetorial conceitual original da VAELITH. Não representa uma obra, um projeto ou um resultado de pesquisa específico.",
+    "imageCredit": "VAELITH / ilustração vetorial original",
+    "publishedAt": "2026-11-21T11:33:00.000Z",
+    "modifiedAt": "2026-11-21T11:33:00.000Z",
+    "date": "2026-11-21",
+    "dateDisplay": "21 nov 2026",
+    "sourceName": "Governo do Piauí / Águas de Teresina, 17/11/2026",
+    "sourceUrl": "https://www.pi.gov.br/obras-noturnas-de-esgotamento-sanitario-reduzem-impactos-no-transito-e-ampliam-melhorias-em-teresina/",
+    "sourceLanguage": "pt",
+    "authorName": "Redação VAELITH",
+    "body": [
+      "A Águas de Teresina programou intervenções noturnas entre 22h e 6h no Monte Castelo e no Lourival Parente, entre 16 e 21 de novembro. O cronograma publicado pelo governo do Piauí em 17 de novembro prevê interdições parciais e lista os trechos atendidos. Em outros bairros, entre eles Mocambinho e São Francisco, a programação indicou horário diurno.",
+      "Segundo a subconcessionária, a escolha das janelas buscou reduzir o impacto das intervenções nas vias de maior movimento. A publicação traz horários e locais planejados, não a confirmação de que todos os trechos foram concluídos nem uma avaliação do efeito sobre o trânsito.",
+      "Para avaliar a estratégia, a fiscalização pode registrar por trecho as horas efetivas de interdição, o horário de liberação da via, as ocorrências com sinalização e os retornos para recomposição do pavimento. Isso ajuda a decidir onde a janela noturna reduz transtornos sem deslocar o problema para o dia seguinte."
+    ],
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A Águas de Teresina programou intervenções noturnas entre 22h e 6h no Monte Castelo e no Lourival Parente, entre 16 e 21 de novembro. O cronograma publicado pelo governo do Piauí em 17 de novembro prevê interdições parciais e lista os trechos atendidos. Em outros bairros, entre eles Mocambinho e São Francisco, a programação indicou horário diurno.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Segundo a subconcessionária, a escolha das janelas buscou reduzir o impacto das intervenções nas vias de maior movimento. A publicação traz horários e locais planejados, não a confirmação de que todos os trechos foram concluídos nem uma avaliação do efeito sobre o trânsito.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": "Para avaliar a estratégia, a fiscalização pode registrar por trecho as horas efetivas de interdição, o horário de liberação da via, as ocorrências com sinalização e os retornos para recomposição do pavimento. Isso ajuda a decidir onde a janela noturna reduz transtornos sem deslocar o problema para o dia seguinte.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "f0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.pi.gov.br/obras-noturnas-de-esgotamento-sanitario-reduzem-impactos-no-transito-e-ampliam-melhorias-em-teresina/"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sf0",
+            "text": "Fonte: Governo do Piauí / Águas de Teresina, 17/11/2026",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "editorial-tcu-obras-paralisadas-canceladas-20261121",
+    "category": "Gestão",
+    "categorySlug": "gestao",
+    "contentType": "analysis",
+    "region": "Brasil",
+    "title": "Obras paradas: a contagem mostra a escala, não o prejuízo",
+    "dek": "Análise VAELITH: o novo retrato de alto risco do TCU pede distinção entre situação do contrato, dinheiro imobilizado e custo para voltar a operar.",
+    "technicalTakeaway": "Análise VAELITH: o novo retrato de alto risco do TCU pede distinção entre situação do contrato, dinheiro imobilizado e custo para voltar a operar.",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/e8a5c599d79fd499dfae072ecd4363f55d7e930b-1080x1350.jpg",
+    "imageAlt": "Ilustração de volumes de edificações e barras gráficas não quantitativas.",
+    "imageCaption": "Ilustração vetorial conceitual original da VAELITH. Não representa uma obra, um projeto ou um resultado de pesquisa específico.",
+    "imageCredit": "VAELITH / ilustração vetorial original",
+    "publishedAt": "2026-11-21T11:33:00.000Z",
+    "modifiedAt": "2026-11-21T11:33:00.000Z",
+    "date": "2026-11-21",
+    "dateDisplay": "21 nov 2026",
+    "sourceName": "TCU — Lista de Alto Risco 2026, apresentação de 18/11/2026",
+    "sourceUrl": "https://sites.tcu.gov.br/listadealtorisco/gestao_de_obras_paralisadas.html",
+    "sourceLanguage": "pt",
+    "authorName": "Redação VAELITH",
+    "body": [
+      "Na Lista de Alto Risco apresentada em 18 de novembro, o Tribunal de Contas da União reconheceu progressos na gestão de obras paralisadas, mas manteve o tema sob atenção. Na ficha temática, o recorte de abril de 2026 reúne perto de 8 mil obras paralisadas ou canceladas, em um universo de aproximadamente 22 mil. O quadro de indicadores traz 18,8% para obras paralisadas em posição de 2026. Os números não medem a mesma categoria: não se deve colocá-los lado a lado como se um corrigisse o outro.",
+      "A ficha menciona cerca de R$ 16 bilhões em investimento previsto para as obras paralisadas. Esse número não é pagamento realizado, dinheiro definitivamente perdido ou orçamento atualizado para concluir. Por obra, o diagnóstico precisa separar valor contratado, pagamento comprovado, parcela executada ainda aproveitável e recuperação ou conclusão estimada com data-base.",
+      "Na visão da VAELITH, a priorização deve ligar cada canteiro a um serviço público que possa operar após a entrega. Uma escola pode ter estrutura aproveitável e ainda depender de projetos, orçamento e equipe para abrir. Sem vistoria, plano financeiro e prazo para operar, a simples mudança de rótulo no painel não comprova que o benefício chegará à comunidade."
+    ],
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Na Lista de Alto Risco apresentada em 18 de novembro, o Tribunal de Contas da União reconheceu progressos na gestão de obras paralisadas, mas manteve o tema sob atenção. Na ficha temática, o recorte de abril de 2026 reúne perto de 8 mil obras paralisadas ou canceladas, em um universo de aproximadamente 22 mil. O quadro de indicadores traz 18,8% para obras paralisadas em posição de 2026. Os números não medem a mesma categoria: não se deve colocá-los lado a lado como se um corrigisse o outro.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "A ficha menciona cerca de R$ 16 bilhões em investimento previsto para as obras paralisadas. Esse número não é pagamento realizado, dinheiro definitivamente perdido ou orçamento atualizado para concluir. Por obra, o diagnóstico precisa separar valor contratado, pagamento comprovado, parcela executada ainda aproveitável e recuperação ou conclusão estimada com data-base.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": "Na visão da VAELITH, a priorização deve ligar cada canteiro a um serviço público que possa operar após a entrega. Uma escola pode ter estrutura aproveitável e ainda depender de projetos, orçamento e equipe para abrir. Sem vistoria, plano financeiro e prazo para operar, a simples mudança de rótulo no painel não comprova que o benefício chegará à comunidade.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "f0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://sites.tcu.gov.br/listadealtorisco/gestao_de_obras_paralisadas.html"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sf0",
+            "text": "Fonte: TCU — Lista de Alto Risco 2026, apresentação de 18/11/2026",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "largo-do-rosario-cuiaba-projeto-espaco-publico-20261121",
+    "category": "Arquitetura",
+    "categorySlug": "arquitetura",
+    "contentType": "analysis",
+    "region": "Brasil",
+    "title": "Largo do Rosário: como Cuiabá pretende abrir espaço para pedestres na ladeira",
+    "dek": "Projeto aproxima praça e igreja no centro histórico; serviços iniciais não equivalem à execução do desenho definitivo.",
+    "technicalTakeaway": "Projeto aproxima praça e igreja no centro histórico; serviços iniciais não equivalem à execução do desenho definitivo.",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/fd099a3cad77e1f66383587f35e64714c2c514c5-1080x1350.jpg",
+    "imageAlt": "Ilustração conceitual de platôs, edificações e árvores em uma praça com desníveis.",
+    "imageCaption": "Ilustração vetorial conceitual original da VAELITH. Não representa uma obra, um projeto ou um resultado de pesquisa específico.",
+    "imageCredit": "VAELITH / ilustração vetorial original",
+    "publishedAt": "2026-11-21T11:33:00.000Z",
+    "modifiedAt": "2026-11-21T11:33:00.000Z",
+    "date": "2026-11-21",
+    "dateDisplay": "21 nov 2026",
+    "sourceName": "Sinfra-MT",
+    "sourceUrl": "https://www.secom.mt.gov.br/web/sinfra/-/entenda-projeto-do-governo-para-revitaliza%C3%A7%C3%A3o-do-largo-do-ros%C3%A1rio",
+    "sourceLanguage": "pt",
+    "authorName": "Redação VAELITH",
+    "body": [
+      "No encontro da Avenida Coronel Escolástico com a Avenida da Prainha, a área conhecida como Ilha da Banana deverá se conectar à Igreja de Nossa Senhora do Rosário e São Benedito. A proposta descrita pela Sinfra em 14 de novembro inclui platôs em diferentes níveis, arborização e áreas para lazer, contemplação e eventos.",
+      "A Sinfra também prevê rearranjar a circulação viária no trecho entre o largo e o Morro da Luz. O desenho do largo foi separado do primeiro contrato do BRT após seu rompimento. A pasta informa que a área recebe serviços preparatórios desde setembro, como limpeza, demolições e intervenções de drenagem. O projeto do largo, contudo, ainda passaria por aprovação, inclusive do Iphan, antes da licitação.",
+      "Na leitura da VAELITH, a revisão de projeto pode começar por uma pergunta: quem chega a pé consegue ir da travessia ao adro, sem descontinuidade entre níveis? A resposta depende de verificar inclinações, conexões, sombra e drenagem no desenho aprovado. O anúncio ainda não demonstra desempenho no uso cotidiano."
+    ],
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "No encontro da Avenida Coronel Escolástico com a Avenida da Prainha, a área conhecida como Ilha da Banana deverá se conectar à Igreja de Nossa Senhora do Rosário e São Benedito. A proposta descrita pela Sinfra em 14 de novembro inclui platôs em diferentes níveis, arborização e áreas para lazer, contemplação e eventos.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "A Sinfra também prevê rearranjar a circulação viária no trecho entre o largo e o Morro da Luz. O desenho do largo foi separado do primeiro contrato do BRT após seu rompimento. A pasta informa que a área recebe serviços preparatórios desde setembro, como limpeza, demolições e intervenções de drenagem. O projeto do largo, contudo, ainda passaria por aprovação, inclusive do Iphan, antes da licitação.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": "Na leitura da VAELITH, a revisão de projeto pode começar por uma pergunta: quem chega a pé consegue ir da travessia ao adro, sem descontinuidade entre níveis? A resposta depende de verificar inclinações, conexões, sombra e drenagem no desenho aprovado. O anúncio ainda não demonstra desempenho no uso cotidiano.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "f0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.secom.mt.gov.br/web/sinfra/-/entenda-projeto-do-governo-para-revitaliza%C3%A7%C3%A3o-do-largo-do-ros%C3%A1rio"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sf0",
+            "text": "Fonte: Sinfra-MT (14/11/2026)",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "jornada-bim-parana-balanco-capacitacao-20261121",
+    "category": "Tecnologia",
+    "categorySlug": "tecnologia",
+    "contentType": "news",
+    "region": "Brasil",
+    "title": "Jornada BIM no Paraná chega a 1,4 mil inscritos; próximo teste é no projeto",
+    "dek": "Ciclo estadual levou capacitação às regiões e terminou em Curitiba; procura por formação não comprova adoção nas obras.",
+    "technicalTakeaway": "Ciclo estadual levou capacitação às regiões e terminou em Curitiba; procura por formação não comprova adoção nas obras.",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/65eea3b9b4ac7888d44b765a95694cfcfa377251-1080x1350.jpg",
+    "imageAlt": "Ilustração conceitual de modelo BIM com anotações vinculadas à geometria.",
+    "imageCaption": "Ilustração vetorial conceitual original da VAELITH. Não representa uma obra, um projeto ou um resultado de pesquisa específico.",
+    "imageCredit": "VAELITH / ilustração vetorial original",
+    "publishedAt": "2026-11-21T11:33:00.000Z",
+    "modifiedAt": "2026-11-21T11:33:00.000Z",
+    "date": "2026-11-21",
+    "dateDisplay": "21 nov 2026",
+    "sourceName": "Agência Estadual de Notícias do Paraná / Seil",
+    "sourceUrl": "https://www.parana.pr.gov.br/aen/Noticia/Estado-encerra-ciclo-da-Jornada-BIM-Parana-40-com-mais-de-1400-profissionais-inscritos",
+    "sourceLanguage": "pt",
+    "authorName": "Redação VAELITH",
+    "body": [
+      "A Secretaria de Infraestrutura e Logística do Paraná informou em 17 de novembro o encerramento do ciclo da Jornada BIM Paraná 4.0. Segundo o governo estadual, cerca de 1,4 mil profissionais se inscreveram em todo o estado. A programação envolveu servidores e profissionais de engenharia e arquitetura e abordou planejamento, contratação e fiscalização de obras públicas.",
+      "A formação foi regionalizada e encerrou em Curitiba. O total divulgado se refere a inscrições: o comunicado não oferece, nesse balanço, uma taxa de conclusão nem uma série de projetos executados com BIM. Também não mede ganhos de prazo ou redução de retrabalho.",
+      "Para conferir se o aprendizado chega ao canteiro, uma prefeitura pode começar com um projeto piloto: definir quem publica cada revisão, quais informações são exigidas e como uma interferência passa de descoberta a resolvida. Depois, comparar pendências detectadas antes da obra e tempo de resolução com uma referência anterior. Esses indicadores avaliam o fluxo, não apenas o número de modelos produzidos."
+    ],
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A Secretaria de Infraestrutura e Logística do Paraná informou em 17 de novembro o encerramento do ciclo da Jornada BIM Paraná 4.0. Segundo o governo estadual, cerca de 1,4 mil profissionais se inscreveram em todo o estado. A programação envolveu servidores e profissionais de engenharia e arquitetura e abordou planejamento, contratação e fiscalização de obras públicas.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "A formação foi regionalizada e encerrou em Curitiba. O total divulgado se refere a inscrições: o comunicado não oferece, nesse balanço, uma taxa de conclusão nem uma série de projetos executados com BIM. Também não mede ganhos de prazo ou redução de retrabalho.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": "Para conferir se o aprendizado chega ao canteiro, uma prefeitura pode começar com um projeto piloto: definir quem publica cada revisão, quais informações são exigidas e como uma interferência passa de descoberta a resolvida. Depois, comparar pendências detectadas antes da obra e tempo de resolução com uma referência anterior. Esses indicadores avaliam o fluxo, não apenas o número de modelos produzidos.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "f0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.parana.pr.gov.br/aen/Noticia/Estado-encerra-ciclo-da-Jornada-BIM-Parana-40-com-mais-de-1400-profissionais-inscritos"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sf0",
+            "text": "Fonte: Agência Estadual de Notícias do Paraná / Seil (17/11/2026)",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "projetos-portuarios-debentures-amazonas-parana-20261121",
+    "category": "Mercado",
+    "categorySlug": "mercado",
+    "contentType": "news",
+    "region": "Brasil",
+    "title": "Três projetos portuários são habilitados a captar cerca de R$ 1,93 bilhão",
+    "dek": "Debêntures podem reembolsar investimentos já feitos no Amazonas e complementar a modernização do acesso a Paranaguá.",
+    "technicalTakeaway": "Debêntures podem reembolsar investimentos já feitos no Amazonas e complementar a modernização do acesso a Paranaguá.",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/d8bb8edf6a1bcffb1055416761a801c2bdee2617-1080x1350.jpg",
+    "imageAlt": "Ilustração conceitual de terminal de granéis com silos, cais e embarcação.",
+    "imageCaption": "Ilustração vetorial conceitual original da VAELITH. Não representa uma obra, um projeto ou um resultado de pesquisa específico.",
+    "imageCredit": "VAELITH / ilustração vetorial original",
+    "publishedAt": "2026-11-21T11:33:00.000Z",
+    "modifiedAt": "2026-11-21T11:33:00.000Z",
+    "date": "2026-11-21",
+    "dateDisplay": "21 nov 2026",
+    "sourceName": "Ministério de Portos e Aeroportos",
+    "sourceUrl": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/11/projetos-portuarios-no-amazonas-e-no-parana-poderao-captar-ate-r-1-9-bilhao-em-debentures",
+    "sourceLanguage": "pt",
+    "authorName": "Redação VAELITH",
+    "body": [
+      "O Ministério de Portos e Aeroportos informou em 19 de novembro que habilitou três projetos no Amazonas e no Paraná para a emissão de debêntures. A previsão de captação é de até aproximadamente R$ 1,93 bilhão. O total de R$ 2,35 bilhões divulgado para os empreendimentos abrange investimentos e despesas de outorga. A habilitação não confirma a efetiva emissão dos títulos ou entrada de recursos.",
+      "Em Itacoatiara (AM), a previsão é de R$ 140 milhões em debêntures incentivadas para reembolsar parte do que já foi investido na implantação e na ampliação do Terminal de Granéis Sólidos Agrícolas Novo Remanso. As duas etapas foram concluídas, segundo o ministério; portanto, esse montante não corresponde a novos serviços anunciados para o terminal.",
+      "No Paraná, a empresa responsável pelo canal de acesso a Paranaguá prevê emitir até R$ 1,786 bilhão. O projeto inclui intervenções de dragagem, retirada de obstáculos rochosos e ampliação de áreas de manobra. A meta contratual de calado operacional de 15,5 metros é para a segunda fase, não uma condição atual. Para acompanhar o avanço, vale separar a captação que de fato ocorrer das obras entregues e das condições de navegação autorizadas."
+    ],
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "O Ministério de Portos e Aeroportos informou em 19 de novembro que habilitou três projetos no Amazonas e no Paraná para a emissão de debêntures. A previsão de captação é de até aproximadamente R$ 1,93 bilhão. O total de R$ 2,35 bilhões divulgado para os empreendimentos abrange investimentos e despesas de outorga. A habilitação não confirma a efetiva emissão dos títulos ou entrada de recursos.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Em Itacoatiara (AM), a previsão é de R$ 140 milhões em debêntures incentivadas para reembolsar parte do que já foi investido na implantação e na ampliação do Terminal de Granéis Sólidos Agrícolas Novo Remanso. As duas etapas foram concluídas, segundo o ministério; portanto, esse montante não corresponde a novos serviços anunciados para o terminal.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": "No Paraná, a empresa responsável pelo canal de acesso a Paranaguá prevê emitir até R$ 1,786 bilhão. O projeto inclui intervenções de dragagem, retirada de obstáculos rochosos e ampliação de áreas de manobra. A meta contratual de calado operacional de 15,5 metros é para a segunda fase, não uma condição atual. Para acompanhar o avanço, vale separar a captação que de fato ocorrer das obras entregues e das condições de navegação autorizadas.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "f0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/11/projetos-portuarios-no-amazonas-e-no-parana-poderao-captar-ate-r-1-9-bilhao-em-debentures"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sf0",
+            "text": "Fonte: Ministério de Portos e Aeroportos (19/11/2026)",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "chuva-intensa-resiliencia-inundacao-ribeirao-dos-meninos-20261121",
+    "category": "Sustentabilidade",
+    "categorySlug": "sustentabilidade",
+    "contentType": "research",
+    "region": "Brasil",
+    "title": "Onde a chuva cai pode mudar o mapa de risco de inundação",
+    "dek": "Estudo da Poli-USP analisou 15 eventos na bacia do Ribeirão dos Meninos e mostra por que testar diferentes padrões de chuva.",
+    "technicalTakeaway": "Estudo da Poli-USP analisou 15 eventos na bacia do Ribeirão dos Meninos e mostra por que testar diferentes padrões de chuva.",
+    "image": "https://cdn.sanity.io/images/s2xosuea/production/d1a464c56f44bc672d9d5e52d146bb9e0c940019-1080x1350.jpg",
+    "imageAlt": "Diagrama conceitual de chuva incidente, rio e edificações em uma bacia urbana.",
+    "imageCaption": "Ilustração vetorial conceitual original da VAELITH. Não representa uma obra, um projeto ou um resultado de pesquisa específico.",
+    "imageCredit": "VAELITH / ilustração vetorial original",
+    "publishedAt": "2026-11-21T11:33:00.000Z",
+    "modifiedAt": "2026-11-21T11:33:00.000Z",
+    "date": "2026-11-21",
+    "dateDisplay": "21 nov 2026",
+    "sourceName": "Biblioteca Digital de Teses e Dissertações da USP",
+    "sourceUrl": "https://teses.usp.br/teses/disponiveis/3/3147/tde-01062026-092945/en.html",
+    "sourceLanguage": "pt",
+    "authorName": "Redação VAELITH",
+    "body": [
+      "A chuva não se distribui por igual numa bacia urbana. Em pesquisa da Escola Politécnica da USP publicada em 2026, Luiz Filipe Rodrigues Moreira, orientado por José Rodolfo Scarati Martins, analisou dados de 15 eventos pluviométricos da bacia do Ribeirão dos Meninos, na Grande São Paulo. O trabalho combinou modelagem hidrológico-hidráulica bidimensional com indicadores de resistência e recuperação diante de inundações.",
+      "Os valores médios do índice de resiliência variaram entre 0,27 e 0,84. Perto da confluência dos principais cursos d’água, algumas áreas apresentaram índices menores e maior sensibilidade à distribuição da chuva. Eventos curtos e com pico no início estiveram associados às maiores quedas no índice. Esses valores são resultados do modelo e do índice adotado, não percentuais medidos de redução de danos.",
+      "A aplicação prática é comparar cenários de chuva antes de escolher intervenções ou pontos de alerta. Para usar o método em outra bacia, é preciso calibrar o modelo com dados locais e revisar os indicadores conforme o território. A faixa numérica encontrada na Grande São Paulo não pode ser transferida diretamente para outro município."
+    ],
+    "richBody": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "A chuva não se distribui por igual numa bacia urbana. Em pesquisa da Escola Politécnica da USP publicada em 2026, Luiz Filipe Rodrigues Moreira, orientado por José Rodolfo Scarati Martins, analisou dados de 15 eventos pluviométricos da bacia do Ribeirão dos Meninos, na Grande São Paulo. O trabalho combinou modelagem hidrológico-hidráulica bidimensional com indicadores de resistência e recuperação diante de inundações.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s1",
+            "text": "Os valores médios do índice de resiliência variaram entre 0,27 e 0,84. Perto da confluência dos principais cursos d’água, algumas áreas apresentaram índices menores e maior sensibilidade à distribuição da chuva. Eventos curtos e com pico no início estiveram associados às maiores quedas no índice. Esses valores são resultados do modelo e do índice adotado, não percentuais medidos de redução de danos.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s2",
+            "text": "A aplicação prática é comparar cenários de chuva antes de escolher intervenções ou pontos de alerta. Para usar o método em outra bacia, é preciso calibrar o modelo com dados locais e revisar os indicadores conforme o território. A faixa numérica encontrada na Grande São Paulo não pode ser transferida diretamente para outro município.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "f0",
+        "style": "normal",
+        "markDefs": [
+          {
+            "_type": "link",
+            "_key": "l0",
+            "href": "https://teses.usp.br/teses/disponiveis/3/3147/tde-01062026-092945/en.html"
+          }
+        ],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "sf0",
+            "text": "Fonte: Biblioteca Digital de Teses e Dissertações da USP (01/06/2026)",
+            "marks": [
+              "l0"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
